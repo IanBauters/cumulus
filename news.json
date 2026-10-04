@@ -1,36 +1,42 @@
 {
-  "generatedAt": "2026-10-03T08:25:00Z",
+  "generatedAt": "2026-10-04T09:02:44.466Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-03T08:25:00Z",
+      "fetchedAt": "2026-10-04T09:02:44.466Z",
       "error": null,
       "items": [
         {
+          "title": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
+          "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
+          "time": "2026-10-03T13:00:12.000Z",
+          "summary": "Things are getting crazy in the Apple rumor world, as even though the iPhone 18 Pro and several other products have only just launched and the iPhone Duo is right around…"
+        },
+        {
+          "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
+          "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+          "time": "2026-10-03T03:21:12.000Z",
+          "summary": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the device to lose cellular service,…"
+        },
+        {
           "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
           "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
-          "time": "2026-10-02T20:04:15Z",
-          "summary": "Apple is introducing stricter controls for Full Disk Access on macOS to address privacy risks posed by increasingly autonomous AI agents."
+          "time": "2026-10-02T20:04:15.000Z",
+          "summary": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new…"
         },
         {
           "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
           "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
-          "time": "2026-10-02T19:29:52Z",
-          "summary": "AT&T and Apple released a carrier settings update and iOS 27.0.1 to resolve cellular connectivity problems affecting iPhone 18 Pro Max users."
+          "time": "2026-10-02T19:29:52.000Z",
+          "summary": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris. Thousands of iPhone 18…"
         },
         {
           "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
           "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
-          "time": "2026-10-02T16:18:55Z",
-          "summary": "AT&T confirmed it is collaborating with Apple to resolve cellular problems affecting some iPhone 18 Pro Max devices on its network."
-        },
-        {
-          "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
-          "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
-          "time": "2026-10-02T15:20:39Z",
-          "summary": "Apple Watch Series 12 compared against previous models: new health sensors, charging improvements and design changes."
+          "time": "2026-10-02T16:18:55.000Z",
+          "summary": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues. \"Apple has released a software update to…"
         }
       ]
     },
@@ -38,32 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-03T08:25:00Z",
+      "fetchedAt": "2026-10-04T09:02:44.466Z",
       "error": null,
       "items": [
         {
-          "title": "Apple TV releases 'The Sisters Grimm' season 2 in full",
-          "url": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
-          "time": "2026-10-02T21:05:13Z",
-          "summary": "Apple TV today released the second season of its animated fantasy adventure series \"The Sisters Grimm,\" with all six new episodes."
+          "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+          "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+          "time": "2026-10-03T21:26:32.000Z",
+          "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…"
         },
         {
-          "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-          "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-          "time": "2026-10-02T20:47:02Z",
-          "summary": "Apple has confirmed an issue causing a \"small number\" of iPhone 18 Pro Max devices on AT&T to lose cellular service."
+          "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+          "url": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+          "time": "2026-10-03T19:44:04.000Z",
+          "summary": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in…"
         },
         {
-          "title": "'HomePad' coming: Will Apple hold an October special event?",
-          "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
-          "time": "2026-10-02T20:31:33Z",
-          "summary": "With Apple reportedly planning to unveil new products on October 13, here's when the company could announce an event."
+          "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+          "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+          "time": "2026-10-03T19:30:00.000Z",
+          "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
         },
         {
-          "title": "iOS 27's Siri gets one thing very right that other AI assistants get wrong",
-          "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
-          "time": "2026-10-02T19:26:34Z",
-          "summary": "Siri AI is a major upgrade to Apple's assistant that's now available in iOS 27."
+          "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+          "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+          "time": "2026-10-03T18:48:22.000Z",
+          "summary": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite…"
+        },
+        {
+          "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+          "url": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
+          "time": "2026-10-03T16:36:23.000Z",
+          "summary": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple…"
         }
       ]
     },
@@ -71,26 +83,38 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-03T08:25:00Z",
+      "fetchedAt": "2026-10-04T09:02:44.466Z",
       "error": null,
       "items": [
         {
+          "title": "Apple Announces Plan to Impose New Full Disk Access Controls on Mac Developers",
+          "url": "https://www.macstories.net/linked/apple-announces-plan-to-impose-new-full-disk-access-controls-on-mac-developers/",
+          "time": "2026-10-02T21:47:22.000Z",
+          "summary": "Today, on its developer blog, Apple announced plans to “…introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level…"
+        },
+        {
+          "title": "OpenAI’s Dots: A First Look",
+          "url": "https://www.macstories.net/stories/openais-dots-a-first-look/",
+          "time": "2026-10-02T19:07:58.000Z",
+          "summary": "Source: OpenAI. Earlier this week, I was at OpenAI’s annual DevDay conference where it launched Dots, a personal agent that lives inside the ChatGPT app. I set up my Dot…"
+        },
+        {
+          "title": "How I Used Notion, Agents, and Local AI to Research and Organize My iOS 27 Review",
+          "url": "https://www.macstories.net/club/how-i-used-notion-agents-and-local-ai-to-research-and-organize-my-ios-27-review/",
+          "time": "2026-10-02T13:30:25.000Z",
+          "summary": "My Notion setup (left) and Desk, my custom system for the iOS and iPadOS review. The process for this year’s iOS and iPadOS review was, on the surface, similar to last…"
+        },
+        {
           "title": "Frames CLI 1.5.0, Now with iPhone 18 Pro and (Experimental) iPhone Duo Support",
           "url": "https://www.macstories.net/notes/frames-cli-1-5-0-now-with-iphone-18-pro-and-experimental-iphone-duo-support/",
-          "time": "2026-09-30T12:33:52Z",
-          "summary": "The updated Frames CLI also supports proportional scaling for iPhone Duo."
+          "time": "2026-09-30T12:33:52.000Z",
+          "summary": "The updated Frames CLI also supports proportional scaling for iPhone Duo. The Frames CLI – the companion command line interface to my Apple Frames shortcut I released…"
         },
         {
           "title": "Our Favorite Indie Apps for iOS 27, Vol. 2",
           "url": "https://www.macstories.net/reviews/our-favorite-indie-apps-for-ios-27-vol-2/",
-          "time": "2026-09-22T16:15:36Z",
-          "summary": "It's time to get back to our favorite indie apps that take advantage of Apple's latest OS features."
-        },
-        {
-          "title": "Apple Music Hall Opens in Battersea Power Station",
-          "url": "https://www.macstories.net/news/apple-music-hall-opens-in-battersea-power-station/",
-          "time": "2026-09-22T14:24:05Z",
-          "summary": "Apple announced the opening of Apple Music Hall, a live venue in London's Battersea Power Station."
+          "time": "2026-09-22T16:15:36.000Z",
+          "summary": "It’s time to get back to our favorite indie apps that take advantage of Apple’s latest OS features. Today, we’re highlighting: Bear, Gentler Streak, The Outsiders,…"
         }
       ]
     },
@@ -98,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-03T08:25:00Z",
+      "fetchedAt": "2026-10-04T09:02:44.466Z",
       "error": null,
       "items": [
         {
-          "title": "Amerikaanse componist Steve Reich is 90: \"Mooiste verjaardagscadeau is dat ze mijn muziek overal in de wereld spelen\"",
-          "url": "https://vrtnws.be/p.APXGZ58E1",
-          "time": "2026-10-03T03:53:27Z",
-          "summary": "De muziekwereld viert de 90e verjaardag van de Amerikaanse componist Steve Reich, baanbrekend met zijn zogenoemde 'minimal music'."
+          "title": "Grote verkeersactie in Leuven met politieaspiranten: 60 pv's en meerdere rijbewijzen ingetrokken",
+          "url": "https://vrtnws.be/p.GvXpY1PAJ",
+          "time": "2026-10-04T08:57:26.000Z",
+          "summary": "Bij een grootschalige politieactie zaterdagavond op Diestsesteenweg, de Aarschotsesteenweg en de Tiensesteenweg in Leuven zijn 60 pv's uitgeschreven en meerdere…"
         },
         {
-          "title": "Met de zegen van zijn vader: Flávio Bolsonaro moet radicaal-rechts weer aan de macht brengen in Brazilië",
-          "url": "https://vrtnws.be/p.OvXRaqXQO",
-          "time": "2026-10-03T03:52:00Z",
-          "summary": "In Brazilië vindt morgen de eerste ronde van de presidentsverkiezingen plaats waarbij senator Flávio Bolsonaro probeert radicaal-rechts terug aan de macht te brengen."
+          "title": "Een groep konijnen is een 'sprong': waarom verschillende dieren andere groepsnaam hebben",
+          "url": "https://vrtnws.be/p.OvXRwMxnO",
+          "time": "2026-10-04T08:33:46.000Z",
+          "summary": "Het is Werelddierendag. De kans is groot dat je foto's van een roedel honden of een sprong konijnen hebt zien passeren. Maar vanwaar komen die groepsnamen? En waarom…"
         },
         {
-          "title": "Trump vergelijkt olieprijzen met die van zijn voorgangers, maar vergeet eigen rol in de prijsstijging",
-          "url": "https://vrtnws.be/p.ewPk4ODJY",
-          "time": "2026-10-03T03:51:34Z",
-          "summary": "President Donald Trump beweert dat de situatie onder zijn voorgangers nog veel slechter was, maar de olieprijs wordt door veel meer factoren bepaald."
+          "title": "Te radicaal om te vliegen, toch in de cockpit: dit weten we over copiloot die collega aanviel op vlucht naar Israël",
+          "url": "https://vrtnws.be/p.w78ex1AGp",
+          "time": "2026-10-04T08:29:56.000Z",
+          "summary": "Vraagtekens tijdens zijn opleiding, extremistische posts: het lijkt er almaar meer op dat de co-piloot van Flydubai die zijn collega aanviel geradicaliseerd was. Stilaan…"
         },
         {
-          "title": "Waarom Tesla's op begraafplaatsen soms 'spoken' zien",
-          "url": "https://vrtnws.be/p.OvX4Z61EZ",
-          "time": "2026-10-03T03:51:08Z",
-          "summary": "Online circuleren filmpjes waarin het navigatiescherm van Tesla's voetgangers toont nabij kerkhoven, terwijl niemand zichtbaar is."
+          "title": "Rector van Cornell breekt stilte over verkrachtingsonderzoek: \"We hebben niet alle antwoorden, maar zoeken ze\"",
+          "url": "https://vrtnws.be/p.M9XZm1MA3",
+          "time": "2026-10-04T06:55:19.000Z",
+          "summary": "\"We hebben niet alle antwoorden, maar zijn toegewijd om die te zoeken.\" Dat zegt Michael I. Kotlikoff, rector van de Cornell-universiteit in New York, in een…"
         },
         {
-          "title": "Twee Iraniërs aangeklaagd voor verijdelde aanslag op joodse gemeenschap in Manchester",
-          "url": "https://vrtnws.be/p.NvXLbW4Dl",
-          "time": "2026-10-02T21:41:50Z",
-          "summary": "Twee Iraniërs zijn aangeklaagd op verdenking van het plannen van een terroristische aanslag tegen de joodse gemeenschap in Manchester."
+          "title": "Bosniërs kiezen vandaag 3 (!) nieuwe presidenten: \"Complex systeem dat beetje op België lijkt\"",
+          "url": "https://vrtnws.be/p.dLyZRbaem",
+          "time": "2026-10-04T06:28:22.000Z",
+          "summary": "In Bosnië en Herzegovina trekken vandaag zo'n 3,4 miljoen kiezers naar de stembus. Ze kiezen er niet alleen een regionaal en nationaal parlement, maar ook 3 nieuwe…"
         }
       ]
     }
