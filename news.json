@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T14:56:10.175Z",
+  "generatedAt": "2026-10-04T18:35:09.210Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-04T14:56:10.175Z",
+      "fetchedAt": "2026-10-04T18:35:09.210Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-04T14:56:10.175Z",
+      "fetchedAt": "2026-10-04T18:35:09.210Z",
       "error": null,
       "items": [
+        {
+          "title": "John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report",
+          "url": "https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/",
+          "time": "2026-10-04T15:15:15.000Z",
+          "summary": "Since Jony Ive’s departure from Apple in 2019, the company hasn’t had much of a true design lead. For a while, former COO Jeff Williams was in charge of design , until…"
+        },
         {
           "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
           "url": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
           "time": "2026-10-03T19:30:00.000Z",
           "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
-        },
-        {
-          "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
-          "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
-          "time": "2026-10-03T18:48:22.000Z",
-          "summary": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-04T14:56:10.175Z",
+      "fetchedAt": "2026-10-04T18:35:09.210Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-04T14:56:10.175Z",
+      "fetchedAt": "2026-10-04T18:35:09.210Z",
       "error": null,
       "items": [
         {
-          "title": "Smullen van 134 gratis wafels: Red Star Line Museum in Antwerpen viert terugkeer gerestaureerd wafelijzer",
-          "url": "https://vrtnws.be/p.dLyZpN5P5",
-          "time": "2026-10-04T14:52:30.000Z",
-          "summary": "Het Red Star Line Museum in Antwerpen vierde vandaag met een wafelenbak de terugkeer van een historisch wafelijzer dat 6 maanden lang werd gerestaureerd. Het gaat om een…"
+          "title": "2 uur wachten en lange rijen: British Museum worstelt met populariteit Tapijt van Bayeux",
+          "url": "https://vrtnws.be/p.8eXk9koKK",
+          "time": "2026-10-04T18:24:41.000Z",
+          "summary": "Het British Museum moet maatregelen nemen om de drukte de baas te kunnen die het Tapijt van Bayeux veroorzaakt. Sommige bezoekers melden wachttijden van 2 uur, en flinke…"
         },
         {
-          "title": "Bezoekers zweven via zipline over wijngaard in Bilzen-Hoeselt",
-          "url": "https://vrtnws.be/p.kQGZY9Bk1",
-          "time": "2026-10-04T14:40:25.000Z",
-          "summary": "In Bilzen-Hoeselt kon je dit weekend een wijndomein bekijken vanuit de lucht. Een zipline van zo’n 16 meter hoog en 120 meter lang boven het domein zorgde voor een heel…"
+          "title": "Na jaren afwezigheid weer échte ezels in ezelstoet van Kuurne: \"Ontzettend trots dat ze voor mij liepen\"",
+          "url": "https://vrtnws.be/p.NvXZwdlEn",
+          "time": "2026-10-04T17:58:12.000Z",
+          "summary": "De gemeente Kuurne is traditioneel weer even 'Ezelgem' geweest. Op de 66e editie van de Ezelfeesten liepen - na jaren afwezigheid - opnieuw levende ezels mee in de…"
         },
         {
-          "title": "Vernieuwde Geevaertvijver in Sint-Genesius-Rode officieel ingehuldigd met uitzetten van vissen",
-          "url": "https://vrtnws.be/p.nwYZLwDqp",
-          "time": "2026-10-04T13:46:10.000Z",
-          "summary": "Met het uitzetten van vissen is de vernieuwde Geevaertvijver in Sint-Genesius-Rode officieel ingehuldigd. De vijver werd jarenlang verwaarloosd en moest gesaneerd en…"
+          "title": "Laatste Oogstfeest op schoolhoeve De Campagne in Drongen overschaduwd door onzekere toekomst",
+          "url": "https://vrtnws.be/p.kQGZpYY7W",
+          "time": "2026-10-04T17:33:54.000Z",
+          "summary": "Op schoolhoeve De Campagne in Drongen vond vandaag voor de laatste keer het jaarlijkse Oogstfeest plaats. Door besparingen bij de stad Gent zag De Campagne de subsidies…"
         },
         {
-          "title": "Meer dan 1.500 'worstjes op poten': eerste TeckelToer trekt door Antwerpen",
-          "url": "https://vrtnws.be/p.lOlZeDw4Z",
-          "time": "2026-10-04T13:41:58.000Z",
-          "summary": "In Antwerpen trokken op deze Werelddierendag meer dan 1.500 teckels met hun baasjes door de straten voor de eerste TeckelToer. Die wandeling is een initiatief van…"
+          "title": "350 agenten ontruimen migrantenkamp met 3.000 mensen in Ceuta in aanloop naar koninklijk bezoek",
+          "url": "https://vrtnws.be/p.GvXpy5Ewy",
+          "time": "2026-10-04T16:51:56.000Z",
+          "summary": "In de Spaanse exclave Ceuta in Noord-Afrika heeft de politie het grootste migrantenkamp van de stad ontruimd. Dat kamp op het strand bood plaats aan 3.000 mensen die…"
         },
         {
-          "title": "Motorrijder kritiek na aanrijding op kruispunt in Viersel",
-          "url": "https://vrtnws.be/p.QAXZm1wbb",
-          "time": "2026-10-04T13:12:14.000Z",
-          "summary": "Op een kruispunt in Viersel (Zandhoven) is een motorrijder (43) vanmiddag zwaargewond geraakt bij een aanrijding met een auto. De brandweer moest hem bevrijden nadat hij…"
+          "title": "Hackers zetten gegevens van 700.000 mensen gratis op dark web, van rijksregisternummers tot rekeningnummers na datalek bij IFAPME",
+          "url": "https://vrtnws.be/p.LNDPnXmN7",
+          "time": "2026-10-04T16:51:55.000Z",
+          "summary": "De persoonsgegevens van 700.000 personen die afkomstig zijn van een databank van het Waalse opleidingsnetwerk IFAPME zijn gratis online gezet op een forum op het dark…"
         }
       ]
     }
