@@ -1,0 +1,40 @@
+/* Site styles on top of Bootstrap 5: only the bits Bootstrap has no class for.
+   Palette (from the original Aaplnow): black masthead, white page, grey footer, purple hover. */
+:root {
+  --site-accent: #660099;
+  --site-rule: #e0e0e0;
+  --site-footer: #e0e0e0;
+}
+[data-bs-theme="dark"] {
+  --site-accent: #c79bea;
+  --site-rule: #3a3640;
+  --site-footer: #1c1a20;
+}
+
+body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.site-masthead { background: #000 url("../img/header-bkg.png") center top / auto 100% no-repeat; }
+
+.border-top.border-4 { border-color: var(--site-rule) !important; }
+.list-group-item { border-bottom-style: dotted !important; }
+
+.site-link:hover, .site-link:focus-visible,
+.site-feature:hover h2, .site-feature:focus-visible h2 { color: var(--site-accent) !important; }
+
+.site-footer { background: var(--site-footer); }
+.site-footer a { color: inherit; }
+
+.text-balance { text-wrap: balance; }
+
+.tooltip { --bs-tooltip-max-width: 280px; --bs-tooltip-bg: #000; --bs-tooltip-opacity: .9; }
+.tooltip-inner { text-align: left; }
+
+.site-skel { height: 1rem; border-radius: .25rem; background: var(--site-rule); }
+
+/* Text logo: name, thin divider, tagline */
+.site-logo { color: #fff; text-decoration: none; letter-spacing: -.01em; }
+.site-logo:hover .site-name, .site-logo:focus-visible .site-name { color: var(--site-accent-on-dark); }
+.site-name { font-size: 1.6rem; font-weight: 700; line-height: 1; }
+.site-tagline { font-size: .85rem; opacity: .85; }
+:root { --site-accent-on-dark: #c79bea; }
+.site-masthead nav { min-height: 66px; }

@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-10-03T08:25:00Z",
+  "sources": [
+    {
+      "name": "MacRumors",
+      "site": "https://www.macrumors.com/",
+      "feed": "https://feeds.macrumors.com/MacRumors-All",
+      "fetchedAt": "2026-10-03T08:25:00Z",
+      "error": null,
+      "items": [
+        {
+          "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
+          "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+          "time": "2026-10-02T20:04:15Z",
+          "summary": "Apple is introducing stricter controls for Full Disk Access on macOS to address privacy risks posed by increasingly autonomous AI agents."
+        },
+        {
+          "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
+          "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+          "time": "2026-10-02T19:29:52Z",
+          "summary": "AT&T and Apple released a carrier settings update and iOS 27.0.1 to resolve cellular connectivity problems affecting iPhone 18 Pro Max users."
+        },
+        {
+          "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
+          "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
+          "time": "2026-10-02T16:18:55Z",
+          "summary": "AT&T confirmed it is collaborating with Apple to resolve cellular problems affecting some iPhone 18 Pro Max devices on its network."
+        },
+        {
+          "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
+          "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
+          "time": "2026-10-02T15:20:39Z",
+          "summary": "Apple Watch Series 12 compared against previous models: new health sensors, charging improvements and design changes."
+        }
+      ]
+    },
+    {
+      "name": "9 to 5 Mac",
+      "site": "https://9to5mac.com/",
+      "feed": "https://9to5mac.com/feed/",
+      "fetchedAt": "2026-10-03T08:25:00Z",
+      "error": null,
+      "items": [
+        {
+          "title": "Apple TV releases 'The Sisters Grimm' season 2 in full",
+          "url": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
+          "time": "2026-10-02T21:05:13Z",
+          "summary": "Apple TV today released the second season of its animated fantasy adventure series \"The Sisters Grimm,\" with all six new episodes."
+        },
+        {
+          "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+          "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+          "time": "2026-10-02T20:47:02Z",
+          "summary": "Apple has confirmed an issue causing a \"small number\" of iPhone 18 Pro Max devices on AT&T to lose cellular service."
+        },
+        {
+          "title": "'HomePad' coming: Will Apple hold an October special event?",
+          "url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+          "time": "2026-10-02T20:31:33Z",
+          "summary": "With Apple reportedly planning to unveil new products on October 13, here's when the company could announce an event."
+        },
+        {
+          "title": "iOS 27's Siri gets one thing very right that other AI assistants get wrong",
+          "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+          "time": "2026-10-02T19:26:34Z",
+          "summary": "Siri AI is a major upgrade to Apple's assistant that's now available in iOS 27."
+        }
+      ]
+    },
+    {
+      "name": "MacStories",
+      "site": "https://www.macstories.net/",
+      "feed": "https://www.macstories.net/feed/",
+      "fetchedAt": "2026-10-03T08:25:00Z",
+      "error": null,
+      "items": [
+        {
+          "title": "Frames CLI 1.5.0, Now with iPhone 18 Pro and (Experimental) iPhone Duo Support",
+          "url": "https://www.macstories.net/notes/frames-cli-1-5-0-now-with-iphone-18-pro-and-experimental-iphone-duo-support/",
+          "time": "2026-09-30T12:33:52Z",
+          "summary": "The updated Frames CLI also supports proportional scaling for iPhone Duo."
+        },
+        {
+          "title": "Our Favorite Indie Apps for iOS 27, Vol. 2",
+          "url": "https://www.macstories.net/reviews/our-favorite-indie-apps-for-ios-27-vol-2/",
+          "time": "2026-09-22T16:15:36Z",
+          "summary": "It's time to get back to our favorite indie apps that take advantage of Apple's latest OS features."
+        },
+        {
+          "title": "Apple Music Hall Opens in Battersea Power Station",
+          "url": "https://www.macstories.net/news/apple-music-hall-opens-in-battersea-power-station/",
+          "time": "2026-09-22T14:24:05Z",
+          "summary": "Apple announced the opening of Apple Music Hall, a live venue in London's Battersea Power Station."
+        }
+      ]
+    },
+    {
+      "name": "VRT NWS",
+      "site": "https://www.vrt.be/vrtnws/nl/",
+      "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
+      "fetchedAt": "2026-10-03T08:25:00Z",
+      "error": null,
+      "items": [
+        {
+          "title": "Amerikaanse componist Steve Reich is 90: \"Mooiste verjaardagscadeau is dat ze mijn muziek overal in de wereld spelen\"",
+          "url": "https://vrtnws.be/p.APXGZ58E1",
+          "time": "2026-10-03T03:53:27Z",
+          "summary": "De muziekwereld viert de 90e verjaardag van de Amerikaanse componist Steve Reich, baanbrekend met zijn zogenoemde 'minimal music'."
+        },
+        {
+          "title": "Met de zegen van zijn vader: Flávio Bolsonaro moet radicaal-rechts weer aan de macht brengen in Brazilië",
+          "url": "https://vrtnws.be/p.OvXRaqXQO",
+          "time": "2026-10-03T03:52:00Z",
+          "summary": "In Brazilië vindt morgen de eerste ronde van de presidentsverkiezingen plaats waarbij senator Flávio Bolsonaro probeert radicaal-rechts terug aan de macht te brengen."
+        },
+        {
+          "title": "Trump vergelijkt olieprijzen met die van zijn voorgangers, maar vergeet eigen rol in de prijsstijging",
+          "url": "https://vrtnws.be/p.ewPk4ODJY",
+          "time": "2026-10-03T03:51:34Z",
+          "summary": "President Donald Trump beweert dat de situatie onder zijn voorgangers nog veel slechter was, maar de olieprijs wordt door veel meer factoren bepaald."
+        },
+        {
+          "title": "Waarom Tesla's op begraafplaatsen soms 'spoken' zien",
+          "url": "https://vrtnws.be/p.OvX4Z61EZ",
+          "time": "2026-10-03T03:51:08Z",
+          "summary": "Online circuleren filmpjes waarin het navigatiescherm van Tesla's voetgangers toont nabij kerkhoven, terwijl niemand zichtbaar is."
+        },
+        {
+          "title": "Twee Iraniërs aangeklaagd voor verijdelde aanslag op joodse gemeenschap in Manchester",
+          "url": "https://vrtnws.be/p.NvXLbW4Dl",
+          "time": "2026-10-02T21:41:50Z",
+          "summary": "Twee Iraniërs zijn aangeklaagd op verdenking van het plannen van een terroristische aanslag tegen de joodse gemeenschap in Manchester."
+        }
+      ]
+    }
+  ]
+}
