@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T09:02:44.466Z",
+  "generatedAt": "2026-10-04T14:56:10.175Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-04T09:02:44.466Z",
+      "fetchedAt": "2026-10-04T14:56:10.175Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-04T09:02:44.466Z",
+      "fetchedAt": "2026-10-04T14:56:10.175Z",
       "error": null,
       "items": [
+        {
+          "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
+          "url": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
+          "time": "2026-10-04T14:11:01.000Z",
+          "summary": "Apple’s major MacBook Pro overhaul is just around the corner, and should debut within a month or so. It’ll be the first touchscreen MacBook, as well as the first with…"
+        },
         {
           "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
           "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
           "time": "2026-10-03T18:48:22.000Z",
           "summary": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite…"
-        },
-        {
-          "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
-          "url": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
-          "time": "2026-10-03T16:36:23.000Z",
-          "summary": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-04T09:02:44.466Z",
+      "fetchedAt": "2026-10-04T14:56:10.175Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-04T09:02:44.466Z",
+      "fetchedAt": "2026-10-04T14:56:10.175Z",
       "error": null,
       "items": [
         {
-          "title": "Grote verkeersactie in Leuven met politieaspiranten: 60 pv's en meerdere rijbewijzen ingetrokken",
-          "url": "https://vrtnws.be/p.GvXpY1PAJ",
-          "time": "2026-10-04T08:57:26.000Z",
-          "summary": "Bij een grootschalige politieactie zaterdagavond op Diestsesteenweg, de Aarschotsesteenweg en de Tiensesteenweg in Leuven zijn 60 pv's uitgeschreven en meerdere…"
+          "title": "Smullen van 134 gratis wafels: Red Star Line Museum in Antwerpen viert terugkeer gerestaureerd wafelijzer",
+          "url": "https://vrtnws.be/p.dLyZpN5P5",
+          "time": "2026-10-04T14:52:30.000Z",
+          "summary": "Het Red Star Line Museum in Antwerpen vierde vandaag met een wafelenbak de terugkeer van een historisch wafelijzer dat 6 maanden lang werd gerestaureerd. Het gaat om een…"
         },
         {
-          "title": "Een groep konijnen is een 'sprong': waarom verschillende dieren andere groepsnaam hebben",
-          "url": "https://vrtnws.be/p.OvXRwMxnO",
-          "time": "2026-10-04T08:33:46.000Z",
-          "summary": "Het is Werelddierendag. De kans is groot dat je foto's van een roedel honden of een sprong konijnen hebt zien passeren. Maar vanwaar komen die groepsnamen? En waarom…"
+          "title": "Bezoekers zweven via zipline over wijngaard in Bilzen-Hoeselt",
+          "url": "https://vrtnws.be/p.kQGZY9Bk1",
+          "time": "2026-10-04T14:40:25.000Z",
+          "summary": "In Bilzen-Hoeselt kon je dit weekend een wijndomein bekijken vanuit de lucht. Een zipline van zo’n 16 meter hoog en 120 meter lang boven het domein zorgde voor een heel…"
         },
         {
-          "title": "Te radicaal om te vliegen, toch in de cockpit: dit weten we over copiloot die collega aanviel op vlucht naar Israël",
-          "url": "https://vrtnws.be/p.w78ex1AGp",
-          "time": "2026-10-04T08:29:56.000Z",
-          "summary": "Vraagtekens tijdens zijn opleiding, extremistische posts: het lijkt er almaar meer op dat de co-piloot van Flydubai die zijn collega aanviel geradicaliseerd was. Stilaan…"
+          "title": "Vernieuwde Geevaertvijver in Sint-Genesius-Rode officieel ingehuldigd met uitzetten van vissen",
+          "url": "https://vrtnws.be/p.nwYZLwDqp",
+          "time": "2026-10-04T13:46:10.000Z",
+          "summary": "Met het uitzetten van vissen is de vernieuwde Geevaertvijver in Sint-Genesius-Rode officieel ingehuldigd. De vijver werd jarenlang verwaarloosd en moest gesaneerd en…"
         },
         {
-          "title": "Rector van Cornell breekt stilte over verkrachtingsonderzoek: \"We hebben niet alle antwoorden, maar zoeken ze\"",
-          "url": "https://vrtnws.be/p.M9XZm1MA3",
-          "time": "2026-10-04T06:55:19.000Z",
-          "summary": "\"We hebben niet alle antwoorden, maar zijn toegewijd om die te zoeken.\" Dat zegt Michael I. Kotlikoff, rector van de Cornell-universiteit in New York, in een…"
+          "title": "Meer dan 1.500 'worstjes op poten': eerste TeckelToer trekt door Antwerpen",
+          "url": "https://vrtnws.be/p.lOlZeDw4Z",
+          "time": "2026-10-04T13:41:58.000Z",
+          "summary": "In Antwerpen trokken op deze Werelddierendag meer dan 1.500 teckels met hun baasjes door de straten voor de eerste TeckelToer. Die wandeling is een initiatief van…"
         },
         {
-          "title": "Bosniërs kiezen vandaag 3 (!) nieuwe presidenten: \"Complex systeem dat beetje op België lijkt\"",
-          "url": "https://vrtnws.be/p.dLyZRbaem",
-          "time": "2026-10-04T06:28:22.000Z",
-          "summary": "In Bosnië en Herzegovina trekken vandaag zo'n 3,4 miljoen kiezers naar de stembus. Ze kiezen er niet alleen een regionaal en nationaal parlement, maar ook 3 nieuwe…"
+          "title": "Motorrijder kritiek na aanrijding op kruispunt in Viersel",
+          "url": "https://vrtnws.be/p.QAXZm1wbb",
+          "time": "2026-10-04T13:12:14.000Z",
+          "summary": "Op een kruispunt in Viersel (Zandhoven) is een motorrijder (43) vanmiddag zwaargewond geraakt bij een aanrijding met een auto. De brandweer moest hem bevrijden nadat hij…"
         }
       ]
     }
