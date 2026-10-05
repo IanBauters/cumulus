@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-05T16:56:46.509Z",
+  "generatedAt": "2026-10-05T23:06:42.280Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-05T16:56:46.509Z",
+      "fetchedAt": "2026-10-05T23:06:42.280Z",
       "error": null,
       "items": [
         {
-          "title": "Apple One Just Went Up in Price in These Countries",
-          "url": "https://www.macrumors.com/2026/10/05/apple-one-price-increases-in-select-countries/",
-          "time": "2026-10-05T16:43:53.000Z",
-          "summary": "Apple has raised the prices of the Apple One Family and Apple One Premier plans in select countries in Europe, with the company notifying affected subscribers via email…"
+          "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
+          "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
+          "time": "2026-10-05T21:19:03.000Z",
+          "summary": "Apple's latest tvOS 27.2 beta adds weight to rumors that the next Apple TV will have Siri AI and Apple Intelligence support. Code suggests Apple is adding an Improve…"
         },
         {
-          "title": "iPhone 13 Pro vs. iPhone 18 Pro Buyer's Guide: Is It Worth Upgrading?",
-          "url": "https://www.macrumors.com/guide/iphone-13-pro-vs-18-pro/",
-          "time": "2026-10-05T15:58:56.000Z",
-          "summary": "Apple released the iPhone 18 Pro and iPhone 18 Pro Max in September 2026, five years after the iPhone 13 Pro and iPhone 13 Pro Max. The 2021 models introduced ProMotion…"
+          "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra",
+          "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
+          "time": "2026-10-05T21:14:08.000Z",
+          "summary": "macOS Golden Gate 27.2 adds code referencing new touch-specific gestures in apps like Safari, Notes, Photos , and Quick Look, a possible sign Apple is preparing to…"
         },
         {
-          "title": "iPad Could Get Significantly Thinner Bezels, Leaker Says",
-          "url": "https://www.macrumors.com/2026/10/05/ipad-to-get-thinner-bezels/",
-          "time": "2026-10-05T15:39:28.000Z",
-          "summary": "The iPad is set to gain significantly narrower borders around its display, according to the leaker known as \" Instant Digital \" on Weibo. The post gives no model or…"
+          "title": "Apple and AT&T Have Yet to Explain Cause of iPhone 18 Pro Max Issue",
+          "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
+          "time": "2026-10-05T21:10:15.000Z",
+          "summary": "In a statement shared with MacRumors on Friday, Apple said that iPhone 18 Pro Max users who have experienced an issue where AT&T cellular service does not work will need…"
         },
         {
-          "title": "Apple Releases MagSafe 3 Charging Cable Firmware Update",
-          "url": "https://www.macrumors.com/2026/10/05/magsafe-3-cable-firmware-update/",
-          "time": "2026-10-05T13:13:01.000Z",
-          "summary": "For the first time since February 2023, Apple has released a firmware update for the MagSafe 3 charging cable for the MacBook Pro and MacBook Air. Specifically, Apple…"
+          "title": "Apple Seeds Third macOS Golden Gate 27.2 Beta to Developers",
+          "url": "https://www.macrumors.com/2026/10/05/apple-seeds-macos-27-2-beta-3/",
+          "time": "2026-10-05T18:23:19.000Z",
+          "summary": "Apple is testing the next macOS Golden Gate update, and developers can download the second &zwnj;macOS Golden Gate&zwnj; 27.2 beta. The third beta comes two weeks after…"
         },
         {
-          "title": "Apple Quietly Triples iCloud Mail Alias Limit to Nine",
-          "url": "https://www.macrumors.com/2026/10/05/apple-triples-icloud-mail-alias-limit/",
-          "time": "2026-10-05T12:15:59.000Z",
-          "summary": "Apple appears to have quietly tripled the number of iCloud Mail aliases users can create, increasing the limit from three to nine. The increase was first noticed last…"
+          "title": "Apple Releases Third iOS 27.2 Beta",
+          "url": "https://www.macrumors.com/2026/10/05/apple-seeds-ios-27-2-beta-3/",
+          "time": "2026-10-05T18:23:14.000Z",
+          "summary": "Apple today seeded the third beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming two weeks after Apple released the second iOS…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-05T16:56:46.509Z",
+      "fetchedAt": "2026-10-05T23:06:42.280Z",
       "error": null,
       "items": [
         {
-          "title": "iCloud+ just rolled out an improved perk for subscribers",
-          "url": "https://9to5mac.com/2026/10/05/icloud-just-rolled-out-an-improved-perk-for-subscribers/",
-          "time": "2026-10-05T15:35:11.000Z",
-          "summary": "iCloud+ includes a lot more than additional storage, and one of the service’s perks for subscribers—custom email domains—just got even better. more…"
+          "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
+          "url": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/",
+          "time": "2026-10-05T22:55:49.000Z",
+          "summary": "A new open-source tool is going viral over its promise to let users who aren’t interested in Apple Intelligence reclaim 12GB or more of storage on their Macs. Here are…"
         },
         {
-          "title": "New Apple TV 4K launches next week with two major upgrades",
-          "url": "https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/",
-          "time": "2026-10-05T14:54:33.000Z",
-          "summary": "New Apple products are reportedly launching on October 13, including an updated Apple TV 4K. Here are the two major upgrades rumored for the new Apple TV. more…"
+          "title": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
+          "url": "https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving/",
+          "time": "2026-10-05T22:30:00.000Z",
+          "summary": "Do you remember the first time you backed out of the driveway on your own? It was pure freedom. For your parents? It was probably one of the most terrifying times of…"
         },
         {
-          "title": "macOS 27 just fixed the most annoying problem for third-party HDR displays",
-          "url": "https://9to5mac.com/2026/10/05/macos-27-just-fixed-the-most-annoying-problem-for-third-party-hdr-displays/",
-          "time": "2026-10-05T14:47:38.000Z",
-          "summary": "I’m in the middle of testing Dell’s 32-inch UltraSharp U3226Q , and my thoughts so far are extremely positive. The picture quality of this OLED panel is impressive,…"
+          "title": "macOS 27.2 reveals new clues about Apple’s touchscreen MacBook Pro",
+          "url": "https://9to5mac.com/2026/10/05/macos-27-2-reveals-new-clues-about-apples-touchscreen-macbook-pro/",
+          "time": "2026-10-05T21:34:48.000Z",
+          "summary": "Apple is widely expected to release a new touchscreen MacBook Pro as soon as this month. This will mark the first-ever touchscreen Mac, and Apple is laying the…"
         },
         {
-          "title": "Apple event is reportedly happening next week, per Mark Gurman",
-          "url": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
-          "time": "2026-10-05T13:51:30.000Z",
-          "summary": "Apple is expected to launch several new products next week on October 13, and per Bloomberg’s Mark Gurman, the product unveilings will happen at “an event.” Here’s what…"
+          "title": "This is Apple Music’s new logo, probably",
+          "url": "https://9to5mac.com/2026/10/05/this-is-apple-musics-new-logo-probably/",
+          "time": "2026-10-05T20:50:43.000Z",
+          "summary": "Apple Music seems to be rolling out a new logo, as spotted in several places including iOS 27 beta 3. more…"
         },
         {
-          "title": "Full Disk Access on Mac: Here’s what Apple must, and must not, do",
-          "url": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
-          "time": "2026-10-05T13:48:12.000Z",
-          "summary": "We’ve seen a number of examples of why giving Meta’s Muse app full disk access to your Mac is a very bad idea , and yet another major privacy issue has recently been…"
+          "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
+          "url": "https://9to5mac.com/2026/10/05/openai-details-new-text-watermarking-system-for-chatgpt-codex-and-the-api/",
+          "time": "2026-10-05T20:46:17.000Z",
+          "summary": "OpenAI today announced how it will comply with the EU AI Act, which requires providers of generative AI systems to mark AI-generated text in a way that makes it…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-05T16:56:46.509Z",
+      "fetchedAt": "2026-10-05T23:06:42.280Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-05T16:56:46.509Z",
+      "fetchedAt": "2026-10-05T23:06:42.280Z",
       "error": null,
       "items": [
         {
-          "title": "\"Tot jij zelf in je blootje staat\": nieuwe campagne wil actie tegen digitaal seksueel geweld stimuleren",
-          "url": "https://vrtnws.be/p.y3moxK1L5",
-          "time": "2026-10-05T16:39:28.000Z",
-          "summary": "“Grappig?! Tot jij zelf in je blootje staat.” Met die boodschap lanceert het Instituut voor de gelijkheid van vrouwen en mannen een nieuwe campagne tegen digitaal…"
+          "title": "Dodelijk ongeval op E313 in Geel: vrachtwagenchauffeur aangereden op pechstrook",
+          "url": "https://vrtnws.be/p.w78dylN3E",
+          "time": "2026-10-05T21:21:14.000Z",
+          "summary": "Op de snelweg E313 in Geel is een dodelijk verkeersongeval gebeurd. Het slachtoffer werd op de pechstrook aangereden door een vrachtwagen en overleed ter plaatse."
         },
         {
-          "title": "Amerikaans Hooggerechtshof start nieuwe termijn: wapenwetten, klimaatzaken en lot van migranten op de agenda",
-          "url": "https://vrtnws.be/p.jGy6KBBNY",
-          "time": "2026-10-05T16:12:34.000Z",
-          "summary": "Vandaag begint het Amerikaanse Hooggerechtshof aan zijn nieuwe termijn, met opnieuw heel wat belangrijke zaken op de agenda. De hoge rechters moeten beslissen over de…"
+          "title": "Bietencampagne start in Tienen: \"Goede oogst, ondanks droge zomer\"",
+          "url": "https://vrtnws.be/p.lOlyD48EZ",
+          "time": "2026-10-05T19:07:41.000Z",
+          "summary": "De bietencampagne gaat van start op 6 oktober. De komende weken brengen landbouwers hun bieten van het veld naar de suikerraffinaderij in Tienen, waar er suiker van…"
         },
         {
-          "title": "Wat is chemische castratie? 5 vragen en antwoorden",
-          "url": "https://vrtnws.be/p.bDyx7Dl5L",
-          "time": "2026-10-05T16:06:29.000Z",
-          "summary": "In een verkrachtingszaak in Brugge heeft een 21-jarige man bovenop zijn celstraf met uitstel de bijkomende voorwaarde gekregen dat hij zich chemisch moet laten…"
+          "title": "Duitse inlichtingenchef waarschuwt voor directe confrontatie met Rusland",
+          "url": "https://vrtnws.be/p.w78d1PxPJ",
+          "time": "2026-10-05T19:06:00.000Z",
+          "summary": "Het risico op een directe confrontatie tussen Duitsland en Rusland neemt toe, zeker nu het Kremlin zijn schaduwoorlog tegen Berlijn opdrijft en Duitsland steun blijft…"
         },
         {
-          "title": "Oostendenaar veroordeeld voor poging tot verkrachting van vrouw in bankkantoor",
-          "url": "https://vrtnws.be/p.oL1A9wdK6",
-          "time": "2026-10-05T16:04:04.000Z",
-          "summary": "Een 41-jarige man uit Oostende is door de Brugse correctionele rechtbank veroordeeld tot 30 maanden gevangenisstraf met uitstel. De rechtbank vindt hem schuldig aan…"
+          "title": "Vernieuwde fietssnelweg F70 tussen Hasselt en Diepenbeek trekt kwart meer studenten",
+          "url": "https://vrtnws.be/p.VLyRWnY0V",
+          "time": "2026-10-05T17:37:59.000Z",
+          "summary": "De recent verbeterde fietssnelweg F70 tussen Hasselt en Diepenbeek trekt meer fietsende studenten. Tegenover 2025 telt het traject een kwart meer fietsers. \"De route is…"
         },
         {
-          "title": "Roemeense jagers mogen dit jaar bijna 1.000 beren afschieten na meerdere incidenten",
-          "url": "https://vrtnws.be/p.nwY9e5AYJ",
-          "time": "2026-10-05T15:58:41.000Z",
-          "summary": "In Roemenië mogen jagers dit jaar bijna 1.000 beren afschieten. Het jachtquotum wordt verdubbeld, omdat er vaker incidenten zijn met mensen. Volgens de Roemeense…"
+          "title": "Reizigersvereniging TreinTramBus vraagt uitleg aan NMBS na chaos met vervangbussen tussen Oostende en Brugge",
+          "url": "https://vrtnws.be/p.YbyWK8vYX",
+          "time": "2026-10-05T17:24:33.000Z",
+          "summary": "Reizigersvereniging TreinTramBus heeft de NMBS een brief gestuurd met vragen over de chaotische busvervanging van afgelopen weekend tussen Oostende en Brugge. Er waren…"
         }
       ]
     }
