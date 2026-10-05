@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-05T07:31:44.277Z",
+  "generatedAt": "2026-10-05T16:56:46.509Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-05T07:31:44.277Z",
+      "fetchedAt": "2026-10-05T16:56:46.509Z",
       "error": null,
       "items": [
         {
-          "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
-          "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
-          "time": "2026-10-05T02:35:01.000Z",
-          "summary": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg 's Mark Gurman. \"Ternus already had some…"
+          "title": "Apple One Just Went Up in Price in These Countries",
+          "url": "https://www.macrumors.com/2026/10/05/apple-one-price-increases-in-select-countries/",
+          "time": "2026-10-05T16:43:53.000Z",
+          "summary": "Apple has raised the prices of the Apple One Family and Apple One Premier plans in select countries in Europe, with the company notifying affected subscribers via email…"
         },
         {
-          "title": "Apple Hiring 'iCup' Specialist",
-          "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
-          "time": "2026-10-05T02:11:42.000Z",
-          "summary": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee…"
+          "title": "iPhone 13 Pro vs. iPhone 18 Pro Buyer's Guide: Is It Worth Upgrading?",
+          "url": "https://www.macrumors.com/guide/iphone-13-pro-vs-18-pro/",
+          "time": "2026-10-05T15:58:56.000Z",
+          "summary": "Apple released the iPhone 18 Pro and iPhone 18 Pro Max in September 2026, five years after the iPhone 13 Pro and iPhone 13 Pro Max. The 2021 models introduced ProMotion…"
         },
         {
-          "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
-          "url": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/",
-          "time": "2026-10-05T01:22:06.000Z",
-          "summary": "Bloomberg 's Mark Gurman today said the new MacBook Pro models with OLED displays will be \"significantly lighter\" than the existing MacBook Pro models. \"Apple has…"
+          "title": "iPad Could Get Significantly Thinner Bezels, Leaker Says",
+          "url": "https://www.macrumors.com/2026/10/05/ipad-to-get-thinner-bezels/",
+          "time": "2026-10-05T15:39:28.000Z",
+          "summary": "The iPad is set to gain significantly narrower borders around its display, according to the leaker known as \" Instant Digital \" on Weibo. The post gives no model or…"
         },
         {
-          "title": "Apple Event Reportedly Planned for October 13",
-          "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
-          "time": "2026-10-05T00:07:38.000Z",
-          "summary": "Last week, Bloomberg 's Mark Gurman reported that Apple plans to unveil an all-new smart home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13 . In…"
+          "title": "Apple Releases MagSafe 3 Charging Cable Firmware Update",
+          "url": "https://www.macrumors.com/2026/10/05/magsafe-3-cable-firmware-update/",
+          "time": "2026-10-05T13:13:01.000Z",
+          "summary": "For the first time since February 2023, Apple has released a firmware update for the MagSafe 3 charging cable for the MacBook Pro and MacBook Air. Specifically, Apple…"
         },
         {
-          "title": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
-          "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
-          "time": "2026-10-03T13:00:12.000Z",
-          "summary": "Things are getting crazy in the Apple rumor world, as even though the iPhone 18 Pro and several other products have only just launched and the iPhone Duo is right around…"
+          "title": "Apple Quietly Triples iCloud Mail Alias Limit to Nine",
+          "url": "https://www.macrumors.com/2026/10/05/apple-triples-icloud-mail-alias-limit/",
+          "time": "2026-10-05T12:15:59.000Z",
+          "summary": "Apple appears to have quietly tripled the number of iCloud Mail aliases users can create, increasing the limit from three to nine. The increase was first noticed last…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-05T07:31:44.277Z",
+      "fetchedAt": "2026-10-05T16:56:46.509Z",
       "error": null,
       "items": [
         {
-          "title": "iPhone Duo shows what the future of smartphones could look like",
-          "url": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
-          "time": "2026-10-04T21:32:00.000Z",
-          "summary": "Since the unveiling of iPhone Duo , the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-invented…"
+          "title": "iCloud+ just rolled out an improved perk for subscribers",
+          "url": "https://9to5mac.com/2026/10/05/icloud-just-rolled-out-an-improved-perk-for-subscribers/",
+          "time": "2026-10-05T15:35:11.000Z",
+          "summary": "iCloud+ includes a lot more than additional storage, and one of the service’s perks for subscribers—custom email domains—just got even better. more…"
         },
         {
-          "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
-          "url": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
-          "time": "2026-10-04T19:09:34.000Z",
-          "summary": "AirPods are one of Apple’s most interesting products. The demand for them was largely invented by the fact that the company removed the headphone jack 10 years ago, and…"
+          "title": "New Apple TV 4K launches next week with two major upgrades",
+          "url": "https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/",
+          "time": "2026-10-05T14:54:33.000Z",
+          "summary": "New Apple products are reportedly launching on October 13, including an updated Apple TV 4K. Here are the two major upgrades rumored for the new Apple TV. more…"
         },
         {
-          "title": "John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report",
-          "url": "https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/",
-          "time": "2026-10-04T15:15:15.000Z",
-          "summary": "Since Jony Ive’s departure from Apple in 2019, the company hasn’t had much of a true design lead. For a while, former COO Jeff Williams was in charge of design , until…"
+          "title": "macOS 27 just fixed the most annoying problem for third-party HDR displays",
+          "url": "https://9to5mac.com/2026/10/05/macos-27-just-fixed-the-most-annoying-problem-for-third-party-hdr-displays/",
+          "time": "2026-10-05T14:47:38.000Z",
+          "summary": "I’m in the middle of testing Dell’s 32-inch UltraSharp U3226Q , and my thoughts so far are extremely positive. The picture quality of this OLED panel is impressive,…"
         },
         {
-          "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
-          "url": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
-          "time": "2026-10-04T14:11:01.000Z",
-          "summary": "Apple’s major MacBook Pro overhaul is just around the corner, and should debut within a month or so. It’ll be the first touchscreen MacBook, as well as the first with…"
+          "title": "Apple event is reportedly happening next week, per Mark Gurman",
+          "url": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
+          "time": "2026-10-05T13:51:30.000Z",
+          "summary": "Apple is expected to launch several new products next week on October 13, and per Bloomberg’s Mark Gurman, the product unveilings will happen at “an event.” Here’s what…"
         },
         {
-          "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
-          "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
-          "time": "2026-10-03T21:26:32.000Z",
-          "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…"
+          "title": "Full Disk Access on Mac: Here’s what Apple must, and must not, do",
+          "url": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
+          "time": "2026-10-05T13:48:12.000Z",
+          "summary": "We’ve seen a number of examples of why giving Meta’s Muse app full disk access to your Mac is a very bad idea , and yet another major privacy issue has recently been…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-05T07:31:44.277Z",
+      "fetchedAt": "2026-10-05T16:56:46.509Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-05T07:31:44.277Z",
+      "fetchedAt": "2026-10-05T16:56:46.509Z",
       "error": null,
       "items": [
         {
-          "title": "Premier van Samoa zegt sorry voor Hitlergroet in video van 2007",
-          "url": "https://vrtnws.be/p.43NWYevnY",
-          "time": "2026-10-05T07:11:40.000Z",
-          "summary": "De premier van Samoa, een eilandstaatje in Polynesië, heeft zijn excuses aangeboden voor een video van 19 jaar geleden waarin hij \"Heil Hitler\" zegt en de nazigroet…"
+          "title": "\"Tot jij zelf in je blootje staat\": nieuwe campagne wil actie tegen digitaal seksueel geweld stimuleren",
+          "url": "https://vrtnws.be/p.y3moxK1L5",
+          "time": "2026-10-05T16:39:28.000Z",
+          "summary": "“Grappig?! Tot jij zelf in je blootje staat.” Met die boodschap lanceert het Instituut voor de gelijkheid van vrouwen en mannen een nieuwe campagne tegen digitaal…"
         },
         {
-          "title": "Na jaren protest nieuwe poging voor bouwproject op Kolmenveld in Tessenderlo: \"Mensen wachten op woonzorgcentrum\"",
-          "url": "https://vrtnws.be/p.E1X6xyZaQ",
-          "time": "2026-10-05T07:04:37.000Z",
-          "summary": "De gemeente Tessenderlo-Ham en een projectontwikkelaar doen een nieuwe poging om een vergunning te krijgen voor een grootschalig project op het Kolmenveld. De komst van…"
+          "title": "Amerikaans Hooggerechtshof start nieuwe termijn: wapenwetten, klimaatzaken en lot van migranten op de agenda",
+          "url": "https://vrtnws.be/p.jGy6KBBNY",
+          "time": "2026-10-05T16:12:34.000Z",
+          "summary": "Vandaag begint het Amerikaanse Hooggerechtshof aan zijn nieuwe termijn, met opnieuw heel wat belangrijke zaken op de agenda. De hoge rechters moeten beslissen over de…"
         },
         {
-          "title": "Dambrug in Moerbeke 2 weken gesloten door werken: beschermd monument krijgt nieuwe houten vloer",
-          "url": "https://vrtnws.be/p.xZWebvJ8Z",
-          "time": "2026-10-05T07:01:46.000Z",
-          "summary": "Je zal de komende 11 dagen niet over de Dambrug kunnen in Moerbeke bij Lokeren. De ophaalbrug is voor al het verkeer afgesloten, omdat de vloer een opknapbeurt krijgt.…"
+          "title": "Wat is chemische castratie? 5 vragen en antwoorden",
+          "url": "https://vrtnws.be/p.bDyx7Dl5L",
+          "time": "2026-10-05T16:06:29.000Z",
+          "summary": "In een verkrachtingszaak in Brugge heeft een 21-jarige man bovenop zijn celstraf met uitstel de bijkomende voorwaarde gekregen dat hij zich chemisch moet laten…"
         },
         {
-          "title": "Waarom richt Rusland drones op bruggen in Kiev? \"Steden onleefbaar maken om Oekraïne tot overgave te dwingen\"",
-          "url": "https://vrtnws.be/p.DYXENj3G0",
-          "time": "2026-10-05T06:58:24.000Z",
-          "summary": "Rusland wil grote steden onleefbaar maken om de economie te ontwrichten en Oekraïne tot overgave te dwingen. Dat zegt Tom Simoens, hoogleraar aan de Koninklijke…"
+          "title": "Oostendenaar veroordeeld voor poging tot verkrachting van vrouw in bankkantoor",
+          "url": "https://vrtnws.be/p.oL1A9wdK6",
+          "time": "2026-10-05T16:04:04.000Z",
+          "summary": "Een 41-jarige man uit Oostende is door de Brugse correctionele rechtbank veroordeeld tot 30 maanden gevangenisstraf met uitstel. De rechtbank vindt hem schuldig aan…"
         },
         {
-          "title": "Geen asbest gevonden op Inghelantsite in Ninove",
-          "url": "https://vrtnws.be/p.oL1A0A6v8",
-          "time": "2026-10-05T06:57:21.000Z",
-          "summary": "Er is geen asbest gevonden op de Inghelantsite in Ninove. Dat blijkt uit een onderzoek dat de stad liet uitvoeren. Het gaat om een zone van ongeveer 500 vierkante meter…"
+          "title": "Roemeense jagers mogen dit jaar bijna 1.000 beren afschieten na meerdere incidenten",
+          "url": "https://vrtnws.be/p.nwY9e5AYJ",
+          "time": "2026-10-05T15:58:41.000Z",
+          "summary": "In Roemenië mogen jagers dit jaar bijna 1.000 beren afschieten. Het jachtquotum wordt verdubbeld, omdat er vaker incidenten zijn met mensen. Volgens de Roemeense…"
         }
       ]
     }
