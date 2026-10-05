@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-04T22:15:06.812Z",
+  "generatedAt": "2026-10-05T01:08:24.992Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-04T22:15:06.812Z",
+      "fetchedAt": "2026-10-05T01:08:24.992Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Event Reportedly Planned for October 13",
+          "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
+          "time": "2026-10-05T00:07:38.000Z",
+          "summary": "Last week, Bloomberg 's Mark Gurman reported that Apple plans to unveil an all-new smart home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13 . In…"
+        },
         {
           "title": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
           "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
           "time": "2026-10-02T19:29:52.000Z",
           "summary": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris. Thousands of iPhone 18…"
-        },
-        {
-          "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
-          "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
-          "time": "2026-10-02T16:18:55.000Z",
-          "summary": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues. \"Apple has released a software update to…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-04T22:15:06.812Z",
+      "fetchedAt": "2026-10-05T01:08:24.992Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-04T22:15:06.812Z",
+      "fetchedAt": "2026-10-05T01:08:24.992Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-04T22:15:06.812Z",
+      "fetchedAt": "2026-10-05T01:08:24.992Z",
       "error": null,
       "items": [
         {
