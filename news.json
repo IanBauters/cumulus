@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-05T01:08:24.992Z",
+  "generatedAt": "2026-10-05T07:31:44.277Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-05T01:08:24.992Z",
+      "fetchedAt": "2026-10-05T07:31:44.277Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
+          "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
+          "time": "2026-10-05T02:35:01.000Z",
+          "summary": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg 's Mark Gurman. \"Ternus already had some…"
+        },
+        {
+          "title": "Apple Hiring 'iCup' Specialist",
+          "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+          "time": "2026-10-05T02:11:42.000Z",
+          "summary": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee…"
+        },
+        {
+          "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
+          "url": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/",
+          "time": "2026-10-05T01:22:06.000Z",
+          "summary": "Bloomberg 's Mark Gurman today said the new MacBook Pro models with OLED displays will be \"significantly lighter\" than the existing MacBook Pro models. \"Apple has…"
+        },
         {
           "title": "Apple Event Reportedly Planned for October 13",
           "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
           "time": "2026-10-03T13:00:12.000Z",
           "summary": "Things are getting crazy in the Apple rumor world, as even though the iPhone 18 Pro and several other products have only just launched and the iPhone Duo is right around…"
-        },
-        {
-          "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
-          "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
-          "time": "2026-10-03T03:21:12.000Z",
-          "summary": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the device to lose cellular service,…"
-        },
-        {
-          "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
-          "url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
-          "time": "2026-10-02T20:04:15.000Z",
-          "summary": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new…"
-        },
-        {
-          "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
-          "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
-          "time": "2026-10-02T19:29:52.000Z",
-          "summary": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris. Thousands of iPhone 18…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-05T01:08:24.992Z",
+      "fetchedAt": "2026-10-05T07:31:44.277Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-05T01:08:24.992Z",
+      "fetchedAt": "2026-10-05T07:31:44.277Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-05T01:08:24.992Z",
+      "fetchedAt": "2026-10-05T07:31:44.277Z",
       "error": null,
       "items": [
         {
-          "title": "Partij van huidig premier Kulbergs boekt historische verkiezingsoverwinning in Letland",
-          "url": "https://vrtnws.be/p.VLyZoJQ3Y",
-          "time": "2026-10-04T21:52:37.000Z",
-          "summary": "De alliantie Verenigde Lijst van premier Andris Kulbergs heeft volgens voorlopige uitslagen een historische overwinning behaald bij de parlementsverkiezingen in Letland.…"
+          "title": "Premier van Samoa zegt sorry voor Hitlergroet in video van 2007",
+          "url": "https://vrtnws.be/p.43NWYevnY",
+          "time": "2026-10-05T07:11:40.000Z",
+          "summary": "De premier van Samoa, een eilandstaatje in Polynesië, heeft zijn excuses aangeboden voor een video van 19 jaar geleden waarin hij \"Heil Hitler\" zegt en de nazigroet…"
         },
         {
-          "title": "VS haalt alle bommenwerpers weg van Britse luchtmachtbasis na mogelijk verijdelde aanslag",
-          "url": "https://vrtnws.be/p.LNDPXEW61",
-          "time": "2026-10-04T21:26:50.000Z",
-          "summary": "De Amerikaanse luchtmacht heeft al haar bommenwerpers teruggetrokken van de Britse luchtmachtbasis RAF Fairford in Engeland. Dat gebeurt nadat er eind september mogelijk…"
+          "title": "Na jaren protest nieuwe poging voor bouwproject op Kolmenveld in Tessenderlo: \"Mensen wachten op woonzorgcentrum\"",
+          "url": "https://vrtnws.be/p.E1X6xyZaQ",
+          "time": "2026-10-05T07:04:37.000Z",
+          "summary": "De gemeente Tessenderlo-Ham en een projectontwikkelaar doen een nieuwe poging om een vergunning te krijgen voor een grootschalig project op het Kolmenveld. De komst van…"
         },
         {
-          "title": "Dodelijke brand bij toegangsweg Machu Picchu is onder controle na zware bluswerken",
-          "url": "https://vrtnws.be/p.APXVMeQL6",
-          "time": "2026-10-04T19:41:53.000Z",
-          "summary": "De natuurbrand bij de beroemde incastad Machu Picchu is onder controle, dat meldt de lokale brandweer in Peru. De brand was ontstaan bij de belangrijkste toegangsweg tot…"
+          "title": "Dambrug in Moerbeke 2 weken gesloten door werken: beschermd monument krijgt nieuwe houten vloer",
+          "url": "https://vrtnws.be/p.xZWebvJ8Z",
+          "time": "2026-10-05T07:01:46.000Z",
+          "summary": "Je zal de komende 11 dagen niet over de Dambrug kunnen in Moerbeke bij Lokeren. De ophaalbrug is voor al het verkeer afgesloten, omdat de vloer een opknapbeurt krijgt.…"
         },
         {
-          "title": "Zijn je (bank)gegevens gelekt na een cyberaanval of datalek? Zo bescherm je jezelf tegen oplichters",
-          "url": "https://vrtnws.be/p.qEdlJa7KV",
-          "time": "2026-10-04T18:32:56.000Z",
-          "summary": "Wat als je persoonsgegevens, of zelfs je bankgegevens, op straat belanden na een datalek? Het overkwam 700.000 mensen na een cyberaanval op een databank van het Waalse…"
+          "title": "Waarom richt Rusland drones op bruggen in Kiev? \"Steden onleefbaar maken om Oekraïne tot overgave te dwingen\"",
+          "url": "https://vrtnws.be/p.DYXENj3G0",
+          "time": "2026-10-05T06:58:24.000Z",
+          "summary": "Rusland wil grote steden onleefbaar maken om de economie te ontwrichten en Oekraïne tot overgave te dwingen. Dat zegt Tom Simoens, hoogleraar aan de Koninklijke…"
         },
         {
-          "title": "2 uur wachten en lange rijen: British Museum worstelt met populariteit Tapijt van Bayeux",
-          "url": "https://vrtnws.be/p.8eXk9koKK",
-          "time": "2026-10-04T18:24:41.000Z",
-          "summary": "Het British Museum moet maatregelen nemen om de drukte de baas te kunnen die het Tapijt van Bayeux veroorzaakt. Sommige bezoekers melden wachttijden van 2 uur, en flinke…"
+          "title": "Geen asbest gevonden op Inghelantsite in Ninove",
+          "url": "https://vrtnws.be/p.oL1A0A6v8",
+          "time": "2026-10-05T06:57:21.000Z",
+          "summary": "Er is geen asbest gevonden op de Inghelantsite in Ninove. Dat blijkt uit een onderzoek dat de stad liet uitvoeren. Het gaat om een zone van ongeveer 500 vierkante meter…"
         }
       ]
     }
