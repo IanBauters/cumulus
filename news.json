@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-06T17:04:53.992Z",
+  "generatedAt": "2026-10-06T21:49:11.569Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-06T17:04:53.992Z",
+      "fetchedAt": "2026-10-06T21:49:11.569Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple to Report Q4 2026 Earnings on November 2",
+          "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
+          "time": "2026-10-06T21:44:03.000Z",
+          "summary": "Apple plans to announce its earnings for the fourth fiscal quarter of 2026 on Monday, November 2, according to the company's updated Investor Relations page . The…"
+        },
+        {
+          "title": "macOS 27.2 Further Hints at MacBook With Touch-Enabled OLED Display",
+          "url": "https://www.macrumors.com/2026/10/06/macos-27-2-hints-at-macbook-with-touchscreen/",
+          "time": "2026-10-06T20:49:41.000Z",
+          "summary": "The latest macOS 27.2 beta released this week further hints at the long-rumored MacBook with a touchscreen, which is expected to be unveiled by next month. Specifically,…"
+        },
+        {
+          "title": "Three Years of 80% Charge Limits on iPhone: The Results",
+          "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
+          "time": "2026-10-06T19:59:51.000Z",
+          "summary": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend battery lifespan. Charging to 80 percent instead of 100 percent is…"
+        },
+        {
+          "title": "Apple Releases Second Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+          "url": "https://www.macrumors.com/2026/10/06/ios-27-2-public-beta-2/",
+          "time": "2026-10-06T17:06:24.000Z",
+          "summary": "Apple today seeded the second betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after Apple provided the…"
+        },
         {
           "title": "'Crossy Road Rush' Launching Exclusively on Apple Arcade in November",
           "url": "https://www.macrumors.com/2026/10/06/crossy-road-rush-apple-arcade/",
           "time": "2026-10-06T16:46:09.000Z",
           "summary": "Apple today announced that the all-new \"Crossy Road\" spinoff game \" Crossy Road Rush \" will be launching exclusively on Apple Arcade on Thursday, November 5. Crossy Road…"
-        },
-        {
-          "title": "Apple Watch Series 9 vs. Series 12 Buyer's Guide: Is It Worth Upgrading?",
-          "url": "https://www.macrumors.com/guide/apple-watch-series-9-vs-series-12/",
-          "time": "2026-10-06T16:16:46.000Z",
-          "summary": "The Apple Watch Series 12 is now available, three years after the Series 9. In that time, Apple has introduced a thinner design, larger displays, faster charging, new…"
-        },
-        {
-          "title": "Apple TV 4K Rumored to Support Four HomePods for Surround Sound",
-          "url": "https://www.macrumors.com/2026/10/06/apple-tv-4k-four-homepods-rumor/",
-          "time": "2026-10-06T14:40:21.000Z",
-          "summary": "Last month, a proven leaker revealed that Apple has tested the ability to connect four HomePods to an Apple TV 4K for surround sound, with the HomePods intended to be…"
-        },
-        {
-          "title": "iPhone 18 Pro and Duo Were Once Planned With 16GB RAM, Leaker Says",
-          "url": "https://www.macrumors.com/2026/10/06/iphone-18-pro-and-duo-planned-with-16gb/",
-          "time": "2026-10-06T14:22:11.000Z",
-          "summary": "Apple initially planned to equip the iPhone 18 Pro lineup and iPhone Duo with 16GB of RAM, according to the leaker known as \" Instant Digital .\" The brief Weibo post…"
-        },
-        {
-          "title": "Apple's $634 Million Apple Watch Patent Bill Just Got Even Bigger",
-          "url": "https://www.macrumors.com/2026/10/06/apple-watch-patent-bill-just-got-bigger/",
-          "time": "2026-10-06T13:09:59.000Z",
-          "summary": "Apple's $634 million patent loss to medical technology company Masimo has just gotten even bigger, after a federal judge ordered Apple to pay an additional $184 million…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-06T17:04:53.992Z",
+      "fetchedAt": "2026-10-06T21:49:11.569Z",
       "error": null,
       "items": [
         {
-          "title": "macOS 27.2 public beta 2 now available, here’s what’s coming",
-          "url": "https://9to5mac.com/2026/10/06/macos-27-2-public-beta-2-now-available-heres-whats-coming/",
-          "time": "2026-10-06T17:04:33.000Z",
-          "summary": "One day after rolling out macOS 27.2 beta 3 to developers , Apple is now rolling out the equivalent build for users enrolled in the public beta program. Here’s what’s…"
+          "title": "Report: Apple’s smart home push includes LG-made doorbell, lock, thermostat, more",
+          "url": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/",
+          "time": "2026-10-06T21:38:00.000Z",
+          "summary": "Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG. Here are the details. more…"
         },
         {
-          "title": "Apple releases second iOS 27.2 public beta with new iPhone Health app",
-          "url": "https://9to5mac.com/2026/10/06/apple-releases-second-ios-27-2-public-beta-with-new-iphone-health-app/",
-          "time": "2026-10-06T17:04:16.000Z",
-          "summary": "Apple has released the second iOS 27.2 public beta, which includes the all-new Health app on iPhone. more…"
+          "title": "Apple sets Q4 2026 earnings release for November 2",
+          "url": "https://9to5mac.com/2026/10/06/apple-sets-q4-2026-earnings-release-for-november-2/",
+          "time": "2026-10-06T21:18:30.000Z",
+          "summary": "Apple will announce the results of its fiscal third quarter of 2026 on Monday, November 2. Here’s what to expect. more…"
         },
         {
-          "title": "Apple’s MacBook Pro overhaul is coming soon, here’s what to expect",
-          "url": "https://9to5mac.com/2026/10/06/apples-huge-macbook-pro-overhaul-is-coming-soon-heres-what-we-know/",
-          "time": "2026-10-06T15:25:02.000Z",
-          "summary": "Apple just released a MacBook Pro update in March, but there’s more coming soon. Apple is expected to debut one of its biggest MacBook Pro updates ever as soon as later…"
+          "title": "Tim Cook sold nearly $63.9 million in Apple shares this month",
+          "url": "https://9to5mac.com/2026/10/06/tim-cook-sold-nearly-63-9-million-in-apple-shares-this-month/",
+          "time": "2026-10-06T20:11:43.000Z",
+          "summary": "Apple executive chair and former CEO Tim Cook sold nearly 200,000 Apple shares on October 2, one day after more than 374,000 restricted stock units vested as part of his…"
         },
         {
-          "title": "Apple TV unveils new series reuniting stars of record-breaking comedy",
-          "url": "https://9to5mac.com/2026/10/06/apple-tv-unveils-new-series-reuniting-stars-of-record-breaking-comedy/",
-          "time": "2026-10-06T15:04:29.000Z",
-          "summary": "Apple TV announced a new comedy series coming—The Choir—that reunites Ruth Jones and James Corden, the duo from beloved UK sitcom Gavin & Stacey. more…"
+          "title": "New Crossy Road game announced as an Apple Arcade exclusive",
+          "url": "https://9to5mac.com/2026/10/06/new-crossy-road-game-announced-as-an-apple-arcade-exclusive/",
+          "time": "2026-10-06T19:36:48.000Z",
+          "summary": "Starting November 5, Apple Arcade subscribers will get access to Crossy Road Rush, a new arcade island adventure with solo and four-player multiplayer racing modes.…"
         },
         {
-          "title": "Here’s what iPhone Duo’s new two-page PDF experience looks like",
-          "url": "https://9to5mac.com/2026/10/06/heres-what-iphone-duos-new-two-page-pdf-experience-looks-like/",
-          "time": "2026-10-06T14:20:32.000Z",
-          "summary": "iPhone Duo was officially unveiled in early September, but we continue to learn more about the device in the lead-up to its October launch . The latest reveal is a…"
+          "title": "New Apple TV comedy hailed as ‘finest show to hit Apple’ this year",
+          "url": "https://9to5mac.com/2026/10/06/new-apple-tv-comedy-hailed-as-finest-show-to-hit-apple-this-year/",
+          "time": "2026-10-06T19:03:00.000Z",
+          "summary": "Apple TV is having a great year, and its latest series— Small Prophets —is getting hailed as perhaps the streamer’s best 2026 debut yet. Here’s what reviews say. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-06T17:04:53.992Z",
+      "fetchedAt": "2026-10-06T21:49:11.569Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-06T17:04:53.992Z",
+      "fetchedAt": "2026-10-06T21:49:11.569Z",
       "error": null,
       "items": [
         {
-          "title": "Donald Trump geeft leger toestemming voor eerste doodstraf met vuurpeloton sinds Tweede Wereldoorlog",
-          "url": "https://vrtnws.be/p.RaydwywbM",
-          "time": "2026-10-06T16:55:54.000Z",
-          "summary": "De voormalige legermajoor Nidal Hasan die in 2009 13 militairen doodschoot en 32 anderen verwondde, zal zijn doodstraf moeten ondergaan met een vuurpeloton. Dat heeft…"
+          "title": "Christa Pike na mislukte executie opnieuw bij bewustzijn, zeggen haar advocaten",
+          "url": "https://vrtnws.be/p.93XA84nVM",
+          "time": "2026-10-06T21:22:02.000Z",
+          "summary": "Christa Pike, een ter dood veroordeelde gedetineerde die in de Amerikaanse staat Tennessee een poging om haar te executeren heeft overleefd, is bij bewustzijn en kan…"
         },
         {
-          "title": "Patiënt valt hulpverleners aan in Kortrijk, mug-voertuig zwaar beschadigd: \"Emotionele schade groter dan materiële\"",
-          "url": "https://vrtnws.be/p.y3moKj9K5",
-          "time": "2026-10-06T16:44:30.000Z",
-          "summary": "In Kortrijk zijn afgelopen nacht een spoedarts, een verpleger en 2 ambulanciers aangevallen door een patiënt van 24. Ze gingen de man ophalen, omdat hij bewusteloos op…"
+          "title": "Avonturier Karl Bushby (57) is na 28 jaar wandelen rond de wereld aangekomen in thuisland Engeland",
+          "url": "https://vrtnws.be/p.KKXPaGvvm",
+          "time": "2026-10-06T20:37:04.000Z",
+          "summary": "28 jaar nadat hij zijn vaderland verliet, is de Britse avonturier Karl Bushby terug in Engeland. Het Kanaal overzwemmen van Frankrijk naar Dover in het Verenigd…"
         },
         {
-          "title": "UAntwerpen waarschuwt voor deepfakevideo waarin viroloog Pierre Van Damme reclame maakt voor medicijn",
-          "url": "https://vrtnws.be/p.xZWeQMkxl",
-          "time": "2026-10-06T16:27:51.000Z",
-          "summary": "De Universiteit Antwerpen waarschuwt voor een deepfakevideo waarin vaccinoloog en epidemioloog Pierre Van Damme reclame lijkt te maken voor een middel tegen…"
+          "title": "Meer dan 5.000 euro voor paneel Atomium, maar ook enkele onverkochte topstukken: VRT veilt deel van kunstcollectie",
+          "url": "https://vrtnws.be/p.43NWbQk7Q",
+          "time": "2026-10-06T19:06:30.000Z",
+          "summary": "Een deel van de kunstcollectie van VRT is bij veilinghuis Bernaerts in Antwerpen onder de hamer gegaan. Verschillende werken gingen boven hun geschatte prijs, maar…"
         },
         {
-          "title": "Duivenmelkers in en rond Balen zien wedstrijdseizoen vroeger eindigen door vogelgriep: \"Dikke pech\"",
-          "url": "https://vrtnws.be/p.DYXEk0eYm",
-          "time": "2026-10-06T16:20:24.000Z",
-          "summary": "Heel wat duivenmelkers in regio Balen kunnen hun wedstrijdseizoen dit jaar niet afmaken door een besmetting van vogelgriep. Die werd gisteren vastgesteld bij een…"
+          "title": "Legendarische film Jaws speelt in het zwembad van Kapermolen: \"Spannend om in het water te liggen als de haai in beeld komt\"",
+          "url": "https://vrtnws.be/p.XEX8W5n9b",
+          "time": "2026-10-06T19:06:17.000Z",
+          "summary": "Om het nieuwe academiejaar origineel af te trappen, organiseerde Cinema Zed vanavond speciaal voor studenten een filmavond in het zwembad van Kapermolen. Op ligbedden in…"
         },
         {
-          "title": "Politiezone Hageland focust onder meer op drugs, inbraken en cybercriminaliteit in nieuw veiligheidsplan",
-          "url": "https://vrtnws.be/p.RaydwB9oe",
-          "time": "2026-10-06T15:59:37.000Z",
-          "summary": "De politiezone Hageland heeft een veiligheidsplan klaar voor de komende 6 jaar. De politie gaat focussen op drugs, inbraken, cybercriminaliteit en geweld binnen het…"
+          "title": "3 gewonden na verkeersongeval aan Carrefour in Pittem",
+          "url": "https://vrtnws.be/p.LNDnlbGeV",
+          "time": "2026-10-06T18:45:22.000Z",
+          "summary": "Een bestuurder van 81 heeft een vrouw van 86 aangereden aan de ingang van de supermarkt Carrefour in Pittem. De vrouw raakte zwaargewond. Ook de bestuurder zelf en zijn…"
         }
       ]
     }
