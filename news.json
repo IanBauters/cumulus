@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-06T03:13:56.676Z",
+  "generatedAt": "2026-10-06T10:40:26.668Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-06T03:13:56.676Z",
+      "fetchedAt": "2026-10-06T10:40:26.668Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Quietly Boosts Email Feature for iCloud+ Subscribers",
+          "url": "https://www.macrumors.com/2026/10/06/apple-quietly-icloud-plus-email-feature/",
+          "time": "2026-10-06T10:27:47.000Z",
+          "summary": "Yesterday we reported that Apple tripled the number of iCloud Mail aliases users can create, from three to nine . But it turns out that's not the only email-related…"
+        },
+        {
+          "title": "iOS 27.2 May Let You Hide Specific Suggested Actions in Messages",
+          "url": "https://www.macrumors.com/2026/10/06/ios-27-2-switch-off-messages-suggestions/",
+          "time": "2026-10-06T09:43:18.000Z",
+          "summary": "iOS 27.2 is coming soon with several new features for iPhone users, including Suggested Actions in Messages, a feature that lets the Messages app offer actions based on…"
+        },
+        {
+          "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+          "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+          "time": "2026-10-06T03:20:06.000Z",
+          "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.…"
+        },
         {
           "title": "Sources: Apple Planning Two Sets of Product Launches in October",
           "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
@@ -15,28 +33,10 @@
           "summary": "Bloomberg 's Mark Gurman recently reported that Apple plans to unveil an all-new home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13 , and…"
         },
         {
-          "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
-          "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
-          "time": "2026-10-06T02:15:04.000Z",
-          "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.…"
-        },
-        {
           "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
           "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
           "time": "2026-10-05T21:19:03.000Z",
           "summary": "Apple's latest tvOS 27.2 beta adds weight to rumors that the next Apple TV will have Siri AI and Apple Intelligence support. Code suggests Apple is adding an Improve…"
-        },
-        {
-          "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra",
-          "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
-          "time": "2026-10-05T21:14:08.000Z",
-          "summary": "macOS Golden Gate 27.2 adds code referencing new touch-specific gestures in apps like Safari, Notes, Photos , and Quick Look, a possible sign Apple is preparing to…"
-        },
-        {
-          "title": "Apple and AT&T Have Yet to Explain Cause of iPhone 18 Pro Max Issue",
-          "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
-          "time": "2026-10-05T21:10:06.000Z",
-          "summary": "In a statement shared with MacRumors on Friday, Apple said that iPhone 18 Pro Max users who have experienced an issue where AT&T cellular service does not work will need…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-06T03:13:56.676Z",
+      "fetchedAt": "2026-10-06T10:40:26.668Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple reportedly planning second wave of product announcements later this month",
+          "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+          "time": "2026-10-06T03:25:14.000Z",
+          "summary": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the…"
+        },
         {
           "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
           "url": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/",
           "time": "2026-10-05T22:55:49.000Z",
           "summary": "A new open-source tool is going viral over its promise to let users who aren’t interested in Apple Intelligence reclaim 12GB or more of storage on their Macs. Here are…"
-        },
-        {
-          "title": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
-          "url": "https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving/",
-          "time": "2026-10-05T22:30:00.000Z",
-          "summary": "Do you remember the first time you backed out of the driveway on your own? It was pure freedom. For your parents? It was probably one of the most terrifying times of…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-06T03:13:56.676Z",
+      "fetchedAt": "2026-10-06T10:40:26.668Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-06T03:13:56.676Z",
+      "fetchedAt": "2026-10-06T10:40:26.668Z",
       "error": null,
       "items": [
         {
-          "title": "Dodelijk ongeval op E313 in Geel: vrachtwagenchauffeur aangereden op pechstrook",
-          "url": "https://vrtnws.be/p.w78dylN3E",
-          "time": "2026-10-05T21:21:14.000Z",
-          "summary": "Op de snelweg E313 in Geel is een dodelijk verkeersongeval gebeurd. Het slachtoffer werd op de pechstrook aangereden door een vrachtwagen en overleed ter plaatse."
+          "title": "Nultolerantie voor beginnende bestuurders en 'alcoholpoort': regering gaat strijd tegen alcohol in verkeer aan",
+          "url": "https://vrtnws.be/p.APX5WxGw6",
+          "time": "2026-10-06T10:36:35.000Z",
+          "summary": "De federale regering voert in 2027 een nultolerantie in voor beginnende bestuurders. Dat hebben federaal minister van Mobiliteit Jean-Luc Crucke (Les Engagés) en…"
         },
         {
-          "title": "Bietencampagne start in Tienen: \"Goede oogst, ondanks droge zomer\"",
-          "url": "https://vrtnws.be/p.lOlyD48EZ",
-          "time": "2026-10-05T19:07:41.000Z",
-          "summary": "De bietencampagne gaat van start op 6 oktober. De komende weken brengen landbouwers hun bieten van het veld naar de suikerraffinaderij in Tienen, waar er suiker van…"
+          "title": "Spaans Hooggerechtshof maakt weg vrij voor terugkeer Catalaanse leider Carles Puigdemont",
+          "url": "https://vrtnws.be/p.3Bx8y8p9D",
+          "time": "2026-10-06T10:29:44.000Z",
+          "summary": "In Spanje ligt de weg vrij voor een terugkeer van de Catalaanse leider Carles Puigdemont. Het Hooggerechtshof heeft beslist dat een amnestiewet moet kunnen worden…"
         },
         {
-          "title": "Duitse inlichtingenchef waarschuwt voor directe confrontatie met Rusland",
-          "url": "https://vrtnws.be/p.w78d1PxPJ",
-          "time": "2026-10-05T19:06:00.000Z",
-          "summary": "Het risico op een directe confrontatie tussen Duitsland en Rusland neemt toe, zeker nu het Kremlin zijn schaduwoorlog tegen Berlijn opdrijft en Duitsland steun blijft…"
+          "title": "Vooral bij fietsers stijgt aantal dodelijke ongevallen: \"Trend zet zich voort\"",
+          "url": "https://vrtnws.be/p.w78dnbnnE",
+          "time": "2026-10-06T10:26:40.000Z",
+          "summary": "In de eerste helft van dit jaar zijn er meer verkeersdoden gevallen dan in dezelfde periode vorig jaar. Dat blijkt uit de verkeersveiligheidsbarometer van…"
         },
         {
-          "title": "Vernieuwde fietssnelweg F70 tussen Hasselt en Diepenbeek trekt kwart meer studenten",
-          "url": "https://vrtnws.be/p.VLyRWnY0V",
-          "time": "2026-10-05T17:37:59.000Z",
-          "summary": "De recent verbeterde fietssnelweg F70 tussen Hasselt en Diepenbeek trekt meer fietsende studenten. Tegenover 2025 telt het traject een kwart meer fietsers. \"De route is…"
+          "title": "Politie Leuven waarschuwt voor valse politieagenten: \"Proberen juwelen of bankkaarten te stelen\"",
+          "url": "https://vrtnws.be/p.M9Xlq5Wva",
+          "time": "2026-10-06T10:22:08.000Z",
+          "summary": "De politie van Leuven waarschuwt opnieuw voor oplichters die zich voordoen als politieagenten. De valse agenten komen thuis langs en vragen om kostbare spullen te tonen…"
         },
         {
-          "title": "Reizigersvereniging TreinTramBus vraagt uitleg aan NMBS na chaos met vervangbussen tussen Oostende en Brugge",
-          "url": "https://vrtnws.be/p.YbyWK8vYX",
-          "time": "2026-10-05T17:24:33.000Z",
-          "summary": "Reizigersvereniging TreinTramBus heeft de NMBS een brief gestuurd met vragen over de chaotische busvervanging van afgelopen weekend tussen Oostende en Brugge. Er waren…"
+          "title": "\"Gratis matcha\": beelden van eendenkroos in Gentse wateren halen BBC",
+          "url": "https://vrtnws.be/p.vL4M6Mwnj",
+          "time": "2026-10-06T09:56:21.000Z",
+          "summary": "De beelden van de Gentse waterlopen vol eendenkroos hebben nu ook de Britse publieke omroep BBC gehaald. Het eendenkroos belandde enkele weken geleden via de Leie vanuit…"
         }
       ]
     }
