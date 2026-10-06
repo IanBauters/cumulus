@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-05T23:06:42.280Z",
+  "generatedAt": "2026-10-06T03:13:56.676Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-05T23:06:42.280Z",
+      "fetchedAt": "2026-10-06T03:13:56.676Z",
       "error": null,
       "items": [
+        {
+          "title": "Sources: Apple Planning Two Sets of Product Launches in October",
+          "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
+          "time": "2026-10-06T02:25:00.000Z",
+          "summary": "Bloomberg 's Mark Gurman recently reported that Apple plans to unveil an all-new home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13 , and…"
+        },
+        {
+          "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+          "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+          "time": "2026-10-06T02:15:04.000Z",
+          "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.…"
+        },
         {
           "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
           "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
@@ -23,20 +35,8 @@
         {
           "title": "Apple and AT&T Have Yet to Explain Cause of iPhone 18 Pro Max Issue",
           "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
-          "time": "2026-10-05T21:10:15.000Z",
+          "time": "2026-10-05T21:10:06.000Z",
           "summary": "In a statement shared with MacRumors on Friday, Apple said that iPhone 18 Pro Max users who have experienced an issue where AT&T cellular service does not work will need…"
-        },
-        {
-          "title": "Apple Seeds Third macOS Golden Gate 27.2 Beta to Developers",
-          "url": "https://www.macrumors.com/2026/10/05/apple-seeds-macos-27-2-beta-3/",
-          "time": "2026-10-05T18:23:19.000Z",
-          "summary": "Apple is testing the next macOS Golden Gate update, and developers can download the second &zwnj;macOS Golden Gate&zwnj; 27.2 beta. The third beta comes two weeks after…"
-        },
-        {
-          "title": "Apple Releases Third iOS 27.2 Beta",
-          "url": "https://www.macrumors.com/2026/10/05/apple-seeds-ios-27-2-beta-3/",
-          "time": "2026-10-05T18:23:14.000Z",
-          "summary": "Apple today seeded the third beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming two weeks after Apple released the second iOS…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-05T23:06:42.280Z",
+      "fetchedAt": "2026-10-06T03:13:56.676Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
+          "url": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
+          "time": "2026-10-06T01:43:32.000Z",
+          "summary": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI went beyond…"
+        },
+        {
+          "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
+          "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/",
+          "time": "2026-10-06T00:52:16.000Z",
+          "summary": "With the iPhone Duo launch fast approaching, Apple is now accepting submissions of iPhone Duo-optimized apps and games built with Xcode 27.1. Here are the details. more…"
+        },
+        {
+          "title": "Apple may soon track when Google promotes Chrome inside Safari",
+          "url": "https://9to5mac.com/2026/10/05/apple-may-soon-track-when-google-promotes-chrome-inside-safari/",
+          "time": "2026-10-05T23:09:35.000Z",
+          "summary": "Apple may be preparing to track when Google promotes Chrome or the Google app to users browsing in Safari, and how users react to those promotions. Here are the details.…"
+        },
         {
           "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
           "url": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving/",
           "time": "2026-10-05T22:30:00.000Z",
           "summary": "Do you remember the first time you backed out of the driveway on your own? It was pure freedom. For your parents? It was probably one of the most terrifying times of…"
-        },
-        {
-          "title": "macOS 27.2 reveals new clues about Apple’s touchscreen MacBook Pro",
-          "url": "https://9to5mac.com/2026/10/05/macos-27-2-reveals-new-clues-about-apples-touchscreen-macbook-pro/",
-          "time": "2026-10-05T21:34:48.000Z",
-          "summary": "Apple is widely expected to release a new touchscreen MacBook Pro as soon as this month. This will mark the first-ever touchscreen Mac, and Apple is laying the…"
-        },
-        {
-          "title": "This is Apple Music’s new logo, probably",
-          "url": "https://9to5mac.com/2026/10/05/this-is-apple-musics-new-logo-probably/",
-          "time": "2026-10-05T20:50:43.000Z",
-          "summary": "Apple Music seems to be rolling out a new logo, as spotted in several places including iOS 27 beta 3. more…"
-        },
-        {
-          "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
-          "url": "https://9to5mac.com/2026/10/05/openai-details-new-text-watermarking-system-for-chatgpt-codex-and-the-api/",
-          "time": "2026-10-05T20:46:17.000Z",
-          "summary": "OpenAI today announced how it will comply with the EU AI Act, which requires providers of generative AI systems to mark AI-generated text in a way that makes it…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-05T23:06:42.280Z",
+      "fetchedAt": "2026-10-06T03:13:56.676Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-05T23:06:42.280Z",
+      "fetchedAt": "2026-10-06T03:13:56.676Z",
       "error": null,
       "items": [
         {
