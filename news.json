@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-06T10:40:26.668Z",
+  "generatedAt": "2026-10-06T17:04:53.992Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-06T10:40:26.668Z",
+      "fetchedAt": "2026-10-06T17:04:53.992Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Quietly Boosts Email Feature for iCloud+ Subscribers",
-          "url": "https://www.macrumors.com/2026/10/06/apple-quietly-icloud-plus-email-feature/",
-          "time": "2026-10-06T10:27:47.000Z",
-          "summary": "Yesterday we reported that Apple tripled the number of iCloud Mail aliases users can create, from three to nine . But it turns out that's not the only email-related…"
+          "title": "'Crossy Road Rush' Launching Exclusively on Apple Arcade in November",
+          "url": "https://www.macrumors.com/2026/10/06/crossy-road-rush-apple-arcade/",
+          "time": "2026-10-06T16:46:09.000Z",
+          "summary": "Apple today announced that the all-new \"Crossy Road\" spinoff game \" Crossy Road Rush \" will be launching exclusively on Apple Arcade on Thursday, November 5. Crossy Road…"
         },
         {
-          "title": "iOS 27.2 May Let You Hide Specific Suggested Actions in Messages",
-          "url": "https://www.macrumors.com/2026/10/06/ios-27-2-switch-off-messages-suggestions/",
-          "time": "2026-10-06T09:43:18.000Z",
-          "summary": "iOS 27.2 is coming soon with several new features for iPhone users, including Suggested Actions in Messages, a feature that lets the Messages app offer actions based on…"
+          "title": "Apple Watch Series 9 vs. Series 12 Buyer's Guide: Is It Worth Upgrading?",
+          "url": "https://www.macrumors.com/guide/apple-watch-series-9-vs-series-12/",
+          "time": "2026-10-06T16:16:46.000Z",
+          "summary": "The Apple Watch Series 12 is now available, three years after the Series 9. In that time, Apple has introduced a thinner design, larger displays, faster charging, new…"
         },
         {
-          "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
-          "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
-          "time": "2026-10-06T03:20:06.000Z",
-          "summary": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.…"
+          "title": "Apple TV 4K Rumored to Support Four HomePods for Surround Sound",
+          "url": "https://www.macrumors.com/2026/10/06/apple-tv-4k-four-homepods-rumor/",
+          "time": "2026-10-06T14:40:21.000Z",
+          "summary": "Last month, a proven leaker revealed that Apple has tested the ability to connect four HomePods to an Apple TV 4K for surround sound, with the HomePods intended to be…"
         },
         {
-          "title": "Sources: Apple Planning Two Sets of Product Launches in October",
-          "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
-          "time": "2026-10-06T02:25:00.000Z",
-          "summary": "Bloomberg 's Mark Gurman recently reported that Apple plans to unveil an all-new home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13 , and…"
+          "title": "iPhone 18 Pro and Duo Were Once Planned With 16GB RAM, Leaker Says",
+          "url": "https://www.macrumors.com/2026/10/06/iphone-18-pro-and-duo-planned-with-16gb/",
+          "time": "2026-10-06T14:22:11.000Z",
+          "summary": "Apple initially planned to equip the iPhone 18 Pro lineup and iPhone Duo with 16GB of RAM, according to the leaker known as \" Instant Digital .\" The brief Weibo post…"
         },
         {
-          "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
-          "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
-          "time": "2026-10-05T21:19:03.000Z",
-          "summary": "Apple's latest tvOS 27.2 beta adds weight to rumors that the next Apple TV will have Siri AI and Apple Intelligence support. Code suggests Apple is adding an Improve…"
+          "title": "Apple's $634 Million Apple Watch Patent Bill Just Got Even Bigger",
+          "url": "https://www.macrumors.com/2026/10/06/apple-watch-patent-bill-just-got-bigger/",
+          "time": "2026-10-06T13:09:59.000Z",
+          "summary": "Apple's $634 million patent loss to medical technology company Masimo has just gotten even bigger, after a federal judge ordered Apple to pay an additional $184 million…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-06T10:40:26.668Z",
+      "fetchedAt": "2026-10-06T17:04:53.992Z",
       "error": null,
       "items": [
         {
-          "title": "Apple reportedly planning second wave of product announcements later this month",
-          "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
-          "time": "2026-10-06T03:25:14.000Z",
-          "summary": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the…"
+          "title": "macOS 27.2 public beta 2 now available, here’s what’s coming",
+          "url": "https://9to5mac.com/2026/10/06/macos-27-2-public-beta-2-now-available-heres-whats-coming/",
+          "time": "2026-10-06T17:04:33.000Z",
+          "summary": "One day after rolling out macOS 27.2 beta 3 to developers , Apple is now rolling out the equivalent build for users enrolled in the public beta program. Here’s what’s…"
         },
         {
-          "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
-          "url": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
-          "time": "2026-10-06T01:43:32.000Z",
-          "summary": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI went beyond…"
+          "title": "Apple releases second iOS 27.2 public beta with new iPhone Health app",
+          "url": "https://9to5mac.com/2026/10/06/apple-releases-second-ios-27-2-public-beta-with-new-iphone-health-app/",
+          "time": "2026-10-06T17:04:16.000Z",
+          "summary": "Apple has released the second iOS 27.2 public beta, which includes the all-new Health app on iPhone. more…"
         },
         {
-          "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
-          "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/",
-          "time": "2026-10-06T00:52:16.000Z",
-          "summary": "With the iPhone Duo launch fast approaching, Apple is now accepting submissions of iPhone Duo-optimized apps and games built with Xcode 27.1. Here are the details. more…"
+          "title": "Apple’s MacBook Pro overhaul is coming soon, here’s what to expect",
+          "url": "https://9to5mac.com/2026/10/06/apples-huge-macbook-pro-overhaul-is-coming-soon-heres-what-we-know/",
+          "time": "2026-10-06T15:25:02.000Z",
+          "summary": "Apple just released a MacBook Pro update in March, but there’s more coming soon. Apple is expected to debut one of its biggest MacBook Pro updates ever as soon as later…"
         },
         {
-          "title": "Apple may soon track when Google promotes Chrome inside Safari",
-          "url": "https://9to5mac.com/2026/10/05/apple-may-soon-track-when-google-promotes-chrome-inside-safari/",
-          "time": "2026-10-05T23:09:35.000Z",
-          "summary": "Apple may be preparing to track when Google promotes Chrome or the Google app to users browsing in Safari, and how users react to those promotions. Here are the details.…"
+          "title": "Apple TV unveils new series reuniting stars of record-breaking comedy",
+          "url": "https://9to5mac.com/2026/10/06/apple-tv-unveils-new-series-reuniting-stars-of-record-breaking-comedy/",
+          "time": "2026-10-06T15:04:29.000Z",
+          "summary": "Apple TV announced a new comedy series coming—The Choir—that reunites Ruth Jones and James Corden, the duo from beloved UK sitcom Gavin & Stacey. more…"
         },
         {
-          "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
-          "url": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/",
-          "time": "2026-10-05T22:55:49.000Z",
-          "summary": "A new open-source tool is going viral over its promise to let users who aren’t interested in Apple Intelligence reclaim 12GB or more of storage on their Macs. Here are…"
+          "title": "Here’s what iPhone Duo’s new two-page PDF experience looks like",
+          "url": "https://9to5mac.com/2026/10/06/heres-what-iphone-duos-new-two-page-pdf-experience-looks-like/",
+          "time": "2026-10-06T14:20:32.000Z",
+          "summary": "iPhone Duo was officially unveiled in early September, but we continue to learn more about the device in the lead-up to its October launch . The latest reveal is a…"
         }
       ]
     },
@@ -83,9 +83,21 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-06T10:40:26.668Z",
+      "fetchedAt": "2026-10-06T17:04:53.992Z",
       "error": null,
       "items": [
+        {
+          "title": "Deflector Turns iOS 27 Notification Triggers into a Shortcut Launcher",
+          "url": "https://www.macstories.net/ios/deflector-turns-ios-27-notification-triggers-into-a-shortcut-launcher/",
+          "time": "2026-10-06T14:51:54.000Z",
+          "summary": "Deflector for iOS. In my iOS and iPadOS 27 review, I wrote about one of the more interesting additions to the Shortcuts app for power users: automation triggers based on…"
+        },
+        {
+          "title": "iPhone Duo App Submissions Are Open",
+          "url": "https://www.macstories.net/linked/iphone-duo-app-submissions-are-open/",
+          "time": "2026-10-06T11:43:59.000Z",
+          "summary": "Source: Apple. Yesterday, Apple announced on its developer blog that it has begun taking App Store submissions for iPhone Duo apps. The new foldable phone will be in…"
+        },
         {
           "title": "Apple Announces Plan to Impose New Full Disk Access Controls on Mac Developers",
           "url": "https://www.macstories.net/linked/apple-announces-plan-to-impose-new-full-disk-access-controls-on-mac-developers/",
@@ -103,18 +115,6 @@
           "url": "https://www.macstories.net/club/how-i-used-notion-agents-and-local-ai-to-research-and-organize-my-ios-27-review/",
           "time": "2026-10-02T13:30:25.000Z",
           "summary": "My Notion setup (left) and Desk, my custom system for the iOS and iPadOS review. The process for this year’s iOS and iPadOS review was, on the surface, similar to last…"
-        },
-        {
-          "title": "Frames CLI 1.5.0, Now with iPhone 18 Pro and (Experimental) iPhone Duo Support",
-          "url": "https://www.macstories.net/notes/frames-cli-1-5-0-now-with-iphone-18-pro-and-experimental-iphone-duo-support/",
-          "time": "2026-09-30T12:33:52.000Z",
-          "summary": "The updated Frames CLI also supports proportional scaling for iPhone Duo. The Frames CLI – the companion command line interface to my Apple Frames shortcut I released…"
-        },
-        {
-          "title": "Our Favorite Indie Apps for iOS 27, Vol. 2",
-          "url": "https://www.macstories.net/reviews/our-favorite-indie-apps-for-ios-27-vol-2/",
-          "time": "2026-09-22T16:15:36.000Z",
-          "summary": "It’s time to get back to our favorite indie apps that take advantage of Apple’s latest OS features. Today, we’re highlighting: Bear, Gentler Streak, The Outsiders,…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-06T10:40:26.668Z",
+      "fetchedAt": "2026-10-06T17:04:53.992Z",
       "error": null,
       "items": [
         {
-          "title": "Nultolerantie voor beginnende bestuurders en 'alcoholpoort': regering gaat strijd tegen alcohol in verkeer aan",
-          "url": "https://vrtnws.be/p.APX5WxGw6",
-          "time": "2026-10-06T10:36:35.000Z",
-          "summary": "De federale regering voert in 2027 een nultolerantie in voor beginnende bestuurders. Dat hebben federaal minister van Mobiliteit Jean-Luc Crucke (Les Engagés) en…"
+          "title": "Donald Trump geeft leger toestemming voor eerste doodstraf met vuurpeloton sinds Tweede Wereldoorlog",
+          "url": "https://vrtnws.be/p.RaydwywbM",
+          "time": "2026-10-06T16:55:54.000Z",
+          "summary": "De voormalige legermajoor Nidal Hasan die in 2009 13 militairen doodschoot en 32 anderen verwondde, zal zijn doodstraf moeten ondergaan met een vuurpeloton. Dat heeft…"
         },
         {
-          "title": "Spaans Hooggerechtshof maakt weg vrij voor terugkeer Catalaanse leider Carles Puigdemont",
-          "url": "https://vrtnws.be/p.3Bx8y8p9D",
-          "time": "2026-10-06T10:29:44.000Z",
-          "summary": "In Spanje ligt de weg vrij voor een terugkeer van de Catalaanse leider Carles Puigdemont. Het Hooggerechtshof heeft beslist dat een amnestiewet moet kunnen worden…"
+          "title": "Patiënt valt hulpverleners aan in Kortrijk, mug-voertuig zwaar beschadigd: \"Emotionele schade groter dan materiële\"",
+          "url": "https://vrtnws.be/p.y3moKj9K5",
+          "time": "2026-10-06T16:44:30.000Z",
+          "summary": "In Kortrijk zijn afgelopen nacht een spoedarts, een verpleger en 2 ambulanciers aangevallen door een patiënt van 24. Ze gingen de man ophalen, omdat hij bewusteloos op…"
         },
         {
-          "title": "Vooral bij fietsers stijgt aantal dodelijke ongevallen: \"Trend zet zich voort\"",
-          "url": "https://vrtnws.be/p.w78dnbnnE",
-          "time": "2026-10-06T10:26:40.000Z",
-          "summary": "In de eerste helft van dit jaar zijn er meer verkeersdoden gevallen dan in dezelfde periode vorig jaar. Dat blijkt uit de verkeersveiligheidsbarometer van…"
+          "title": "UAntwerpen waarschuwt voor deepfakevideo waarin viroloog Pierre Van Damme reclame maakt voor medicijn",
+          "url": "https://vrtnws.be/p.xZWeQMkxl",
+          "time": "2026-10-06T16:27:51.000Z",
+          "summary": "De Universiteit Antwerpen waarschuwt voor een deepfakevideo waarin vaccinoloog en epidemioloog Pierre Van Damme reclame lijkt te maken voor een middel tegen…"
         },
         {
-          "title": "Politie Leuven waarschuwt voor valse politieagenten: \"Proberen juwelen of bankkaarten te stelen\"",
-          "url": "https://vrtnws.be/p.M9Xlq5Wva",
-          "time": "2026-10-06T10:22:08.000Z",
-          "summary": "De politie van Leuven waarschuwt opnieuw voor oplichters die zich voordoen als politieagenten. De valse agenten komen thuis langs en vragen om kostbare spullen te tonen…"
+          "title": "Duivenmelkers in en rond Balen zien wedstrijdseizoen vroeger eindigen door vogelgriep: \"Dikke pech\"",
+          "url": "https://vrtnws.be/p.DYXEk0eYm",
+          "time": "2026-10-06T16:20:24.000Z",
+          "summary": "Heel wat duivenmelkers in regio Balen kunnen hun wedstrijdseizoen dit jaar niet afmaken door een besmetting van vogelgriep. Die werd gisteren vastgesteld bij een…"
         },
         {
-          "title": "\"Gratis matcha\": beelden van eendenkroos in Gentse wateren halen BBC",
-          "url": "https://vrtnws.be/p.vL4M6Mwnj",
-          "time": "2026-10-06T09:56:21.000Z",
-          "summary": "De beelden van de Gentse waterlopen vol eendenkroos hebben nu ook de Britse publieke omroep BBC gehaald. Het eendenkroos belandde enkele weken geleden via de Leie vanuit…"
+          "title": "Politiezone Hageland focust onder meer op drugs, inbraken en cybercriminaliteit in nieuw veiligheidsplan",
+          "url": "https://vrtnws.be/p.RaydwB9oe",
+          "time": "2026-10-06T15:59:37.000Z",
+          "summary": "De politiezone Hageland heeft een veiligheidsplan klaar voor de komende 6 jaar. De politie gaat focussen op drugs, inbraken, cybercriminaliteit en geweld binnen het…"
         }
       ]
     }
