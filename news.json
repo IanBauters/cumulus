@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-07T07:35:57.623Z",
+  "generatedAt": "2026-10-07T15:19:55.129Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-07T07:35:57.623Z",
+      "fetchedAt": "2026-10-07T15:19:55.129Z",
       "error": null,
       "items": [
         {
-          "title": "Three Years of 80% Charge Limits on iPhone: The Results",
-          "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
-          "time": "2026-10-06T22:24:55.000Z",
-          "summary": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend battery lifespan. Charging to 80 percent instead of 100 percent is…"
+          "title": "12 New Things to Expect From Apple in October",
+          "url": "https://www.macrumors.com/2026/10/07/12-new-things-to-expect-from-apple-in-october/",
+          "time": "2026-10-07T14:40:34.000Z",
+          "summary": "October is about to become a very busy month for Apple, with the company set to release the iPhone Duo, both iOS 27.1 and iOS 27.2, and a new Mac Studio configuration…"
         },
         {
-          "title": "LG Making Doorbell, Lock, and Cameras for Apple's Home Hub",
-          "url": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/",
-          "time": "2026-10-06T21:58:47.000Z",
-          "summary": "Apple is working with LG Electronics on smart home accessories that will integrate with the upcoming home hub and other Apple home products, reports Bloomberg . LG is…"
+          "title": "First Look at LG's Smart Home Products Made With Apple",
+          "url": "https://www.macrumors.com/2026/10/07/first-look-at-lg-apple-smart-home-products/",
+          "time": "2026-10-07T13:26:59.000Z",
+          "summary": "FCC filings reveal the designs of three upcoming LG smart home accessories that Apple reportedly helped develop, including a thermostat, a temperature sensor, and a…"
         },
         {
-          "title": "Apple to Report Q4 2026 Earnings on November 2",
-          "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
-          "time": "2026-10-06T21:44:03.000Z",
-          "summary": "Apple plans to announce its earnings for the fourth fiscal quarter of 2026 on Monday, November 2, according to the company's updated Investor Relations page . The…"
+          "title": "Apple Drops Intel Macs From Magic Mouse/Trackpad Compatibility Lists",
+          "url": "https://www.macrumors.com/2026/10/07/apple-drops-intel-macs-for-magic-mouse-trackpad/",
+          "time": "2026-10-07T13:06:28.000Z",
+          "summary": "Apple updated its Magic Mouse and Magic Trackpad product pages around August 25 to drop all Intel-based Macs from the compatibility lists for the accessories, and this…"
         },
         {
-          "title": "macOS 27.2 Further Hints at MacBook With Touch-Enabled OLED Display",
-          "url": "https://www.macrumors.com/2026/10/06/macos-27-2-hints-at-macbook-with-touchscreen/",
-          "time": "2026-10-06T20:49:41.000Z",
-          "summary": "The latest macOS 27.2 beta released this week further hints at the long-rumored MacBook with a touchscreen, which is expected to be unveiled by next month. Specifically,…"
+          "title": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display",
+          "url": "https://www.macrumors.com/2026/10/07/apple-samsung-ultimate-bezel-free-iphone-display/",
+          "time": "2026-10-07T12:20:55.000Z",
+          "summary": "Apple is waiting on Samsung to perfect a next-generation OLED display technology that wraps almost vertically around a phone and essentially makes the sides themselves…"
         },
         {
-          "title": "Apple Releases Second Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-          "url": "https://www.macrumors.com/2026/10/06/ios-27-2-public-beta-2/",
-          "time": "2026-10-06T17:06:24.000Z",
-          "summary": "Apple today seeded the second betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after Apple provided the…"
+          "title": "Apple's Own Home Security Camera Still Coming Next Year",
+          "url": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
+          "time": "2026-10-07T10:35:26.000Z",
+          "summary": "Apple's home security camera remains in development separately from the LG-made accessories reported yesterday , Bloomberg 's Mark Gurman has clarified. In a follow-up…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-07T07:35:57.623Z",
+      "fetchedAt": "2026-10-07T15:19:55.129Z",
       "error": null,
       "items": [
         {
-          "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
-          "url": "https://9to5mac.com/2026/10/06/formula-1-on-apple-tv-is-getting-dolby-atmos-starting-this-month/",
-          "time": "2026-10-07T03:05:17.000Z",
-          "summary": "Beginning with the U.S. Grand Prix weekend on Friday, October 23, Apple TV will offer Formula 1 coverage in Dolby Atmos on supported devices. Here are the details. more…"
+          "title": "Grok Bot just got a lot smarter thanks to Anthropic’s Claude",
+          "url": "https://9to5mac.com/2026/10/07/grok-bot-just-got-a-lot-smarter-thanks-to-anthropics-claude/",
+          "time": "2026-10-07T15:02:24.000Z",
+          "summary": "SpaceXAI’s Grok Bot kicked off the consumer-friendly AI agent app wave this summer. Facing competition from Meta’s Muse and OpenAI’s ChatGPT Dot, Grok Bot just got a new…"
         },
         {
-          "title": "Apple overtakes Samsung to lead European carrier smartphone sales in Q2, per report",
-          "url": "https://9to5mac.com/2026/10/06/apple-overtakes-samsung-to-lead-european-carrier-smartphone-sales-in-q2-per-report/",
-          "time": "2026-10-07T02:00:52.000Z",
-          "summary": "A new report from Counterpoint Research shows that Apple overtook Samsung during the second quarter of 2026 to become the leading smartphone brand in Europe’s carrier…"
+          "title": "iOS 27.2 release date: When to expect new iPhone features",
+          "url": "https://9to5mac.com/2026/10/07/ios-27-2-release-date-new-iphone-features-are-coming-soon/",
+          "time": "2026-10-07T14:26:33.000Z",
+          "summary": "iOS 27.2 is coming surprisingly soon. iOS 27.1 will focus on iPhone Duo changes only, so new features for everyone else will arrive in iOS 27.2. Here’s when to expect…"
         },
         {
-          "title": "Acclaimed British comedy series ‘Small Prophets’ now available on Apple TV",
-          "url": "https://9to5mac.com/2026/10/06/acclaimed-british-comedy-series-small-prophets-now-available-on-apple-tv/",
-          "time": "2026-10-07T01:01:16.000Z",
-          "summary": "The first two episodes of “ Small Prophets ” are now available to stream on Apple TV, following a wave of glowing reviews for the British comedy series. Watch the…"
+          "title": "Meta launches Muse for iPad following weeks as the top iPhone app",
+          "url": "https://9to5mac.com/2026/10/07/meta-launches-muse-for-ipad-following-weeks-as-the-top-iphone-app/",
+          "time": "2026-10-07T14:19:14.000Z",
+          "summary": "Meta’s Muse AI agent app has spent the last several weeks as the #1 free iPhone app on the U.S. App Store. The latest Muse app update adds a new platform to tackle:…"
         },
         {
-          "title": "iFixit tears down Apple Watch Series 12 and Ultra 4, finds mixed repairability results",
-          "url": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/",
-          "time": "2026-10-06T22:09:49.000Z",
-          "summary": "Concluding iFixit’s teardown sequence for Apple’s September launches, iFixit today published the teardown of the new Apple Watch Series 12 and Ultra 4. Here’s what they…"
+          "title": "Ring announces its first smart lock, solving a major pain point for smart home users",
+          "url": "https://9to5mac.com/2026/10/07/ring-announces-first-ever-smart-lock-solving-core-problem/",
+          "time": "2026-10-07T14:00:00.000Z",
+          "summary": "Today, Amazon’s Ring subsidiary is announcing its first ever smart lock. It solves a key problem that looms over many smart lock owners: dead batteries. Ring has a…"
         },
         {
-          "title": "Report: Apple’s smart home push includes LG-made doorbell, lock, thermostat, more",
-          "url": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/",
-          "time": "2026-10-06T21:38:00.000Z",
-          "summary": "Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG. Here are the details. more…"
+          "title": "Leaked images reveal Apple’s new Home smart lock, thermostat, more for LG",
+          "url": "https://9to5mac.com/2026/10/07/leaked-images-reveal-apples-new-home-smart-lock-thermostat-more-for-lg/",
+          "time": "2026-10-07T13:25:58.000Z",
+          "summary": "Bloomberg reported yesterday that Apple has co-developed new smart home accessories that will launch under LG branding, and leaked images reveal what the smart lock,…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-07T07:35:57.623Z",
+      "fetchedAt": "2026-10-07T15:19:55.129Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-07T07:35:57.623Z",
+      "fetchedAt": "2026-10-07T15:19:55.129Z",
       "error": null,
       "items": [
         {
-          "title": "Vaccinopolis zoekt dringend 90 zwangere vrouwen en 150 senioren voor 3 studies: \"Mensen hebben het te druk of zijn vaccinmoe\"",
-          "url": "https://vrtnws.be/p.qEd3owB00",
-          "time": "2026-10-07T07:26:10.000Z",
-          "summary": "Onderzoekscentrum Vaccinopolis in Edegem is dringend op zoek naar 240 vrijwilligers voor 3 vaccinstudies. Het centrum zoekt 90 zwangere vrouwen en 150 senioren. Bij de…"
+          "title": "Is mensen 12 uur preventief oppakken wettelijk en zal het overlast verminderen? 5 vragen over nieuwe aanpak in Antwerpen",
+          "url": "https://vrtnws.be/p.93XAxwlWv",
+          "time": "2026-10-07T15:15:03.000Z",
+          "summary": "De Antwerpse politie gaat bekende overlastplegers voortaan sneller oppakken, zelfs wanneer ze op dat moment niets verkeerds doen. De stad hoopt zo de overlast aan te…"
         },
         {
-          "title": "1 op 7 gecontroleerde sociale huurders in Gent voldoet niet aan Vlaamse taalvereisten",
-          "url": "https://vrtnws.be/p.APXGqBBvo",
-          "time": "2026-10-07T07:12:53.000Z",
-          "summary": "Thuispunt Gent heeft 35 dossiers opgesteld over huurders die de taalvereisten niet halen. Dat gebeurde na controles bij mensen die een attest moeten voorleggen. 1 op de…"
+          "title": "'Chemische spiegelbeelden' die tot veiligere geneesmiddelen leiden: dit onderzoek wint Nobelprijs Chemie",
+          "url": "https://vrtnws.be/p.5wjp8Q58d",
+          "time": "2026-10-07T15:01:45.000Z",
+          "summary": "De Nobelprijs voor Scheikunde gaat dit jaar naar de Fransman Henri Kagan (95) en de Japanner Kenso Soai (76) voor hun onderzoek naar 'chemische spiegelbeelden'. Hun…"
         },
         {
-          "title": "Uitstoot van broeikasgassen in Vlaanderen daalt niet meer: wat loopt er mis?",
-          "url": "https://vrtnws.be/p.93XAKb60M",
-          "time": "2026-10-07T07:02:28.000Z",
-          "summary": "De uitstoot van broeikasgassen in Vlaanderen blijft nu al voor het 3e jaar op rij op hetzelfde niveau hangen. Dat meldt het Vlaams Energie- en Klimaatagentschap in een…"
+          "title": "Oost-Vlaanderen start in Nazareth-De Pinte pilootproject om kapelletjes in stand te houden",
+          "url": "https://vrtnws.be/p.ewPYbvMZq",
+          "time": "2026-10-07T14:55:26.000Z",
+          "summary": "De provincie Oost-Vlaanderen en de gemeente Nazareth-De Pinte starten een pilootproject om het lokale kapellenerfgoed beter in kaart te brengen en te bewaren. Ze maken…"
         },
         {
-          "title": "Defect achterlicht leidt politie Sint-Truiden naar drugshandel, 3 verdachten aangehouden",
-          "url": "https://vrtnws.be/p.oL1WdnvYO",
-          "time": "2026-10-07T06:32:49.000Z",
-          "summary": "Een defect achterlicht heeft de politie in Sint-Truiden op het spoor gebracht van een vermoedelijke drugshandel. Bij een controle en een huiszoeking werden verschillende…"
+          "title": "Gezondheidsraad raadt voor het eerst versterkte griepvaccins aan voor 65-plussers",
+          "url": "https://vrtnws.be/p.qEd39wRbw",
+          "time": "2026-10-07T14:42:15.000Z",
+          "summary": "De griepcampagne in ons land gaat volgende week, op 15 oktober, van start. Dit jaar raadt de Hoge Gezondheidsraad (HGR) voor het eerst een versterkt griepvaccin aan voor…"
         },
         {
-          "title": "Wind en regen op komst: \"Het ziet er donderdag en vrijdag een pak minder warm uit\"",
-          "url": "https://vrtnws.be/p.dLy0GRw3P",
-          "time": "2026-10-07T06:17:21.000Z",
-          "summary": "Straks genieten we nog van maxima tot 24 graden, maar dan komt de ommezwaai: het KMI voorspelt vanaf vanavond regen, onweer en wind. Weervrouw Jacotte Brokken ziet ook…"
+          "title": "Redders grepen in 2026 dubbel zo veel in voor zwemmers in nood: \"Misschien wel zwaarste zomer ooit\"",
+          "url": "https://vrtnws.be/p.XEXw3qVG3",
+          "time": "2026-10-07T14:36:17.000Z",
+          "summary": "De redders aan de Belgische kust hebben een drukke zomer achter de rug. De redders zijn zo'n 500 keer moeten tussenkomen, wat ongeveer even veel is als tijdens de zomer…"
         }
       ]
     }
