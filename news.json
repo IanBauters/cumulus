@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-06T21:49:11.569Z",
+  "generatedAt": "2026-10-07T01:16:16.701Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-06T21:49:11.569Z",
+      "fetchedAt": "2026-10-07T01:16:16.701Z",
       "error": null,
       "items": [
+        {
+          "title": "Three Years of 80% Charge Limits on iPhone: The Results",
+          "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
+          "time": "2026-10-06T22:24:55.000Z",
+          "summary": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend battery lifespan. Charging to 80 percent instead of 100 percent is…"
+        },
+        {
+          "title": "LG Making Doorbell, Lock, and Cameras for Apple's Home Hub",
+          "url": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/",
+          "time": "2026-10-06T21:58:47.000Z",
+          "summary": "Apple is working with LG Electronics on smart home accessories that will integrate with the upcoming home hub and other Apple home products, reports Bloomberg . LG is…"
+        },
         {
           "title": "Apple to Report Q4 2026 Earnings on November 2",
           "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
@@ -21,22 +33,10 @@
           "summary": "The latest macOS 27.2 beta released this week further hints at the long-rumored MacBook with a touchscreen, which is expected to be unveiled by next month. Specifically,…"
         },
         {
-          "title": "Three Years of 80% Charge Limits on iPhone: The Results",
-          "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
-          "time": "2026-10-06T19:59:51.000Z",
-          "summary": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend battery lifespan. Charging to 80 percent instead of 100 percent is…"
-        },
-        {
           "title": "Apple Releases Second Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
           "url": "https://www.macrumors.com/2026/10/06/ios-27-2-public-beta-2/",
           "time": "2026-10-06T17:06:24.000Z",
           "summary": "Apple today seeded the second betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after Apple provided the…"
-        },
-        {
-          "title": "'Crossy Road Rush' Launching Exclusively on Apple Arcade in November",
-          "url": "https://www.macrumors.com/2026/10/06/crossy-road-rush-apple-arcade/",
-          "time": "2026-10-06T16:46:09.000Z",
-          "summary": "Apple today announced that the all-new \"Crossy Road\" spinoff game \" Crossy Road Rush \" will be launching exclusively on Apple Arcade on Thursday, November 5. Crossy Road…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-06T21:49:11.569Z",
+      "fetchedAt": "2026-10-07T01:16:16.701Z",
       "error": null,
       "items": [
+        {
+          "title": "Acclaimed British comedy series ‘Small Prophets’ now available on Apple TV",
+          "url": "https://9to5mac.com/2026/10/06/acclaimed-british-comedy-series-small-prophets-now-available-on-apple-tv/",
+          "time": "2026-10-07T01:01:16.000Z",
+          "summary": "The first two episodes of “ Small Prophets ” are now available to stream on Apple TV, following a wave of glowing reviews for the British comedy series. Watch the…"
+        },
+        {
+          "title": "iFixit tears down Apple Watch Series 12 and Ultra 4, finds mixed repairability results",
+          "url": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/",
+          "time": "2026-10-06T22:09:49.000Z",
+          "summary": "Concluding iFixit’s teardown sequence for Apple’s September launches, iFixit today published the teardown of the new Apple Watch Series 12 and Ultra 4. Here’s what they…"
+        },
         {
           "title": "Report: Apple’s smart home push includes LG-made doorbell, lock, thermostat, more",
           "url": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/06/tim-cook-sold-nearly-63-9-million-in-apple-shares-this-month/",
           "time": "2026-10-06T20:11:43.000Z",
           "summary": "Apple executive chair and former CEO Tim Cook sold nearly 200,000 Apple shares on October 2, one day after more than 374,000 restricted stock units vested as part of his…"
-        },
-        {
-          "title": "New Crossy Road game announced as an Apple Arcade exclusive",
-          "url": "https://9to5mac.com/2026/10/06/new-crossy-road-game-announced-as-an-apple-arcade-exclusive/",
-          "time": "2026-10-06T19:36:48.000Z",
-          "summary": "Starting November 5, Apple Arcade subscribers will get access to Crossy Road Rush, a new arcade island adventure with solo and four-player multiplayer racing modes.…"
-        },
-        {
-          "title": "New Apple TV comedy hailed as ‘finest show to hit Apple’ this year",
-          "url": "https://9to5mac.com/2026/10/06/new-apple-tv-comedy-hailed-as-finest-show-to-hit-apple-this-year/",
-          "time": "2026-10-06T19:03:00.000Z",
-          "summary": "Apple TV is having a great year, and its latest series— Small Prophets —is getting hailed as perhaps the streamer’s best 2026 debut yet. Here’s what reviews say. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-06T21:49:11.569Z",
+      "fetchedAt": "2026-10-07T01:16:16.701Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-06T21:49:11.569Z",
+      "fetchedAt": "2026-10-07T01:16:16.701Z",
       "error": null,
       "items": [
+        {
+          "title": "Eerste dodelijke ebolaslachtoffer in Kenia, patiënt liep besmetting op in Congo",
+          "url": "https://vrtnws.be/p.kQGLnRGb5",
+          "time": "2026-10-06T21:47:17.000Z",
+          "summary": "In Kenia is voor het eerst een geval van ebola bevestigd. De patiënt, een Keniaanse burger, werd een maand geleden ziek in Congo en overleed maandag in de Keniaanse…"
+        },
         {
           "title": "Christa Pike na mislukte executie opnieuw bij bewustzijn, zeggen haar advocaten",
           "url": "https://vrtnws.be/p.93XA84nVM",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.XEX8W5n9b",
           "time": "2026-10-06T19:06:17.000Z",
           "summary": "Om het nieuwe academiejaar origineel af te trappen, organiseerde Cinema Zed vanavond speciaal voor studenten een filmavond in het zwembad van Kapermolen. Op ligbedden in…"
-        },
-        {
-          "title": "3 gewonden na verkeersongeval aan Carrefour in Pittem",
-          "url": "https://vrtnws.be/p.LNDnlbGeV",
-          "time": "2026-10-06T18:45:22.000Z",
-          "summary": "Een bestuurder van 81 heeft een vrouw van 86 aangereden aan de ingang van de supermarkt Carrefour in Pittem. De vrouw raakte zwaargewond. Ook de bestuurder zelf en zijn…"
         }
       ]
     }
