@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T01:16:16.701Z",
+  "generatedAt": "2026-10-07T07:35:57.623Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-07T01:16:16.701Z",
+      "fetchedAt": "2026-10-07T07:35:57.623Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-07T01:16:16.701Z",
+      "fetchedAt": "2026-10-07T07:35:57.623Z",
       "error": null,
       "items": [
+        {
+          "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
+          "url": "https://9to5mac.com/2026/10/06/formula-1-on-apple-tv-is-getting-dolby-atmos-starting-this-month/",
+          "time": "2026-10-07T03:05:17.000Z",
+          "summary": "Beginning with the U.S. Grand Prix weekend on Friday, October 23, Apple TV will offer Formula 1 coverage in Dolby Atmos on supported devices. Here are the details. more…"
+        },
+        {
+          "title": "Apple overtakes Samsung to lead European carrier smartphone sales in Q2, per report",
+          "url": "https://9to5mac.com/2026/10/06/apple-overtakes-samsung-to-lead-european-carrier-smartphone-sales-in-q2-per-report/",
+          "time": "2026-10-07T02:00:52.000Z",
+          "summary": "A new report from Counterpoint Research shows that Apple overtook Samsung during the second quarter of 2026 to become the leading smartphone brand in Europe’s carrier…"
+        },
         {
           "title": "Acclaimed British comedy series ‘Small Prophets’ now available on Apple TV",
           "url": "https://9to5mac.com/2026/10/06/acclaimed-british-comedy-series-small-prophets-now-available-on-apple-tv/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/",
           "time": "2026-10-06T21:38:00.000Z",
           "summary": "Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG. Here are the details. more…"
-        },
-        {
-          "title": "Apple sets Q4 2026 earnings release for November 2",
-          "url": "https://9to5mac.com/2026/10/06/apple-sets-q4-2026-earnings-release-for-november-2/",
-          "time": "2026-10-06T21:18:30.000Z",
-          "summary": "Apple will announce the results of its fiscal third quarter of 2026 on Monday, November 2. Here’s what to expect. more…"
-        },
-        {
-          "title": "Tim Cook sold nearly $63.9 million in Apple shares this month",
-          "url": "https://9to5mac.com/2026/10/06/tim-cook-sold-nearly-63-9-million-in-apple-shares-this-month/",
-          "time": "2026-10-06T20:11:43.000Z",
-          "summary": "Apple executive chair and former CEO Tim Cook sold nearly 200,000 Apple shares on October 2, one day after more than 374,000 restricted stock units vested as part of his…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-07T01:16:16.701Z",
+      "fetchedAt": "2026-10-07T07:35:57.623Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-07T01:16:16.701Z",
+      "fetchedAt": "2026-10-07T07:35:57.623Z",
       "error": null,
       "items": [
         {
-          "title": "Eerste dodelijke ebolaslachtoffer in Kenia, patiënt liep besmetting op in Congo",
-          "url": "https://vrtnws.be/p.kQGLnRGb5",
-          "time": "2026-10-06T21:47:17.000Z",
-          "summary": "In Kenia is voor het eerst een geval van ebola bevestigd. De patiënt, een Keniaanse burger, werd een maand geleden ziek in Congo en overleed maandag in de Keniaanse…"
+          "title": "Vaccinopolis zoekt dringend 90 zwangere vrouwen en 150 senioren voor 3 studies: \"Mensen hebben het te druk of zijn vaccinmoe\"",
+          "url": "https://vrtnws.be/p.qEd3owB00",
+          "time": "2026-10-07T07:26:10.000Z",
+          "summary": "Onderzoekscentrum Vaccinopolis in Edegem is dringend op zoek naar 240 vrijwilligers voor 3 vaccinstudies. Het centrum zoekt 90 zwangere vrouwen en 150 senioren. Bij de…"
         },
         {
-          "title": "Christa Pike na mislukte executie opnieuw bij bewustzijn, zeggen haar advocaten",
-          "url": "https://vrtnws.be/p.93XA84nVM",
-          "time": "2026-10-06T21:22:02.000Z",
-          "summary": "Christa Pike, een ter dood veroordeelde gedetineerde die in de Amerikaanse staat Tennessee een poging om haar te executeren heeft overleefd, is bij bewustzijn en kan…"
+          "title": "1 op 7 gecontroleerde sociale huurders in Gent voldoet niet aan Vlaamse taalvereisten",
+          "url": "https://vrtnws.be/p.APXGqBBvo",
+          "time": "2026-10-07T07:12:53.000Z",
+          "summary": "Thuispunt Gent heeft 35 dossiers opgesteld over huurders die de taalvereisten niet halen. Dat gebeurde na controles bij mensen die een attest moeten voorleggen. 1 op de…"
         },
         {
-          "title": "Avonturier Karl Bushby (57) is na 28 jaar wandelen rond de wereld aangekomen in thuisland Engeland",
-          "url": "https://vrtnws.be/p.KKXPaGvvm",
-          "time": "2026-10-06T20:37:04.000Z",
-          "summary": "28 jaar nadat hij zijn vaderland verliet, is de Britse avonturier Karl Bushby terug in Engeland. Het Kanaal overzwemmen van Frankrijk naar Dover in het Verenigd…"
+          "title": "Uitstoot van broeikasgassen in Vlaanderen daalt niet meer: wat loopt er mis?",
+          "url": "https://vrtnws.be/p.93XAKb60M",
+          "time": "2026-10-07T07:02:28.000Z",
+          "summary": "De uitstoot van broeikasgassen in Vlaanderen blijft nu al voor het 3e jaar op rij op hetzelfde niveau hangen. Dat meldt het Vlaams Energie- en Klimaatagentschap in een…"
         },
         {
-          "title": "Meer dan 5.000 euro voor paneel Atomium, maar ook enkele onverkochte topstukken: VRT veilt deel van kunstcollectie",
-          "url": "https://vrtnws.be/p.43NWbQk7Q",
-          "time": "2026-10-06T19:06:30.000Z",
-          "summary": "Een deel van de kunstcollectie van VRT is bij veilinghuis Bernaerts in Antwerpen onder de hamer gegaan. Verschillende werken gingen boven hun geschatte prijs, maar…"
+          "title": "Defect achterlicht leidt politie Sint-Truiden naar drugshandel, 3 verdachten aangehouden",
+          "url": "https://vrtnws.be/p.oL1WdnvYO",
+          "time": "2026-10-07T06:32:49.000Z",
+          "summary": "Een defect achterlicht heeft de politie in Sint-Truiden op het spoor gebracht van een vermoedelijke drugshandel. Bij een controle en een huiszoeking werden verschillende…"
         },
         {
-          "title": "Legendarische film Jaws speelt in het zwembad van Kapermolen: \"Spannend om in het water te liggen als de haai in beeld komt\"",
-          "url": "https://vrtnws.be/p.XEX8W5n9b",
-          "time": "2026-10-06T19:06:17.000Z",
-          "summary": "Om het nieuwe academiejaar origineel af te trappen, organiseerde Cinema Zed vanavond speciaal voor studenten een filmavond in het zwembad van Kapermolen. Op ligbedden in…"
+          "title": "Wind en regen op komst: \"Het ziet er donderdag en vrijdag een pak minder warm uit\"",
+          "url": "https://vrtnws.be/p.dLy0GRw3P",
+          "time": "2026-10-07T06:17:21.000Z",
+          "summary": "Straks genieten we nog van maxima tot 24 graden, maar dan komt de ommezwaai: het KMI voorspelt vanaf vanavond regen, onweer en wind. Weervrouw Jacotte Brokken ziet ook…"
         }
       ]
     }
