@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-07T15:19:55.129Z",
+  "generatedAt": "2026-10-07T20:43:22.698Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-07T15:19:55.129Z",
+      "fetchedAt": "2026-10-07T20:43:22.698Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Watch Series 12, Ultra 4 Owners Report Skin Irritation",
+          "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
+          "time": "2026-10-07T19:02:52.000Z",
+          "summary": "Some Apple Watch Series 12 and Ultra 4 owners have experienced unexpected skin irritation with the new models, according to reports on the MacRumors forums and Reddit .…"
+        },
+        {
+          "title": "Boston's MBTA Testing New Charlie Card With Apple Wallet Support",
+          "url": "https://www.macrumors.com/2026/10/07/new-charlie-card-apple-wallet-test/",
+          "time": "2026-10-07T18:03:31.000Z",
+          "summary": "This year, the Massachusetts Bay Transportation Authority (MBTA) has been testing a new version of the Charlie Card with Apple Wallet support on the iPhone and Apple…"
+        },
+        {
+          "title": "Manchester's Bee Card Now Fully Supported in Apple Wallet",
+          "url": "https://www.macrumors.com/2026/10/07/manchesters-bee-card-apple-wallet/",
+          "time": "2026-10-07T16:21:16.000Z",
+          "summary": "In August, Transport for Greater Manchester announced that the Bee Card could be added to the Apple Wallet app on the iPhone and Apple Watch, but it was limited to…"
+        },
         {
           "title": "12 New Things to Expect From Apple in October",
           "url": "https://www.macrumors.com/2026/10/07/12-new-things-to-expect-from-apple-in-october/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/07/first-look-at-lg-apple-smart-home-products/",
           "time": "2026-10-07T13:26:59.000Z",
           "summary": "FCC filings reveal the designs of three upcoming LG smart home accessories that Apple reportedly helped develop, including a thermostat, a temperature sensor, and a…"
-        },
-        {
-          "title": "Apple Drops Intel Macs From Magic Mouse/Trackpad Compatibility Lists",
-          "url": "https://www.macrumors.com/2026/10/07/apple-drops-intel-macs-for-magic-mouse-trackpad/",
-          "time": "2026-10-07T13:06:28.000Z",
-          "summary": "Apple updated its Magic Mouse and Magic Trackpad product pages around August 25 to drop all Intel-based Macs from the compatibility lists for the accessories, and this…"
-        },
-        {
-          "title": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display",
-          "url": "https://www.macrumors.com/2026/10/07/apple-samsung-ultimate-bezel-free-iphone-display/",
-          "time": "2026-10-07T12:20:55.000Z",
-          "summary": "Apple is waiting on Samsung to perfect a next-generation OLED display technology that wraps almost vertically around a phone and essentially makes the sides themselves…"
-        },
-        {
-          "title": "Apple's Own Home Security Camera Still Coming Next Year",
-          "url": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
-          "time": "2026-10-07T10:35:26.000Z",
-          "summary": "Apple's home security camera remains in development separately from the LG-made accessories reported yesterday , Bloomberg 's Mark Gurman has clarified. In a follow-up…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-07T15:19:55.129Z",
+      "fetchedAt": "2026-10-07T20:43:22.698Z",
       "error": null,
       "items": [
         {
-          "title": "Grok Bot just got a lot smarter thanks to Anthropic’s Claude",
-          "url": "https://9to5mac.com/2026/10/07/grok-bot-just-got-a-lot-smarter-thanks-to-anthropics-claude/",
-          "time": "2026-10-07T15:02:24.000Z",
-          "summary": "SpaceXAI’s Grok Bot kicked off the consumer-friendly AI agent app wave this summer. Facing competition from Meta’s Muse and OpenAI’s ChatGPT Dot, Grok Bot just got a new…"
+          "title": "Spotify starts rolling out audiobooks to more than 180 markets",
+          "url": "https://9to5mac.com/2026/10/07/spotify-starts-rolling-out-audiobooks-to-more-than-180-markets/",
+          "time": "2026-10-07T20:19:51.000Z",
+          "summary": "Spotify today announced a global rollout of its audiobooks section, giving users in more than 180 markets access to over 350,000 titles spanning more than 120 languages.…"
         },
         {
-          "title": "iOS 27.2 release date: When to expect new iPhone features",
-          "url": "https://9to5mac.com/2026/10/07/ios-27-2-release-date-new-iphone-features-are-coming-soon/",
-          "time": "2026-10-07T14:26:33.000Z",
-          "summary": "iOS 27.2 is coming surprisingly soon. iOS 27.1 will focus on iPhone Duo changes only, so new features for everyone else will arrive in iOS 27.2. Here’s when to expect…"
+          "title": "watchOS 27 adds three new apps to your Apple Watch",
+          "url": "https://9to5mac.com/2026/10/07/watchos-27-adds-three-new-apps-to-your-apple-watch/",
+          "time": "2026-10-07T18:38:18.000Z",
+          "summary": "watchOS 27 is the latest major software update for Apple Watch, and among its variety of new features , it adds three new apps to your Watch. more…"
         },
         {
-          "title": "Meta launches Muse for iPad following weeks as the top iPhone app",
-          "url": "https://9to5mac.com/2026/10/07/meta-launches-muse-for-ipad-following-weeks-as-the-top-iphone-app/",
-          "time": "2026-10-07T14:19:14.000Z",
-          "summary": "Meta’s Muse AI agent app has spent the last several weeks as the #1 free iPhone app on the U.S. App Store. The latest Muse app update adds a new platform to tackle:…"
+          "title": "Anthropic upgrades Claude with new Haiku 5.5 model, details here",
+          "url": "https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/",
+          "time": "2026-10-07T18:14:13.000Z",
+          "summary": "Anthropic has released its latest AI model with Claude Haiku 5.5. The new version arrives about a year after the previous Haiku model upgrade. more…"
         },
         {
-          "title": "Ring announces its first smart lock, solving a major pain point for smart home users",
-          "url": "https://9to5mac.com/2026/10/07/ring-announces-first-ever-smart-lock-solving-core-problem/",
-          "time": "2026-10-07T14:00:00.000Z",
-          "summary": "Today, Amazon’s Ring subsidiary is announcing its first ever smart lock. It solves a key problem that looms over many smart lock owners: dead batteries. Ring has a…"
+          "title": "Hands-on: Sonos Ace Ultra fix nearly everything I wanted from the original [Video]",
+          "url": "https://9to5mac.com/2026/10/07/hands-on-sonos-ace-ultra-fix-nearly-everything-i-wanted-from-the-original-video/",
+          "time": "2026-10-07T17:50:21.000Z",
+          "summary": "I have been a huge Sonos fan and customer for years, dating back to the original Sonos One. So, about two years ago, when I heard that Sonos was entering the over-ear…"
         },
         {
-          "title": "Leaked images reveal Apple’s new Home smart lock, thermostat, more for LG",
-          "url": "https://9to5mac.com/2026/10/07/leaked-images-reveal-apples-new-home-smart-lock-thermostat-more-for-lg/",
-          "time": "2026-10-07T13:25:58.000Z",
-          "summary": "Bloomberg reported yesterday that Apple has co-developed new smart home accessories that will launch under LG branding, and leaked images reveal what the smart lock,…"
+          "title": "Apple’s new Home cameras and doorbell with LG revealed in leaked images",
+          "url": "https://9to5mac.com/2026/10/07/apples-new-home-cameras-and-doorbell-with-lg-revealed-in-leaked-images/",
+          "time": "2026-10-07T17:27:27.000Z",
+          "summary": "Apple and LG have reportedly partnered to co-develop and launch new Home accessories, including security cameras and a video doorbell that leaked images may have just…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-07T15:19:55.129Z",
+      "fetchedAt": "2026-10-07T20:43:22.698Z",
       "error": null,
       "items": [
+        {
+          "title": "MacStories Setups: A Summer of Workflow Refinements and Experimentation",
+          "url": "https://www.macstories.net/news/macstories-setups-a-summer-of-workflow-refinements-and-experimentation/",
+          "time": "2026-10-07T16:44:40.000Z",
+          "summary": "We’re back with another MacStories Setups update. I swear Federico and I didn’t coordinate our purchases this summer, but you’ll notice that both of us began…"
+        },
         {
           "title": "Deflector Turns iOS 27 Notification Triggers into a Shortcut Launcher",
           "url": "https://www.macstories.net/ios/deflector-turns-ios-27-notification-triggers-into-a-shortcut-launcher/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/stories/openais-dots-a-first-look/",
           "time": "2026-10-02T19:07:58.000Z",
           "summary": "Source: OpenAI. Earlier this week, I was at OpenAI’s annual DevDay conference where it launched Dots, a personal agent that lives inside the ChatGPT app. I set up my Dot…"
-        },
-        {
-          "title": "How I Used Notion, Agents, and Local AI to Research and Organize My iOS 27 Review",
-          "url": "https://www.macstories.net/club/how-i-used-notion-agents-and-local-ai-to-research-and-organize-my-ios-27-review/",
-          "time": "2026-10-02T13:30:25.000Z",
-          "summary": "My Notion setup (left) and Desk, my custom system for the iOS and iPadOS review. The process for this year’s iOS and iPadOS review was, on the surface, similar to last…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-07T15:19:55.129Z",
+      "fetchedAt": "2026-10-07T20:43:22.698Z",
       "error": null,
       "items": [
         {
-          "title": "Is mensen 12 uur preventief oppakken wettelijk en zal het overlast verminderen? 5 vragen over nieuwe aanpak in Antwerpen",
-          "url": "https://vrtnws.be/p.93XAxwlWv",
-          "time": "2026-10-07T15:15:03.000Z",
-          "summary": "De Antwerpse politie gaat bekende overlastplegers voortaan sneller oppakken, zelfs wanneer ze op dat moment niets verkeerds doen. De stad hoopt zo de overlast aan te…"
+          "title": "Automobiliste (63) riskeert in beroep rijverbod na ongeval op overweg in Bilzen 3 jaar geleden",
+          "url": "https://vrtnws.be/p.jGyonQJM8",
+          "time": "2026-10-07T19:28:01.000Z",
+          "summary": "De vrouw uit Genk die 3 jaar geleden op een overweg in Bilzen werd aangereden door een trein nadat ze vast kwam te zitten op de sporen, riskeert nu toch een rijverbod en…"
         },
         {
-          "title": "'Chemische spiegelbeelden' die tot veiligere geneesmiddelen leiden: dit onderzoek wint Nobelprijs Chemie",
-          "url": "https://vrtnws.be/p.5wjp8Q58d",
-          "time": "2026-10-07T15:01:45.000Z",
-          "summary": "De Nobelprijs voor Scheikunde gaat dit jaar naar de Fransman Henri Kagan (95) en de Japanner Kenso Soai (76) voor hun onderzoek naar 'chemische spiegelbeelden'. Hun…"
+          "title": "Reiziger valt treinbegeleider aan in station van Tienen",
+          "url": "https://vrtnws.be/p.RaywReZW7",
+          "time": "2026-10-07T19:15:08.000Z",
+          "summary": "In het station van Tienen heeft een reiziger een treinbegeleider aangevallen na een discussie. De NMBS veroordeelt de agressie en vraagt meer respect voor de…"
         },
         {
-          "title": "Oost-Vlaanderen start in Nazareth-De Pinte pilootproject om kapelletjes in stand te houden",
-          "url": "https://vrtnws.be/p.ewPYbvMZq",
-          "time": "2026-10-07T14:55:26.000Z",
-          "summary": "De provincie Oost-Vlaanderen en de gemeente Nazareth-De Pinte starten een pilootproject om het lokale kapellenerfgoed beter in kaart te brengen en te bewaren. Ze maken…"
+          "title": "Minstens 5 mensen opgepakt voor diefstal van schilderijen uit Franse Renoir Museum",
+          "url": "https://vrtnws.be/p.YbywBQqjx",
+          "time": "2026-10-07T19:12:36.000Z",
+          "summary": "De gerechtelijke diensten in Frankrijk hebben minstens 5 mensen opgepakt voor de diefstal van 4 schilderijen uit het Renoir Museum. Dat melden Franse media. Over het…"
         },
         {
-          "title": "Gezondheidsraad raadt voor het eerst versterkte griepvaccins aan voor 65-plussers",
-          "url": "https://vrtnws.be/p.qEd39wRbw",
-          "time": "2026-10-07T14:42:15.000Z",
-          "summary": "De griepcampagne in ons land gaat volgende week, op 15 oktober, van start. Dit jaar raadt de Hoge Gezondheidsraad (HGR) voor het eerst een versterkt griepvaccin aan voor…"
+          "title": "1 dag na Arendonk: ook in Anzegem chauffeur De Lijn betrapt met gsm achter stuur",
+          "url": "https://vrtnws.be/p.0YJ5NWP4m",
+          "time": "2026-10-07T18:38:42.000Z",
+          "summary": "Opnieuw is een buschauffeur van De Lijn betrapt op gsm-gebruik achter het stuur. Maandag was dat al het geval in Arendonk en nu is een filmpje opgedoken van dezelfde dag…"
         },
         {
-          "title": "Redders grepen in 2026 dubbel zo veel in voor zwemmers in nood: \"Misschien wel zwaarste zomer ooit\"",
-          "url": "https://vrtnws.be/p.XEXw3qVG3",
-          "time": "2026-10-07T14:36:17.000Z",
-          "summary": "De redders aan de Belgische kust hebben een drukke zomer achter de rug. De redders zijn zo'n 500 keer moeten tussenkomen, wat ongeveer even veel is als tijdens de zomer…"
+          "title": "Maricarmen Abascal (87) overleden, hét symbool van de woningcrisis in Spanje",
+          "url": "https://vrtnws.be/p.qEd3yBZw7",
+          "time": "2026-10-07T18:35:37.000Z",
+          "summary": "In Spanje is Maricarmen Abascal (87) overleden. Dat meldt de krant El País na een bericht van de huurdersbond van Madrid. De vrouw groeide uit tot hét symbool van de…"
         }
       ]
     }
