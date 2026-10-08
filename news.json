@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-08T00:49:34.988Z",
+  "generatedAt": "2026-10-08T07:07:47.203Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-08T00:49:34.988Z",
+      "fetchedAt": "2026-10-08T07:07:47.203Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-08T00:49:34.988Z",
+      "fetchedAt": "2026-10-08T07:07:47.203Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-08T00:49:34.988Z",
+      "fetchedAt": "2026-10-08T07:07:47.203Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-08T00:49:34.988Z",
+      "fetchedAt": "2026-10-08T07:07:47.203Z",
       "error": null,
       "items": [
         {
-          "title": "Automobiliste (63) riskeert in beroep rijverbod na ongeval op overweg in Bilzen 3 jaar geleden",
-          "url": "https://vrtnws.be/p.jGyonQJM8",
-          "time": "2026-10-07T19:28:01.000Z",
-          "summary": "De vrouw uit Genk die 3 jaar geleden op een overweg in Bilzen werd aangereden door een trein nadat ze vast kwam te zitten op de sporen, riskeert nu toch een rijverbod en…"
+          "title": "Proces over dood van kleuter Dean gaat van start onder grote persbelangstelling",
+          "url": "https://vrtnws.be/p.PqXwldmAO",
+          "time": "2026-10-08T06:52:52.000Z",
+          "summary": ""
         },
         {
-          "title": "Reiziger valt treinbegeleider aan in station van Tienen",
-          "url": "https://vrtnws.be/p.RaywReZW7",
-          "time": "2026-10-07T19:15:08.000Z",
-          "summary": "In het station van Tienen heeft een reiziger een treinbegeleider aangevallen na een discussie. De NMBS veroordeelt de agressie en vraagt meer respect voor de…"
+          "title": "Ignace Schops schrijft biodiversiteitsrapport voor Raad van Europa: \"Limburg gebruikt als inspiratie\"",
+          "url": "https://vrtnws.be/p.YbywJJbYN",
+          "time": "2026-10-08T06:21:20.000Z",
+          "summary": "Ignace Schops, directeur van het Regionaal Landschap Kempen en Maasland, heeft voor de Raad van Europa een rapport geschreven over biodiversiteit. Daarin gebruikt hij…"
         },
         {
-          "title": "Minstens 5 mensen opgepakt voor diefstal van schilderijen uit Franse Renoir Museum",
-          "url": "https://vrtnws.be/p.YbywBQqjx",
-          "time": "2026-10-07T19:12:36.000Z",
-          "summary": "De gerechtelijke diensten in Frankrijk hebben minstens 5 mensen opgepakt voor de diefstal van 4 schilderijen uit het Renoir Museum. Dat melden Franse media. Over het…"
+          "title": "Inbrekers boren sloten van opslagboxen open bij Shurgard in Zaventem",
+          "url": "https://vrtnws.be/p.VLywM1qvB",
+          "time": "2026-10-08T05:44:04.000Z",
+          "summary": "Er is ingebroken in verschillende opslagboxen bij Shurgard aan de Leuvensesteenweg in Zaventem. Vermoedelijk boorden dieven de sloten van meerdere boxen uit om bij de…"
         },
         {
-          "title": "1 dag na Arendonk: ook in Anzegem chauffeur De Lijn betrapt met gsm achter stuur",
-          "url": "https://vrtnws.be/p.0YJ5NWP4m",
-          "time": "2026-10-07T18:38:42.000Z",
-          "summary": "Opnieuw is een buschauffeur van De Lijn betrapt op gsm-gebruik achter het stuur. Maandag was dat al het geval in Arendonk en nu is een filmpje opgedoken van dezelfde dag…"
+          "title": "Boseigenaar Frank maakt meubels van bomen uit eigen bos: \"Sommige stammen zijn te mooi om op te stoken\"",
+          "url": "https://vrtnws.be/p.3BxEqOk33",
+          "time": "2026-10-08T05:35:15.000Z",
+          "summary": "Boseigenaar Frank Gorissen uit Beringen vindt sommige bomen simpelweg te mooi om in de kachel te laten verdwijnen. Daarom zaagt hij stammen uit zijn eigen bos in Koersel…"
         },
         {
-          "title": "Maricarmen Abascal (87) overleden, hét symbool van de woningcrisis in Spanje",
-          "url": "https://vrtnws.be/p.qEd3yBZw7",
-          "time": "2026-10-07T18:35:37.000Z",
-          "summary": "In Spanje is Maricarmen Abascal (87) overleden. Dat meldt de krant El País na een bericht van de huurdersbond van Madrid. De vrouw groeide uit tot hét symbool van de…"
+          "title": "Wat nu met iconische vissersboot van Boekhoute? Procedure opgestart om bescherming te schrappen",
+          "url": "https://vrtnws.be/p.VLywvNvDZ",
+          "time": "2026-10-08T05:27:39.000Z",
+          "summary": "De monumentenbescherming van de vissersboot BOU-8 in Boekhoute, in Assenede, wordt mogelijk opgeheven. Vlaams minister van Onroerend Erfgoed Ben Weyts (N-VA) heeft zijn…"
         }
       ]
     }
