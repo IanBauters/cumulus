@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-08T07:07:47.203Z",
+  "generatedAt": "2026-10-08T14:48:08.039Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-08T07:07:47.203Z",
+      "fetchedAt": "2026-10-08T14:48:08.039Z",
       "error": null,
       "items": [
+        {
+          "title": "Leaker Jon Prosser Pushes Back as Apple Seeks His YouTube Data",
+          "url": "https://www.macrumors.com/2026/10/08/prosser-pushes-back-as-apple-seeks-youtube-data/",
+          "time": "2026-10-08T12:51:48.000Z",
+          "summary": "Jon Prosser is arguing that Apple's alleged trade secrets are now public, while the company seeks his YouTube revenue records, channel analytics, and third-party…"
+        },
+        {
+          "title": "iPhone Air 2 Could Be as Thin as an Unfolded iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/08/iphone-air-2-could-be-as-thin-unfolded-iphone-duo/",
+          "time": "2026-10-08T11:21:52.000Z",
+          "summary": "Apple's iPhone Air 2 will be approximately 0.4mm thinner than the current model despite having a higher-capacity battery, claims the account \" yeux1122 \" on the Korean…"
+        },
+        {
+          "title": "New iPad Mini Rumored to Have 60Hz OLED Display Ahead of Launch",
+          "url": "https://www.macrumors.com/2026/10/08/new-ipad-mini-rumored-60hz-oled-display/",
+          "time": "2026-10-08T09:15:54.000Z",
+          "summary": "Ahead of the expected imminent launch of the new iPad mini 8, word out of Asia suggests that the device will feature a 60Hz OLED display rather than a ProMotion 120Hz…"
+        },
+        {
+          "title": "Gurman: OLED MacBook Pro Won't Be 'Significantly Thinner'",
+          "url": "https://www.macrumors.com/2026/10/08/oled-macbook-pro-wont-be-thinner/",
+          "time": "2026-10-08T08:30:04.000Z",
+          "summary": "Bloomberg 's Mark Gurman has walked back somewhat on his previous reporting that Apple's upcoming touchscreen OLED MacBook Pro will be thinner than current models. \"I…"
+        },
         {
           "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
           "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
           "time": "2026-10-08T00:45:43.000Z",
           "summary": "Microsoft today announced launch timing and pricing for the Surface Laptop Ultra that it unveiled earlier this year. The 15-inch Surface Laptop Ultra is priced starting…"
-        },
-        {
-          "title": "Google's SynthID AI Detector is Now Available to Everyone",
-          "url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
-          "time": "2026-10-07T23:42:44.000Z",
-          "summary": "Google today said it is making its SynthID Detector available to everyone for identifying content created using AI. SynthID Detector first rolled out to members of the…"
-        },
-        {
-          "title": "ChatGPT Gets GPT-6 and New Intelligent UI With Visual Answers",
-          "url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
-          "time": "2026-10-07T22:27:06.000Z",
-          "summary": "OpenAI today introduced Intelligent UI, a new feature that will let ChatGPT answer questions with \"fully interactive user interfaces.\" OpenAI says everyday answers will…"
-        },
-        {
-          "title": "Apple Watch Series 12 and Ultra 4 Score 4/10 for Repairability",
-          "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
-          "time": "2026-10-07T21:44:17.000Z",
-          "summary": "Repair site iFixit this week continued taking apart the latest Apple devices, this time tearing down the Apple Watch Series 12 and the Apple Watch Ultra 4 . The…"
-        },
-        {
-          "title": "Apple Launches Creative Labs Program With The King's Trust",
-          "url": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
-          "time": "2026-10-07T21:29:46.000Z",
-          "summary": "Apple is partnering with UK charity The King's Trust to launch a new education program that will help young people build careers in creative industries, Apple said today…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-08T07:07:47.203Z",
+      "fetchedAt": "2026-10-08T14:48:08.039Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple TV’s latest acquisition signals key shift for streamer",
+          "url": "https://9to5mac.com/2026/10/08/apple-tvs-latest-acquisition-signals-key-shift-for-streamer/",
+          "time": "2026-10-08T14:32:09.000Z",
+          "summary": "Apple TV just acquired the global streaming rights to Dustfall, a crime series from Australia and the second recent deviation from the streamer’s originals-only…"
+        },
+        {
+          "title": "New MacBook Pro leak could be very good news for ‘pro’ users",
+          "url": "https://9to5mac.com/2026/10/08/new-macbook-pro-leak-could-be-very-good-news-for-pro-users/",
+          "time": "2026-10-08T13:40:59.000Z",
+          "summary": "Apple’s redesigned MacBook Pro is coming soon , and the latest leak offers potentially great news for truly ‘pro’ users worried about the rumored thinner design. more…"
+        },
+        {
+          "title": "The best CarPlay upgrades to try in iOS 27",
+          "url": "https://9to5mac.com/2026/10/08/the-best-carplay-upgrades-to-try-ios-27/",
+          "time": "2026-10-08T12:24:41.000Z",
+          "summary": "Apple released iOS 27 to everyone a few weeks ago, and it includes several CarPlay changes worth checking out. Here are a few changes I’ve been loving so far. more…"
+        },
+        {
+          "title": "Sketchy rumor again says OLED iPad mini will lack one key feature",
+          "url": "https://9to5mac.com/2026/10/08/sketchy-rumor-again-says-ipad-mini-will-lack-promotion/",
+          "time": "2026-10-08T12:08:51.000Z",
+          "summary": "Apple is widely expected to introduce a new OLED iPad mini as soon as later this month. A sketchy new rumor today once again claims the new iPad mini will switch to OLED…"
+        },
         {
           "title": "WhatsApp expands the Liquid Glass design to its video player",
           "url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
           "time": "2026-10-07T23:19:01.000Z",
           "summary": "WhatsApp’s rollout of Liquid Glass across its interface continues, with the app now bringing the new look to its video player. Here are the details. more…"
-        },
-        {
-          "title": "Review: Rhinoshield’s iPhone 18 Pro bumper case is minimalist but surprisingly protective",
-          "url": "https://9to5mac.com/2026/10/07/review-rhinoshields-iphone-18-pro-bumper-case-is-minimalist-but-surprisingly-protective/",
-          "time": "2026-10-07T21:57:58.000Z",
-          "summary": "iPhone bumper cases have been a fan-favorite since the iPhone 4 bumpers, but options these days are few and far between. Rhinoshield offers a decent option for those…"
-        },
-        {
-          "title": "Apple partners with The King’s Trust on new Creative Labs initiative in the UK",
-          "url": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/",
-          "time": "2026-10-07T21:34:54.000Z",
-          "summary": "Apple and The King’s Trust announced today an expansion of their partnership with a new education program that offers workshops to help young people build creative and…"
-        },
-        {
-          "title": "First RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 now available [U]",
-          "url": "https://9to5mac.com/2026/10/07/first-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-now-available-to-developers/",
-          "time": "2026-10-07T21:01:54.000Z",
-          "summary": "Update, October 7: Apple has now released both RCs to public beta testers as well. The build numbers are unchanged from the developer RCs. In addition to releasing macOS…"
-        },
-        {
-          "title": "OpenAI brings GPT-6 to ChatGPT and debuts Intelligent UI",
-          "url": "https://9to5mac.com/2026/10/07/openai-brings-gpt-6-to-chatgpt-and-debuts-intelligent-ui/",
-          "time": "2026-10-07T20:57:28.000Z",
-          "summary": "After introducing the first GPT-6 models last month, OpenAI today announced new GPT-6 models built for everyday ChatGPT conversations, alongside a new Intelligent UI.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-08T07:07:47.203Z",
+      "fetchedAt": "2026-10-08T14:48:08.039Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-08T07:07:47.203Z",
+      "fetchedAt": "2026-10-08T14:48:08.039Z",
       "error": null,
       "items": [
         {
-          "title": "Proces over dood van kleuter Dean gaat van start onder grote persbelangstelling",
-          "url": "https://vrtnws.be/p.PqXwldmAO",
-          "time": "2026-10-08T06:52:52.000Z",
-          "summary": ""
+          "title": "Merksem viert 100 jaar Gaston Berghmans met film 'De Zaak Vermeulen': \"Iedereen die wilde meedoen, kreeg een rol\"",
+          "url": "https://vrtnws.be/p.mR044ZYyN",
+          "time": "2026-10-08T14:08:29.000Z",
+          "summary": "Op woensdag 14 oktober gaat de speelfilm 'De Zaak Vermeulen' in première in Schouwburg Noord in Merksem. De film van Hugo Goedemé maakt deel uit van het grote feest voor…"
         },
         {
-          "title": "Ignace Schops schrijft biodiversiteitsrapport voor Raad van Europa: \"Limburg gebruikt als inspiratie\"",
-          "url": "https://vrtnws.be/p.YbywJJbYN",
-          "time": "2026-10-08T06:21:20.000Z",
-          "summary": "Ignace Schops, directeur van het Regionaal Landschap Kempen en Maasland, heeft voor de Raad van Europa een rapport geschreven over biodiversiteit. Daarin gebruikt hij…"
+          "title": "Cannabisplantage ontdekt bij brand in Genk: 2 arrestaties verricht",
+          "url": "https://vrtnws.be/p.APXwwV3E8",
+          "time": "2026-10-08T13:56:25.000Z",
+          "summary": "De brandweer ontdekte woensdagavond bij een brand aan de Hornszee in Genk een actieve cannabisplantage. De politie arresteerde 2 verdachten: een vrouw van 64 en een man…"
         },
         {
-          "title": "Inbrekers boren sloten van opslagboxen open bij Shurgard in Zaventem",
-          "url": "https://vrtnws.be/p.VLywM1qvB",
-          "time": "2026-10-08T05:44:04.000Z",
-          "summary": "Er is ingebroken in verschillende opslagboxen bij Shurgard aan de Leuvensesteenweg in Zaventem. Vermoedelijk boorden dieven de sloten van meerdere boxen uit om bij de…"
+          "title": "De burgemeester die mee protesteert, viraal gaat op sociale media en Frankrijk verdeelt: wie is Bally Bagayoko?",
+          "url": "https://vrtnws.be/p.8eX9NwbXa",
+          "time": "2026-10-08T13:54:11.000Z",
+          "summary": "Bally Bagayoko (53) gaat viraal op sociale media. De burgemeester van de Parijse voorstad Saint-Denis duikt op bij de studentenprotesten en plaatst zich tussen de…"
         },
         {
-          "title": "Boseigenaar Frank maakt meubels van bomen uit eigen bos: \"Sommige stammen zijn te mooi om op te stoken\"",
-          "url": "https://vrtnws.be/p.3BxEqOk33",
-          "time": "2026-10-08T05:35:15.000Z",
-          "summary": "Boseigenaar Frank Gorissen uit Beringen vindt sommige bomen simpelweg te mooi om in de kachel te laten verdwijnen. Daarom zaagt hij stammen uit zijn eigen bos in Koersel…"
+          "title": "Burgemeester sluit luchthavenparking in Sint-Stevens-Woluwe: \"Geen vergunningen en niet brandveilig\"",
+          "url": "https://vrtnws.be/p.YbywwNnpn",
+          "time": "2026-10-08T13:42:25.000Z",
+          "summary": "In Zaventem duiken regelmatig nieuwe luchthavenparkings op. Ze richten zich op mensen die hun auto kwijt willen als ze het vliegtuig nemen. De uitbaters van zo'n…"
         },
         {
-          "title": "Wat nu met iconische vissersboot van Boekhoute? Procedure opgestart om bescherming te schrappen",
-          "url": "https://vrtnws.be/p.VLywvNvDZ",
-          "time": "2026-10-08T05:27:39.000Z",
-          "summary": "De monumentenbescherming van de vissersboot BOU-8 in Boekhoute, in Assenede, wordt mogelijk opgeheven. Vlaams minister van Onroerend Erfgoed Ben Weyts (N-VA) heeft zijn…"
+          "title": "Regen luidt einde in van hardnekkig eendenkroos in Gent: \"Zeker enkele dagen neerslag nodig\"",
+          "url": "https://vrtnws.be/p.dLy0j1L94",
+          "time": "2026-10-08T13:39:48.000Z",
+          "summary": "In Gent is het waterdebiet toegenomen van 10 naar 30 kubieke meter per seconde nu er meer neerslag valt. Daardoor stroomt het Leiewater mét het eendenkroos sneller weg.…"
         }
       ]
     }
