@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-07T20:43:22.698Z",
+  "generatedAt": "2026-10-08T00:49:34.988Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-07T20:43:22.698Z",
+      "fetchedAt": "2026-10-08T00:49:34.988Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Watch Series 12, Ultra 4 Owners Report Skin Irritation",
-          "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
-          "time": "2026-10-07T19:02:52.000Z",
-          "summary": "Some Apple Watch Series 12 and Ultra 4 owners have experienced unexpected skin irritation with the new models, according to reports on the MacRumors forums and Reddit .…"
+          "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
+          "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
+          "time": "2026-10-08T00:45:43.000Z",
+          "summary": "Microsoft today announced launch timing and pricing for the Surface Laptop Ultra that it unveiled earlier this year. The 15-inch Surface Laptop Ultra is priced starting…"
         },
         {
-          "title": "Boston's MBTA Testing New Charlie Card With Apple Wallet Support",
-          "url": "https://www.macrumors.com/2026/10/07/new-charlie-card-apple-wallet-test/",
-          "time": "2026-10-07T18:03:31.000Z",
-          "summary": "This year, the Massachusetts Bay Transportation Authority (MBTA) has been testing a new version of the Charlie Card with Apple Wallet support on the iPhone and Apple…"
+          "title": "Google's SynthID AI Detector is Now Available to Everyone",
+          "url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
+          "time": "2026-10-07T23:42:44.000Z",
+          "summary": "Google today said it is making its SynthID Detector available to everyone for identifying content created using AI. SynthID Detector first rolled out to members of the…"
         },
         {
-          "title": "Manchester's Bee Card Now Fully Supported in Apple Wallet",
-          "url": "https://www.macrumors.com/2026/10/07/manchesters-bee-card-apple-wallet/",
-          "time": "2026-10-07T16:21:16.000Z",
-          "summary": "In August, Transport for Greater Manchester announced that the Bee Card could be added to the Apple Wallet app on the iPhone and Apple Watch, but it was limited to…"
+          "title": "ChatGPT Gets GPT-6 and New Intelligent UI With Visual Answers",
+          "url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
+          "time": "2026-10-07T22:27:06.000Z",
+          "summary": "OpenAI today introduced Intelligent UI, a new feature that will let ChatGPT answer questions with \"fully interactive user interfaces.\" OpenAI says everyday answers will…"
         },
         {
-          "title": "12 New Things to Expect From Apple in October",
-          "url": "https://www.macrumors.com/2026/10/07/12-new-things-to-expect-from-apple-in-october/",
-          "time": "2026-10-07T14:40:34.000Z",
-          "summary": "October is about to become a very busy month for Apple, with the company set to release the iPhone Duo, both iOS 27.1 and iOS 27.2, and a new Mac Studio configuration…"
+          "title": "Apple Watch Series 12 and Ultra 4 Score 4/10 for Repairability",
+          "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
+          "time": "2026-10-07T21:44:17.000Z",
+          "summary": "Repair site iFixit this week continued taking apart the latest Apple devices, this time tearing down the Apple Watch Series 12 and the Apple Watch Ultra 4 . The…"
         },
         {
-          "title": "First Look at LG's Smart Home Products Made With Apple",
-          "url": "https://www.macrumors.com/2026/10/07/first-look-at-lg-apple-smart-home-products/",
-          "time": "2026-10-07T13:26:59.000Z",
-          "summary": "FCC filings reveal the designs of three upcoming LG smart home accessories that Apple reportedly helped develop, including a thermostat, a temperature sensor, and a…"
+          "title": "Apple Launches Creative Labs Program With The King's Trust",
+          "url": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
+          "time": "2026-10-07T21:29:46.000Z",
+          "summary": "Apple is partnering with UK charity The King's Trust to launch a new education program that will help young people build careers in creative industries, Apple said today…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-07T20:43:22.698Z",
+      "fetchedAt": "2026-10-08T00:49:34.988Z",
       "error": null,
       "items": [
         {
-          "title": "Spotify starts rolling out audiobooks to more than 180 markets",
-          "url": "https://9to5mac.com/2026/10/07/spotify-starts-rolling-out-audiobooks-to-more-than-180-markets/",
-          "time": "2026-10-07T20:19:51.000Z",
-          "summary": "Spotify today announced a global rollout of its audiobooks section, giving users in more than 180 markets access to over 350,000 titles spanning more than 120 languages.…"
+          "title": "WhatsApp expands the Liquid Glass design to its video player",
+          "url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
+          "time": "2026-10-07T23:19:01.000Z",
+          "summary": "WhatsApp’s rollout of Liquid Glass across its interface continues, with the app now bringing the new look to its video player. Here are the details. more…"
         },
         {
-          "title": "watchOS 27 adds three new apps to your Apple Watch",
-          "url": "https://9to5mac.com/2026/10/07/watchos-27-adds-three-new-apps-to-your-apple-watch/",
-          "time": "2026-10-07T18:38:18.000Z",
-          "summary": "watchOS 27 is the latest major software update for Apple Watch, and among its variety of new features , it adds three new apps to your Watch. more…"
+          "title": "Review: Rhinoshield’s iPhone 18 Pro bumper case is minimalist but surprisingly protective",
+          "url": "https://9to5mac.com/2026/10/07/review-rhinoshields-iphone-18-pro-bumper-case-is-minimalist-but-surprisingly-protective/",
+          "time": "2026-10-07T21:57:58.000Z",
+          "summary": "iPhone bumper cases have been a fan-favorite since the iPhone 4 bumpers, but options these days are few and far between. Rhinoshield offers a decent option for those…"
         },
         {
-          "title": "Anthropic upgrades Claude with new Haiku 5.5 model, details here",
-          "url": "https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/",
-          "time": "2026-10-07T18:14:13.000Z",
-          "summary": "Anthropic has released its latest AI model with Claude Haiku 5.5. The new version arrives about a year after the previous Haiku model upgrade. more…"
+          "title": "Apple partners with The King’s Trust on new Creative Labs initiative in the UK",
+          "url": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/",
+          "time": "2026-10-07T21:34:54.000Z",
+          "summary": "Apple and The King’s Trust announced today an expansion of their partnership with a new education program that offers workshops to help young people build creative and…"
         },
         {
-          "title": "Hands-on: Sonos Ace Ultra fix nearly everything I wanted from the original [Video]",
-          "url": "https://9to5mac.com/2026/10/07/hands-on-sonos-ace-ultra-fix-nearly-everything-i-wanted-from-the-original-video/",
-          "time": "2026-10-07T17:50:21.000Z",
-          "summary": "I have been a huge Sonos fan and customer for years, dating back to the original Sonos One. So, about two years ago, when I heard that Sonos was entering the over-ear…"
+          "title": "First RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 now available [U]",
+          "url": "https://9to5mac.com/2026/10/07/first-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-now-available-to-developers/",
+          "time": "2026-10-07T21:01:54.000Z",
+          "summary": "Update, October 7: Apple has now released both RCs to public beta testers as well. The build numbers are unchanged from the developer RCs. In addition to releasing macOS…"
         },
         {
-          "title": "Apple’s new Home cameras and doorbell with LG revealed in leaked images",
-          "url": "https://9to5mac.com/2026/10/07/apples-new-home-cameras-and-doorbell-with-lg-revealed-in-leaked-images/",
-          "time": "2026-10-07T17:27:27.000Z",
-          "summary": "Apple and LG have reportedly partnered to co-develop and launch new Home accessories, including security cameras and a video doorbell that leaked images may have just…"
+          "title": "OpenAI brings GPT-6 to ChatGPT and debuts Intelligent UI",
+          "url": "https://9to5mac.com/2026/10/07/openai-brings-gpt-6-to-chatgpt-and-debuts-intelligent-ui/",
+          "time": "2026-10-07T20:57:28.000Z",
+          "summary": "After introducing the first GPT-6 models last month, OpenAI today announced new GPT-6 models built for everyday ChatGPT conversations, alongside a new Intelligent UI.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-07T20:43:22.698Z",
+      "fetchedAt": "2026-10-08T00:49:34.988Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-07T20:43:22.698Z",
+      "fetchedAt": "2026-10-08T00:49:34.988Z",
       "error": null,
       "items": [
         {
