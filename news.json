@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-08T14:48:08.039Z",
+  "generatedAt": "2026-10-08T20:34:51.131Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-08T14:48:08.039Z",
+      "fetchedAt": "2026-10-08T20:34:51.131Z",
       "error": null,
       "items": [
         {
-          "title": "Leaker Jon Prosser Pushes Back as Apple Seeks His YouTube Data",
-          "url": "https://www.macrumors.com/2026/10/08/prosser-pushes-back-as-apple-seeks-youtube-data/",
-          "time": "2026-10-08T12:51:48.000Z",
-          "summary": "Jon Prosser is arguing that Apple's alleged trade secrets are now public, while the company seeks his YouTube revenue records, channel analytics, and third-party…"
+          "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
+          "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
+          "time": "2026-10-08T20:31:56.000Z",
+          "summary": "Apple will introduce new OLED touchscreen MacBook Pro models and an &zwnj;OLED&zwnj; iPad mini \"on or around\" Tuesday, October 27, reports Bloomberg . The launch will…"
         },
         {
-          "title": "iPhone Air 2 Could Be as Thin as an Unfolded iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/08/iphone-air-2-could-be-as-thin-unfolded-iphone-duo/",
-          "time": "2026-10-08T11:21:52.000Z",
-          "summary": "Apple's iPhone Air 2 will be approximately 0.4mm thinner than the current model despite having a higher-capacity battery, claims the account \" yeux1122 \" on the Korean…"
+          "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
+          "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+          "time": "2026-10-08T20:18:10.000Z",
+          "summary": "Starting today, iPhone users still running iOS 26 will see iOS 27.0.1 as the prominent software update in the Settings app under General → Software Update, with iOS…"
         },
         {
-          "title": "New iPad Mini Rumored to Have 60Hz OLED Display Ahead of Launch",
-          "url": "https://www.macrumors.com/2026/10/08/new-ipad-mini-rumored-60hz-oled-display/",
-          "time": "2026-10-08T09:15:54.000Z",
-          "summary": "Ahead of the expected imminent launch of the new iPad mini 8, word out of Asia suggests that the device will feature a 60Hz OLED display rather than a ProMotion 120Hz…"
+          "title": "Apple Has a New M&A Chief as Ternus Reshuffles Leadership",
+          "url": "https://www.macrumors.com/2026/10/08/apple-acquisitions-new-lead/",
+          "time": "2026-10-08T19:06:41.000Z",
+          "summary": "CEO John Ternus is making changes to Apple's leadership, reports Bloomberg . Apple veteran Steve Smith will take over mergers and acquisitions and corporate development,…"
         },
         {
-          "title": "Gurman: OLED MacBook Pro Won't Be 'Significantly Thinner'",
-          "url": "https://www.macrumors.com/2026/10/08/oled-macbook-pro-wont-be-thinner/",
-          "time": "2026-10-08T08:30:04.000Z",
-          "summary": "Bloomberg 's Mark Gurman has walked back somewhat on his previous reporting that Apple's upcoming touchscreen OLED MacBook Pro will be thinner than current models. \"I…"
+          "title": "Tim Cook Says He's 'Not Meddling' With Apple's New CEO John Ternus",
+          "url": "https://www.macrumors.com/2026/10/08/tim-cook-says-hes-not-meddling-with-ternus/",
+          "time": "2026-10-08T18:36:05.000Z",
+          "summary": "In his new role as the executive chairman of Apple's board of directors, Tim Cook told The Independent 's David Phelan that he is \"not meddling\" with Apple's new CEO…"
         },
         {
-          "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
-          "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
-          "time": "2026-10-08T00:45:43.000Z",
-          "summary": "Microsoft today announced launch timing and pricing for the Surface Laptop Ultra that it unveiled earlier this year. The 15-inch Surface Laptop Ultra is priced starting…"
+          "title": "Tim Cook Explains Why He Stepped Down as Apple CEO Before iPhone Duo Launch",
+          "url": "https://www.macrumors.com/2026/10/08/tim-cook-interview-about-john-ternus/",
+          "time": "2026-10-08T18:21:59.000Z",
+          "summary": "The Independent 's David Phelan on Wednesday interviewed Apple's executive chairman Tim Cook at Apple's U.K. headquarters in the Battersea Power Station, and one of the…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-08T14:48:08.039Z",
+      "fetchedAt": "2026-10-08T20:34:51.131Z",
       "error": null,
       "items": [
         {
-          "title": "Apple TV’s latest acquisition signals key shift for streamer",
-          "url": "https://9to5mac.com/2026/10/08/apple-tvs-latest-acquisition-signals-key-shift-for-streamer/",
-          "time": "2026-10-08T14:32:09.000Z",
-          "summary": "Apple TV just acquired the global streaming rights to Dustfall, a crime series from Australia and the second recent deviation from the streamer’s originals-only…"
+          "title": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
+          "url": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/",
+          "time": "2026-10-08T20:28:30.000Z",
+          "summary": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first…"
         },
         {
-          "title": "New MacBook Pro leak could be very good news for ‘pro’ users",
-          "url": "https://9to5mac.com/2026/10/08/new-macbook-pro-leak-could-be-very-good-news-for-pro-users/",
-          "time": "2026-10-08T13:40:59.000Z",
-          "summary": "Apple’s redesigned MacBook Pro is coming soon , and the latest leak offers potentially great news for truly ‘pro’ users worried about the rumored thinner design. more…"
+          "title": "IDC: Mac shipments drop 11% in Q3 as global PC market slides 20%",
+          "url": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/",
+          "time": "2026-10-08T20:09:47.000Z",
+          "summary": "Despite seeing an 11% drop in Mac shipments during Q3 2026, Apple’s market share rose from 8.5% to 9.5%, as the broader market saw shipments plunge 20.1%, according to a…"
         },
         {
-          "title": "The best CarPlay upgrades to try in iOS 27",
-          "url": "https://9to5mac.com/2026/10/08/the-best-carplay-upgrades-to-try-ios-27/",
-          "time": "2026-10-08T12:24:41.000Z",
-          "summary": "Apple released iOS 27 to everyone a few weeks ago, and it includes several CarPlay changes worth checking out. Here are a few changes I’ve been loving so far. more…"
+          "title": "Apple Home adds two powerful new features in iOS 27",
+          "url": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
+          "time": "2026-10-08T19:11:19.000Z",
+          "summary": "Apple is launching several new Home products next week , so it’s no surprise that iOS 27 includes big upgrades in the Home app. Here are two powerful new Home features…"
         },
         {
-          "title": "Sketchy rumor again says OLED iPad mini will lack one key feature",
-          "url": "https://9to5mac.com/2026/10/08/sketchy-rumor-again-says-ipad-mini-will-lack-promotion/",
-          "time": "2026-10-08T12:08:51.000Z",
-          "summary": "Apple is widely expected to introduce a new OLED iPad mini as soon as later this month. A sketchy new rumor today once again claims the new iPad mini will switch to OLED…"
+          "title": "Tim Cook on his first month after Apple CEO transition: ‘I’m not meddling’",
+          "url": "https://9to5mac.com/2026/10/08/tim-cook-on-his-first-month-after-apple-ceo-transition-im-not-meddling/",
+          "time": "2026-10-08T18:29:33.000Z",
+          "summary": "Tim Cook visited Apple’s Battersea campus in London this week, mingling with King Charles as part of the company’s new partnership with The King’s Trust . At Apple’s…"
         },
         {
-          "title": "WhatsApp expands the Liquid Glass design to its video player",
-          "url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
-          "time": "2026-10-07T23:19:01.000Z",
-          "summary": "WhatsApp’s rollout of Liquid Glass across its interface continues, with the app now bringing the new look to its video player. Here are the details. more…"
+          "title": "Apple names new head of mergers and acquisitions, per report",
+          "url": "https://9to5mac.com/2026/10/08/apple-names-new-head-of-mergers-and-acquisitions-per-report/",
+          "time": "2026-10-08T18:03:00.000Z",
+          "summary": "Apple is making more leadership changes as the John Ternus era gets underway. A new Bloomberg report today says Apple has named a new mergers and acquisitions chief and…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-08T14:48:08.039Z",
+      "fetchedAt": "2026-10-08T20:34:51.131Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Announces October 2026 Event",
+          "url": "https://www.macstories.net/news/apple-announces-october-2026-event/",
+          "time": "2026-10-08T16:20:39.000Z",
+          "summary": "In a post by Greg Joswiak on X and email to creators and media outlets, Apple has said it will hold an ‘Experience’ in Tribeca, New York on Tuesday, October 13 at 09:00…"
+        },
         {
           "title": "MacStories Setups: A Summer of Workflow Refinements and Experimentation",
           "url": "https://www.macstories.net/news/macstories-setups-a-summer-of-workflow-refinements-and-experimentation/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/linked/apple-announces-plan-to-impose-new-full-disk-access-controls-on-mac-developers/",
           "time": "2026-10-02T21:47:22.000Z",
           "summary": "Today, on its developer blog, Apple announced plans to “…introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level…"
-        },
-        {
-          "title": "OpenAI’s Dots: A First Look",
-          "url": "https://www.macstories.net/stories/openais-dots-a-first-look/",
-          "time": "2026-10-02T19:07:58.000Z",
-          "summary": "Source: OpenAI. Earlier this week, I was at OpenAI’s annual DevDay conference where it launched Dots, a personal agent that lives inside the ChatGPT app. I set up my Dot…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-08T14:48:08.039Z",
+      "fetchedAt": "2026-10-08T20:34:51.131Z",
       "error": null,
       "items": [
         {
-          "title": "Merksem viert 100 jaar Gaston Berghmans met film 'De Zaak Vermeulen': \"Iedereen die wilde meedoen, kreeg een rol\"",
-          "url": "https://vrtnws.be/p.mR044ZYyN",
-          "time": "2026-10-08T14:08:29.000Z",
-          "summary": "Op woensdag 14 oktober gaat de speelfilm 'De Zaak Vermeulen' in première in Schouwburg Noord in Merksem. De film van Hugo Goedemé maakt deel uit van het grote feest voor…"
+          "title": "Bestelwagen rijdt in op politie langs E40 in Heverlee: agent schiet op banden",
+          "url": "https://vrtnws.be/p.vL4jGbm1l",
+          "time": "2026-10-08T20:17:07.000Z",
+          "summary": "Op een parking langs de E40 in Heverlee is een bestelwagen ingereden op de politie. Dat bevestigt het parket van Leuven."
         },
         {
-          "title": "Cannabisplantage ontdekt bij brand in Genk: 2 arrestaties verricht",
-          "url": "https://vrtnws.be/p.APXwwV3E8",
-          "time": "2026-10-08T13:56:25.000Z",
-          "summary": "De brandweer ontdekte woensdagavond bij een brand aan de Hornszee in Genk een actieve cannabisplantage. De politie arresteerde 2 verdachten: een vrouw van 64 en een man…"
+          "title": "Terdoodveroordeelde Christa Pike kan opnieuw stappen na mislukte executie: \"Ze is boos en verward\"",
+          "url": "https://vrtnws.be/p.QAX51jP8o",
+          "time": "2026-10-08T19:27:07.000Z",
+          "summary": "De terdoodveroordeelde Christa Pike kan opnieuw stappen. Volgens haar advocaat heeft ze korte stukjes door haar ziekenhuiskamer gestapt. Ze is wel nog verward en boos.…"
         },
         {
-          "title": "De burgemeester die mee protesteert, viraal gaat op sociale media en Frankrijk verdeelt: wie is Bally Bagayoko?",
-          "url": "https://vrtnws.be/p.8eX9NwbXa",
-          "time": "2026-10-08T13:54:11.000Z",
-          "summary": "Bally Bagayoko (53) gaat viraal op sociale media. De burgemeester van de Parijse voorstad Saint-Denis duikt op bij de studentenprotesten en plaatst zich tussen de…"
+          "title": "E-step haalt meer dan 100 km/u tijdens politiecontrole in Vilvoorde en Diegem",
+          "url": "https://vrtnws.be/p.w78qjjBRM",
+          "time": "2026-10-08T18:56:43.000Z",
+          "summary": "Bij een grote politiecontrole in en rond het station van Vilvoorde heeft de politie een elektrische step ontdekt die 100km/u haalde op de testbank. Aan het station kon…"
         },
         {
-          "title": "Burgemeester sluit luchthavenparking in Sint-Stevens-Woluwe: \"Geen vergunningen en niet brandveilig\"",
-          "url": "https://vrtnws.be/p.YbywwNnpn",
-          "time": "2026-10-08T13:42:25.000Z",
-          "summary": "In Zaventem duiken regelmatig nieuwe luchthavenparkings op. Ze richten zich op mensen die hun auto kwijt willen als ze het vliegtuig nemen. De uitbaters van zo'n…"
+          "title": "Diest plaatst camera's tegen zwerfvuil, hangjongeren en fatbikes",
+          "url": "https://vrtnws.be/p.5wjpqj5yx",
+          "time": "2026-10-08T18:35:24.000Z",
+          "summary": "Het stadsbestuur van Diest laat op 3 plaatsen camera's plaatsen om overlast tegen te gaan. De stad krijgt klachten over zwerfvuil, rondhangende jongeren en jongeren die…"
         },
         {
-          "title": "Regen luidt einde in van hardnekkig eendenkroos in Gent: \"Zeker enkele dagen neerslag nodig\"",
-          "url": "https://vrtnws.be/p.dLy0j1L94",
-          "time": "2026-10-08T13:39:48.000Z",
-          "summary": "In Gent is het waterdebiet toegenomen van 10 naar 30 kubieke meter per seconde nu er meer neerslag valt. Daardoor stroomt het Leiewater mét het eendenkroos sneller weg.…"
+          "title": "Schietpartij in Antwerpse stationsbuurt: 3 mensen in levensgevaar",
+          "url": "https://vrtnws.be/p.w78qwqyaJ",
+          "time": "2026-10-08T18:14:02.000Z",
+          "summary": "In een appartement in de Antwerpse stationsbuurt zijn meerdere gewonden gevallen nadat er schoten gelost werden bij een ruzie. 3 mensen zijn in levensgevaar. De feiten…"
         }
       ]
     }
