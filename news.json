@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-09T07:50:44.749Z",
+  "generatedAt": "2026-10-09T15:05:50.287Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-09T07:50:44.749Z",
+      "fetchedAt": "2026-10-09T15:05:50.287Z",
       "error": null,
       "items": [
+        {
+          "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
+          "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
+          "time": "2026-10-09T14:50:57.000Z",
+          "summary": "Smart home accessories that Apple reportedly helped LG develop could offer iPhone proximity controls and a way to begin setup before the devices have power, according to…"
+        },
+        {
+          "title": "Mac Shipments Fall, But Apple Still Gains Ground in Shrinking Market",
+          "url": "https://www.macrumors.com/2026/10/09/mac-shipments-fall-but-apple-gains-ground/",
+          "time": "2026-10-09T13:16:30.000Z",
+          "summary": "Apple's Mac shipments declined 11.3% in the third quarter of 2026, but the company increased its market share as worldwide PC shipments fell more sharply, according to…"
+        },
+        {
+          "title": "Apple Reportedly Cuts iPhone 18 Pro Orders After Price Hike Dampens Demand",
+          "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
+          "time": "2026-10-09T12:23:22.000Z",
+          "summary": "Apple has asked some of its suppliers to cut production of iPhone 18 Pro components due to lower-than-expected demand, according to Nikkei Asia ($). Citing its own…"
+        },
         {
           "title": "Apple's October 13 Launch: What's Coming",
           "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
           "time": "2026-10-08T21:53:18.000Z",
           "summary": "Anthropic today updated its usage policy (via The Verge ) to bar users from subjecting Claude to \"sustained and needless abusive or cruel behavior.\" Anthropic says the…"
-        },
-        {
-          "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
-          "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
-          "time": "2026-10-08T21:12:43.000Z",
-          "summary": "Apple will introduce new OLED touchscreen MacBook Pro models and an &zwnj;OLED&zwnj; iPad mini \"on or around\" Tuesday, October 27, reports Bloomberg . The launch will…"
-        },
-        {
-          "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
-          "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
-          "time": "2026-10-08T20:17:58.000Z",
-          "summary": "Starting today, iPhone users still running iOS 26 will see iOS 27.0.1 as the prominent software update in the Settings app under General → Software Update, with iOS…"
-        },
-        {
-          "title": "Apple Has a New M&A Chief as Ternus Reshuffles Leadership",
-          "url": "https://www.macrumors.com/2026/10/08/apple-acquisitions-new-lead/",
-          "time": "2026-10-08T19:06:41.000Z",
-          "summary": "CEO John Ternus is making changes to Apple's leadership, reports Bloomberg . Apple veteran Steve Smith will take over mergers and acquisitions and corporate development,…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-09T07:50:44.749Z",
+      "fetchedAt": "2026-10-09T15:05:50.287Z",
       "error": null,
       "items": [
         {
-          "title": "OLED MacBook Pro to help boost premium display shipments, per report",
-          "url": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
-          "time": "2026-10-09T02:21:43.000Z",
-          "summary": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the…"
+          "title": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star",
+          "url": "https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star/",
+          "time": "2026-10-09T14:44:12.000Z",
+          "summary": "Apple TV just debuted the first look at Prodigies, a new series from The White Lotus star Will Sharpe that offers an “unconventional take” on the romantic comedy genre.…"
         },
         {
-          "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
-          "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
-          "time": "2026-10-09T02:11:17.000Z",
-          "summary": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different…"
+          "title": "SpaceX to become ‘major mobile carrier’ in US with Starlink Mobile upgrades",
+          "url": "https://9to5mac.com/2026/10/09/spacex-to-become-major-mobile-carrier-in-us-with-starlink-mobile-upgrades/",
+          "time": "2026-10-09T14:17:26.000Z",
+          "summary": "SpaceX has announced plans to make Starlink Mobile a “major mobile carrier in the US” thanks to two major new developments. Here are the details. more…"
         },
         {
-          "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
-          "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
-          "time": "2026-10-09T01:00:23.000Z",
-          "summary": "Apple TV subscribers can now watch Apple TV’s “ Matchbox The Movie ,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer…"
+          "title": "Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature",
+          "url": "https://9to5mac.com/2026/10/09/apples-new-second-party-homekit-products-will-have-this-exclusive-iphone-feature/",
+          "time": "2026-10-09T14:10:33.000Z",
+          "summary": "Apple could showcase its new co-developed smart home accessories as soon as next week. Ahead of that, a new leak today reveals a HomeKit feature exclusive to these…"
         },
         {
-          "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
-          "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
-          "time": "2026-10-08T23:08:18.000Z",
-          "summary": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here…"
+          "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
+          "url": "https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/",
+          "time": "2026-10-09T13:41:06.000Z",
+          "summary": "Apple launched iOS 27 on September 14, but the new OS version was initially minimized in Settings while iOS 26.7 was spotlighted as the recommended update. But now…"
         },
         {
-          "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
-          "url": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
-          "time": "2026-10-08T21:38:06.000Z",
-          "summary": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and…"
+          "title": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’",
+          "url": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/",
+          "time": "2026-10-09T12:37:23.000Z",
+          "summary": "Apple has reportedly cut orders for the iPhone 18 Pro and iPhone 18 Pro Max due to “soft demand.” A new report from Nikkei Asia says Apple has told select suppliers to…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-09T07:50:44.749Z",
+      "fetchedAt": "2026-10-09T15:05:50.287Z",
       "error": null,
       "items": [
+        {
+          "title": "Our Favorite Indie Apps for iOS 27, Vol. 3",
+          "url": "https://www.macstories.net/reviews/our-favorite-indie-apps-for-ios-27-vol-3/",
+          "time": "2026-10-09T14:06:22.000Z",
+          "summary": "We have another collection our favorite indie apps that take advantage of Apple’s latest OS features. Today, we’re highlighting: Haven, Structured, Capture, Scrappy, and…"
+        },
         {
           "title": "Apple Announces October 2026 Event",
           "url": "https://www.macstories.net/news/apple-announces-october-2026-event/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/linked/iphone-duo-app-submissions-are-open/",
           "time": "2026-10-06T11:43:59.000Z",
           "summary": "Source: Apple. Yesterday, Apple announced on its developer blog that it has begun taking App Store submissions for iPhone Duo apps. The new foldable phone will be in…"
-        },
-        {
-          "title": "Apple Announces Plan to Impose New Full Disk Access Controls on Mac Developers",
-          "url": "https://www.macstories.net/linked/apple-announces-plan-to-impose-new-full-disk-access-controls-on-mac-developers/",
-          "time": "2026-10-02T21:47:22.000Z",
-          "summary": "Today, on its developer blog, Apple announced plans to “…introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-09T07:50:44.749Z",
+      "fetchedAt": "2026-10-09T15:05:50.287Z",
       "error": null,
       "items": [
         {
-          "title": "Politievakbond NSPV eist duidelijkheid over preventieve arrestaties in Antwerpen: \"Agenten voelen zich er niet comfortabel bij\"",
-          "url": "https://vrtnws.be/p.RayKjyoj0",
-          "time": "2026-10-09T07:46:47.000Z",
-          "summary": "De politievakbond NSPV eist meer duidelijkheid over de preventieve arrestaties die de Antwerpse politie kan uitvoeren bij gekende overlastplegers. Over die nieuwe…"
+          "title": "Antwerpse hulporganisaties voelen nu al impact van preventieve arrestaties: \"Mensen zijn bang\"",
+          "url": "https://vrtnws.be/p.OvXjb4Obq",
+          "time": "2026-10-09T14:42:43.000Z",
+          "summary": "Hulpverleningsorganisaties in Antwerpen merken dat er minder mensen tot bij hen komen door de preventieve politieacties tegen overlastplegers. \"Ze zijn bang dat ze…"
         },
         {
-          "title": "Vogelspotters in Neerpede hopen op zeldzame rode wouw tijdens najaarstrek: \"Als het lukt, kraak ik een fles champagne\"",
-          "url": "https://vrtnws.be/p.0YJyANwyM",
-          "time": "2026-10-09T07:40:00.000Z",
-          "summary": "Op een spoorwegbrug in Neerpede komen volgende week vogelspotters bijeen om het spektakel van de najaarstrek in volle glorie te beleven. Dit jaar mogen ze meer dan…"
+          "title": "VS leggen sancties op aan Internationaal Strafhof zelf: \"Poging om rechtsgang te hinderen\"",
+          "url": "https://vrtnws.be/p.NvXNovvaa",
+          "time": "2026-10-09T14:42:34.000Z",
+          "summary": "De Verenigde Staten hebben een nieuwe reeks sancties aangekondigd tegen het Internationaal Strafhof (ICC) in Den Haag. Waar eerdere maatregelen vooral gericht waren…"
         },
         {
-          "title": "\"Niet bieten, maar droogte hebben stank veroorzaakt\": Geurhinder Tiense Suikerfabriek dan toch afkomstig van bezinkingsvijvers",
-          "url": "https://vrtnws.be/p.oL1OvGO4a",
-          "time": "2026-10-09T07:11:01.000Z",
-          "summary": "De geurhinder in de omgeving van de Tiense Suikerrafinaderij is dan toch afkomstig van de bezinkingsvijvers van de fabriek. Dat blijkt uit een inspectie ter plaatse van…"
+          "title": "Wat als spooroverwegen verdwijnen? Jonge ontwerpers schetsen toekomst tussen Lier en Herentals",
+          "url": "https://vrtnws.be/p.lOlm9B46k",
+          "time": "2026-10-09T14:10:02.000Z",
+          "summary": "Drie teams van jonge ontwerpers hebben de afgelopen week plannen uitgewerkt voor de toekomst van de spoorwegverbinding tussen Lier en Herentals. Dat deden ze samen met…"
         },
         {
-          "title": "Ondanks protest geeft Vlaamse regering groen licht voor windturbine van 220 meter hoog in Drogenbos",
-          "url": "https://vrtnws.be/p.mR03Vn7j7",
-          "time": "2026-10-09T07:06:28.000Z",
-          "summary": "Ondanks heel wat protest mag energiebedrijf Luminus dan toch een windturbine van 220 meter hoog bouwen op de terreinen van chemiebedrijf Allnex in Drogenbos. Vlaams…"
+          "title": "Live-uitzending van executie in VS roept vragen op: \"Verval van normen en waarden, past niet bij democratische staten\"",
+          "url": "https://vrtnws.be/p.nwYknnyZK",
+          "time": "2026-10-09T13:46:42.000Z",
+          "summary": "De plannen van de VS om de executie van militair Nidal Hasan door een vuurpeloton live uit te zenden, doen wereldwijd stof opwaaien. \"Sommige trends uit de Verenigde…"
         },
         {
-          "title": "Film Fest Gent eert Britse regisseur Danny Boyle en scenarist Angelo Tijssens met award",
-          "url": "https://vrtnws.be/p.0YJy1wV8m",
-          "time": "2026-10-09T06:15:46.000Z",
-          "summary": "De Britse regisseur Danny Boyle heeft donderdagavond de Joseph Plateau Honorary Award ontvangen op Film Fest Gent. De regisseur van bekende films als Trainspotting,…"
+          "title": "Vogeltentoonstelling Diamond Bird Show in Zandhoven mag doorgaan ondanks vogelgriep in Balen",
+          "url": "https://vrtnws.be/p.RayK04q0e",
+          "time": "2026-10-09T13:45:26.000Z",
+          "summary": "De vogeltentoonstelling Diamond Bird Show in Zandhoven kan dit weekend gewoon doorgaan, ondanks de vogelgriepuitbraak die eerder deze week werd vastgesteld in Balen.…"
         }
       ]
     }
