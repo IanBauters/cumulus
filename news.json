@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-09T01:03:15.541Z",
+  "generatedAt": "2026-10-09T07:50:44.749Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-09T01:03:15.541Z",
+      "fetchedAt": "2026-10-09T07:50:44.749Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-09T01:03:15.541Z",
+      "fetchedAt": "2026-10-09T07:50:44.749Z",
       "error": null,
       "items": [
+        {
+          "title": "OLED MacBook Pro to help boost premium display shipments, per report",
+          "url": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
+          "time": "2026-10-09T02:21:43.000Z",
+          "summary": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the…"
+        },
+        {
+          "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+          "url": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
+          "time": "2026-10-09T02:11:17.000Z",
+          "summary": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different…"
+        },
         {
           "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
           "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
           "time": "2026-10-08T21:38:06.000Z",
           "summary": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and…"
-        },
-        {
-          "title": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
-          "url": "https://9to5mac.com/2026/10/08/happy-hour-611/",
-          "time": "2026-10-08T21:36:56.000Z",
-          "summary": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a…"
-        },
-        {
-          "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
-          "url": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
-          "time": "2026-10-08T21:14:29.000Z",
-          "summary": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-09T01:03:15.541Z",
+      "fetchedAt": "2026-10-09T07:50:44.749Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-09T01:03:15.541Z",
+      "fetchedAt": "2026-10-09T07:50:44.749Z",
       "error": null,
       "items": [
         {
-          "title": "Executie door vuurpeloton in Texas wordt live uitgezonden",
-          "url": "https://vrtnws.be/p.ewPenNnxj",
-          "time": "2026-10-08T23:04:38.000Z",
-          "summary": "De executie van Nidal Hasan, de man die in 2009 13 militairen doodschoot op de Amerikaanse legerbasis Fort Hood in Texas, zal live worden uitgezonden. Dat heeft een…"
+          "title": "Politievakbond NSPV eist duidelijkheid over preventieve arrestaties in Antwerpen: \"Agenten voelen zich er niet comfortabel bij\"",
+          "url": "https://vrtnws.be/p.RayKjyoj0",
+          "time": "2026-10-09T07:46:47.000Z",
+          "summary": "De politievakbond NSPV eist meer duidelijkheid over de preventieve arrestaties die de Antwerpse politie kan uitvoeren bij gekende overlastplegers. Over die nieuwe…"
         },
         {
-          "title": "Politieagent Kelly Hauben getuigt in nieuwe VRT-reeks 'F*ck you, flik': \"Kreeg blok van 20 kilo tegen mijn hoofd\"",
-          "url": "https://vrtnws.be/p.WkXyPWKnx",
-          "time": "2026-10-08T21:09:54.000Z",
-          "summary": "\"Ik kreeg een verkeersblok van 20 kilo tegen mijn hoofd en werd een minuut lang geschopt en geslagen.\" Politieagente Kelly Hauben werd tijdens een betoging in Brussel…"
+          "title": "Vogelspotters in Neerpede hopen op zeldzame rode wouw tijdens najaarstrek: \"Als het lukt, kraak ik een fles champagne\"",
+          "url": "https://vrtnws.be/p.0YJyANwyM",
+          "time": "2026-10-09T07:40:00.000Z",
+          "summary": "Op een spoorwegbrug in Neerpede komen volgende week vogelspotters bijeen om het spektakel van de najaarstrek in volle glorie te beleven. Dit jaar mogen ze meer dan…"
         },
         {
-          "title": "Bestelwagen rijdt in op politie langs E40 in Heverlee: agent schiet op banden",
-          "url": "https://vrtnws.be/p.vL4jGbm1l",
-          "time": "2026-10-08T20:17:07.000Z",
-          "summary": "Op een parking langs de E40 in Heverlee is een bestelwagen ingereden op de politie. Dat bevestigt het parket van Leuven."
+          "title": "\"Niet bieten, maar droogte hebben stank veroorzaakt\": Geurhinder Tiense Suikerfabriek dan toch afkomstig van bezinkingsvijvers",
+          "url": "https://vrtnws.be/p.oL1OvGO4a",
+          "time": "2026-10-09T07:11:01.000Z",
+          "summary": "De geurhinder in de omgeving van de Tiense Suikerrafinaderij is dan toch afkomstig van de bezinkingsvijvers van de fabriek. Dat blijkt uit een inspectie ter plaatse van…"
         },
         {
-          "title": "Terdoodveroordeelde Christa Pike kan opnieuw stappen na mislukte executie: \"Ze is boos en verward\"",
-          "url": "https://vrtnws.be/p.QAX51jP8o",
-          "time": "2026-10-08T19:27:07.000Z",
-          "summary": "De terdoodveroordeelde Christa Pike kan opnieuw stappen. Volgens haar advocaat heeft ze korte stukjes door haar ziekenhuiskamer gestapt. Ze is wel nog verward en boos.…"
+          "title": "Ondanks protest geeft Vlaamse regering groen licht voor windturbine van 220 meter hoog in Drogenbos",
+          "url": "https://vrtnws.be/p.mR03Vn7j7",
+          "time": "2026-10-09T07:06:28.000Z",
+          "summary": "Ondanks heel wat protest mag energiebedrijf Luminus dan toch een windturbine van 220 meter hoog bouwen op de terreinen van chemiebedrijf Allnex in Drogenbos. Vlaams…"
         },
         {
-          "title": "E-step haalt meer dan 100 km/u tijdens politiecontrole in Vilvoorde en Diegem",
-          "url": "https://vrtnws.be/p.w78qjjBRM",
-          "time": "2026-10-08T18:56:43.000Z",
-          "summary": "Bij een grote politiecontrole in en rond het station van Vilvoorde heeft de politie een elektrische step ontdekt die 100km/u haalde op de testbank. Aan het station kon…"
+          "title": "Film Fest Gent eert Britse regisseur Danny Boyle en scenarist Angelo Tijssens met award",
+          "url": "https://vrtnws.be/p.0YJy1wV8m",
+          "time": "2026-10-09T06:15:46.000Z",
+          "summary": "De Britse regisseur Danny Boyle heeft donderdagavond de Joseph Plateau Honorary Award ontvangen op Film Fest Gent. De regisseur van bekende films als Trainspotting,…"
         }
       ]
     }
