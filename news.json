@@ -1,23 +1,35 @@
 {
-  "generatedAt": "2026-10-08T20:34:51.131Z",
+  "generatedAt": "2026-10-09T01:03:15.541Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-08T20:34:51.131Z",
+      "fetchedAt": "2026-10-09T01:03:15.541Z",
       "error": null,
       "items": [
         {
+          "title": "Apple's October 13 Launch: What's Coming",
+          "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
+          "time": "2026-10-08T23:48:33.000Z",
+          "summary": "Apple is planning to introduce new products on Tuesday, October 13, Apple marketing chief Greg Joswiak announced today . It won't be a traditional Apple event, but Apple…"
+        },
+        {
+          "title": "Anthropic Says Users Can't Be Needlessly Cruel to Claude",
+          "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
+          "time": "2026-10-08T21:53:18.000Z",
+          "summary": "Anthropic today updated its usage policy (via The Verge ) to bar users from subjecting Claude to \"sustained and needless abusive or cruel behavior.\" Anthropic says the…"
+        },
+        {
           "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
           "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
-          "time": "2026-10-08T20:31:56.000Z",
+          "time": "2026-10-08T21:12:43.000Z",
           "summary": "Apple will introduce new OLED touchscreen MacBook Pro models and an &zwnj;OLED&zwnj; iPad mini \"on or around\" Tuesday, October 27, reports Bloomberg . The launch will…"
         },
         {
           "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
           "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
-          "time": "2026-10-08T20:18:10.000Z",
+          "time": "2026-10-08T20:17:58.000Z",
           "summary": "Starting today, iPhone users still running iOS 26 will see iOS 27.0.1 as the prominent software update in the Settings app under General → Software Update, with iOS…"
         },
         {
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/08/apple-acquisitions-new-lead/",
           "time": "2026-10-08T19:06:41.000Z",
           "summary": "CEO John Ternus is making changes to Apple's leadership, reports Bloomberg . Apple veteran Steve Smith will take over mergers and acquisitions and corporate development,…"
-        },
-        {
-          "title": "Tim Cook Says He's 'Not Meddling' With Apple's New CEO John Ternus",
-          "url": "https://www.macrumors.com/2026/10/08/tim-cook-says-hes-not-meddling-with-ternus/",
-          "time": "2026-10-08T18:36:05.000Z",
-          "summary": "In his new role as the executive chairman of Apple's board of directors, Tim Cook told The Independent 's David Phelan that he is \"not meddling\" with Apple's new CEO…"
-        },
-        {
-          "title": "Tim Cook Explains Why He Stepped Down as Apple CEO Before iPhone Duo Launch",
-          "url": "https://www.macrumors.com/2026/10/08/tim-cook-interview-about-john-ternus/",
-          "time": "2026-10-08T18:21:59.000Z",
-          "summary": "The Independent 's David Phelan on Wednesday interviewed Apple's executive chairman Tim Cook at Apple's U.K. headquarters in the Battersea Power Station, and one of the…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-08T20:34:51.131Z",
+      "fetchedAt": "2026-10-09T01:03:15.541Z",
       "error": null,
       "items": [
         {
-          "title": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
-          "url": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/",
-          "time": "2026-10-08T20:28:30.000Z",
-          "summary": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first…"
+          "title": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
+          "url": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
+          "time": "2026-10-09T01:00:23.000Z",
+          "summary": "Apple TV subscribers can now watch Apple TV’s “ Matchbox The Movie ,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer…"
         },
         {
-          "title": "IDC: Mac shipments drop 11% in Q3 as global PC market slides 20%",
-          "url": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/",
-          "time": "2026-10-08T20:09:47.000Z",
-          "summary": "Despite seeing an 11% drop in Mac shipments during Q3 2026, Apple’s market share rose from 8.5% to 9.5%, as the broader market saw shipments plunge 20.1%, according to a…"
+          "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+          "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+          "time": "2026-10-08T23:08:18.000Z",
+          "summary": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here…"
         },
         {
-          "title": "Apple Home adds two powerful new features in iOS 27",
-          "url": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
-          "time": "2026-10-08T19:11:19.000Z",
-          "summary": "Apple is launching several new Home products next week , so it’s no surprise that iOS 27 includes big upgrades in the Home app. Here are two powerful new Home features…"
+          "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
+          "url": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
+          "time": "2026-10-08T21:38:06.000Z",
+          "summary": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and…"
         },
         {
-          "title": "Tim Cook on his first month after Apple CEO transition: ‘I’m not meddling’",
-          "url": "https://9to5mac.com/2026/10/08/tim-cook-on-his-first-month-after-apple-ceo-transition-im-not-meddling/",
-          "time": "2026-10-08T18:29:33.000Z",
-          "summary": "Tim Cook visited Apple’s Battersea campus in London this week, mingling with King Charles as part of the company’s new partnership with The King’s Trust . At Apple’s…"
+          "title": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
+          "url": "https://9to5mac.com/2026/10/08/happy-hour-611/",
+          "time": "2026-10-08T21:36:56.000Z",
+          "summary": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a…"
         },
         {
-          "title": "Apple names new head of mergers and acquisitions, per report",
-          "url": "https://9to5mac.com/2026/10/08/apple-names-new-head-of-mergers-and-acquisitions-per-report/",
-          "time": "2026-10-08T18:03:00.000Z",
-          "summary": "Apple is making more leadership changes as the John Ternus era gets underway. A new Bloomberg report today says Apple has named a new mergers and acquisitions chief and…"
+          "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
+          "url": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
+          "time": "2026-10-08T21:14:29.000Z",
+          "summary": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-08T20:34:51.131Z",
+      "fetchedAt": "2026-10-09T01:03:15.541Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,21 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-08T20:34:51.131Z",
+      "fetchedAt": "2026-10-09T01:03:15.541Z",
       "error": null,
       "items": [
+        {
+          "title": "Executie door vuurpeloton in Texas wordt live uitgezonden",
+          "url": "https://vrtnws.be/p.ewPenNnxj",
+          "time": "2026-10-08T23:04:38.000Z",
+          "summary": "De executie van Nidal Hasan, de man die in 2009 13 militairen doodschoot op de Amerikaanse legerbasis Fort Hood in Texas, zal live worden uitgezonden. Dat heeft een…"
+        },
+        {
+          "title": "Politieagent Kelly Hauben getuigt in nieuwe VRT-reeks 'F*ck you, flik': \"Kreeg blok van 20 kilo tegen mijn hoofd\"",
+          "url": "https://vrtnws.be/p.WkXyPWKnx",
+          "time": "2026-10-08T21:09:54.000Z",
+          "summary": "\"Ik kreeg een verkeersblok van 20 kilo tegen mijn hoofd en werd een minuut lang geschopt en geslagen.\" Politieagente Kelly Hauben werd tijdens een betoging in Brussel…"
+        },
         {
           "title": "Bestelwagen rijdt in op politie langs E40 in Heverlee: agent schiet op banden",
           "url": "https://vrtnws.be/p.vL4jGbm1l",
@@ -142,18 +154,6 @@
           "url": "https://vrtnws.be/p.w78qjjBRM",
           "time": "2026-10-08T18:56:43.000Z",
           "summary": "Bij een grote politiecontrole in en rond het station van Vilvoorde heeft de politie een elektrische step ontdekt die 100km/u haalde op de testbank. Aan het station kon…"
-        },
-        {
-          "title": "Diest plaatst camera's tegen zwerfvuil, hangjongeren en fatbikes",
-          "url": "https://vrtnws.be/p.5wjpqj5yx",
-          "time": "2026-10-08T18:35:24.000Z",
-          "summary": "Het stadsbestuur van Diest laat op 3 plaatsen camera's plaatsen om overlast tegen te gaan. De stad krijgt klachten over zwerfvuil, rondhangende jongeren en jongeren die…"
-        },
-        {
-          "title": "Schietpartij in Antwerpse stationsbuurt: 3 mensen in levensgevaar",
-          "url": "https://vrtnws.be/p.w78qwqyaJ",
-          "time": "2026-10-08T18:14:02.000Z",
-          "summary": "In een appartement in de Antwerpse stationsbuurt zijn meerdere gewonden gevallen nadat er schoten gelost werden bij een ruzie. 3 mensen zijn in levensgevaar. De feiten…"
         }
       ]
     }
