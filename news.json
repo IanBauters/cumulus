@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-09T15:05:50.287Z",
+  "generatedAt": "2026-10-09T20:15:19.731Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-09T15:05:50.287Z",
+      "fetchedAt": "2026-10-09T20:15:19.731Z",
       "error": null,
       "items": [
+        {
+          "title": "Mark Your Calendar: Six Important Apple Dates Coming Up This Month",
+          "url": "https://www.macrumors.com/2026/10/09/six-important-apple-dates-this-month/",
+          "time": "2026-10-09T19:51:04.000Z",
+          "summary": "The final three weeks of October are going to be extremely busy for Apple, so we have recapped some key dates below if you want to mark your calendar. Apple will be…"
+        },
+        {
+          "title": "MacRumors Giveaway: Win an Apple Watch Series 12 and a Nylon Band From Southern Straps",
+          "url": "https://www.macrumors.com/2026/10/09/macrumors-giveaway-series-12-southern-straps/",
+          "time": "2026-10-09T17:20:39.000Z",
+          "summary": "For this week's giveaway, we've teamed up with Southern Straps to offer MacRumors readers a chance to win an Apple Watch Series 12 and a nylon band from Southern Straps…"
+        },
+        {
+          "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday",
+          "url": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/",
+          "time": "2026-10-09T16:33:02.000Z",
+          "summary": "Apple today added the first-generation Apple TV 4K from 2017 to the vintage products list on its website, just four days before a new model is finally expected to debut.…"
+        },
+        {
+          "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
+          "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
+          "time": "2026-10-09T15:35:09.000Z",
+          "summary": "Apple shares fell more than 2.5% in early trading today in response to Nikkei Asia 's report that the company is cutting iPhone 18 Pro component orders due to…"
+        },
         {
           "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
           "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
           "time": "2026-10-09T14:50:57.000Z",
           "summary": "Smart home accessories that Apple reportedly helped LG develop could offer iPhone proximity controls and a way to begin setup before the devices have power, according to…"
-        },
-        {
-          "title": "Mac Shipments Fall, But Apple Still Gains Ground in Shrinking Market",
-          "url": "https://www.macrumors.com/2026/10/09/mac-shipments-fall-but-apple-gains-ground/",
-          "time": "2026-10-09T13:16:30.000Z",
-          "summary": "Apple's Mac shipments declined 11.3% in the third quarter of 2026, but the company increased its market share as worldwide PC shipments fell more sharply, according to…"
-        },
-        {
-          "title": "Apple Reportedly Cuts iPhone 18 Pro Orders After Price Hike Dampens Demand",
-          "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
-          "time": "2026-10-09T12:23:22.000Z",
-          "summary": "Apple has asked some of its suppliers to cut production of iPhone 18 Pro components due to lower-than-expected demand, according to Nikkei Asia ($). Citing its own…"
-        },
-        {
-          "title": "Apple's October 13 Launch: What's Coming",
-          "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
-          "time": "2026-10-08T23:48:33.000Z",
-          "summary": "Apple is planning to introduce new products on Tuesday, October 13, Apple marketing chief Greg Joswiak announced today . It won't be a traditional Apple event, but Apple…"
-        },
-        {
-          "title": "Anthropic Says Users Can't Be Needlessly Cruel to Claude",
-          "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
-          "time": "2026-10-08T21:53:18.000Z",
-          "summary": "Anthropic today updated its usage policy (via The Verge ) to bar users from subjecting Claude to \"sustained and needless abusive or cruel behavior.\" Anthropic says the…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-09T15:05:50.287Z",
+      "fetchedAt": "2026-10-09T20:15:19.731Z",
       "error": null,
       "items": [
         {
-          "title": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star",
-          "url": "https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star/",
-          "time": "2026-10-09T14:44:12.000Z",
-          "summary": "Apple TV just debuted the first look at Prodigies, a new series from The White Lotus star Will Sharpe that offers an “unconventional take” on the romantic comedy genre.…"
+          "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
+          "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
+          "time": "2026-10-09T19:02:07.000Z",
+          "summary": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long…"
         },
         {
-          "title": "SpaceX to become ‘major mobile carrier’ in US with Starlink Mobile upgrades",
-          "url": "https://9to5mac.com/2026/10/09/spacex-to-become-major-mobile-carrier-in-us-with-starlink-mobile-upgrades/",
-          "time": "2026-10-09T14:17:26.000Z",
-          "summary": "SpaceX has announced plans to make Starlink Mobile a “major mobile carrier in the US” thanks to two major new developments. Here are the details. more…"
+          "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
+          "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+          "time": "2026-10-09T18:19:00.000Z",
+          "summary": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65…"
         },
         {
-          "title": "Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature",
-          "url": "https://9to5mac.com/2026/10/09/apples-new-second-party-homekit-products-will-have-this-exclusive-iphone-feature/",
-          "time": "2026-10-09T14:10:33.000Z",
-          "summary": "Apple could showcase its new co-developed smart home accessories as soon as next week. Ahead of that, a new leak today reveals a HomeKit feature exclusive to these…"
+          "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
+          "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
+          "time": "2026-10-09T18:15:44.000Z",
+          "summary": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means. more…"
         },
         {
-          "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
-          "url": "https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/",
-          "time": "2026-10-09T13:41:06.000Z",
-          "summary": "Apple launched iOS 27 on September 14, but the new OS version was initially minimized in Settings while iOS 26.7 was spotlighted as the recommended update. But now…"
+          "title": "Grok Bot just got its own email address, here’s how to claim yours",
+          "url": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
+          "time": "2026-10-09T17:42:19.000Z",
+          "summary": "Grok Bot just got a second significant upgrade this week: its own email address. more…"
         },
         {
-          "title": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’",
-          "url": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/",
-          "time": "2026-10-09T12:37:23.000Z",
-          "summary": "Apple has reportedly cut orders for the iPhone 18 Pro and iPhone 18 Pro Max due to “soft demand.” A new report from Nikkei Asia says Apple has told select suppliers to…"
+          "title": "Apple Mail added four convenient new features in iOS 27",
+          "url": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
+          "time": "2026-10-09T17:32:12.000Z",
+          "summary": "iOS 27 brings new features to Apple Wallet , Maps , Notes , Messages , and more —and it packs key upgrades for the Mail app too. Here’s everything new for Apple Mail in…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-09T15:05:50.287Z",
+      "fetchedAt": "2026-10-09T20:15:19.731Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-09T15:05:50.287Z",
+      "fetchedAt": "2026-10-09T20:15:19.731Z",
       "error": null,
       "items": [
         {
-          "title": "Antwerpse hulporganisaties voelen nu al impact van preventieve arrestaties: \"Mensen zijn bang\"",
-          "url": "https://vrtnws.be/p.OvXjb4Obq",
-          "time": "2026-10-09T14:42:43.000Z",
-          "summary": "Hulpverleningsorganisaties in Antwerpen merken dat er minder mensen tot bij hen komen door de preventieve politieacties tegen overlastplegers. \"Ze zijn bang dat ze…"
+          "title": "Trump kiest MAGA-getrouwe Katie Zacharia als nieuwe woordvoerster",
+          "url": "https://vrtnws.be/p.NvXNyVypX",
+          "time": "2026-10-09T19:57:02.000Z",
+          "summary": "Donald Trump heeft Katie Zacharia, een advocate en commentator die nauw aanleunt bij de MAGA-beweging, gekozen als zijn nieuwe woordvoerster. Dat heeft een…"
         },
         {
-          "title": "VS leggen sancties op aan Internationaal Strafhof zelf: \"Poging om rechtsgang te hinderen\"",
-          "url": "https://vrtnws.be/p.NvXNovvaa",
-          "time": "2026-10-09T14:42:34.000Z",
-          "summary": "De Verenigde Staten hebben een nieuwe reeks sancties aangekondigd tegen het Internationaal Strafhof (ICC) in Den Haag. Waar eerdere maatregelen vooral gericht waren…"
+          "title": "Amerikaanse vicepresident JD Vance twijfelt of executie Fort Hood-schutter live wordt uitgezonden",
+          "url": "https://vrtnws.be/p.vL4jaOw7R",
+          "time": "2026-10-09T19:36:14.000Z",
+          "summary": "De Amerikaanse vicepresident JD Vance betwijfelt of de executie van Nidal Hasan, die in 2009 13 militairen doodschoot op de legerbasis Fort Hood in Texas, live zal…"
         },
         {
-          "title": "Wat als spooroverwegen verdwijnen? Jonge ontwerpers schetsen toekomst tussen Lier en Herentals",
-          "url": "https://vrtnws.be/p.lOlm9B46k",
-          "time": "2026-10-09T14:10:02.000Z",
-          "summary": "Drie teams van jonge ontwerpers hebben de afgelopen week plannen uitgewerkt voor de toekomst van de spoorwegverbinding tussen Lier en Herentals. Dat deden ze samen met…"
+          "title": "Krachtige aardbeving treft zuidkust van Panama, tsunami-alarm in oostelijk deel Stille Oceaan",
+          "url": "https://vrtnws.be/p.6KVZwMMOQ",
+          "time": "2026-10-09T19:08:52.000Z",
+          "summary": "De zuidkust van het Centraal-Amerikaanse land Panama is getroffen door een aardbeving met een magnitude van 7.6. De beving vond plaats op zo'n 10 kilometer voor de…"
         },
         {
-          "title": "Live-uitzending van executie in VS roept vragen op: \"Verval van normen en waarden, past niet bij democratische staten\"",
-          "url": "https://vrtnws.be/p.nwYknnyZK",
-          "time": "2026-10-09T13:46:42.000Z",
-          "summary": "De plannen van de VS om de executie van militair Nidal Hasan door een vuurpeloton live uit te zenden, doen wereldwijd stof opwaaien. \"Sommige trends uit de Verenigde…"
+          "title": "Drie mannen uit regio Gent opgepakt en aangehouden na dodelijke schietpartij in Overasselt",
+          "url": "https://vrtnws.be/p.bDy1LxAvA",
+          "time": "2026-10-09T17:40:57.000Z",
+          "summary": "In het onderzoek naar het zware geweld op 1 september in Overasselt in Nederland zijn in de omgeving van Gent 3 mannen opgepakt en aangehouden. Dat heeft de Nederlandse…"
         },
         {
-          "title": "Vogeltentoonstelling Diamond Bird Show in Zandhoven mag doorgaan ondanks vogelgriep in Balen",
-          "url": "https://vrtnws.be/p.RayK04q0e",
-          "time": "2026-10-09T13:45:26.000Z",
-          "summary": "De vogeltentoonstelling Diamond Bird Show in Zandhoven kan dit weekend gewoon doorgaan, ondanks de vogelgriepuitbraak die eerder deze week werd vastgesteld in Balen.…"
+          "title": "Nona Van Braeckel over ex die stiekem naaktbeelden van haar maakte: \"De schaamte hoort niet bij mij te liggen\"",
+          "url": "https://vrtnws.be/p.ewPeLmMoj",
+          "time": "2026-10-09T16:45:26.000Z",
+          "summary": "Studio Brussel-presentatrice Nona Van Braeckel (26) ontdekte enkele jaren geleden dat haar ex-vriend stiekem naaktbeelden van haar maakte terwijl ze sliep. In de podcast…"
         }
       ]
     }
