@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-10T12:54:58.205Z",
+  "generatedAt": "2026-10-10T17:42:05.182Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-10T12:54:58.205Z",
+      "fetchedAt": "2026-10-10T17:42:05.182Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Stores Will Add Your Name to iPhone Duo's Startup Screen",
-          "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
-          "time": "2026-10-09T23:17:31.000Z",
-          "summary": "Apple has something special planned for customers who purchase an iPhone Duo in an Apple Store . Employees will be able to customize the Duo so it displays the name of…"
+          "title": "AirPods 5 vs. AirPods 5 With Wireless Charging Case Buyer's Guide",
+          "url": "https://www.macrumors.com/guide/airpods-5-vs-with-wireless-charging-case/",
+          "time": "2026-10-10T15:00:10.000Z",
+          "summary": "Apple offers two versions of the AirPods 5 : a $129 model with a USB-C Charging Case and a $149 model with a Wireless Charging Case. The extra $20 also buys longer…"
         },
         {
-          "title": "SpaceX Inches Closer to Becoming a U.S. Carrier",
-          "url": "https://www.macrumors.com/2026/10/09/spacex-starlink-mobile-carrier/",
-          "time": "2026-10-09T23:01:05.000Z",
-          "summary": "SpaceX this week announced two developments that further its goal of becoming a major U.S. carrier to compete with AT&T, Verizon, and T-Mobile. It is acquiring a…"
+          "title": "Apple's All-New Home Hub Will Be Revealed October 13: What to Expect",
+          "url": "https://www.macrumors.com/2026/10/10/apple-to-unveil-all-new-type-of-device/",
+          "time": "2026-10-10T13:58:00.000Z",
+          "summary": "Apple reportedly plans to unveil an all-new smart home hub as part of the \"Welcome home\" product launch it announced for Tuesday, October 13. Our image above is just a…"
         },
         {
-          "title": "Apple Potentially Behind 'HomeView' Trademark Filed Alongside 'homeOS' Last Year",
-          "url": "https://www.macrumors.com/2026/10/09/homeview-trademark/",
-          "time": "2026-10-09T21:09:02.000Z",
-          "summary": "Apple potentially used a shell company named Home Services LLC to secretly file for a \"HomeView\" trademark in the U.S. and various other countries last year, around the…"
+          "title": "Apple Announcing HomePod Mini 2 Next Week With These New Features",
+          "url": "https://www.macrumors.com/2026/10/10/apple-to-announce-new-homepod-mini-next-week/",
+          "time": "2026-10-10T13:55:00.000Z",
+          "summary": "Apple reportedly plans to unveil a new HomePod mini as part of the \"Welcome home\" experience it announced for Tuesday, October 13. We expect the new HomePod mini to be…"
         },
         {
-          "title": "Mark Your Calendar: Six Important Apple Dates Coming Up This Month",
-          "url": "https://www.macrumors.com/2026/10/09/six-important-apple-dates-this-month/",
-          "time": "2026-10-09T19:51:04.000Z",
-          "summary": "The final three weeks of October are going to be extremely busy for Apple, so we have recapped some key dates below if you want to mark your calendar. Apple will be…"
+          "title": "A New Apple TV 4K is Finally Coming on Tuesday",
+          "url": "https://www.macrumors.com/2026/10/10/new-apple-tv-4k-is-coming-tuesday/",
+          "time": "2026-10-10T13:45:00.000Z",
+          "summary": "After a nearly four-year wait, a new Apple TV is finally expected to be announced as part of Apple's \"Welcome home\" launch on Tuesday, October 13. We expect the new…"
         },
         {
-          "title": "MacRumors Giveaway: Win an Apple Watch Series 12 and a Nylon Band From Southern Straps",
-          "url": "https://www.macrumors.com/2026/10/09/macrumors-giveaway-series-12-southern-straps/",
-          "time": "2026-10-09T17:20:39.000Z",
-          "summary": "For this week's giveaway, we've teamed up with Southern Straps to offer MacRumors readers a chance to win an Apple Watch Series 12 and a nylon band from Southern Straps…"
+          "title": "Top Stories: Apple's 'Welcome Home' Launch on October 13 and More",
+          "url": "https://www.macrumors.com/2026/10/10/top-stories-apple-welcome-home-launch-october-13/",
+          "time": "2026-10-10T13:00:10.000Z",
+          "summary": "Following the usual September rush of Apple news, it looks like October is also about ready to explode, with not just one but two rounds of Apple product debuts this…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-10T12:54:58.205Z",
+      "fetchedAt": "2026-10-10T17:42:05.182Z",
       "error": null,
       "items": [
+        {
+          "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
+          "url": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
+          "time": "2026-10-10T15:51:43.000Z",
+          "summary": "This week, Amazon unveiled a new lineup of Alexa Tablets. They no longer run a proprietary OS with a custom App Store, and instead embrace Android with a stock feel –…"
+        },
+        {
+          "title": "Apple @ Work: Remote AppleCare log collection is one of the most underrated updates in macOS 27",
+          "url": "https://9to5mac.com/2026/10/10/apple-work-remote-applecare-log-collection-is-one-of-the-most-useful-behind-the-scenes-updates-in-macos-27/",
+          "time": "2026-10-10T13:00:00.000Z",
+          "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
+        },
         {
           "title": "TrendForce warns of higher notebook prices and weaker demand in 2027",
           "url": "https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
           "time": "2026-10-09T19:02:07.000Z",
           "summary": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long…"
-        },
-        {
-          "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
-          "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
-          "time": "2026-10-09T18:19:00.000Z",
-          "summary": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65…"
-        },
-        {
-          "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
-          "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
-          "time": "2026-10-09T18:15:44.000Z",
-          "summary": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-10T12:54:58.205Z",
+      "fetchedAt": "2026-10-10T17:42:05.182Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-10T12:54:58.205Z",
+      "fetchedAt": "2026-10-10T17:42:05.182Z",
       "error": null,
       "items": [
         {
-          "title": "Turkije verbiedt sociale media voor min 15-jarigen",
-          "url": "https://vrtnws.be/p.BlX4dqYG9",
-          "time": "2026-10-10T12:40:16.000Z",
-          "summary": "Turkije heeft het gebruik van sociale media verboden voor min 15-jarigen. Het voegt zich zo bij een groeiend aantal landen dat kinderen en adolescenten wil beschermen…"
+          "title": "Na mislukte executie: Christa Pike van ziekenhuis opnieuw naar de cel",
+          "url": "https://vrtnws.be/p.DYXQ4Nl0K",
+          "time": "2026-10-10T16:51:39.000Z",
+          "summary": "Ongeveer anderhalve week na haar mislukte executie in Tennessee heeft Christa Pike het ziekenhuis verlaten. Ze is inmiddels teruggekeerd naar de gevangenis waarin ze al…"
         },
         {
-          "title": "Ierland stelt verlaging van budget met 159 miljard voor",
-          "url": "https://vrtnws.be/p.kQGWewQED",
-          "time": "2026-10-10T12:31:56.000Z",
-          "summary": "Het Ierse voorzitterschap van de Raad van de EU stelt voor om het budget voor de volgende meerjarenbegroting met 8 procent te verlagen in vergelijking met het…"
+          "title": "'Otter' die 165 miljoen jaar geleden tussen de dinosauriërs zwom: maak kennis met Megacauda sungei",
+          "url": "https://vrtnws.be/p.ZWyA8DVX3",
+          "time": "2026-10-10T16:47:10.000Z",
+          "summary": "Zowat 165 miljoen jaar geleden zwom er in het huidige China een diertje rond in meren en rivieren dat leek op de huidige otter. Dat blijkt uit wetenschappelijk onderzoek…"
         },
         {
-          "title": "Politiedrone en klopjacht leiden naar inbreker in Hoeilaart: 1 verdachte gevat",
-          "url": "https://vrtnws.be/p.kQGWW4emD",
-          "time": "2026-10-10T12:22:22.000Z",
-          "summary": "Een woninginbraak aan de Groenendaalsesteenweg in Hoeilaart heeft donderdagavond 8 oktober geleid tot een grootschalige politieactie. Terwijl de bewoners gewoon thuis…"
+          "title": "MR keldert compromis over visa voor 13 Palestijnse studenten, zegt Prévot: \"Menselijk schandalig en politiek betreurenswaardig\"",
+          "url": "https://vrtnws.be/p.KKXvxP0oa",
+          "time": "2026-10-10T16:30:53.000Z",
+          "summary": "De MR blokkeert als enige regeringspartij een compromis van minister van Buitenlandse Zaken Maxime Prévot (Les Engagés) met minister van Asiel en Migratie Anneleen Van…"
         },
         {
-          "title": "\"Een ontzettend schokkerige rit\": 'achtbaanprofessor' reed ooit mee op Amerikaanse rollercoaster die na meerdere hersenletsels wordt gesloten",
-          "url": "https://vrtnws.be/p.nwYkkPVQK",
-          "time": "2026-10-10T12:08:46.000Z",
-          "summary": "\"Je krijgt de hele tijd gerammel op je hoofd.\" Zo beschrijft 'achtbaanprofessor' Jurnan Schilder zijn rit op de rollercoaster X2 in Six Flags Magic Mountain. Die…"
+          "title": "Wout Van Laecke uit Ertvelde pakt brons op wereldbeker degenschermen U20 in Hong Kong",
+          "url": "https://vrtnws.be/p.ewPepPvdY",
+          "time": "2026-10-10T16:28:03.000Z",
+          "summary": "De 17-jarige Wout Van Laecke heeft vandaag brons gewonnen op de wereld bekermanche degenschermen bij de U20 in Hong Kong. De schermer uit Ertvelde (Evergem) verliest in…"
         },
         {
-          "title": "Brugge wil vakantiewoning zonder vergunning in beslag nemen: eigenaar is vennootschap van ex-gemeenteraadslid Vlaams Belang",
-          "url": "https://vrtnws.be/p.w78VVABAE",
-          "time": "2026-10-10T11:38:07.000Z",
-          "summary": "De stad Brugge heeft een procedure opgestart om beslag te leggen op een vakantiewoning waarvoor de eigenaars geen vergunning hebben. Het dossier sleept al jaren aan en…"
+          "title": "Kritiek op dure bomen op Grote Markt Sint-Truiden: \"26.000 euro per boom\"",
+          "url": "https://vrtnws.be/p.KKXva4MWm",
+          "time": "2026-10-10T15:20:31.000Z",
+          "summary": "Vlaams Belang heeft kritiek op de kostprijs voor het plaatsen van 6 bomen op de Grote Markt in Sint-Truiden. De aanleg wordt geraamd op 157.000 euro. De stad weerlegt de…"
         }
       ]
     }
