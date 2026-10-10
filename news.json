@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-09T20:15:19.731Z",
+  "generatedAt": "2026-10-10T00:14:00.808Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-09T20:15:19.731Z",
+      "fetchedAt": "2026-10-10T00:14:00.808Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Stores Will Add Your Name to iPhone Duo's Startup Screen",
+          "url": "https://www.macrumors.com/2026/10/09/iphone-duo-name-personalization/",
+          "time": "2026-10-09T23:17:31.000Z",
+          "summary": "Apple has something special planned for customers who purchase an iPhone Duo in an Apple Store . Employees will be able to customize the Duo so it displays the name of…"
+        },
+        {
+          "title": "SpaceX Inches Closer to Becoming a U.S. Carrier",
+          "url": "https://www.macrumors.com/2026/10/09/spacex-starlink-mobile-carrier/",
+          "time": "2026-10-09T23:01:05.000Z",
+          "summary": "SpaceX this week announced two developments that further its goal of becoming a major U.S. carrier to compete with AT&T, Verizon, and T-Mobile. It is acquiring a…"
+        },
+        {
+          "title": "Apple Potentially Behind 'HomeView' Trademark Filed Alongside 'homeOS' Last Year",
+          "url": "https://www.macrumors.com/2026/10/09/homeview-trademark/",
+          "time": "2026-10-09T21:09:02.000Z",
+          "summary": "Apple potentially used a shell company named Home Services LLC to secretly file for a \"HomeView\" trademark in the U.S. and various other countries last year, around the…"
+        },
         {
           "title": "Mark Your Calendar: Six Important Apple Dates Coming Up This Month",
           "url": "https://www.macrumors.com/2026/10/09/six-important-apple-dates-this-month/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/09/macrumors-giveaway-series-12-southern-straps/",
           "time": "2026-10-09T17:20:39.000Z",
           "summary": "For this week's giveaway, we've teamed up with Southern Straps to offer MacRumors readers a chance to win an Apple Watch Series 12 and a nylon band from Southern Straps…"
-        },
-        {
-          "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday",
-          "url": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/",
-          "time": "2026-10-09T16:33:02.000Z",
-          "summary": "Apple today added the first-generation Apple TV 4K from 2017 to the vintage products list on its website, just four days before a new model is finally expected to debut.…"
-        },
-        {
-          "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
-          "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
-          "time": "2026-10-09T15:35:09.000Z",
-          "summary": "Apple shares fell more than 2.5% in early trading today in response to Nikkei Asia 's report that the company is cutting iPhone 18 Pro component orders due to…"
-        },
-        {
-          "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
-          "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
-          "time": "2026-10-09T14:50:57.000Z",
-          "summary": "Smart home accessories that Apple reportedly helped LG develop could offer iPhone proximity controls and a way to begin setup before the devices have power, according to…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-09T20:15:19.731Z",
+      "fetchedAt": "2026-10-10T00:14:00.808Z",
       "error": null,
       "items": [
+        {
+          "title": "TrendForce warns of higher notebook prices and weaker demand in 2027",
+          "url": "https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027/",
+          "time": "2026-10-09T23:13:19.000Z",
+          "summary": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component…"
+        },
+        {
+          "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+          "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+          "time": "2026-10-09T22:29:17.000Z",
+          "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it…"
+        },
         {
           "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
           "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
           "time": "2026-10-09T18:15:44.000Z",
           "summary": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means. more…"
-        },
-        {
-          "title": "Grok Bot just got its own email address, here’s how to claim yours",
-          "url": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
-          "time": "2026-10-09T17:42:19.000Z",
-          "summary": "Grok Bot just got a second significant upgrade this week: its own email address. more…"
-        },
-        {
-          "title": "Apple Mail added four convenient new features in iOS 27",
-          "url": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
-          "time": "2026-10-09T17:32:12.000Z",
-          "summary": "iOS 27 brings new features to Apple Wallet , Maps , Notes , Messages , and more —and it packs key upgrades for the Mail app too. Here’s everything new for Apple Mail in…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-09T20:15:19.731Z",
+      "fetchedAt": "2026-10-10T00:14:00.808Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-09T20:15:19.731Z",
+      "fetchedAt": "2026-10-10T00:14:00.808Z",
       "error": null,
       "items": [
         {
@@ -141,7 +141,7 @@
           "title": "Krachtige aardbeving treft zuidkust van Panama, tsunami-alarm in oostelijk deel Stille Oceaan",
           "url": "https://vrtnws.be/p.6KVZwMMOQ",
           "time": "2026-10-09T19:08:52.000Z",
-          "summary": "De zuidkust van het Centraal-Amerikaanse land Panama is getroffen door een aardbeving met een magnitude van 7.6. De beving vond plaats op zo'n 10 kilometer voor de…"
+          "summary": "De zuidkust van Panama is getroffen door een zware aardbeving met een magnitude van 7,7. De beving vond plaats op zo'n 10 kilometer diepte voor de Panamese zuidkust en…"
         },
         {
           "title": "Drie mannen uit regio Gent opgepakt en aangehouden na dodelijke schietpartij in Overasselt",
