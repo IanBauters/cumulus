@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-10T17:42:05.182Z",
+  "generatedAt": "2026-10-10T21:20:54.533Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-10T17:42:05.182Z",
+      "fetchedAt": "2026-10-10T21:20:54.533Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-10T17:42:05.182Z",
+      "fetchedAt": "2026-10-10T21:20:54.533Z",
       "error": null,
       "items": [
+        {
+          "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+          "url": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
+          "time": "2026-10-10T19:30:00.000Z",
+          "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
+        },
         {
           "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
           "url": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
           "time": "2026-10-09T22:29:17.000Z",
           "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it…"
-        },
-        {
-          "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
-          "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
-          "time": "2026-10-09T19:02:07.000Z",
-          "summary": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-10T17:42:05.182Z",
+      "fetchedAt": "2026-10-10T21:20:54.533Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-10T17:42:05.182Z",
+      "fetchedAt": "2026-10-10T21:20:54.533Z",
       "error": null,
       "items": [
         {
-          "title": "Na mislukte executie: Christa Pike van ziekenhuis opnieuw naar de cel",
-          "url": "https://vrtnws.be/p.DYXQ4Nl0K",
-          "time": "2026-10-10T16:51:39.000Z",
-          "summary": "Ongeveer anderhalve week na haar mislukte executie in Tennessee heeft Christa Pike het ziekenhuis verlaten. Ze is inmiddels teruggekeerd naar de gevangenis waarin ze al…"
+          "title": "Van de muziek van 'Project Hail Mary' tot 'KPop Demon Hunters': dit zijn de winnaars van de World Soundtrack Awards",
+          "url": "https://vrtnws.be/p.y3mKekWan",
+          "time": "2026-10-10T20:15:37.000Z",
+          "summary": "Op Film Fest Gent zijn de World Soundtrack Awards uitgereikt voor de beste muziek voor films, series en games. De Brit Daniel Pemberton ('Project Hail Mary') is voor de…"
         },
         {
-          "title": "'Otter' die 165 miljoen jaar geleden tussen de dinosauriërs zwom: maak kennis met Megacauda sungei",
-          "url": "https://vrtnws.be/p.ZWyA8DVX3",
-          "time": "2026-10-10T16:47:10.000Z",
-          "summary": "Zowat 165 miljoen jaar geleden zwom er in het huidige China een diertje rond in meren en rivieren dat leek op de huidige otter. Dat blijkt uit wetenschappelijk onderzoek…"
+          "title": "Vrouw van 28 dood aangetroffen in woning in Montigny-le-Tilleul, parket spreekt van verdacht overlijden",
+          "url": "https://vrtnws.be/p.vL4bPba9l",
+          "time": "2026-10-10T19:36:08.000Z",
+          "summary": "Een vrouw van 28 jaar is dood aangetroffen in een woning in Montigny-le-Tilleul in de provincie Henegouwen. Dat meldt het parket van Charleroi, dat zo informatie van…"
         },
         {
-          "title": "MR keldert compromis over visa voor 13 Palestijnse studenten, zegt Prévot: \"Menselijk schandalig en politiek betreurenswaardig\"",
-          "url": "https://vrtnws.be/p.KKXvxP0oa",
-          "time": "2026-10-10T16:30:53.000Z",
-          "summary": "De MR blokkeert als enige regeringspartij een compromis van minister van Buitenlandse Zaken Maxime Prévot (Les Engagés) met minister van Asiel en Migratie Anneleen Van…"
+          "title": "Orkaan Simon stevent af op Mexico, Isaias maakt minstens 2 doden in zuiden VS",
+          "url": "https://vrtnws.be/p.mR0Lepq7N",
+          "time": "2026-10-10T19:13:27.000Z",
+          "summary": "Storm Simon, die afstevent op de zuidkust van Mexico, is boven de Stille Oceaan uitgegroeid tot een orkaan van categorie 4. Intussen heeft een andere storm, Isaias, aan…"
         },
         {
-          "title": "Wout Van Laecke uit Ertvelde pakt brons op wereldbeker degenschermen U20 in Hong Kong",
-          "url": "https://vrtnws.be/p.ewPepPvdY",
-          "time": "2026-10-10T16:28:03.000Z",
-          "summary": "De 17-jarige Wout Van Laecke heeft vandaag brons gewonnen op de wereld bekermanche degenschermen bij de U20 in Hong Kong. De schermer uit Ertvelde (Evergem) verliest in…"
+          "title": "\"Nieuwe avonturen\": olympische ruiters Jessica Springsteen en Nicola Philippaerts verwachten eerste kindje",
+          "url": "https://vrtnws.be/p.pAM8wGDbd",
+          "time": "2026-10-10T19:03:05.000Z",
+          "summary": "Olympische ruiters Jessica Springsteen en Nicola Philippaerts verwachten hun eerste kindje. Dat melden ze op Instagram. Zij is de dochter van muzikant Bruce Springsteen,…"
         },
         {
-          "title": "Kritiek op dure bomen op Grote Markt Sint-Truiden: \"26.000 euro per boom\"",
-          "url": "https://vrtnws.be/p.KKXva4MWm",
-          "time": "2026-10-10T15:20:31.000Z",
-          "summary": "Vlaams Belang heeft kritiek op de kostprijs voor het plaatsen van 6 bomen op de Grote Markt in Sint-Truiden. De aanleg wordt geraamd op 157.000 euro. De stad weerlegt de…"
+          "title": "Moeder van 18 sterft bij zwaar ongeval in Hooglede, baby van 4 dagen oud zat bij haar in de wagen",
+          "url": "https://vrtnws.be/p.JNGmV64dw",
+          "time": "2026-10-10T18:16:11.000Z",
+          "summary": "In Hooglede is een vrouw van 18 om het leven gekomen bij een ernstig verkeersongeval. Dat bevestigt het parket van West-Vlaanderen, afdeling Kortrijk. Haar baby van 4…"
         }
       ]
     }
