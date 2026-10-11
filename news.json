@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T06:14:03.347Z",
+  "generatedAt": "2026-10-11T13:18:53.620Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-11T06:14:03.347Z",
+      "fetchedAt": "2026-10-11T13:18:53.620Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-11T06:14:03.347Z",
+      "fetchedAt": "2026-10-11T13:18:53.620Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-11T06:14:03.347Z",
+      "fetchedAt": "2026-10-11T13:18:53.620Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-11T06:14:03.347Z",
+      "fetchedAt": "2026-10-11T13:18:53.620Z",
       "error": null,
       "items": [
         {
-          "title": "Man loopt steekwonde aan hoofd op bij vechtpartij in Antwerpen",
-          "url": "https://vrtnws.be/p.bDyZYd3QD",
-          "time": "2026-10-11T05:36:00.000Z",
-          "summary": "In de Vondelstraat in Antwerpen heeft een man gisteravond een steekwonde opgelopen bij een vechtpartij. Dat meldt de lokale politie."
+          "title": "Gezicht en stem van Sven Pichal worden onherkenbaar gemaakt voor getuigenis in docureeks 'Het bestaat'",
+          "url": "https://vrtnws.be/p.OvXJLLY1B",
+          "time": "2026-10-11T12:56:12.000Z",
+          "summary": "De getuigenis van voormalig radiomaker Sven Pichal in de Streamz-reeks 'Het bestaat', een driedelige documentairereeks over seksueel kindermisbruik, zal worden…"
         },
         {
-          "title": "'Maagd van Gent' al 700 jaar stadssymbool: \"Gebruikt om identiteit van stad en land te vormen\"",
-          "url": "https://vrtnws.be/p.bDyxWevll",
-          "time": "2026-10-11T05:00:00.000Z",
-          "summary": "De 'Maagd van Gent' is op verschillende plekken in de stad te zien, maar almaar minder mensen kennen de figuur die sinds 1991 het stadswapen siert. \"Al in de 14e eeuw…"
+          "title": "Ook Groen dient klacht in tegen preventieve arrestaties in Antwerpen: “Schors richtlijn tot juridische toets is gebeurd”",
+          "url": "https://vrtnws.be/p.YbyEJKKpD",
+          "time": "2026-10-11T12:52:43.000Z",
+          "summary": "De Antwerpse fractie van Groen dient een klacht in bij de provinciegouverneur tegen de preventieve arrestaties door de politiezone Antwerpen. Met de 'Richtlijn Korpschef…"
         },
         {
-          "title": "Achter het dubbele houten hek van Sandringham: hoe vult Andrew Mountbatten-Windsor zijn dagen?",
-          "url": "https://vrtnws.be/p.JNGJ89Mla",
-          "time": "2026-10-11T04:40:00.000Z",
-          "summary": "De voormalige Britse prins Andrew mag deze week dan wel een kleine juridische veldslag tegen de politie gewonnen hebben, op privévlak wachten hem lange, donkere…"
+          "title": "Jonge bestuurder (23) komt om het leven bij zwaar ongeval in Testelt: \"Te wijten aan overdreven snelheid\"",
+          "url": "https://vrtnws.be/p.xZWvMeW70",
+          "time": "2026-10-11T12:32:40.000Z",
+          "summary": "Op de Hanenberg in Testelt is in de nacht van zaterdag op zondag een dodelijk verkeersongeval gebeurd. Een 23-jarige bestuurder uit Scherpenheuvel-Zichem kwam hierbij om…"
         },
         {
-          "title": "\"De wereld jaagt op onze talenten\": Brusselse school La Cambre Mode(s) is al 40 jaar leverancier van topontwerpers",
-          "url": "https://vrtnws.be/p.xZWxJDP40",
-          "time": "2026-10-11T04:30:00.000Z",
-          "summary": "De Brusselse school La Cambre Mode(s) viert haar 40e verjaardag. Alumni drukken hun stempel op iconische modehuizen als Chanel, Courrèges en Saint Laurent. Niet voor…"
+          "title": "Autocar botst met vrachtwagen in Turkije: 11 doden en 27 gewonden",
+          "url": "https://vrtnws.be/p.w78J4A3oZ",
+          "time": "2026-10-11T12:30:24.000Z",
+          "summary": "In het westen van Turkije zijn zeker 11 personen om het leven gekomen, nadat een autocar was gebotst met een vrachtwagen. Daarna kantelde de autocar om. Er vielen ook 27…"
         },
         {
-          "title": "\"Kan ik een kleinkind zonder bloedband even graag zien als mijn andere kleinkinderen?\" Rika Ponnet beantwoordt de vraag van Nelly",
-          "url": "https://vrtnws.be/p.3BxElP0Jb",
-          "time": "2026-10-11T04:15:00.000Z",
-          "summary": "De zoon van Nelly en zijn man willen kiezen voor draagmoederschap om hun kinderwens te vervullen. Haar schoonzoon wordt de biologische vader. Nelly worstelt ermee: kun…"
+          "title": "Klimaatmars is aan de gang in Brussel, Manneken Pis gaf voorzet met speciaal 'CHANGE'-kostuum",
+          "url": "https://vrtnws.be/p.bDyZ6d8PK",
+          "time": "2026-10-11T12:20:03.000Z",
+          "summary": "Rond 15 uur is de jaarlijkse klimaatmars in Brussel begonnen. Leden van de Klimaatcoalitie en bezorgde burgers vragen er meer aandacht voor de klimaatcrisis en eisen…"
         }
       ]
     }
