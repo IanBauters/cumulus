@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-11T18:20:21.234Z",
+  "generatedAt": "2026-10-11T22:19:08.639Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-11T18:20:21.234Z",
+      "fetchedAt": "2026-10-11T22:19:08.639Z",
       "error": null,
       "items": [
+        {
+          "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
+          "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/",
+          "time": "2026-10-11T19:56:28.000Z",
+          "summary": "Just two days before Apple's \"Welcome home\" experience in New York, Bloomberg 's Mark Gurman has leaked several details about the new products set to be unveiled,…"
+        },
         {
           "title": "New Entry-Level iPad Not Expected Until Early 2027",
           "url": "https://www.macrumors.com/2026/10/11/new-entry-level-ipad-not-expected-until-2027/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/11/apple-homeview-smart-home-hub-ship-next-month/",
           "time": "2026-10-11T14:40:00.000Z",
           "summary": "Apple's all-new smart home hub, the HomeView, will ship around mid-November, roughly a month after its unveiling at Apple's \" Welcome home \" October 13 event, according…"
-        },
-        {
-          "title": "New Apple TV 4K and HomePod Mini to Ship on October 30",
-          "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-4k-homepod-mini-ship-oct-30/",
-          "time": "2026-10-11T14:24:03.000Z",
-          "summary": "The new upcoming Apple TV 4K with A19 chip and new HomePod mini with S10 chip will launch on Friday, October 30, according to Bloomberg 's Mark Gurman. Writing in his…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-11T18:20:21.234Z",
+      "fetchedAt": "2026-10-11T22:19:08.639Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-11T18:20:21.234Z",
+      "fetchedAt": "2026-10-11T22:19:08.639Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-11T18:20:21.234Z",
+      "fetchedAt": "2026-10-11T22:19:08.639Z",
       "error": null,
       "items": [
         {
-          "title": "Groenpool Vinderhoutse Bossen in Lievegem en Gent krijgt 12 hectare extra natuur",
-          "url": "https://vrtnws.be/p.7n5A9JeYy",
-          "time": "2026-10-11T18:01:06.000Z",
-          "summary": "De Groenpool Vinderhoutse Bossen aan de westrand in Lievegem en Gent breidt uit met 12 hectare extra natuur. In park Groene Velden in Mariakerke (Gent) zijn ook 15 km…"
+          "title": "VRT-vakbonden staken: zo ziet aanbod op radio en televisie eruit",
+          "url": "https://vrtnws.be/p.E1Xww4b5B",
+          "time": "2026-10-11T22:01:00.000Z",
+          "summary": "Ook bij VRT leggen medewerkers vandaag het werk neer, dit uit protest tegen de bijkomende besparingen die de Vlaamse regering de publieke omroep oplegt. Ontdek hier hoe…"
         },
         {
-          "title": "Politie controleert 51 personen en 21 voertuigen in Dendermonde, vermoedelijke drugsdealers opgepakt",
-          "url": "https://vrtnws.be/p.11vEO3xOq",
-          "time": "2026-10-11T17:02:12.000Z",
-          "summary": "In Dendermonde zijn bij een controleactie gisteren 2 mensen opgepakt die vermoedelijk drugs verkochten. Drie politiezones hielden er samen verkeers- en drugscontroles.…"
+          "title": "Dit kan je vandaag merken van de stakingsdag in de openbare diensten",
+          "url": "https://vrtnws.be/p.XEX7w96Ve",
+          "time": "2026-10-11T22:01:00.000Z",
+          "summary": "Na de actiedag van vrijdag organiseert de socialistische vakbond ACOD vandaag 12 oktober nieuw vakbondsprotest tegen het regeringsbeleid: een stakingsdag bij de openbare…"
         },
         {
-          "title": "Garnaalkrokettenfestival in Oostende is andermaal een succes",
-          "url": "https://vrtnws.be/p.APXM4RPyy",
-          "time": "2026-10-11T16:32:41.000Z",
-          "summary": "In Oostende is het garnaalkrokettenfestival begonnen. Daar stellen 15 plaatselijke chefs hun bereiding voor. Morgen, maandag, wordt dan een top 3 samengesteld door het…"
+          "title": "Algerije arresteert 61 staatsburgers uit Marokko voor \"sabotagedaden\"",
+          "url": "https://vrtnws.be/p.NvXb3q5qw",
+          "time": "2026-10-11T20:48:16.000Z",
+          "summary": "In Algerije zijn 61 Marokkaanse staatsburgers gearresteerd omdat ze mogelijk \"sabotagedaden\" voorbereidden. In een door staatsmedia verspreide verklaring sprak het…"
         },
         {
-          "title": "Medisch interventieplan afgekondigd na brand in asielcentrum van Helchteren: 4 lichtgewonden",
-          "url": "https://vrtnws.be/p.NvXb997Za",
-          "time": "2026-10-11T15:58:55.000Z",
-          "summary": "In het asielcentrum van Helchteren is er zondagmiddag brand uitgebroken. Verschillende mensen werden bevangen door de rook. 4 mensen moesten preventief naar het…"
+          "title": "NMBS trapt stakingsdag van socialistische vakbond in openbare diensten af",
+          "url": "https://vrtnws.be/p.KKX3XQ40o",
+          "time": "2026-10-11T20:00:02.000Z",
+          "summary": ""
         },
         {
-          "title": "Leuvense politie betrapt vrouw uit Westerlo zonder rijbewijs, onder invloed van cocaïne en met mes op zak",
-          "url": "https://vrtnws.be/p.oL14VQqkY",
-          "time": "2026-10-11T15:56:42.000Z",
-          "summary": "Een 38-jarige vrouw uit Westerlo is zaterdagavond vlak voor middernacht door de Leuvense politie uit het verkeer gehaald op de Vismarkt. De bestuurster trok de aandacht…"
+          "title": "Raphaël Glucksmann is presidentskandidaat voor links blok van sociaaldemocraten in Frankrijk",
+          "url": "https://vrtnws.be/p.YbyE0Njox",
+          "time": "2026-10-11T19:13:16.000Z",
+          "summary": "In Frankrijk is Europees Parlementslid Raphaël Glucksmann (Place Publique) verkozen tot kandidaat voor het linkse blok van de sociaaldemocraten bij de…"
         }
       ]
     }
