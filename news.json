@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-10T21:20:54.533Z",
+  "generatedAt": "2026-10-11T00:21:59.581Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-10T21:20:54.533Z",
+      "fetchedAt": "2026-10-11T00:21:59.581Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-10T21:20:54.533Z",
+      "fetchedAt": "2026-10-11T00:21:59.581Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-10T21:20:54.533Z",
+      "fetchedAt": "2026-10-11T00:21:59.581Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-10T21:20:54.533Z",
+      "fetchedAt": "2026-10-11T00:21:59.581Z",
       "error": null,
       "items": [
         {
@@ -138,10 +138,10 @@
           "summary": "Een vrouw van 28 jaar is dood aangetroffen in een woning in Montigny-le-Tilleul in de provincie Henegouwen. Dat meldt het parket van Charleroi, dat zo informatie van…"
         },
         {
-          "title": "Orkaan Simon stevent af op Mexico, Isaias maakt minstens 2 doden in zuiden VS",
+          "title": "Orkaan Simón stevent af op Mexico, Isaias maakt minstens 4 doden in zuiden VS",
           "url": "https://vrtnws.be/p.mR0Lepq7N",
           "time": "2026-10-10T19:13:27.000Z",
-          "summary": "Storm Simon, die afstevent op de zuidkust van Mexico, is boven de Stille Oceaan uitgegroeid tot een orkaan van categorie 4. Intussen heeft een andere storm, Isaias, aan…"
+          "summary": "Storm Simón, die afstevent op de zuidkust van Mexico, is boven de Stille Oceaan uitgegroeid tot een orkaan van categorie 4. Intussen heeft een andere storm, Isaias, al…"
         },
         {
           "title": "\"Nieuwe avonturen\": olympische ruiters Jessica Springsteen en Nicola Philippaerts verwachten eerste kindje",
