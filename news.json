@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T22:19:08.639Z",
+  "generatedAt": "2026-10-12T01:35:51.386Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-11T22:19:08.639Z",
+      "fetchedAt": "2026-10-12T01:35:51.386Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-11T22:19:08.639Z",
+      "fetchedAt": "2026-10-12T01:35:51.386Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-11T22:19:08.639Z",
+      "fetchedAt": "2026-10-12T01:35:51.386Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-11T22:19:08.639Z",
+      "fetchedAt": "2026-10-12T01:35:51.386Z",
       "error": null,
       "items": [
         {
