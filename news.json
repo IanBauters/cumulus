@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-12T01:35:51.386Z",
+  "generatedAt": "2026-10-12T08:50:44.070Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-12T01:35:51.386Z",
+      "fetchedAt": "2026-10-12T08:50:44.070Z",
       "error": null,
       "items": [
+        {
+          "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected to Begin This Week",
+          "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders/",
+          "time": "2026-10-12T03:17:03.000Z",
+          "summary": "Bloomberg 's Mark Gurman today reported that new Apple TV 4K and HomePod mini models will be unveiled on Tuesday, October 13 and launch on Friday, October 30 . In a…"
+        },
         {
           "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
           "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-a19-chip-easier-to-find-remote/",
           "time": "2026-10-11T15:08:50.000Z",
           "summary": "Apple's new Apple TV 4K will be powered by a standard A19 chip, up from the A15 in the current 2022 model, reports Bloomberg 's Mark Gurman. Writing in his Power On…"
-        },
-        {
-          "title": "Apple HomeView Smart Hub to Ship in Mid-November in Four Colors",
-          "url": "https://www.macrumors.com/2026/10/11/apple-homeview-smart-home-hub-ship-next-month/",
-          "time": "2026-10-11T14:40:00.000Z",
-          "summary": "Apple's all-new smart home hub, the HomeView, will ship around mid-November, roughly a month after its unveiling at Apple's \" Welcome home \" October 13 event, according…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-12T01:35:51.386Z",
+      "fetchedAt": "2026-10-12T08:50:44.070Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-12T01:35:51.386Z",
+      "fetchedAt": "2026-10-12T08:50:44.070Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-12T01:35:51.386Z",
+      "fetchedAt": "2026-10-12T08:50:44.070Z",
       "error": null,
       "items": [
         {
-          "title": "VRT-vakbonden staken: zo ziet aanbod op radio en televisie eruit",
-          "url": "https://vrtnws.be/p.E1Xww4b5B",
-          "time": "2026-10-11T22:01:00.000Z",
-          "summary": "Ook bij VRT leggen medewerkers vandaag het werk neer, dit uit protest tegen de bijkomende besparingen die de Vlaamse regering de publieke omroep oplegt. Ontdek hier hoe…"
+          "title": "Politierechter Beringen spreekt vrachtwagenchauffeur vrij van veroorzaken dodelijk ongeluk in Ham",
+          "url": "https://vrtnws.be/p.OvXJYBZoN",
+          "time": "2026-10-12T08:47:24.000Z",
+          "summary": "De politierechter in Beringen heeft de bestuurder van een vrachtwagen vrijgesproken voor het veroorzaken van een dodelijk ongeluk met een fietsster in 2024. Er was geen…"
         },
         {
-          "title": "Dit kan je vandaag merken van de stakingsdag in de openbare diensten",
-          "url": "https://vrtnws.be/p.XEX7w96Ve",
-          "time": "2026-10-11T22:01:00.000Z",
-          "summary": "Na de actiedag van vrijdag organiseert de socialistische vakbond ACOD vandaag 12 oktober nieuw vakbondsprotest tegen het regeringsbeleid: een stakingsdag bij de openbare…"
+          "title": "Koningspaar brengt het eerste Belgisch staatsbezoek aan Centraal-Azië: België zoekt nauwere samenwerking met Kazachstan",
+          "url": "https://vrtnws.be/p.nwYR8b1ZX",
+          "time": "2026-10-12T08:46:34.000Z",
+          "summary": "Voor het eerst brengt het Belgisch koningspaar een staatsbezoek aan Centraal-Azië. Koning Filip en Koningin Mathilde zijn vanmorgen officieel ontvangen op het…"
         },
         {
-          "title": "Algerije arresteert 61 staatsburgers uit Marokko voor \"sabotagedaden\"",
-          "url": "https://vrtnws.be/p.NvXb3q5qw",
-          "time": "2026-10-11T20:48:16.000Z",
-          "summary": "In Algerije zijn 61 Marokkaanse staatsburgers gearresteerd omdat ze mogelijk \"sabotagedaden\" voorbereidden. In een door staatsmedia verspreide verklaring sprak het…"
+          "title": "'Brokkelbrug' in Gentbrugge verliest opnieuw stukjes beton: \"Er zijn meteen herstellingen uitgevoerd\"",
+          "url": "https://vrtnws.be/p.KKX3GRNYm",
+          "time": "2026-10-12T08:43:50.000Z",
+          "summary": "Er zijn afgelopen week herstellingen uitgevoerd aan het E17-viaduct in Gentbrugge nadat er opnieuw betonstukjes waren losgekomen. Dat gebeurde vermoedelijk door…"
         },
         {
-          "title": "NMBS trapt stakingsdag van socialistische vakbond in openbare diensten af",
-          "url": "https://vrtnws.be/p.KKX3XQ40o",
-          "time": "2026-10-11T20:00:02.000Z",
-          "summary": ""
+          "title": "Brand in Aldi-supermarkt in Tienen, brandweer rukt massaal uit",
+          "url": "https://vrtnws.be/p.3BxpEVAX3",
+          "time": "2026-10-12T08:38:16.000Z",
+          "summary": "In de Aldi-supermarkt in de Slachthuisstraat in Tienen is vanochtend brand uitgebroken. De brandweer rukte massaal uit. Door de grote rookontwikkeling vraagt de stad aan…"
         },
         {
-          "title": "Raphaël Glucksmann is presidentskandidaat voor links blok van sociaaldemocraten in Frankrijk",
-          "url": "https://vrtnws.be/p.YbyE0Njox",
-          "time": "2026-10-11T19:13:16.000Z",
-          "summary": "In Frankrijk is Europees Parlementslid Raphaël Glucksmann (Place Publique) verkozen tot kandidaat voor het linkse blok van de sociaaldemocraten bij de…"
+          "title": "Man (50) overleden bij ongeval in Brugge, passagier (19) zwaargewond, bestuurder onder invloed van alcohol",
+          "url": "https://vrtnws.be/p.43NyG5RDD",
+          "time": "2026-10-12T08:10:50.000Z",
+          "summary": "In Brugge is een auto met 3 inzittenden tegen een boom beland nadat de wagen van de weg was geraakt. Een 50-jarige passagier is overleden. De andere passagier, van 19,…"
         }
       ]
     }
