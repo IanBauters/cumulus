@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T01:09:54.648Z",
+  "generatedAt": "2026-10-13T08:13:52.029Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-13T01:09:54.648Z",
+      "fetchedAt": "2026-10-13T08:13:52.029Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-13T01:09:54.648Z",
+      "fetchedAt": "2026-10-13T08:13:52.029Z",
       "error": null,
       "items": [
+        {
+          "title": "The iPhone Duo’s cooling system hides a clever trick inside its hinge",
+          "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+          "time": "2026-10-13T01:34:29.000Z",
+          "summary": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage.…"
+        },
         {
           "title": "Watch the trailer for Apple TV’s ‘Being Heumann’",
           "url": "https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
           "time": "2026-10-12T21:50:59.000Z",
           "summary": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos,…"
-        },
-        {
-          "title": "Apple and Epic clash over document production in latest App Store court filing",
-          "url": "https://9to5mac.com/2026/10/12/apple-and-epic-clash-over-document-production-in-latest-app-store-court-filing/",
-          "time": "2026-10-12T21:36:56.000Z",
-          "summary": "Epic Games is accusing Apple of “manufacturing” a pause in the legal proceedings over its proposed new App Store commission rates. Apple disagrees. Here are the details.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-13T01:09:54.648Z",
+      "fetchedAt": "2026-10-13T08:13:52.029Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-13T01:09:54.648Z",
+      "fetchedAt": "2026-10-13T08:13:52.029Z",
       "error": null,
       "items": [
         {
-          "title": "'Breaking bad'-acteur RJ Mitte overleden op 34-jarige leeftijd",
-          "url": "https://vrtnws.be/p.jGypvRxZw",
-          "time": "2026-10-12T21:25:22.000Z",
-          "summary": "De Amerikaanse acteur RJ Mitte, vooral bekend van zijn rol als Walter 'Flynn' White Jr. in de populaire reeks 'Breaking bad', is overleden. Dat meldt TMZ en is aan de…"
+          "title": "Correcties en aanvullingen oktober",
+          "url": "https://vrtnws.be/p.ZWy3omK7E",
+          "time": "2026-10-13T07:57:56.000Z",
+          "summary": "Het nieuwsombudsteam verzamelt hier correcties en relevante aanvullingen bij de berichtgeving van VRT NWS. Ze worden vaak gemeld door aandachtige lezers, kijkers of…"
         },
         {
-          "title": "Amerikaanse actrice Selma Blair verwondt cabinepersoneel op vlucht naar New York",
-          "url": "https://vrtnws.be/p.qEdZ15wXX",
-          "time": "2026-10-12T20:57:20.000Z",
-          "summary": "De Amerikaanse actrice Selma Blair is in een vliegtuig op weg van Los Angeles naar New York haar zelfbeheersing verloren en heeft meerdere mensen van het cabinepersoneel…"
+          "title": "Aalst zet extra politie in na online oproepen om scholen te vernielen: \"Dit is crapuleus\"",
+          "url": "https://vrtnws.be/p.43NbA9wQ6",
+          "time": "2026-10-13T07:30:56.000Z",
+          "summary": "Aalst zet extra agenten in om 2 scholen in de gaten te houden. Op sociale media circuleren oproepen om het VTI en Dames van Maria Humaniora te vernielen. Gisteren werd…"
         },
         {
-          "title": "Elon Musk is grootste donateur voor tussentijdse verkiezingen in de VS",
-          "url": "https://vrtnws.be/p.WkX8kemnM",
-          "time": "2026-10-12T20:01:10.000Z",
-          "summary": "Techmiljardair Elon Musk heeft sinds juli al meer dan 247 miljoen euro gedoneerd aan Republikeinse groepen en zijn super-PAC (politiek actiecomité). Dat heeft The New…"
+          "title": "Van eerste date tot huwelijksreis: koppels vieren de liefde op Film Fest Gent",
+          "url": "https://vrtnws.be/p.LNDkXbnOv",
+          "time": "2026-10-13T07:30:00.000Z",
+          "summary": "Het Film Fest Gent is voor sommige mensen om meer dan enkel cinefiele redenen een vaste prik. \"Wij zijn er op huwelijksreis geweest\", vertellen Bruno en Ingeborg. \"Er…"
         },
         {
-          "title": "Deloitte hielp actief bij belastingontwijking van Russisch-Britse miljardair Roman Abramovitsj",
-          "url": "https://vrtnws.be/p.RayebKNJe",
-          "time": "2026-10-12T19:43:02.000Z",
-          "summary": "Het grootste accountancykantoor ter wereld, Deloitte, heeft de Russische miljardair Roman Abramovitsj 20 jaar geleden geholpen om miljoenen aan belastingen te ontduiken.…"
+          "title": "Mogelijk onderdeel van Romeins aquaduct: 2.000 jaar oude houten constructies gevonden in Tongeren",
+          "url": "https://vrtnws.be/p.oL1PQ07kO",
+          "time": "2026-10-13T07:18:32.000Z",
+          "summary": "Archeologen hebben uitzonderlijk goed bewaarde houten constructies uit de Romeinse tijd ontdekt in Berg, een deelgemeente van Tongeren-Borgloon. Mogelijk gaat het om een…"
         },
         {
-          "title": "Man (75) raakt zwaargewond bij aanrijding op zebrapad in Genk",
-          "url": "https://vrtnws.be/p.M9X0yjQnd",
-          "time": "2026-10-12T18:54:11.000Z",
-          "summary": "In de Hoogstraat in Genk is een man van 75 zwaargewond geraakt bij een aanrijding. Dat meldt het Belang van Limburg en het nieuws werd ons bevestigd. De man werd ter…"
+          "title": "Brussel krijgt 2e zorgcentrum na seksueel geweld: \"Voor mij was deze hulp cruciaal\"",
+          "url": "https://vrtnws.be/p.QAXdQ1nq5",
+          "time": "2026-10-13T07:07:21.000Z",
+          "summary": "De Zorgcentra na Seksueel Geweld (ZSG) bieden een globale aanpak voor slachtoffers van seksueel geweld: van medische zorg tot psychologische begeleiding. Brussel heeft…"
         }
       ]
     }
