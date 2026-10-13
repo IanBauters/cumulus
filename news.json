@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-13T08:13:52.029Z",
+  "generatedAt": "2026-10-13T16:17:36.348Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-13T08:13:52.029Z",
+      "fetchedAt": "2026-10-13T16:17:36.348Z",
       "error": null,
       "items": [
         {
-          "title": "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow",
-          "url": "https://www.macrumors.com/guide/apple-welcome-home-product-recap/",
-          "time": "2026-10-12T17:17:12.000Z",
-          "summary": "Apple's \"Welcome Home\" product launch is happening tomorrow. As the name suggests, Apple is going to debut new home accessories, including the long-rumored home hub.…"
+          "title": "Apple Says HomePod Mini 2 Won't Support Siri AI Right Away",
+          "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
+          "time": "2026-10-13T16:11:00.000Z",
+          "summary": "Siri AI support on the new HomePod mini 2 will be \"available later\" as part of a \"future software update,\" according to Apple . In other words, do not expect Siri AI to…"
         },
         {
-          "title": "Apple Plans Two-Day Event to Showcase Trio of New Macs and iPad Mini",
-          "url": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/",
-          "time": "2026-10-12T16:49:04.000Z",
-          "summary": "Apple is planning to invite content creators to a two-day product showcase in Los Angeles on October 27 and October 28, according to Bloomberg 's Mark Gurman . Do not…"
+          "title": "HomeView Can Dim to Apple's Lowest-Ever Display Brightness",
+          "url": "https://www.macrumors.com/2026/10/13/homeview-can-dim-to-lowest-ever-brightness/",
+          "time": "2026-10-13T16:00:47.000Z",
+          "summary": "The HomeView can dim its display to just 0.3 nits for use on a nightstand or in dark environments, making it Apple's lowest-ever display brightness. The 7-inch Liquid…"
         },
         {
-          "title": "Apple and Pokémon Tease Special Pikachu-Themed Beats Pill Speaker",
-          "url": "https://www.macrumors.com/2026/10/12/beats-pokemon-teaser/",
-          "time": "2026-10-12T16:35:21.000Z",
-          "summary": "Beats today shared a short video teasing a new collaboration with Pokémon, and it appears this will be for a Pikachu-themed Beats Pill speaker. \"Time to catch something…"
+          "title": "New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri",
+          "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-adds-far-field-microphones/",
+          "time": "2026-10-13T15:54:15.000Z",
+          "summary": "Apple's new fourth-generation Apple TV 4K includes three built-in far-field microphones, allowing users to find something to watch and control playback without picking…"
         },
         {
-          "title": "You Can Now Set Up Your iPhone Duo Pre-Order - Do It Before Friday",
-          "url": "https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/",
-          "time": "2026-10-12T16:16:49.000Z",
-          "summary": "Apple has opened its \"Get Ready\" service for iPhone Duo pre-orders, allowing customers to pre-select a variety of options to streamline the process of ordering and have…"
+          "title": "New Siri Remote is $59 and Compatible With These Apple TV Models",
+          "url": "https://www.macrumors.com/2026/10/13/new-siri-remote-compatible-apple-tv-models/",
+          "time": "2026-10-13T15:45:55.000Z",
+          "summary": "The new Siri Remote unveiled today is compatible with all Apple TV HD and Apple TV 4K models released since 2015, according to Apple. The fourth-generation Siri Remote…"
         },
         {
-          "title": "Apple Announces 'Indie Games Week' on App Store",
-          "url": "https://www.macrumors.com/2026/10/12/app-store-indie-games-week/",
-          "time": "2026-10-12T15:16:11.000Z",
-          "summary": "Apple today announced it is Indie Games Week on the App Store, in celebration of the \"incredible catalog of imaginative games made by independent teams with big dreams.\"…"
+          "title": "Apple Details HomeView's Audio Hardware",
+          "url": "https://www.macrumors.com/2026/10/13/apple-details-homeview-audio-hardware/",
+          "time": "2026-10-13T15:44:14.000Z",
+          "summary": "Apple's new HomeView supports Spatial Audio, with different speaker systems for its tabletop and wall-mounted models. The tabletop model features two custom full-range…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-13T08:13:52.029Z",
+      "fetchedAt": "2026-10-13T16:17:36.348Z",
       "error": null,
       "items": [
         {
-          "title": "The iPhone Duo’s cooling system hides a clever trick inside its hinge",
-          "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
-          "time": "2026-10-13T01:34:29.000Z",
-          "summary": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage.…"
+          "title": "Google Antigravity is now built into Gemini app for macOS",
+          "url": "https://9to5google.com/2026/10/13/gemini-app-macos-antigravity/",
+          "time": "2026-10-13T16:16:26.000Z",
+          "summary": "As part of today’s Gemini 4 Argon rollout, Google is making a big update to the Gemini app for macOS by integrating Antigravity. more…"
         },
         {
-          "title": "Watch the trailer for Apple TV’s ‘Being Heumann’",
-          "url": "https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann/",
-          "time": "2026-10-13T00:05:58.000Z",
-          "summary": "Apple TV today released the official trailer for “ Being Heumann ,” an Apple Original Films release from “ CODA ” director Siân Heder. Watch it below. more…"
+          "title": "Gemini app rolling out Gemini 4 Argon to AI Pro and AI Ultra",
+          "url": "https://9to5google.com/2026/10/13/gemini-app-4-argon/",
+          "time": "2026-10-13T16:03:04.000Z",
+          "summary": "Following the announcement at the end of September, Gemini 4 Argon is starting to roll out to the Gemini app, Google Antigravity, and more. more…"
         },
         {
-          "title": "Apple ‘Welcome home’ event: Three new products are coming tomorrow",
-          "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/",
-          "time": "2026-10-12T23:39:16.000Z",
-          "summary": "Apple officially confirmed that it will hold a product launch event tomorrow, October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart…"
+          "title": "Apple confirms HomePod mini 2 won’t have Siri AI at launch",
+          "url": "https://9to5mac.com/2026/10/13/apple-confirms-homepod-mini-2-wont-have-siri-ai-at-launch/",
+          "time": "2026-10-13T14:47:06.000Z",
+          "summary": "Today Apple introduced HomePod mini 2 with Siri AI as a major tentpole feature. HomePod mini 2 ships on October 30, but checking the fine print on Apple’s website, it…"
         },
         {
-          "title": "Apple gets a $360 price target from JP Morgan despite iPhone demand concerns",
-          "url": "https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/",
-          "time": "2026-10-12T22:23:50.000Z",
-          "summary": "Just days after Apple’s stock took a hit over reports of iPhone 18 Pro production cuts, JP Morgan has raised its AAPL price target by $20. Here are the details. more…"
+          "title": "HomeView for your wall doesn’t include mount, which costs $59 minimum",
+          "url": "https://9to5mac.com/2026/10/13/homeview-for-your-wall-doesnt-include-mount-which-costs-59-minimum/",
+          "time": "2026-10-13T14:21:39.000Z",
+          "summary": "Today Apple unveiled its new HomeView product in two models, one with a speaker base and the other built for wall mounting. But if you buy the latter, just know you’ll…"
         },
         {
-          "title": "Apple’s new ‘Switch to Safari’ campaign details why you should ditch Chrome",
-          "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-          "time": "2026-10-12T21:50:59.000Z",
-          "summary": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos,…"
+          "title": "You can buy the new, improved Siri Remote for your existing Apple TV 4K",
+          "url": "https://9to5mac.com/2026/10/13/you-can-buy-the-new-improved-siri-remote-for-your-existing-apple-tv-4k/",
+          "time": "2026-10-13T13:46:26.000Z",
+          "summary": "Today Apple unveiled the long-awaited new Apple TV 4K model , which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding…"
         }
       ]
     },
@@ -83,38 +83,38 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-13T08:13:52.029Z",
+      "fetchedAt": "2026-10-13T16:17:36.348Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Teams Up with LG Electronics and Schneider Electric to Offer the Apple Home Collection",
+          "url": "https://www.macstories.net/news/apple-teams-up-with-lg-electronics-and-schneider-electric-to-offer-the-apple-home-collection/",
+          "time": "2026-10-13T15:15:41.000Z",
+          "summary": "Source: Apple. Apple revealed today that it has partnered with LG Electronics and Schneider Electric on the Apple Home Collection, a range of smart home products…"
+        },
+        {
+          "title": "The Apple TV 4K Gets Siri AI, an A19 Chip, and a $299 Price Tag",
+          "url": "https://www.macstories.net/news/the-apple-tv-4k-gets-siri-ai-an-a19-chip-and-a-299-price-tag/",
+          "time": "2026-10-13T14:36:54.000Z",
+          "summary": "Source: Apple. Apple also updated the Apple TV 4K today. Last updated in 2022, the Apple TV 4K’s fourth-generation update is focused on bringing an improved surround…"
+        },
+        {
+          "title": "Apple Reveals HomePod mini 2 with New Colors, Richer Sound, and Siri AI",
+          "url": "https://www.macstories.net/news/apple-reveals-homepod-mini-2-with-new-colors-richer-sound-and-siri-ai/",
+          "time": "2026-10-13T14:34:54.000Z",
+          "summary": "As part of today’s announcements related to Home (including the brand new HomeView, which we’ve covered here), Apple also announced HomePod mini 2, an update to its…"
+        },
+        {
+          "title": "Apple Unveils HomeView: A Smart Home Display Powered by Siri AI",
+          "url": "https://www.macstories.net/news/apple-unveils-homeview-a-smart-home-display-powered-by-siri-ai/",
+          "time": "2026-10-13T13:53:35.000Z",
+          "summary": "Source: Apple. Today, Apple announced the highly anticipated HomeView, a Siri AI-powered device for controlling your HomeKit devices and accessing other apps and…"
+        },
         {
           "title": "Apple Kicks Off Indie Games Week with Six New iPhone and iPad Games, Plus No Man’s Sky Preorders",
           "url": "https://www.macstories.net/news/apple-kicks-off-indie-games-week-with-six-new-iphone-and-ipad-games-plus-no-mans-sky-preorders/",
           "time": "2026-10-12T14:03:36.000Z",
           "summary": "Source: Apple. Today, Apple announced Indie Games Week, a celebration of some of the best games from independent game studios. To kick things off, the company announced…"
-        },
-        {
-          "title": "Our Favorite Indie Apps for iOS 27, Vol. 3",
-          "url": "https://www.macstories.net/reviews/our-favorite-indie-apps-for-ios-27-vol-3/",
-          "time": "2026-10-09T14:06:22.000Z",
-          "summary": "We have another collection our favorite indie apps that take advantage of Apple’s latest OS features. Today, we’re highlighting: Haven, Structured, Capture, Scrappy, and…"
-        },
-        {
-          "title": "Apple Announces October 2026 Event",
-          "url": "https://www.macstories.net/news/apple-announces-october-2026-event/",
-          "time": "2026-10-08T16:20:39.000Z",
-          "summary": "In a post by Greg Joswiak on X and email to creators and media outlets, Apple has said it will hold an ‘Experience’ in Tribeca, New York on Tuesday, October 13 at 09:00…"
-        },
-        {
-          "title": "MacStories Setups: A Summer of Workflow Refinements and Experimentation",
-          "url": "https://www.macstories.net/news/macstories-setups-a-summer-of-workflow-refinements-and-experimentation/",
-          "time": "2026-10-07T16:44:40.000Z",
-          "summary": "We’re back with another MacStories Setups update. I swear Federico and I didn’t coordinate our purchases this summer, but you’ll notice that both of us began…"
-        },
-        {
-          "title": "Deflector Turns iOS 27 Notification Triggers into a Shortcut Launcher",
-          "url": "https://www.macstories.net/ios/deflector-turns-ios-27-notification-triggers-into-a-shortcut-launcher/",
-          "time": "2026-10-06T14:51:54.000Z",
-          "summary": "Deflector for iOS. In my iOS and iPadOS 27 review, I wrote about one of the more interesting additions to the Shortcuts app for power users: automation triggers based on…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-13T08:13:52.029Z",
+      "fetchedAt": "2026-10-13T16:17:36.348Z",
       "error": null,
       "items": [
         {
-          "title": "Correcties en aanvullingen oktober",
-          "url": "https://vrtnws.be/p.ZWy3omK7E",
-          "time": "2026-10-13T07:57:56.000Z",
-          "summary": "Het nieuwsombudsteam verzamelt hier correcties en relevante aanvullingen bij de berichtgeving van VRT NWS. Ze worden vaak gemeld door aandachtige lezers, kijkers of…"
+          "title": "\"Een echte Brusselse ket\": overleden agent Nordine (41) was ervaren en geapprecieerde collega",
+          "url": "https://vrtnws.be/p.LNDlE3oNB",
+          "time": "2026-10-13T15:43:10.000Z",
+          "summary": "Het Brusselse politiekorps is in diepe rouw nadat vannacht een agent is doodgeschoten tijdens een interventie. De 41-jarige Nordine was een zeer ervaren en zeer…"
         },
         {
-          "title": "Aalst zet extra politie in na online oproepen om scholen te vernielen: \"Dit is crapuleus\"",
-          "url": "https://vrtnws.be/p.43NbA9wQ6",
-          "time": "2026-10-13T07:30:56.000Z",
-          "summary": "Aalst zet extra agenten in om 2 scholen in de gaten te houden. Op sociale media circuleren oproepen om het VTI en Dames van Maria Humaniora te vernielen. Gisteren werd…"
+          "title": "Drie producten van Molse keurslager erkend als streekproduct: \"We maken ze al 3 generaties\"",
+          "url": "https://vrtnws.be/p.0YJmk40EA",
+          "time": "2026-10-13T15:41:22.000Z",
+          "summary": "Vlaanderen telt 5 nieuwe erkende streekproducten, waarvan er 3 uit Mol komen. Rundvet, Kempens smout en Kempense zwarte pens van Keurslagerij Van Hoof kregen het label…"
         },
         {
-          "title": "Van eerste date tot huwelijksreis: koppels vieren de liefde op Film Fest Gent",
-          "url": "https://vrtnws.be/p.LNDkXbnOv",
-          "time": "2026-10-13T07:30:00.000Z",
-          "summary": "Het Film Fest Gent is voor sommige mensen om meer dan enkel cinefiele redenen een vaste prik. \"Wij zijn er op huwelijksreis geweest\", vertellen Bruno en Ingeborg. \"Er…"
+          "title": "Verdieping kunstacademie van Hasselt gesloten door kwikvervuiling: 4 personen onder observatie",
+          "url": "https://vrtnws.be/p.aDyxGXRbd",
+          "time": "2026-10-13T15:30:41.000Z",
+          "summary": "Bij de Stedelijke Kunstacademie van Hasselt (KNST) is een verdieping afgesloten door kwikvervuiling. Een leraar ontdekte kwikdruppels onderaan een oude spiegel en sloeg…"
         },
         {
-          "title": "Mogelijk onderdeel van Romeins aquaduct: 2.000 jaar oude houten constructies gevonden in Tongeren",
-          "url": "https://vrtnws.be/p.oL1PQ07kO",
-          "time": "2026-10-13T07:18:32.000Z",
-          "summary": "Archeologen hebben uitzonderlijk goed bewaarde houten constructies uit de Romeinse tijd ontdekt in Berg, een deelgemeente van Tongeren-Borgloon. Mogelijk gaat het om een…"
+          "title": "Jo met de Banjo (79) uit Herent stelt biografie voor: \"Ik ben verbaasd over wat ik allemaal heb gedaan\"",
+          "url": "https://vrtnws.be/p.11v3alPEG",
+          "time": "2026-10-13T15:23:08.000Z",
+          "summary": "Vanavond stelt auteur Guido Maes in Herent 'Van Ether tot Politiek' voor, de biografie van Jo De Clercq, beter bekend als Jo met de Banjo. Dat meldt ROB-tv. Het boek vat…"
         },
         {
-          "title": "Brussel krijgt 2e zorgcentrum na seksueel geweld: \"Voor mij was deze hulp cruciaal\"",
-          "url": "https://vrtnws.be/p.QAXdQ1nq5",
-          "time": "2026-10-13T07:07:21.000Z",
-          "summary": "De Zorgcentra na Seksueel Geweld (ZSG) bieden een globale aanpak voor slachtoffers van seksueel geweld: van medische zorg tot psychologische begeleiding. Brussel heeft…"
+          "title": "'Geit' van Citroën maakt elektrische comeback: \"Even minimalistisch en betaalbaar als vroeger\"",
+          "url": "https://vrtnws.be/p.aDyxap36w",
+          "time": "2026-10-13T15:10:28.000Z",
+          "summary": "In Parijs heeft Citroën een nieuw, volledig elektrisch conceptmodel van de 2CV voorgesteld. Net als bij het origineel staan betaalbaarheid en minimalisme voorop. Het zou…"
         }
       ]
     }
