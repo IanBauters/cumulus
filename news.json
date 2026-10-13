@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-13T16:17:36.348Z",
+  "generatedAt": "2026-10-13T21:26:47.149Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-13T16:17:36.348Z",
+      "fetchedAt": "2026-10-13T21:26:47.149Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Says HomePod Mini 2 Won't Support Siri AI Right Away",
-          "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
-          "time": "2026-10-13T16:11:00.000Z",
-          "summary": "Siri AI support on the new HomePod mini 2 will be \"available later\" as part of a \"future software update,\" according to Apple . In other words, do not expect Siri AI to…"
+          "title": "HomePod Mini 2 Works as Default Speaker With Select Macs",
+          "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/",
+          "time": "2026-10-13T21:19:17.000Z",
+          "summary": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later , according to Apple. You can use a single HomePod, or a pair for stereo…"
         },
         {
-          "title": "HomeView Can Dim to Apple's Lowest-Ever Display Brightness",
-          "url": "https://www.macrumors.com/2026/10/13/homeview-can-dim-to-lowest-ever-brightness/",
-          "time": "2026-10-13T16:00:47.000Z",
-          "summary": "The HomeView can dim its display to just 0.3 nits for use on a nightstand or in dark environments, making it Apple's lowest-ever display brightness. The 7-inch Liquid…"
+          "title": "Elevation Lab Pulls AirTag Silencer After Stalking Concerns",
+          "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
+          "time": "2026-10-13T21:14:42.000Z",
+          "summary": "Earlier this year, Elevation Lab announced the launch of a \"Silencer\" for AirTag meant to pierce the speaker on the device to disable the sound. Elevation Lab explained…"
         },
         {
-          "title": "New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri",
-          "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-adds-far-field-microphones/",
-          "time": "2026-10-13T15:54:15.000Z",
-          "summary": "Apple's new fourth-generation Apple TV 4K includes three built-in far-field microphones, allowing users to find something to watch and control playback without picking…"
+          "title": "iOS 27.2 Beta 4 Removes New Health App",
+          "url": "https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/",
+          "time": "2026-10-13T20:31:43.000Z",
+          "summary": "The iOS 27.2 beta Apple released today removes the updated Health app that Apple was testing in earlier betas . The app's disappearance from the iOS 27.2 beta is not a…"
         },
         {
-          "title": "New Siri Remote is $59 and Compatible With These Apple TV Models",
-          "url": "https://www.macrumors.com/2026/10/13/new-siri-remote-compatible-apple-tv-models/",
-          "time": "2026-10-13T15:45:55.000Z",
-          "summary": "The new Siri Remote unveiled today is compatible with all Apple TV HD and Apple TV 4K models released since 2015, according to Apple. The fourth-generation Siri Remote…"
+          "title": "iPhone Duo Will Have Day-One iOS 27.1 Update",
+          "url": "https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/",
+          "time": "2026-10-13T20:01:54.000Z",
+          "summary": "The iPhone Duo ships with iOS 27.1, a version of iOS 27 exclusive to the foldable device. Apple yesterday released a new build of iOS 27.1 (24A94425), which means buyers…"
         },
         {
-          "title": "Apple Details HomeView's Audio Hardware",
-          "url": "https://www.macrumors.com/2026/10/13/apple-details-homeview-audio-hardware/",
-          "time": "2026-10-13T15:44:14.000Z",
-          "summary": "Apple's new HomeView supports Spatial Audio, with different speaker systems for its tabletop and wall-mounted models. The tabletop model features two custom full-range…"
+          "title": "Where to Pre-Order Apple's New HomeView, HomePod Mini 2, and Apple TV 4K",
+          "url": "https://www.macrumors.com/2026/10/13/pre-order-homeview/",
+          "time": "2026-10-13T19:34:19.000Z",
+          "summary": "Apple just announced the HomeView , HomePod mini 2 , and fourth-generation Apple TV 4K , and pre-orders are now available on all of these devices at popular retailers…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-13T16:17:36.348Z",
+      "fetchedAt": "2026-10-13T21:26:47.149Z",
       "error": null,
       "items": [
         {
-          "title": "Google Antigravity is now built into Gemini app for macOS",
-          "url": "https://9to5google.com/2026/10/13/gemini-app-macos-antigravity/",
-          "time": "2026-10-13T16:16:26.000Z",
-          "summary": "As part of today’s Gemini 4 Argon rollout, Google is making a big update to the Gemini app for macOS by integrating Antigravity. more…"
+          "title": "Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit",
+          "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
+          "time": "2026-10-13T20:45:29.000Z",
+          "summary": "Judge Edward Davila today granted some of Apple’s requests for expedited discovery in its trade secrets lawsuit against former employees, OpenAI, and io Products. Here…"
         },
         {
-          "title": "Gemini app rolling out Gemini 4 Argon to AI Pro and AI Ultra",
-          "url": "https://9to5google.com/2026/10/13/gemini-app-4-argon/",
-          "time": "2026-10-13T16:03:04.000Z",
-          "summary": "Following the announcement at the end of September, Gemini 4 Argon is starting to roll out to the Gemini app, Google Antigravity, and more. more…"
+          "title": "Apple TV unveils new heist thriller series coming soon",
+          "url": "https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/",
+          "time": "2026-10-13T19:41:50.000Z",
+          "summary": "Apple TV released the trailer today for ‘12 12 12,’ a new heist thriller series premiering next month. Here are the details and the trailer. more…"
         },
         {
-          "title": "Apple confirms HomePod mini 2 won’t have Siri AI at launch",
-          "url": "https://9to5mac.com/2026/10/13/apple-confirms-homepod-mini-2-wont-have-siri-ai-at-launch/",
-          "time": "2026-10-13T14:47:06.000Z",
-          "summary": "Today Apple introduced HomePod mini 2 with Siri AI as a major tentpole feature. HomePod mini 2 ships on October 30, but checking the fine print on Apple’s website, it…"
+          "title": "HomeView, Apple TV 4K, and more now available for Amazon pre-order",
+          "url": "https://9to5mac.com/2026/10/13/homeview-apple-tv-4k-and-more-now-available-for-amazon-pre-order/",
+          "time": "2026-10-13T19:29:22.000Z",
+          "summary": "Apple today unveiled its next big foray into the smart home world, including the new HomeView smart display and a new Apple TV 4K. Following Apple’s announcement, the…"
         },
         {
-          "title": "HomeView for your wall doesn’t include mount, which costs $59 minimum",
-          "url": "https://9to5mac.com/2026/10/13/homeview-for-your-wall-doesnt-include-mount-which-costs-59-minimum/",
-          "time": "2026-10-13T14:21:39.000Z",
-          "summary": "Today Apple unveiled its new HomeView product in two models, one with a speaker base and the other built for wall mounting. But if you buy the latter, just know you’ll…"
+          "title": "Apple rolls out new AirPods beta firmware for several models, including AirPods Pro 3",
+          "url": "https://9to5mac.com/2026/10/13/apple-rolls-out-new-airpods-beta-firmware-for-several-models-including-airpods-pro-3/",
+          "time": "2026-10-13T19:24:36.000Z",
+          "summary": "In addition to the rollout of developer beta 4 for macOS 27.2, iOS 27.2, iPadOS 27.2, and more, Apple also rolled out developer and public firmware betas for several…"
         },
         {
-          "title": "You can buy the new, improved Siri Remote for your existing Apple TV 4K",
-          "url": "https://9to5mac.com/2026/10/13/you-can-buy-the-new-improved-siri-remote-for-your-existing-apple-tv-4k/",
-          "time": "2026-10-13T13:46:26.000Z",
-          "summary": "Today Apple unveiled the long-awaited new Apple TV 4K model , which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding…"
+          "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
+          "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+          "time": "2026-10-13T19:06:29.000Z",
+          "summary": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates in the Music app. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-13T16:17:36.348Z",
+      "fetchedAt": "2026-10-13T21:26:47.149Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-13T16:17:36.348Z",
+      "fetchedAt": "2026-10-13T21:26:47.149Z",
       "error": null,
       "items": [
         {
-          "title": "\"Een echte Brusselse ket\": overleden agent Nordine (41) was ervaren en geapprecieerde collega",
-          "url": "https://vrtnws.be/p.LNDlE3oNB",
-          "time": "2026-10-13T15:43:10.000Z",
-          "summary": "Het Brusselse politiekorps is in diepe rouw nadat vannacht een agent is doodgeschoten tijdens een interventie. De 41-jarige Nordine was een zeer ervaren en zeer…"
+          "title": "Voormalige bendeleider veroordeeld tot 40 jaar cel voor moord op Amerikaanse rapper Tupac",
+          "url": "https://vrtnws.be/p.93XNJobWm",
+          "time": "2026-10-13T20:02:13.000Z",
+          "summary": "30 jaar na de dood van Tupac Shakur is Duane 'Keffe D' Davis, de voormalige bendeleider die beschuldigd wordt van het beramen van de moord op de Amerikaanse rapper,…"
         },
         {
-          "title": "Drie producten van Molse keurslager erkend als streekproduct: \"We maken ze al 3 generaties\"",
-          "url": "https://vrtnws.be/p.0YJmk40EA",
-          "time": "2026-10-13T15:41:22.000Z",
-          "summary": "Vlaanderen telt 5 nieuwe erkende streekproducten, waarvan er 3 uit Mol komen. Rundvet, Kempens smout en Kempense zwarte pens van Keurslagerij Van Hoof kregen het label…"
+          "title": "VS-ambassadeur in Griekenland neemt ontslag op vraag van president (en ex-schoonvader) Trump",
+          "url": "https://vrtnws.be/p.OvX1X0NON",
+          "time": "2026-10-13T19:53:55.000Z",
+          "summary": "Kimberly Guilfoyle neemt ontslag als Amerikaanse ambassadeur in Griekenland, kort nadat het Witte Huis haar dat officieel had gevraagd. Guilfoyle oefende de functie…"
         },
         {
-          "title": "Verdieping kunstacademie van Hasselt gesloten door kwikvervuiling: 4 personen onder observatie",
-          "url": "https://vrtnws.be/p.aDyxGXRbd",
-          "time": "2026-10-13T15:30:41.000Z",
-          "summary": "Bij de Stedelijke Kunstacademie van Hasselt (KNST) is een verdieping afgesloten door kwikvervuiling. Een leraar ontdekte kwikdruppels onderaan een oude spiegel en sloeg…"
+          "title": "Argentinië naar Internationaal Zeerechttribunaal tegen Brits olieproject bij Falklandeilanden",
+          "url": "https://vrtnws.be/p.DYX9MO6Ve",
+          "time": "2026-10-13T19:30:47.000Z",
+          "summary": "Argentinië heeft een zaak aangespannen bij het Internationaal Zeerechttribunaal om een Brits-Israëlisch olie-exploitatieproject ten noorden van de Falklandeilanden te…"
         },
         {
-          "title": "Jo met de Banjo (79) uit Herent stelt biografie voor: \"Ik ben verbaasd over wat ik allemaal heb gedaan\"",
-          "url": "https://vrtnws.be/p.11v3alPEG",
-          "time": "2026-10-13T15:23:08.000Z",
-          "summary": "Vanavond stelt auteur Guido Maes in Herent 'Van Ether tot Politiek' voor, de biografie van Jo De Clercq, beter bekend als Jo met de Banjo. Dat meldt ROB-tv. Het boek vat…"
+          "title": "Man (42) uit Tielt-Winge al 2 keer veroordeeld voor partnergeweld: \"Gebroken neus en hersenschudding\"",
+          "url": "https://vrtnws.be/p.E1XAdxoWW",
+          "time": "2026-10-13T18:46:11.000Z",
+          "summary": "Een man uit Tielt-Winge is al voor een 2e keer veroordeeld voor partnergeweld. De man ging vaak wild te keer en sloeg zijn vrouw onder meer een gebroken neus en een…"
         },
         {
-          "title": "'Geit' van Citroën maakt elektrische comeback: \"Even minimalistisch en betaalbaar als vroeger\"",
-          "url": "https://vrtnws.be/p.aDyxap36w",
-          "time": "2026-10-13T15:10:28.000Z",
-          "summary": "In Parijs heeft Citroën een nieuw, volledig elektrisch conceptmodel van de 2CV voorgesteld. Net als bij het origineel staan betaalbaarheid en minimalisme voorop. Het zou…"
+          "title": "Daikin Oostende schrapt ploegensysteem en laat alle arbeiders overdag werken: \"Krijgen 12,5 procent minder loon\"",
+          "url": "https://vrtnws.be/p.kQGyG1505",
+          "time": "2026-10-13T18:32:08.000Z",
+          "summary": "De arbeiders van airco- en warmtepompenfabrikant Daikin in Oostende zullen vanaf 1 januari niet meer in ploegen werken. Ze schakelen over op een dagsysteem. Voor het…"
         }
       ]
     }
