@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-14T11:32:26.865Z",
+  "generatedAt": "2026-10-14T16:50:11.917Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-14T11:32:26.865Z",
+      "fetchedAt": "2026-10-14T16:50:11.917Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Watch Sleep Apnea Notifications Launch in China",
-          "url": "https://www.macrumors.com/2026/10/14/apple-watch-sleep-apnea-notifications-china/",
-          "time": "2026-10-14T11:05:07.000Z",
-          "summary": "Apple today launched sleep apnea notifications in mainland China, following approval from the country's National Medical Products Administration. The feature is…"
+          "title": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
+          "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
+          "time": "2026-10-14T16:36:42.000Z",
+          "summary": "Siri AI will apparently not be limited to the new HomePod mini 2 , with support also coming to the first-generation HomePod mini in a software update later this year,…"
         },
         {
-          "title": "HomeView's Faces Include Snoopy, Photos, and Interactive Artwork",
-          "url": "https://www.macrumors.com/2026/10/14/homeviews-faces-include-snoopy-and-more/",
-          "time": "2026-10-14T11:00:26.000Z",
-          "summary": "Apple's HomeView includes customizable faces for photos, animations, and smart home controls. Faces Apple has named so far include: Photos Flow Snoopy Calendar Weather…"
+          "title": "iPhone Duo Compromises: Everything You Have to Give Up",
+          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
+          "time": "2026-10-14T16:08:53.000Z",
+          "summary": "Apple's $1,999 iPhone Duo asks buyers to pay more for a folding screen while accepting almost 40 compromises compared with the iPhone 18 Pro and &zwnj;iPhone 18…"
         },
         {
-          "title": "Apple's HomeView Repair Fees Revealed",
-          "url": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/",
-          "time": "2026-10-14T00:44:32.000Z",
-          "summary": "If you damage Apple's new HomeView smart home hub, here is what the repair fees are set at: $39 with AppleCare+ coverage and $279 without. These fees apply to any type…"
+          "title": "Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",
+          "url": "https://www.macrumors.com/2026/10/14/apple-homeview-apps-carplay/",
+          "time": "2026-10-14T16:03:09.000Z",
+          "summary": "Apple's tech specs page for its all-new HomeView smart home hub contains a list of all of the built-in Apple apps available on the device. While it has no App Store, the…"
         },
         {
-          "title": "Everything Apple Still Has Coming in October",
-          "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
-          "time": "2026-10-13T23:47:04.000Z",
-          "summary": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\" on October 27, plus we're still…"
+          "title": "iPhone Duo: Apple Charging $49 for New Cover Layer, $229 for Battery",
+          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-cover-layer-and-battery-fees/",
+          "time": "2026-10-14T15:46:20.000Z",
+          "summary": "We just published Apple's list of iPhone Duo repair fees for customers without AppleCare+ coverage, and we want to bring extra attention to two of the fees in…"
         },
         {
-          "title": "Welcome Home: Everything Apple Announced on October 13",
-          "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/",
-          "time": "2026-10-13T22:22:05.000Z",
-          "summary": "Apple didn't hold an event today, but it did refresh its lineup of smart home products with the Apple HomeView , HomePod mini 2 , and fourth-generation Apple TV 4K. The…"
+          "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake",
+          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
+          "time": "2026-10-14T15:37:06.000Z",
+          "summary": "Apple today listed its estimated repair fees for the iPhone Duo without AppleCare+ coverage, with the maximum fee in the U.S. for \"other damage\" set at $1,499. If you…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-14T11:32:26.865Z",
+      "fetchedAt": "2026-10-14T16:50:11.917Z",
       "error": null,
       "items": [
         {
-          "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
-          "url": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
-          "time": "2026-10-14T00:56:57.000Z",
-          "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones…"
+          "title": "OpenAI alleges ex-employee took ‘highly confidential’ device files to Apple",
+          "url": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/",
+          "time": "2026-10-14T16:09:19.000Z",
+          "summary": "In a new filing today, OpenAI claims that a former employee who departed for Apple sent “over a hundred highly confidential files about at least one unreleased OpenAI…"
         },
         {
-          "title": "Here’s how much it costs to repair the new Apple HomeView",
-          "url": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/",
-          "time": "2026-10-14T00:10:48.000Z",
-          "summary": "Apple has published the estimated service costs for its new HomeView smart home display, including how much customers can expect to pay with and without AppleCare…"
+          "title": "HomeView can display third-party widgets from your iPhone",
+          "url": "https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone/",
+          "time": "2026-10-14T15:43:34.000Z",
+          "summary": "Apple’s new HomeView (pre-order here) won’t have an App Store, but it will support third-party apps in some cases, including letting you run third-party widgets from…"
         },
         {
-          "title": "IDC: Apple gains ground as China’s smartphone shipments plunge 15.4% in Q3 2026",
-          "url": "https://9to5mac.com/2026/10/13/idc-apple-gains-ground-as-chinas-smartphone-shipments-plunge-15-4-in-q3-2026/",
-          "time": "2026-10-13T23:06:47.000Z",
-          "summary": "According to a new report from IDC, Apple’s share of smartphone shipments in China grew during Q3 2026, despite a 4.3% year-over-year decline in iPhone shipments. Here…"
+          "title": "HomeView will support video apps like YouTube, Netflix—if they say yes",
+          "url": "https://9to5mac.com/2026/10/14/homeview-will-support-video-apps-like-youtube-netflix-if-they-say-yes/",
+          "time": "2026-10-14T15:25:56.000Z",
+          "summary": "Apple unveiled its new HomeView product yesterday (pre-order here), but the device’s support for third-party apps was initially unclear. A newly published Apple document…"
         },
         {
-          "title": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter",
-          "url": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/",
-          "time": "2026-10-13T21:29:20.000Z",
-          "summary": "Earlier today, Apple confirmed that the wall-mounted HomeView does not come with a power adapter in the box. Now, the company has published a support document detailing…"
+          "title": "Apple reportedly gearing up for strong iPhone 18 sales",
+          "url": "https://9to5mac.com/2026/10/14/apple-reportedly-gearing-up-for-strong-iphone-18-sales/",
+          "time": "2026-10-14T14:59:39.000Z",
+          "summary": "While the iPhone 18 Pro is out, the entry-level model has been held back until early next year. That’s likely because the company wanted to maximize early production…"
         },
         {
-          "title": "Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit",
-          "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
-          "time": "2026-10-13T20:45:29.000Z",
-          "summary": "Judge Edward Davila today granted some of Apple’s requests for expedited discovery in its trade secrets lawsuit against former employees, OpenAI, and io Products. Here…"
+          "title": "HomePod mini 2 vs HomePod mini: Here’s everything new",
+          "url": "https://9to5mac.com/2026/10/14/homepod-mini-2-vs-homepod-mini-heres-everything-new/",
+          "time": "2026-10-14T14:28:48.000Z",
+          "summary": "Apple unveiled HomePod mini 2 yesterday ( pre-order here ), exactly six years after the first HomePod mini debuted. Here’s everything new in HomePod mini 2 compared to…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-14T11:32:26.865Z",
+      "fetchedAt": "2026-10-14T16:50:11.917Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-14T11:32:26.865Z",
+      "fetchedAt": "2026-10-14T16:50:11.917Z",
       "error": null,
       "items": [
         {
-          "title": "Lerares uit Assenede gaat in beroep tegen ontslag om hoofddoek",
-          "url": "https://vrtnws.be/p.qEdZA0Xv4",
-          "time": "2026-10-14T11:21:42.000Z",
-          "summary": "Leerkracht Hadija Amajoud uit Assenede gaat in beroep tegen haar ontslag. De provincie Oost-Vlaanderen ontsloeg haar, omdat ze haar hoofddoek wil blijven dragen op…"
+          "title": "4.400 tot 4.700 jaar oud: archeologen vinden restanten van oudste scheepswrak ter wereld voor kust Turkije",
+          "url": "https://vrtnws.be/p.w78wkx48J",
+          "time": "2026-10-14T16:45:10.000Z",
+          "summary": "Voor de kust van Turkije hebben archeologen restanten ontdekt van wat het oudste gevonden scheepswrak ter wereld moet zijn. Op basis van aangetroffen kruiken schatten…"
         },
         {
-          "title": "Kraanmachinist ontdekt obus in geleverde lading zand op werf in Zonnebeke: \"Springtuig stond op scherp\"",
-          "url": "https://vrtnws.be/p.7n5qJjX0R",
-          "time": "2026-10-14T11:18:05.000Z",
-          "summary": "In Zonnebeke is vanmorgen een obus ontdekt. Opmerkelijk, het springtuig zat verborgen in een lading zand, die net was geleverd op een werf. Toen de kraanmachinist het…"
+          "title": "DEME haalt \"omvangrijk contract\" binnen voor installatie turbines voor windpark Zeevonk in Nederland",
+          "url": "https://vrtnws.be/p.DYXyxdloe",
+          "time": "2026-10-14T16:24:10.000Z",
+          "summary": "DEME heeft \"een omvangrijk contract\" ondertekend voor het transport en de installatie van 69 windturbines voor het offshore windpark Zeevonk in Nederland. Dat heeft de…"
         },
         {
-          "title": "\"Te duur en geen toekomst\": Albanese studenten keren zich met bakstenen tegen onderwijsministerie",
-          "url": "https://vrtnws.be/p.ewP5NoVKK",
-          "time": "2026-10-14T11:12:51.000Z",
-          "summary": "In Tirana, de hoofdstad van Albanië, zijn studentenprotesten gisteren uit de hand gelopen. De studenten klagen over de toestand van de universiteiten, het…"
+          "title": "\"Gewetenloos en manipulatief\": zedenproces tegen Russell Brand start met scherpe uithaal van procureur",
+          "url": "https://vrtnws.be/p.Yby43mGlw",
+          "time": "2026-10-14T16:19:50.000Z",
+          "summary": "In het proces tegen Russell Brand heeft het openbaar ministerie de acteur en komiek omschreven als \"gewetenloos\" en \"manipulatief\". Bij de start van haar requisitoir…"
         },
         {
-          "title": "Nu al stevige kritiek op nieuwe woordvoerster van Witte Huis",
-          "url": "https://vrtnws.be/p.43NbyLxR1",
-          "time": "2026-10-14T11:09:44.000Z",
-          "summary": "Katie Zacharia, de nieuwe woordvoerster van het Witte Huis, is nog maar sinds maandag aan het werk, maar gisteren kreeg ze al meteen kritiek over haar eerste…"
+          "title": "Team Industries in Roeselare definitief failliet: 135 werknemers verliezen job, geen overnemer",
+          "url": "https://vrtnws.be/p.DYXydQbNm",
+          "time": "2026-10-14T15:43:25.000Z",
+          "summary": "Metaalverwerkend bedrijf Team Industries in Roeselare is nu ook officieel failliet verklaard. Dat heeft de ondernemingsrechtbank in Gent dinsdag geoordeeld. Dat de 135…"
         },
         {
-          "title": "Steeds meer klachten geschreven door AI: Vlaamse ombudsdienst roept op om geen \"epistels vol juridisch jargon\" te sturen",
-          "url": "https://vrtnws.be/p.y3mMl306O",
-          "time": "2026-10-14T10:52:22.000Z",
-          "summary": "De Vlaamse Ombudsdienst heeft een eigen AI-prompt ontwikkeld voor mensen die artificiële intelligentie gebruiken om een klacht in te dienen. Ombudsdiensten worden de…"
+          "title": "Ierse auteur Sally Rooney haalt boeken uit winkelrekken in het VK uit vrees voor juridische gevolgen",
+          "url": "https://vrtnws.be/p.JNGZqVJjw",
+          "time": "2026-10-14T15:34:43.000Z",
+          "summary": "De Ierse auteur Sally Rooney haalt haar boeken uit de winkelrekken in het Verenigd Koninkrijk. Ze doet dat uit vrees voor de juridische gevolgen van haar steun aan de…"
         }
       ]
     }
