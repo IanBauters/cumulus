@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-14T20:31:02.308Z",
+  "generatedAt": "2026-10-14T23:46:43.037Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-14T20:31:02.308Z",
+      "fetchedAt": "2026-10-14T23:46:43.037Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-          "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-          "time": "2026-10-14T20:24:50.000Z",
-          "summary": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg . The launch will include basic &zwnj;Apple…"
+          "title": "10 HomeView Features You Might Have Missed",
+          "url": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
+          "time": "2026-10-14T23:02:42.000Z",
+          "summary": "Apple plans to launch the HomeView on November 13, so we have a month to go until we can learn more about it. Right now, we're limited to the information Apple has…"
+        },
+        {
+          "title": "Apple Becomes Second Company to Close Above $5 Trillion",
+          "url": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
+          "time": "2026-10-14T22:37:41.000Z",
+          "summary": "Apple today closed with a market capitalization above $5 trillion, making it the second company to do so after Nvidia. As noted by The Wall Street Journal , Apple's…"
+        },
+        {
+          "title": "Which Apple Home Devices Get Siri AI, and When",
+          "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
+          "time": "2026-10-14T21:23:57.000Z",
+          "summary": "There's been some confusion about which of Apple's new and existing home devices will support Siri AI and when, because &zwnj;Siri&zwnj; AI isn't going to be available…"
+        },
+        {
+          "title": "Apple's Long-Delayed HomeView Was Already Being Tested in 2024",
+          "url": "https://www.macrumors.com/2026/10/14/apple-homeview-tested/",
+          "time": "2026-10-14T20:59:47.000Z",
+          "summary": "Apple's new HomeView underwent regulatory testing in October 2024, and it was running what would now be known as HomeView software version 18, according to an FCC…"
         },
         {
           "title": "Apple Invites App Updated With Two New Features",
           "url": "https://www.macrumors.com/2026/10/14/apple-invites-two-new-features/",
-          "time": "2026-10-14T20:20:10.000Z",
+          "time": "2026-10-14T20:54:25.000Z",
           "summary": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now more easily manually add guests to an event and mark their RSVP status,…"
-        },
-        {
-          "title": "OpenAI Says Ex-Employee Showed Its Device Plans to Apple",
-          "url": "https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/",
-          "time": "2026-10-14T18:55:13.000Z",
-          "summary": "OpenAI today suggested Apple could be using its trade secrets, the very thing Apple is already suing OpenAI for. In a court filing , OpenAI accused an ex-employee of…"
-        },
-        {
-          "title": "Discover the Best Cases and Screen Protectors for Your New iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
-          "time": "2026-10-14T18:32:25.000Z",
-          "summary": "iPhone Duo pre-orders kick off this Friday , and in anticipation of the event we've gathered all of the best cases and screen protectors you can get for your new iPhone…"
-        },
-        {
-          "title": "Apple Store Near Los Angeles Closed Due to 'Events Beyond Our Control'",
-          "url": "https://www.macrumors.com/2026/10/14/apple-del-amo-temporarily-closed/",
-          "time": "2026-10-14T17:32:33.000Z",
-          "summary": "Apple Del Amo in Torrance (Los Angeles area) has been temporarily closed for a few days, and Apple has now added the following notice to the store's page: \"We'll be…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-14T20:31:02.308Z",
+      "fetchedAt": "2026-10-14T23:46:43.037Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
-          "url": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
-          "time": "2026-10-14T20:20:14.000Z",
-          "summary": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the…"
+          "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+          "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
+          "time": "2026-10-14T23:12:59.000Z",
+          "summary": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays…"
         },
         {
-          "title": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns",
-          "url": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
-          "time": "2026-10-14T19:55:29.000Z",
-          "summary": "Following intense criticism over the obvious fact that its AirTag Silencer could facilitate stalking and other forms of misuse of Apple’s AirTag, ElevationLab has now…"
+          "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
+          "url": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
+          "time": "2026-10-14T23:03:45.000Z",
+          "summary": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what…"
         },
         {
-          "title": "Apple TV just confirmed a new season for one of my favorite shows this year",
-          "url": "https://9to5mac.com/2026/10/14/apple-tv-just-confirmed-a-new-season-for-one-of-my-favorite-shows-this-year/",
-          "time": "2026-10-14T19:19:03.000Z",
-          "summary": "Apple has announced that Maximum Pleasure Guaranteed , the acclaimed thriller that premiered this spring, will return for season 2. more…"
+          "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
+          "url": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
+          "time": "2026-10-14T22:39:29.000Z",
+          "summary": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…"
         },
         {
-          "title": "Here’s how much iPhone Duo costs to repair out-of-warranty",
-          "url": "https://9to5mac.com/2026/10/14/heres-how-much-iphone-duo-costs-to-repair-out-of-warranty/",
-          "time": "2026-10-14T18:11:00.000Z",
-          "summary": "iPhone Duo pre-orders kick off this Friday ahead of shipping next week. If you’re wondering whether to get AppleCare+ or not, here are the iPhone Duo’s out-of-warranty…"
+          "title": "Apple just closed the day above $5 trillion for the first time",
+          "url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
+          "time": "2026-10-14T21:47:28.000Z",
+          "summary": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the…"
         },
         {
-          "title": "Apple confirms Siri AI is not coming to the original HomePod mini",
-          "url": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/",
-          "time": "2026-10-14T17:30:55.000Z",
-          "summary": "Siri AI is a tentpole addition to HomePod mini 2, but a CNET report today originally claimed Siri AI was coming to older HomePod mini models too. However, the story has…"
+          "title": "Apple Invites update makes it easier to manage guests and track RSVPs",
+          "url": "https://9to5mac.com/2026/10/14/apple-invites-update-makes-it-easier-to-manage-guests-and-track-rsvps/",
+          "time": "2026-10-14T21:15:32.000Z",
+          "summary": "The Apple Invites app got updated yet again today, with new features including RSVP improvements and a larger Home Screen widget. Here are the details. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-14T20:31:02.308Z",
+      "fetchedAt": "2026-10-14T23:46:43.037Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-14T20:31:02.308Z",
+      "fetchedAt": "2026-10-14T23:46:43.037Z",
       "error": null,
       "items": [
         {
