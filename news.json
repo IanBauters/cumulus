@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-14T00:32:29.836Z",
+  "generatedAt": "2026-10-14T05:55:51.795Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-14T00:32:29.836Z",
+      "fetchedAt": "2026-10-14T05:55:51.795Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple's HomeView Repair Fees Revealed",
+          "url": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/",
+          "time": "2026-10-14T00:44:32.000Z",
+          "summary": "If you damage Apple's new HomeView smart home hub, here is what the repair fees are set at: $39 with AppleCare+ coverage and $279 without. These fees apply to any type…"
+        },
         {
           "title": "Everything Apple Still Has Coming in October",
           "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
@@ -18,7 +24,7 @@
           "title": "Welcome Home: Everything Apple Announced on October 13",
           "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/",
           "time": "2026-10-13T22:22:05.000Z",
-          "summary": "Apple didn't hold an event today, but it did refresh its lineup of smart home products with the Apple HomeView , HomePod mini 2, and fourth-generation Apple TV 4K. The…"
+          "summary": "Apple didn't hold an event today, but it did refresh its lineup of smart home products with the Apple HomeView , HomePod mini 2 , and fourth-generation Apple TV 4K. The…"
         },
         {
           "title": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/",
           "time": "2026-10-13T22:11:33.000Z",
           "summary": "Apple today seeded the third betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, and watchOS 27.2. The software comes a few hours after Apple provided the betas to…"
-        },
-        {
-          "title": "iOS 27.2 Adds New Apple Music Icon",
-          "url": "https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/",
-          "time": "2026-10-13T22:04:50.000Z",
-          "summary": "In the fourth beta of iOS 27.2, Apple updated the Apple Music icon. The new icon is black and white, replacing the prior red and white icon. In light mode, the logo is…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-14T00:32:29.836Z",
+      "fetchedAt": "2026-10-14T05:55:51.795Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
+          "url": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
+          "time": "2026-10-14T00:56:57.000Z",
+          "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones…"
+        },
         {
           "title": "Here’s how much it costs to repair the new Apple HomeView",
           "url": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
           "time": "2026-10-13T20:45:29.000Z",
           "summary": "Judge Edward Davila today granted some of Apple’s requests for expedited discovery in its trade secrets lawsuit against former employees, OpenAI, and io Products. Here…"
-        },
-        {
-          "title": "Apple TV unveils new heist thriller series coming soon",
-          "url": "https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/",
-          "time": "2026-10-13T19:41:50.000Z",
-          "summary": "Apple TV released the trailer today for ‘12 12 12,’ a new heist thriller series premiering next month. Here are the details and the trailer. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-14T00:32:29.836Z",
+      "fetchedAt": "2026-10-14T05:55:51.795Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-14T00:32:29.836Z",
+      "fetchedAt": "2026-10-14T05:55:51.795Z",
       "error": null,
       "items": [
         {
-          "title": "Saudische ingenieur aangeklaagd voor verstoppen opnameapparatuur bij OpenAI",
-          "url": "https://vrtnws.be/p.8eXxD40LY",
-          "time": "2026-10-13T21:46:20.000Z",
-          "summary": "Een 35-jarige Saudische ingenieur van OpenAI is aangeklaagd omdat hij in het geheim opnameapparatuur zou hebben verstopt in een vergaderzaal van het bedrijf in San…"
+          "title": "Twee vrouwen opgelicht met valse gift voor goed doel in Kuringen",
+          "url": "https://vrtnws.be/p.bDyNxRyWl",
+          "time": "2026-10-14T05:50:26.000Z",
+          "summary": "In Kuringen, in Hasselt, zijn in een week tijd 2 vrouwen opgelicht door een man die geld vroeg voor een stichting voor doven en slechthorenden. Beide vrouwen dachten een…"
         },
         {
-          "title": "Voormalige bendeleider veroordeeld tot 40 jaar cel voor moord op Amerikaanse rapper Tupac",
-          "url": "https://vrtnws.be/p.93XNJobWm",
-          "time": "2026-10-13T20:02:13.000Z",
-          "summary": "30 jaar na de dood van Tupac Shakur is Duane 'Keffe D' Davis, de voormalige bendeleider die beschuldigd wordt van het beramen van de moord op de Amerikaanse rapper,…"
+          "title": "Wie heeft de koning gezien? Borstbeeld van Albert I al meer dan een maand vermist in Albertpark Sint-Jans-Molenbeek",
+          "url": "https://vrtnws.be/p.Rayedy8dM",
+          "time": "2026-10-14T05:45:00.000Z",
+          "summary": "Het bronzen borstbeeld van Koning Albert I in het Albertpark is vermist, waarschijnlijk gestolen. De verdwijning past mogelijk in een reeks diefstallen en beschadigingen…"
         },
         {
-          "title": "VS-ambassadeur in Griekenland neemt ontslag op vraag van president (en ex-schoonvader) Trump",
-          "url": "https://vrtnws.be/p.OvX1X0NON",
-          "time": "2026-10-13T19:53:55.000Z",
-          "summary": "Kimberly Guilfoyle neemt ontslag als Amerikaanse ambassadeur in Griekenland, kort nadat het Witte Huis haar dat officieel had gevraagd. Guilfoyle oefende de functie…"
+          "title": "Marsrover Perseverance schrijft geschiedenis: nog nooit reed voertuig zo'n grote afstand op andere planeet",
+          "url": "https://vrtnws.be/p.dLyVZPAA4",
+          "time": "2026-10-14T05:26:51.000Z",
+          "summary": "Nog nooit reed een voertuig op een andere planeet zo'n grote afstand als Perseverance, de Marsverkenner van de NASA. Het wagentje heeft nu meer dan 45 kilometer op de…"
         },
         {
-          "title": "Argentinië naar Internationaal Zeerechttribunaal tegen Brits olieproject bij Falklandeilanden",
-          "url": "https://vrtnws.be/p.DYX9MO6Ve",
-          "time": "2026-10-13T19:30:47.000Z",
-          "summary": "Argentinië heeft een zaak aangespannen bij het Internationaal Zeerechttribunaal om een Brits-Israëlisch olie-exploitatieproject ten noorden van de Falklandeilanden te…"
+          "title": "Moviemills opent 2e bioscoop in shoppingcenter Docks in Brussel",
+          "url": "https://vrtnws.be/p.11v3Rw0pa",
+          "time": "2026-10-14T05:13:02.000Z",
+          "summary": "Moviemills, de uitbater van een bioscoop in Malmedy, opent een 2e cinema in shoppingcenter Docks Bruxsel in Brussel. De Luikse groep Gehlen, eigenaar van Moviemills,…"
         },
         {
-          "title": "Man (42) uit Tielt-Winge al 2 keer veroordeeld voor partnergeweld: \"Gebroken neus en hersenschudding\"",
-          "url": "https://vrtnws.be/p.E1XAdxoWW",
-          "time": "2026-10-13T18:46:11.000Z",
-          "summary": "Een man uit Tielt-Winge is al voor een 2e keer veroordeeld voor partnergeweld. De man ging vaak wild te keer en sloeg zijn vrouw onder meer een gebroken neus en een…"
+          "title": "\"Wij laten ons het zwijgen niet opleggen\": NSV! protesteert vanavond in Leuven tegen afgelaste lezing Filip Dewinter",
+          "url": "https://vrtnws.be/p.LNDlPopLk",
+          "time": "2026-10-14T04:59:56.000Z",
+          "summary": "De Nationalistische Studentenvereniging NSV! organiseert vanavond een protestactie op de Grote Markt in Leuven. De studentenvereniging reageert daarmee op de beslissing…"
         }
       ]
     }
