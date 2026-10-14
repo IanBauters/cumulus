@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-14T16:50:11.917Z",
+  "generatedAt": "2026-10-14T20:31:02.308Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-14T16:50:11.917Z",
+      "fetchedAt": "2026-10-14T20:31:02.308Z",
       "error": null,
       "items": [
         {
-          "title": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
-          "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
-          "time": "2026-10-14T16:36:42.000Z",
-          "summary": "Siri AI will apparently not be limited to the new HomePod mini 2 , with support also coming to the first-generation HomePod mini in a software update later this year,…"
+          "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+          "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+          "time": "2026-10-14T20:24:50.000Z",
+          "summary": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg . The launch will include basic &zwnj;Apple…"
         },
         {
-          "title": "iPhone Duo Compromises: Everything You Have to Give Up",
-          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
-          "time": "2026-10-14T16:08:53.000Z",
-          "summary": "Apple's $1,999 iPhone Duo asks buyers to pay more for a folding screen while accepting almost 40 compromises compared with the iPhone 18 Pro and &zwnj;iPhone 18…"
+          "title": "Apple Invites App Updated With Two New Features",
+          "url": "https://www.macrumors.com/2026/10/14/apple-invites-two-new-features/",
+          "time": "2026-10-14T20:20:10.000Z",
+          "summary": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now more easily manually add guests to an event and mark their RSVP status,…"
         },
         {
-          "title": "Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",
-          "url": "https://www.macrumors.com/2026/10/14/apple-homeview-apps-carplay/",
-          "time": "2026-10-14T16:03:09.000Z",
-          "summary": "Apple's tech specs page for its all-new HomeView smart home hub contains a list of all of the built-in Apple apps available on the device. While it has no App Store, the…"
+          "title": "OpenAI Says Ex-Employee Showed Its Device Plans to Apple",
+          "url": "https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/",
+          "time": "2026-10-14T18:55:13.000Z",
+          "summary": "OpenAI today suggested Apple could be using its trade secrets, the very thing Apple is already suing OpenAI for. In a court filing , OpenAI accused an ex-employee of…"
         },
         {
-          "title": "iPhone Duo: Apple Charging $49 for New Cover Layer, $229 for Battery",
-          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-cover-layer-and-battery-fees/",
-          "time": "2026-10-14T15:46:20.000Z",
-          "summary": "We just published Apple's list of iPhone Duo repair fees for customers without AppleCare+ coverage, and we want to bring extra attention to two of the fees in…"
+          "title": "Discover the Best Cases and Screen Protectors for Your New iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
+          "time": "2026-10-14T18:32:25.000Z",
+          "summary": "iPhone Duo pre-orders kick off this Friday , and in anticipation of the event we've gathered all of the best cases and screen protectors you can get for your new iPhone…"
         },
         {
-          "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake",
-          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
-          "time": "2026-10-14T15:37:06.000Z",
-          "summary": "Apple today listed its estimated repair fees for the iPhone Duo without AppleCare+ coverage, with the maximum fee in the U.S. for \"other damage\" set at $1,499. If you…"
+          "title": "Apple Store Near Los Angeles Closed Due to 'Events Beyond Our Control'",
+          "url": "https://www.macrumors.com/2026/10/14/apple-del-amo-temporarily-closed/",
+          "time": "2026-10-14T17:32:33.000Z",
+          "summary": "Apple Del Amo in Torrance (Los Angeles area) has been temporarily closed for a few days, and Apple has now added the following notice to the store's page: \"We'll be…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-14T16:50:11.917Z",
+      "fetchedAt": "2026-10-14T20:31:02.308Z",
       "error": null,
       "items": [
         {
-          "title": "OpenAI alleges ex-employee took ‘highly confidential’ device files to Apple",
-          "url": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/",
-          "time": "2026-10-14T16:09:19.000Z",
-          "summary": "In a new filing today, OpenAI claims that a former employee who departed for Apple sent “over a hundred highly confidential files about at least one unreleased OpenAI…"
+          "title": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
+          "url": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
+          "time": "2026-10-14T20:20:14.000Z",
+          "summary": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the…"
         },
         {
-          "title": "HomeView can display third-party widgets from your iPhone",
-          "url": "https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone/",
-          "time": "2026-10-14T15:43:34.000Z",
-          "summary": "Apple’s new HomeView (pre-order here) won’t have an App Store, but it will support third-party apps in some cases, including letting you run third-party widgets from…"
+          "title": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns",
+          "url": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
+          "time": "2026-10-14T19:55:29.000Z",
+          "summary": "Following intense criticism over the obvious fact that its AirTag Silencer could facilitate stalking and other forms of misuse of Apple’s AirTag, ElevationLab has now…"
         },
         {
-          "title": "HomeView will support video apps like YouTube, Netflix—if they say yes",
-          "url": "https://9to5mac.com/2026/10/14/homeview-will-support-video-apps-like-youtube-netflix-if-they-say-yes/",
-          "time": "2026-10-14T15:25:56.000Z",
-          "summary": "Apple unveiled its new HomeView product yesterday (pre-order here), but the device’s support for third-party apps was initially unclear. A newly published Apple document…"
+          "title": "Apple TV just confirmed a new season for one of my favorite shows this year",
+          "url": "https://9to5mac.com/2026/10/14/apple-tv-just-confirmed-a-new-season-for-one-of-my-favorite-shows-this-year/",
+          "time": "2026-10-14T19:19:03.000Z",
+          "summary": "Apple has announced that Maximum Pleasure Guaranteed , the acclaimed thriller that premiered this spring, will return for season 2. more…"
         },
         {
-          "title": "Apple reportedly gearing up for strong iPhone 18 sales",
-          "url": "https://9to5mac.com/2026/10/14/apple-reportedly-gearing-up-for-strong-iphone-18-sales/",
-          "time": "2026-10-14T14:59:39.000Z",
-          "summary": "While the iPhone 18 Pro is out, the entry-level model has been held back until early next year. That’s likely because the company wanted to maximize early production…"
+          "title": "Here’s how much iPhone Duo costs to repair out-of-warranty",
+          "url": "https://9to5mac.com/2026/10/14/heres-how-much-iphone-duo-costs-to-repair-out-of-warranty/",
+          "time": "2026-10-14T18:11:00.000Z",
+          "summary": "iPhone Duo pre-orders kick off this Friday ahead of shipping next week. If you’re wondering whether to get AppleCare+ or not, here are the iPhone Duo’s out-of-warranty…"
         },
         {
-          "title": "HomePod mini 2 vs HomePod mini: Here’s everything new",
-          "url": "https://9to5mac.com/2026/10/14/homepod-mini-2-vs-homepod-mini-heres-everything-new/",
-          "time": "2026-10-14T14:28:48.000Z",
-          "summary": "Apple unveiled HomePod mini 2 yesterday ( pre-order here ), exactly six years after the first HomePod mini debuted. Here’s everything new in HomePod mini 2 compared to…"
+          "title": "Apple confirms Siri AI is not coming to the original HomePod mini",
+          "url": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/",
+          "time": "2026-10-14T17:30:55.000Z",
+          "summary": "Siri AI is a tentpole addition to HomePod mini 2, but a CNET report today originally claimed Siri AI was coming to older HomePod mini models too. However, the story has…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-14T16:50:11.917Z",
+      "fetchedAt": "2026-10-14T20:31:02.308Z",
       "error": null,
       "items": [
+        {
+          "title": "HomeView Points to Siri AI as the Next Developer Platform",
+          "url": "https://www.macstories.net/stories/homeview-points-to-siri-ai-as-the-next-developer-platform/",
+          "time": "2026-10-14T20:03:59.000Z",
+          "summary": "Source: Apple. Yesterday, Wired reported that third-party apps with CarPlay functionality would be available on Apple’s new HomeView device. That struck me as odd. I was…"
+        },
         {
           "title": "Apple Teams Up with LG Electronics and Schneider Electric to Offer the Apple Home Collection",
           "url": "https://www.macstories.net/news/apple-teams-up-with-lg-electronics-and-schneider-electric-to-offer-the-apple-home-collection/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/apple-unveils-homeview-a-smart-home-display-powered-by-siri-ai/",
           "time": "2026-10-13T13:53:35.000Z",
           "summary": "Source: Apple. Today, Apple announced the highly anticipated HomeView, a Siri AI-powered device for controlling your HomeKit devices and accessing other apps and…"
-        },
-        {
-          "title": "Apple Kicks Off Indie Games Week with Six New iPhone and iPad Games, Plus No Man’s Sky Preorders",
-          "url": "https://www.macstories.net/news/apple-kicks-off-indie-games-week-with-six-new-iphone-and-ipad-games-plus-no-mans-sky-preorders/",
-          "time": "2026-10-12T14:03:36.000Z",
-          "summary": "Source: Apple. Today, Apple announced Indie Games Week, a celebration of some of the best games from independent game studios. To kick things off, the company announced…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-14T16:50:11.917Z",
+      "fetchedAt": "2026-10-14T20:31:02.308Z",
       "error": null,
       "items": [
         {
-          "title": "4.400 tot 4.700 jaar oud: archeologen vinden restanten van oudste scheepswrak ter wereld voor kust Turkije",
-          "url": "https://vrtnws.be/p.w78wkx48J",
-          "time": "2026-10-14T16:45:10.000Z",
-          "summary": "Voor de kust van Turkije hebben archeologen restanten ontdekt van wat het oudste gevonden scheepswrak ter wereld moet zijn. Op basis van aangetroffen kruiken schatten…"
+          "title": "Regering-Trump tekent beroep aan tegen toegang tot Witte Huis voor CNN, MS NOW en Politico",
+          "url": "https://vrtnws.be/p.qEdAxoGj0",
+          "time": "2026-10-14T19:48:38.000Z",
+          "summary": "De Amerikaanse regering gaat in beroep tegen de beslissing om de zenders CNN en MS NOW en het onlinemedium Politico toegang te geven tot het Witte Huis. De regering…"
         },
         {
-          "title": "DEME haalt \"omvangrijk contract\" binnen voor installatie turbines voor windpark Zeevonk in Nederland",
-          "url": "https://vrtnws.be/p.DYXyxdloe",
-          "time": "2026-10-14T16:24:10.000Z",
-          "summary": "DEME heeft \"een omvangrijk contract\" ondertekend voor het transport en de installatie van 69 windturbines voor het offshore windpark Zeevonk in Nederland. Dat heeft de…"
+          "title": "Royal A-ware wil een kaasfabriek bouwen op site van voormalig Olympia in Pajottegem",
+          "url": "https://vrtnws.be/p.APXEPy9QE",
+          "time": "2026-10-14T18:40:56.000Z",
+          "summary": "Zuivelproducent Royal A-ware onderzoekt of het op zijn bedrijfslocatie in Pajottegem een kaasmakerij kan bouwen. Een eerste haalbaarheidsstudie viel positief uit. Het…"
         },
         {
-          "title": "\"Gewetenloos en manipulatief\": zedenproces tegen Russell Brand start met scherpe uithaal van procureur",
-          "url": "https://vrtnws.be/p.Yby43mGlw",
-          "time": "2026-10-14T16:19:50.000Z",
-          "summary": "In het proces tegen Russell Brand heeft het openbaar ministerie de acteur en komiek omschreven als \"gewetenloos\" en \"manipulatief\". Bij de start van haar requisitoir…"
+          "title": "Jongeren opgepakt voor afsteken vuurwerk in Malle: \"Vuurwerk is geen speelgoed\"",
+          "url": "https://vrtnws.be/p.0YJ8Yxo0e",
+          "time": "2026-10-14T18:31:06.000Z",
+          "summary": "De Lokale Politie Voorkempen heeft verschillende minderjarigen opgepakt voor het afsteken van vuurwerk in Malle. Dat gebeurt na de schooluren in de buurt van Domein de…"
         },
         {
-          "title": "Team Industries in Roeselare definitief failliet: 135 werknemers verliezen job, geen overnemer",
-          "url": "https://vrtnws.be/p.DYXydQbNm",
-          "time": "2026-10-14T15:43:25.000Z",
-          "summary": "Metaalverwerkend bedrijf Team Industries in Roeselare is nu ook officieel failliet verklaard. Dat heeft de ondernemingsrechtbank in Gent dinsdag geoordeeld. Dat de 135…"
+          "title": "Politie en parket openen onderzoek naar vechtpartij aan schoolpoort in Maaseik",
+          "url": "https://vrtnws.be/p.lOl6OQ0yX",
+          "time": "2026-10-14T18:28:40.000Z",
+          "summary": "Politiezone Maasland en het parket van Limburg zijn een onderzoek gestart naar een vechtpartij aan de schoolpoort van Mosa-RT in Maaseik. Op beelden is te zien hoe 4…"
         },
         {
-          "title": "Ierse auteur Sally Rooney haalt boeken uit winkelrekken in het VK uit vrees voor juridische gevolgen",
-          "url": "https://vrtnws.be/p.JNGZqVJjw",
-          "time": "2026-10-14T15:34:43.000Z",
-          "summary": "De Ierse auteur Sally Rooney haalt haar boeken uit de winkelrekken in het Verenigd Koninkrijk. Ze doet dat uit vrees voor de juridische gevolgen van haar steun aan de…"
+          "title": "Druivenstreek produceert na invoering betalen per gewicht meteen 30 kg minder restafval per huisgezin",
+          "url": "https://vrtnws.be/p.lOl6On6yv",
+          "time": "2026-10-14T18:10:20.000Z",
+          "summary": "Interrand verwacht dat de inwoners in zijn werkingsgebied, Hoeilaart, Tervuren en Overijse, in 2026 minder dan 100 kilogram restafval per persoon weggooien. In 2025 was…"
         }
       ]
     }
