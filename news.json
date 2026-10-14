@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-13T21:26:47.149Z",
+  "generatedAt": "2026-10-14T00:32:29.836Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-13T21:26:47.149Z",
+      "fetchedAt": "2026-10-14T00:32:29.836Z",
       "error": null,
       "items": [
         {
-          "title": "HomePod Mini 2 Works as Default Speaker With Select Macs",
-          "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/",
-          "time": "2026-10-13T21:19:17.000Z",
-          "summary": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later , according to Apple. You can use a single HomePod, or a pair for stereo…"
+          "title": "Everything Apple Still Has Coming in October",
+          "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
+          "time": "2026-10-13T23:47:04.000Z",
+          "summary": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\" on October 27, plus we're still…"
         },
         {
-          "title": "Elevation Lab Pulls AirTag Silencer After Stalking Concerns",
-          "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
-          "time": "2026-10-13T21:14:42.000Z",
-          "summary": "Earlier this year, Elevation Lab announced the launch of a \"Silencer\" for AirTag meant to pierce the speaker on the device to disable the sound. Elevation Lab explained…"
+          "title": "Welcome Home: Everything Apple Announced on October 13",
+          "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/",
+          "time": "2026-10-13T22:22:05.000Z",
+          "summary": "Apple didn't hold an event today, but it did refresh its lineup of smart home products with the Apple HomeView , HomePod mini 2, and fourth-generation Apple TV 4K. The…"
         },
         {
-          "title": "iOS 27.2 Beta 4 Removes New Health App",
-          "url": "https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/",
-          "time": "2026-10-13T20:31:43.000Z",
-          "summary": "The iOS 27.2 beta Apple released today removes the updated Health app that Apple was testing in earlier betas . The app's disappearance from the iOS 27.2 beta is not a…"
+          "title": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
+          "url": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/",
+          "time": "2026-10-13T22:20:12.000Z",
+          "summary": "Apple today introduced the HomePod mini 2 , but the full-sized HomePod was not updated. Nevertheless, the alt text for Apple's full-sized HomePod image shown at the…"
         },
         {
-          "title": "iPhone Duo Will Have Day-One iOS 27.1 Update",
-          "url": "https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/",
-          "time": "2026-10-13T20:01:54.000Z",
-          "summary": "The iPhone Duo ships with iOS 27.1, a version of iOS 27 exclusive to the foldable device. Apple yesterday released a new build of iOS 27.1 (24A94425), which means buyers…"
+          "title": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+          "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/",
+          "time": "2026-10-13T22:11:33.000Z",
+          "summary": "Apple today seeded the third betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, and watchOS 27.2. The software comes a few hours after Apple provided the betas to…"
         },
         {
-          "title": "Where to Pre-Order Apple's New HomeView, HomePod Mini 2, and Apple TV 4K",
-          "url": "https://www.macrumors.com/2026/10/13/pre-order-homeview/",
-          "time": "2026-10-13T19:34:19.000Z",
-          "summary": "Apple just announced the HomeView , HomePod mini 2 , and fourth-generation Apple TV 4K , and pre-orders are now available on all of these devices at popular retailers…"
+          "title": "iOS 27.2 Adds New Apple Music Icon",
+          "url": "https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/",
+          "time": "2026-10-13T22:04:50.000Z",
+          "summary": "In the fourth beta of iOS 27.2, Apple updated the Apple Music icon. The new icon is black and white, replacing the prior red and white icon. In light mode, the logo is…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-13T21:26:47.149Z",
+      "fetchedAt": "2026-10-14T00:32:29.836Z",
       "error": null,
       "items": [
+        {
+          "title": "Here’s how much it costs to repair the new Apple HomeView",
+          "url": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/",
+          "time": "2026-10-14T00:10:48.000Z",
+          "summary": "Apple has published the estimated service costs for its new HomeView smart home display, including how much customers can expect to pay with and without AppleCare…"
+        },
+        {
+          "title": "IDC: Apple gains ground as China’s smartphone shipments plunge 15.4% in Q3 2026",
+          "url": "https://9to5mac.com/2026/10/13/idc-apple-gains-ground-as-chinas-smartphone-shipments-plunge-15-4-in-q3-2026/",
+          "time": "2026-10-13T23:06:47.000Z",
+          "summary": "According to a new report from IDC, Apple’s share of smartphone shipments in China grew during Q3 2026, despite a 4.3% year-over-year decline in iPhone shipments. Here…"
+        },
+        {
+          "title": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter",
+          "url": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/",
+          "time": "2026-10-13T21:29:20.000Z",
+          "summary": "Earlier today, Apple confirmed that the wall-mounted HomeView does not come with a power adapter in the box. Now, the company has published a support document detailing…"
+        },
         {
           "title": "Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit",
           "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/",
           "time": "2026-10-13T19:41:50.000Z",
           "summary": "Apple TV released the trailer today for ‘12 12 12,’ a new heist thriller series premiering next month. Here are the details and the trailer. more…"
-        },
-        {
-          "title": "HomeView, Apple TV 4K, and more now available for Amazon pre-order",
-          "url": "https://9to5mac.com/2026/10/13/homeview-apple-tv-4k-and-more-now-available-for-amazon-pre-order/",
-          "time": "2026-10-13T19:29:22.000Z",
-          "summary": "Apple today unveiled its next big foray into the smart home world, including the new HomeView smart display and a new Apple TV 4K. Following Apple’s announcement, the…"
-        },
-        {
-          "title": "Apple rolls out new AirPods beta firmware for several models, including AirPods Pro 3",
-          "url": "https://9to5mac.com/2026/10/13/apple-rolls-out-new-airpods-beta-firmware-for-several-models-including-airpods-pro-3/",
-          "time": "2026-10-13T19:24:36.000Z",
-          "summary": "In addition to the rollout of developer beta 4 for macOS 27.2, iOS 27.2, iPadOS 27.2, and more, Apple also rolled out developer and public firmware betas for several…"
-        },
-        {
-          "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
-          "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
-          "time": "2026-10-13T19:06:29.000Z",
-          "summary": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates in the Music app. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-13T21:26:47.149Z",
+      "fetchedAt": "2026-10-14T00:32:29.836Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-13T21:26:47.149Z",
+      "fetchedAt": "2026-10-14T00:32:29.836Z",
       "error": null,
       "items": [
+        {
+          "title": "Saudische ingenieur aangeklaagd voor verstoppen opnameapparatuur bij OpenAI",
+          "url": "https://vrtnws.be/p.8eXxD40LY",
+          "time": "2026-10-13T21:46:20.000Z",
+          "summary": "Een 35-jarige Saudische ingenieur van OpenAI is aangeklaagd omdat hij in het geheim opnameapparatuur zou hebben verstopt in een vergaderzaal van het bedrijf in San…"
+        },
         {
           "title": "Voormalige bendeleider veroordeeld tot 40 jaar cel voor moord op Amerikaanse rapper Tupac",
           "url": "https://vrtnws.be/p.93XNJobWm",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.E1XAdxoWW",
           "time": "2026-10-13T18:46:11.000Z",
           "summary": "Een man uit Tielt-Winge is al voor een 2e keer veroordeeld voor partnergeweld. De man ging vaak wild te keer en sloeg zijn vrouw onder meer een gebroken neus en een…"
-        },
-        {
-          "title": "Daikin Oostende schrapt ploegensysteem en laat alle arbeiders overdag werken: \"Krijgen 12,5 procent minder loon\"",
-          "url": "https://vrtnws.be/p.kQGyG1505",
-          "time": "2026-10-13T18:32:08.000Z",
-          "summary": "De arbeiders van airco- en warmtepompenfabrikant Daikin in Oostende zullen vanaf 1 januari niet meer in ploegen werken. Ze schakelen over op een dagsysteem. Voor het…"
         }
       ]
     }
