@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T03:52:51.459Z",
+  "generatedAt": "2026-10-15T09:00:19.698Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-15T03:52:51.459Z",
+      "fetchedAt": "2026-10-15T09:00:19.698Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-15T03:52:51.459Z",
+      "fetchedAt": "2026-10-15T09:00:19.698Z",
       "error": null,
       "items": [
+        {
+          "title": "Opera Air gets a minimalist makeover with a focus on distraction-free browsing",
+          "url": "https://9to5mac.com/2026/10/15/opera-air-gets-a-minimalist-makeover-with-a-focus-on-distraction-free-browsing/",
+          "time": "2026-10-15T08:00:00.000Z",
+          "summary": "Opera is relaunching its Opera Air browser today with a redesign that is both conceptual and practical for a more focused browsing experience. Here’s what that means.…"
+        },
         {
           "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
           "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
           "time": "2026-10-14T21:47:28.000Z",
           "summary": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the…"
-        },
-        {
-          "title": "Apple Invites update makes it easier to manage guests and track RSVPs",
-          "url": "https://9to5mac.com/2026/10/14/apple-invites-update-makes-it-easier-to-manage-guests-and-track-rsvps/",
-          "time": "2026-10-14T21:15:32.000Z",
-          "summary": "The Apple Invites app got updated yet again today, with new features including RSVP improvements and a larger Home Screen widget. Here are the details. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-15T03:52:51.459Z",
+      "fetchedAt": "2026-10-15T09:00:19.698Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-15T03:52:51.459Z",
+      "fetchedAt": "2026-10-15T09:00:19.698Z",
       "error": null,
       "items": [
         {
-          "title": "Stropdas van 52 meter aan Boerentoren kondigt nieuw stadsfestival AAAntwerp aan",
-          "url": "https://vrtnws.be/p.ewPN3bvYY",
-          "time": "2026-10-15T03:48:06.000Z",
-          "summary": "Handelaarsvereniging Beleef Antwerpen wil meer beleving brengen in de winkels en de horeca met een nieuw stadsfestival AAAntwerp. De 3 A's staan voor Ambiance, Ambacht…"
+          "title": "Dak van privéschool in Pakistan stort in: minstens 28 doden",
+          "url": "https://vrtnws.be/p.43Nk57RMY",
+          "time": "2026-10-15T08:53:41.000Z",
+          "summary": "Bij de instorting van een schoolgebouw in de Pakistaanse stad Pesjawar zijn minstens 28 mensen om het leven gekomen, onder wie 27 leerlingen. Minstens 19 anderen raakten…"
         },
         {
-          "title": "Gascontracten tot 928 euro duurder sinds begin Iranoorlog, stroomcontracten stijgen minder: \"Vergelijken kan tot 1.050 euro schelen\"",
-          "url": "https://vrtnws.be/p.WkXyw5ye1",
-          "time": "2026-10-15T03:30:57.000Z",
-          "summary": "Sinds het uitbreken van de oorlog met Iran eind februari zijn alle gascontracten duurder geworden, tot bijna 85 procent. Maar sommige elektriciteitscontracten zijn in…"
+          "title": "Buren in Tienen vrezen wateroverlast door fikse grondophoging op akker: \"5 meter? Dat is een huis van 2 verdiepingen\"",
+          "url": "https://vrtnws.be/p.ZWy8BJwnM",
+          "time": "2026-10-15T08:18:28.000Z",
+          "summary": "Enkele tientallen buren van buurtcomité Groot Overlaar in Tienen maken zich grote zorgen om een grondophoging op een akker. Het terrein van 4,6 hectare, zo'n 7…"
         },
         {
-          "title": "Moet dat nu weer, met dat schransen en braken? Ja, dat moet",
-          "url": "https://vrtnws.be/p.y3mNJmR0O",
-          "time": "2026-10-15T03:14:10.000Z",
-          "summary": "'Schweinerei' is een gore, decadente braspartij én tegelijkertijd een verbindend, teder schouwspel. In de wereld van Lieselot Siddiki spreekt het ene het andere niet…"
+          "title": "Minister Verlinden erkent dramatische toestand gevangenissen: \"Maar als we niets gedaan hadden, was het nog erger\"",
+          "url": "https://vrtnws.be/p.Ray1Yn1DA",
+          "time": "2026-10-15T07:54:05.000Z",
+          "summary": "Drugs, overbevolking, personeelsproblemen: minister van Justitie Annelies Verlinden (CD&V) kent en erkent de enorme problemen waarmee onze gevangenissen kampen en die…"
         },
         {
-          "title": "Overleeft Made in Europe de 'markt-tsunami' uit China?",
-          "url": "https://vrtnws.be/p.M9XOEp5vq",
-          "time": "2026-10-15T03:10:25.000Z",
-          "summary": "Heeft onze Europese industrie nog een toekomst nu we in Europa steeds meer hoogwaardige - én goedkopere - producten kopen uit China? Welke maatregelen kan Europa nemen…"
+          "title": "Van ambtenaren tot scholieren: Huis van het Nederlands bedient fors meer Brusselaars",
+          "url": "https://vrtnws.be/p.ZWy84kYLR",
+          "time": "2026-10-15T07:35:00.000Z",
+          "summary": "Het Huis van het Nederlands in Brussel krijgt steeds meer bezoekers over de vloer. \"Als deze evolutie zich doorzet, verwachten we dit jaar in totaal 18.000 unieke…"
         },
         {
-          "title": "Regering-Trump tekent beroep aan tegen toegang tot Witte Huis voor CNN, MS NOW en Politico",
-          "url": "https://vrtnws.be/p.qEdAxoGj0",
-          "time": "2026-10-14T19:48:38.000Z",
-          "summary": "De Amerikaanse regering gaat in beroep tegen de beslissing om de zenders CNN en MS NOW en het onlinemedium Politico toegang te geven tot het Witte Huis. De regering…"
+          "title": "Provincie geeft vergunning voor omstreden schietstand in Puurs-Sint-Amands, met strikte voorwaarden",
+          "url": "https://vrtnws.be/p.QAXY01ey5",
+          "time": "2026-10-15T07:24:19.000Z",
+          "summary": "De provincie Antwerpen verleent een omgevingsvergunning voor de verhuizing van de Klein Brabantse Shootingclub naar de Gansbroekstraat in Puurs-Sint-Amands. De…"
         }
       ]
     }
