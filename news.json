@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-14T23:46:43.037Z",
+  "generatedAt": "2026-10-15T03:52:51.459Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-14T23:46:43.037Z",
+      "fetchedAt": "2026-10-15T03:52:51.459Z",
       "error": null,
       "items": [
+        {
+          "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+          "time": "2026-10-15T00:20:32.000Z",
+          "summary": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro , according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are…"
+        },
         {
           "title": "10 HomeView Features You Might Have Missed",
           "url": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/14/apple-homeview-tested/",
           "time": "2026-10-14T20:59:47.000Z",
           "summary": "Apple's new HomeView underwent regulatory testing in October 2024, and it was running what would now be known as HomeView software version 18, according to an FCC…"
-        },
-        {
-          "title": "Apple Invites App Updated With Two New Features",
-          "url": "https://www.macrumors.com/2026/10/14/apple-invites-two-new-features/",
-          "time": "2026-10-14T20:54:25.000Z",
-          "summary": "The free Apple Invites app for the iPhone was updated today with two new features: hosts can now more easily manually add guests to an event and mark their RSVP status,…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-14T23:46:43.037Z",
+      "fetchedAt": "2026-10-15T03:52:51.459Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-14T23:46:43.037Z",
+      "fetchedAt": "2026-10-15T03:52:51.459Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-14T23:46:43.037Z",
+      "fetchedAt": "2026-10-15T03:52:51.459Z",
       "error": null,
       "items": [
+        {
+          "title": "Stropdas van 52 meter aan Boerentoren kondigt nieuw stadsfestival AAAntwerp aan",
+          "url": "https://vrtnws.be/p.ewPN3bvYY",
+          "time": "2026-10-15T03:48:06.000Z",
+          "summary": "Handelaarsvereniging Beleef Antwerpen wil meer beleving brengen in de winkels en de horeca met een nieuw stadsfestival AAAntwerp. De 3 A's staan voor Ambiance, Ambacht…"
+        },
+        {
+          "title": "Gascontracten tot 928 euro duurder sinds begin Iranoorlog, stroomcontracten stijgen minder: \"Vergelijken kan tot 1.050 euro schelen\"",
+          "url": "https://vrtnws.be/p.WkXyw5ye1",
+          "time": "2026-10-15T03:30:57.000Z",
+          "summary": "Sinds het uitbreken van de oorlog met Iran eind februari zijn alle gascontracten duurder geworden, tot bijna 85 procent. Maar sommige elektriciteitscontracten zijn in…"
+        },
+        {
+          "title": "Moet dat nu weer, met dat schransen en braken? Ja, dat moet",
+          "url": "https://vrtnws.be/p.y3mNJmR0O",
+          "time": "2026-10-15T03:14:10.000Z",
+          "summary": "'Schweinerei' is een gore, decadente braspartij én tegelijkertijd een verbindend, teder schouwspel. In de wereld van Lieselot Siddiki spreekt het ene het andere niet…"
+        },
+        {
+          "title": "Overleeft Made in Europe de 'markt-tsunami' uit China?",
+          "url": "https://vrtnws.be/p.M9XOEp5vq",
+          "time": "2026-10-15T03:10:25.000Z",
+          "summary": "Heeft onze Europese industrie nog een toekomst nu we in Europa steeds meer hoogwaardige - én goedkopere - producten kopen uit China? Welke maatregelen kan Europa nemen…"
+        },
         {
           "title": "Regering-Trump tekent beroep aan tegen toegang tot Witte Huis voor CNN, MS NOW en Politico",
           "url": "https://vrtnws.be/p.qEdAxoGj0",
           "time": "2026-10-14T19:48:38.000Z",
           "summary": "De Amerikaanse regering gaat in beroep tegen de beslissing om de zenders CNN en MS NOW en het onlinemedium Politico toegang te geven tot het Witte Huis. De regering…"
-        },
-        {
-          "title": "Royal A-ware wil een kaasfabriek bouwen op site van voormalig Olympia in Pajottegem",
-          "url": "https://vrtnws.be/p.APXEPy9QE",
-          "time": "2026-10-14T18:40:56.000Z",
-          "summary": "Zuivelproducent Royal A-ware onderzoekt of het op zijn bedrijfslocatie in Pajottegem een kaasmakerij kan bouwen. Een eerste haalbaarheidsstudie viel positief uit. Het…"
-        },
-        {
-          "title": "Jongeren opgepakt voor afsteken vuurwerk in Malle: \"Vuurwerk is geen speelgoed\"",
-          "url": "https://vrtnws.be/p.0YJ8Yxo0e",
-          "time": "2026-10-14T18:31:06.000Z",
-          "summary": "De Lokale Politie Voorkempen heeft verschillende minderjarigen opgepakt voor het afsteken van vuurwerk in Malle. Dat gebeurt na de schooluren in de buurt van Domein de…"
-        },
-        {
-          "title": "Politie en parket openen onderzoek naar vechtpartij aan schoolpoort in Maaseik",
-          "url": "https://vrtnws.be/p.lOl6OQ0yX",
-          "time": "2026-10-14T18:28:40.000Z",
-          "summary": "Politiezone Maasland en het parket van Limburg zijn een onderzoek gestart naar een vechtpartij aan de schoolpoort van Mosa-RT in Maaseik. Op beelden is te zien hoe 4…"
-        },
-        {
-          "title": "Druivenstreek produceert na invoering betalen per gewicht meteen 30 kg minder restafval per huisgezin",
-          "url": "https://vrtnws.be/p.lOl6On6yv",
-          "time": "2026-10-14T18:10:20.000Z",
-          "summary": "Interrand verwacht dat de inwoners in zijn werkingsgebied, Hoeilaart, Tervuren en Overijse, in 2026 minder dan 100 kilogram restafval per persoon weggooien. In 2025 was…"
         }
       ]
     }
