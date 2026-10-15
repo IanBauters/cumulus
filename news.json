@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-10-15T18:31:12.081Z",
+  "generatedAt": "2026-10-15T22:00:23.028Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-15T18:31:12.081Z",
+      "fetchedAt": "2026-10-15T22:00:23.028Z",
       "error": null,
       "items": [
         {
+          "title": "Apple Pledged $25 Million to Trump's White House Ballroom",
+          "url": "https://www.macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/",
+          "time": "2026-10-15T20:48:39.000Z",
+          "summary": "Apple pledged $25 million for Trump's White House ballroom, according to a list of donors obtained by The Washington Post . Chipmaker Nvidia also committed $25 million,…"
+        },
+        {
+          "title": "Touchscreen MacBook Pro Could Launch on November 6",
+          "url": "https://www.macrumors.com/2026/10/15/touchscreen-macbook-pro-november-6/",
+          "time": "2026-10-15T20:23:34.000Z",
+          "summary": "Apple is planning to introduce new OLED touchscreen MacBook Pro models on October 27 or October 28, and the machines could launch on Friday, November 6, Bloomberg 's…"
+        },
+        {
+          "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+          "url": "https://www.macrumors.com/2026/10/15/withings-plus-apple-health-syncing/",
+          "time": "2026-10-15T20:18:32.000Z",
+          "summary": "Withings, the maker of smart scales for measuring body weight, has announced that customers who create an account on October 13, 2026 or later must have a Withings+…"
+        },
+        {
           "title": "Apple CEO John Ternus on Early Foldables: 'Kind of Cheap and Crappy'",
           "url": "https://www.macrumors.com/2026/10/15/john-ternus-cheap-and-crappy-foldables/",
-          "time": "2026-10-15T18:06:36.000Z",
+          "time": "2026-10-15T19:55:51.000Z",
           "summary": "In a recent interview with TIME , Apple CEO John Ternus described some early foldable smartphones as feeling \"kind of cheap and crappy.\" Samsung released its first…"
         },
         {
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
           "time": "2026-10-15T17:47:29.000Z",
           "summary": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\" &zwnj;Meta&zwnj; worked with Apple to bring Muse…"
-        },
-        {
-          "title": "Apple TV 4K 2022 vs. 2026 Buyer's Guide: All Differences Compared",
-          "url": "https://www.macrumors.com/guide/apple-tv-4k-2022-vs-2026/",
-          "time": "2026-10-15T16:07:52.000Z",
-          "summary": "Apple announced the fourth-generation Apple TV 4K earlier this week, introducing the A19 chip, built-in microphones for hands-free Siri , four-speaker HomePod surround…"
-        },
-        {
-          "title": "Greg Joswiak Says Apple Isn't Focused on Making AI for 'Lunatic Fringe'",
-          "url": "https://www.macrumors.com/2026/10/15/greg-joswiak-lunatic-fringe/",
-          "time": "2026-10-15T15:13:56.000Z",
-          "summary": "In an interview with TIME 's Andrew R. Chow , Apple's marketing chief Greg Joswiak said Apple Intelligence is meant for \"everyday people\" as opposed to the \"lunatic…"
-        },
-        {
-          "title": "Apple CEO John Ternus Featured on Cover of TIME Magazine: 'New Era'",
-          "url": "https://www.macrumors.com/2026/10/15/john-ternus-on-time-magazine-cover/",
-          "time": "2026-10-15T13:37:57.000Z",
-          "summary": "Apple CEO John Ternus has been featured on the cover of TIME Magazine's \"Best Inventions of 2026\" edition , available October 26. Ternus, who joined Apple in 2001 and…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-15T18:31:12.081Z",
+      "fetchedAt": "2026-10-15T22:00:23.028Z",
       "error": null,
       "items": [
         {
-          "title": "Apple is about to kick off four weeks straight of new product launches",
-          "url": "https://9to5mac.com/2026/10/15/apple-is-about-to-kick-off-four-weeks-straight-of-new-product-launches/",
-          "time": "2026-10-15T17:58:48.000Z",
-          "summary": "Apple’s busiest product launch month is usually September. But despite a packed event last month, many more products remain ahead this fall. Next week’s iPhone Duo…"
+          "title": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
+          "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
+          "time": "2026-10-15T21:22:49.000Z",
+          "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the…"
         },
         {
-          "title": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio",
-          "url": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
-          "time": "2026-10-15T17:00:00.000Z",
-          "summary": "Meta today unveiled Muse Spark Open, which it says is the “most capable US open-weight model to date.” For Apple users, Meta says Muse Spark Open is optimized to run on…"
+          "title": "Apple Sports update improves Live Activity support, adds soccer leagues from around the world",
+          "url": "https://9to5mac.com/2026/10/15/apple-sports-update-improves-live-activity-support-adds-soccer-leagues-from-around-the-world/",
+          "time": "2026-10-15T20:48:00.000Z",
+          "summary": "Apple updated its Apple Sports app today with improvements to Live Activities and support for five additional soccer leagues. Here are the details. more…"
         },
         {
-          "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November",
-          "url": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
-          "time": "2026-10-15T15:39:21.000Z",
-          "summary": "Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already…"
+          "title": "IDC: Apple closes in on Samsung as global smartphone shipments see record decline in Q3",
+          "url": "https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3/",
+          "time": "2026-10-15T20:35:49.000Z",
+          "summary": "In a report published today, IDC says Apple saw a 4% year-over-year decline in global iPhone shipments during Q3 2026, but its share of worldwide smartphone shipments…"
         },
         {
-          "title": "Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans",
-          "url": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/",
-          "time": "2026-10-15T15:05:02.000Z",
-          "summary": "Today in a new story at TIME , the publication interviewed CEO John Ternus but also spoke to Greg “Joz” Joswiak, Apple’s SVP of Worldwide Marketing, who addressed the…"
+          "title": "Here’s Apple’s official response to OpenAI’s trade secret theft allegations",
+          "url": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
+          "time": "2026-10-15T19:57:37.000Z",
+          "summary": "Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more…"
         },
         {
-          "title": "Hands-on: Pokémon x Beats Pill is one of my favorite collabs yet [Video]",
-          "url": "https://9to5mac.com/2026/10/15/hands-on-pokemon-x-beats-pill-is-one-of-my-favorite-collabs-yet-video/",
-          "time": "2026-10-15T14:32:11.000Z",
-          "summary": "As someone who loves all things Apple and Pokémon, I never thought these worlds would collide, but here we are! Beats and the Pokémon Company have officially teamed up…"
+          "title": "Apple HomeView unveiled, new Apple TV and HomePod mini first impressions",
+          "url": "https://9to5mac.com/2026/10/15/happy-hour-612/",
+          "time": "2026-10-15T19:23:08.000Z",
+          "summary": "Benjamin and Chance react to Apple’s smart home event, with first impressions on the new Apple HomeView smart display, the insanely priced Apple TV 4K…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-15T18:31:12.081Z",
+      "fetchedAt": "2026-10-15T22:00:23.028Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-15T18:31:12.081Z",
+      "fetchedAt": "2026-10-15T22:00:23.028Z",
       "error": null,
       "items": [
         {
-          "title": "België gaf vorig jaar 20 procent minder klimaatsteun aan kwetsbare landen",
-          "url": "https://vrtnws.be/p.Yby45ekZw",
-          "time": "2026-10-15T17:46:37.000Z",
-          "summary": "Het klimaatgeld dat België uitgeeft om kwetsbare landen zich te helpen aanpassen aan de klimaatverandering, is in 2025 met een vijfde afgenomen in vergelijking met 2024.…"
+          "title": "Fietser (69) sterft bij ongeval met bestelwagen in Beernem",
+          "url": "https://vrtnws.be/p.5wjODY96x",
+          "time": "2026-10-15T20:16:59.000Z",
+          "summary": "In Beernem is een man van 69 om het leven gekomen bij een ongeval met een bestelwagen. Hij wou per fiets de weg oversteken, maar werd daarbij door het voertuig gegrepen.…"
         },
         {
-          "title": "Parket buigt zich over brievenbusdiefstal bij gemeente Opwijk: \"Mogelijk gevoelige informatie gestolen\"",
-          "url": "https://vrtnws.be/p.dLyxwkppN",
-          "time": "2026-10-15T17:45:42.000Z",
-          "summary": "Onbekenden hebben de brievenbus aan het Gemeentelijk Administratief Centrum in de Marktstraat in Opwijk gestolen. Mogelijk zat er persoonsgebonden en gevoelige…"
+          "title": "Minibus botst tegen trein bij Kanaaltunnel in Calais: 2 mensen zwaargewond, treinverkeer dan toch niet onderbroken",
+          "url": "https://vrtnws.be/p.M9Xw4NDDE",
+          "time": "2026-10-15T19:28:47.000Z",
+          "summary": "In Calais zijn meerdere gewonden gevallen bij een ongeval waarbij een minibus tegen een trein botste bij de ingang van de Kanaaltunnel. Dat bevestigt de prefect van…"
         },
         {
-          "title": "Twee jaar extra cel voor Maasmechelaar (30) die oom aanvalt met machete",
-          "url": "https://vrtnws.be/p.BlX6BbRV3",
-          "time": "2026-10-15T17:44:44.000Z",
-          "summary": "Een 30-jarige man uit Maasmechelen moet 2 jaar langer in de gevangenis blijven omdat hij zijn oom met een kapmes aanviel. Dat heeft de Tongerse rechter beslist. De man…"
+          "title": "Pastoor ontdekt net op tijd brand in kerk van Meulebeke tijdens dakwerken: \"Anders was kerk mogelijk verloren\"",
+          "url": "https://vrtnws.be/p.bDyvl4Oel",
+          "time": "2026-10-15T19:17:23.000Z",
+          "summary": "In de kerk van Meulebeke, deelgemeente van Tielt, is brand uitgebroken. De brand ontstond tijdens werken aan het dak van de sacristie. De brandweer kreeg de brand snel…"
         },
         {
-          "title": "Harry en Meghan maken eerste publieke verschijning samen sinds terugkeer naar Verenigd Koninkrijk",
-          "url": "https://vrtnws.be/p.qEdAXxaEK",
-          "time": "2026-10-15T17:34:22.000Z",
-          "summary": "Voor het eerst sinds hun terugkeer naar het Verenigd Koninkrijk hebben prins Harry en zijn echtgenote Meghan een publieke verschijning samen gemaakt. Ze brachten een…"
+          "title": "Na nieuwe ontslagen bij Antwerpse chemie: \"Sector moet zichzelf heruitvinden\"",
+          "url": "https://vrtnws.be/p.43Nkm7ve5",
+          "time": "2026-10-15T19:14:17.000Z",
+          "summary": "Chemiebedrijven die vandaag wegtrekken uit België, komen niet meer terug. Daarvoor waarschuwt professor Wouter Van Bockhaven (Antwerp Management School) na het nieuws…"
         },
         {
-          "title": "Jins Scouts Tessenderlo-Centrum maaien gras en wassen auto's voor buitenlands kamp",
-          "url": "https://vrtnws.be/p.43NkLBMok",
-          "time": "2026-10-15T17:25:20.000Z",
-          "summary": "Om hun buitenlands kamp te financieren, steken de jins van Scouts Tessenderlo-Centrum de handen uit de mouwen. Voor buurtbewoners maaien ze het gras en wassen ze auto's.…"
+          "title": "First lady van Congo verbaasd over huiszoeking in gezinswoning in België",
+          "url": "https://vrtnws.be/p.11vQZ9L39",
+          "time": "2026-10-15T19:13:48.000Z",
+          "summary": "Denise Nyakeru Nkana, de echtgenote van president Félix Tshisekedi van Congo, reageert verbaasd op de huiszoeking die het gerecht heeft uitgevoerd in hun gezinswoning in…"
         }
       ]
     }
