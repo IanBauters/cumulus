@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-15T09:00:19.698Z",
+  "generatedAt": "2026-10-15T14:19:16.291Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-15T09:00:19.698Z",
+      "fetchedAt": "2026-10-15T14:19:16.291Z",
       "error": null,
       "items": [
         {
-          "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
-          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
-          "time": "2026-10-15T00:20:32.000Z",
-          "summary": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro , according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are…"
+          "title": "Apple CEO John Ternus Featured on Cover of TIME Magazine: 'New Era'",
+          "url": "https://www.macrumors.com/2026/10/15/john-ternus-on-time-magazine-cover/",
+          "time": "2026-10-15T13:37:57.000Z",
+          "summary": "Apple CEO John Ternus has been featured on the cover of TIME Magazine's \"Best Inventions of 2026\" edition , available October 26. Ternus, who joined Apple in 2001 and…"
         },
         {
-          "title": "10 HomeView Features You Might Have Missed",
-          "url": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
-          "time": "2026-10-14T23:02:42.000Z",
-          "summary": "Apple plans to launch the HomeView on November 13, so we have a month to go until we can learn more about it. Right now, we're limited to the information Apple has…"
+          "title": "Apple Announces Deadline to 'Get Ready' to Pre-Order the iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/15/apple-deadline-to-get-ready-iphone-duo-preorder/",
+          "time": "2026-10-15T13:32:49.000Z",
+          "summary": "Apple today announced that customers have until 9 p.m. Pacific Time today to \"get ready\" for their iPhone Duo pre-order . By completing this process via Apple's online…"
         },
         {
-          "title": "Apple Becomes Second Company to Close Above $5 Trillion",
-          "url": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
-          "time": "2026-10-14T22:37:41.000Z",
-          "summary": "Apple today closed with a market capitalization above $5 trillion, making it the second company to do so after Nvidia. As noted by The Wall Street Journal , Apple's…"
+          "title": "MKBHD is 'Not Convinced' About Apple's New HomeView, Here's Why",
+          "url": "https://www.macrumors.com/2026/10/15/mkbhd-not-convinced-about-apple-homeview/",
+          "time": "2026-10-15T13:03:46.000Z",
+          "summary": "Apple this week introduced an all-new HomeView smart home hub , but popular tech reviewer Marques Brownlee is \"not convinced\" about it. In his HomeView impressions video…"
         },
         {
-          "title": "Which Apple Home Devices Get Siri AI, and When",
-          "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
-          "time": "2026-10-14T21:23:57.000Z",
-          "summary": "There's been some confusion about which of Apple's new and existing home devices will support Siri AI and when, because &zwnj;Siri&zwnj; AI isn't going to be available…"
+          "title": "Apple's Wall-Mounted HomeView Ships Without a Power Adapter",
+          "url": "https://www.macrumors.com/2026/10/15/wall-mounted-homeview-ships-without-power-adapter/",
+          "time": "2026-10-15T12:18:41.000Z",
+          "summary": "Apple's wall-mounted HomeView will ship without a power adapter, USB-C cable, or mount, requiring customers to purchase compatible accessories separately. In a support…"
         },
         {
-          "title": "Apple's Long-Delayed HomeView Was Already Being Tested in 2024",
-          "url": "https://www.macrumors.com/2026/10/14/apple-homeview-tested/",
-          "time": "2026-10-14T20:59:47.000Z",
-          "summary": "Apple's new HomeView underwent regulatory testing in October 2024, and it was running what would now be known as HomeView software version 18, according to an FCC…"
+          "title": "Rare Apple-1 With Steve Jobs Letter Sells for $1.15 Million",
+          "url": "https://www.macrumors.com/2026/10/15/rare-apple-1-with-steve-jobs-letter-sells/",
+          "time": "2026-10-15T12:01:56.000Z",
+          "summary": "The \"Hatfield\" Apple-1 has sold for $1,148,200 including the buyer's premium, setting a world auction record for a commercially sold Apple-1, according to Bonhams . Two…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-15T09:00:19.698Z",
+      "fetchedAt": "2026-10-15T14:19:16.291Z",
       "error": null,
       "items": [
         {
-          "title": "Opera Air gets a minimalist makeover with a focus on distraction-free browsing",
-          "url": "https://9to5mac.com/2026/10/15/opera-air-gets-a-minimalist-makeover-with-a-focus-on-distraction-free-browsing/",
-          "time": "2026-10-15T08:00:00.000Z",
-          "summary": "Opera is relaunching its Opera Air browser today with a redesign that is both conceptual and practical for a more focused browsing experience. Here’s what that means.…"
+          "title": "John Ternus talks iPhone Duo, ‘cheap and crappy’ foldables in new interview",
+          "url": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/",
+          "time": "2026-10-15T14:11:18.000Z",
+          "summary": "TIME has just published its list of the best inventions of 2026, and iPhone Duo made the list with John Ternus featured on the magazine cover. Here’s what Ternus said in…"
         },
         {
-          "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
-          "url": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
-          "time": "2026-10-14T23:12:59.000Z",
-          "summary": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays…"
+          "title": "Apple sets cutoff time for getting fastest iPhone Duo pre-order",
+          "url": "https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/",
+          "time": "2026-10-15T13:36:55.000Z",
+          "summary": "iPhone Duo pre-orders start tomorrow, and if you want the fastest checkout possible, Apple just set the deadline for completing its ‘Get Ready’ process. more…"
         },
         {
-          "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
-          "url": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
-          "time": "2026-10-14T23:03:45.000Z",
-          "summary": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what…"
+          "title": "Half of United flights have Starlink Wi-Fi – here’s how to check yours",
+          "url": "https://9to5mac.com/2026/10/15/half-of-united-flights-have-starlink-wi-fi-heres-how-to-check-yours/",
+          "time": "2026-10-15T12:52:16.000Z",
+          "summary": "United Airlines first introduced Starlink Wi-Fi on its flights starting early in 2025, the airline says nearly half of its flights currently offer the high-speed…"
         },
         {
-          "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
-          "url": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
-          "time": "2026-10-14T22:39:29.000Z",
-          "summary": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…"
+          "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
+          "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+          "time": "2026-10-15T12:00:14.000Z",
+          "summary": "Today marks a milestone for MacPaw, as the company is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things…"
         },
         {
-          "title": "Apple just closed the day above $5 trillion for the first time",
-          "url": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
-          "time": "2026-10-14T21:47:28.000Z",
-          "summary": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the…"
+          "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
+          "url": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
+          "time": "2026-10-15T11:41:56.000Z",
+          "summary": "We’ve long been awaiting the launch of the first touchscreen and OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-15T09:00:19.698Z",
+      "fetchedAt": "2026-10-15T14:19:16.291Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-15T09:00:19.698Z",
+      "fetchedAt": "2026-10-15T14:19:16.291Z",
       "error": null,
       "items": [
         {
-          "title": "Dak van privéschool in Pakistan stort in: minstens 28 doden",
-          "url": "https://vrtnws.be/p.43Nk57RMY",
-          "time": "2026-10-15T08:53:41.000Z",
-          "summary": "Bij de instorting van een schoolgebouw in de Pakistaanse stad Pesjawar zijn minstens 28 mensen om het leven gekomen, onder wie 27 leerlingen. Minstens 19 anderen raakten…"
+          "title": "Al 12 jaar klaar, nu pas geopend: nieuwe brug tussen China en Noord-Korea",
+          "url": "https://vrtnws.be/p.nwYyb64Kp",
+          "time": "2026-10-15T14:13:02.000Z",
+          "summary": "China en Noord-Korea hebben een nieuwe brug over de grensrivier Yalu officieel geopend. De 3 kilometer lange verbinding moet de handel stimuleren en symboliseert de…"
         },
         {
-          "title": "Buren in Tienen vrezen wateroverlast door fikse grondophoging op akker: \"5 meter? Dat is een huis van 2 verdiepingen\"",
-          "url": "https://vrtnws.be/p.ZWy8BJwnM",
-          "time": "2026-10-15T08:18:28.000Z",
-          "summary": "Enkele tientallen buren van buurtcomité Groot Overlaar in Tienen maken zich grote zorgen om een grondophoging op een akker. Het terrein van 4,6 hectare, zo'n 7…"
+          "title": "Ondernemers, kunstenaars en zelfs kerk palmen (tijdelijk) oude Financiëncentrum in Brugge in: \"Opnieuw een bruisende plek\"",
+          "url": "https://vrtnws.be/p.jGyBJnnAV",
+          "time": "2026-10-15T14:12:55.000Z",
+          "summary": "Tientallen ondernemingen, kunstenaars en organisaties hebben in afwachting van een definitieve herbestemming hun intrek genomen in het oude Financiëncentrum in Brugge.…"
         },
         {
-          "title": "Minister Verlinden erkent dramatische toestand gevangenissen: \"Maar als we niets gedaan hadden, was het nog erger\"",
-          "url": "https://vrtnws.be/p.Ray1Yn1DA",
-          "time": "2026-10-15T07:54:05.000Z",
-          "summary": "Drugs, overbevolking, personeelsproblemen: minister van Justitie Annelies Verlinden (CD&V) kent en erkent de enorme problemen waarmee onze gevangenissen kampen en die…"
+          "title": "Kermiscross van Ardooie houdt stand als 'losse' cross: \"Wel alsmaar moeilijker om toppers aan start te krijgen\"",
+          "url": "https://vrtnws.be/p.93XqYWQBx",
+          "time": "2026-10-15T14:07:27.000Z",
+          "summary": "De organisatie achter de Kermiscross in Ardooie merkt dat het elk jaar moeilijker wordt om toppers aan de start te krijgen. De veldrit is nog een van de weinige…"
         },
         {
-          "title": "Van ambtenaren tot scholieren: Huis van het Nederlands bedient fors meer Brusselaars",
-          "url": "https://vrtnws.be/p.ZWy84kYLR",
-          "time": "2026-10-15T07:35:00.000Z",
-          "summary": "Het Huis van het Nederlands in Brussel krijgt steeds meer bezoekers over de vloer. \"Als deze evolutie zich doorzet, verwachten we dit jaar in totaal 18.000 unieke…"
+          "title": "Het is beslist: we nemen afscheid van de schrikkelseconde",
+          "url": "https://vrtnws.be/p.dLyxWyEmY",
+          "time": "2026-10-15T13:59:52.000Z",
+          "summary": "De schrikkelseconde wordt afgeschaft. Dat is beslist op een wetenschappelijke conferentie in Versailles, bij Parijs. De seconde was ingevoerd om atoomklokken af te…"
         },
         {
-          "title": "Provincie geeft vergunning voor omstreden schietstand in Puurs-Sint-Amands, met strikte voorwaarden",
-          "url": "https://vrtnws.be/p.QAXY01ey5",
-          "time": "2026-10-15T07:24:19.000Z",
-          "summary": "De provincie Antwerpen verleent een omgevingsvergunning voor de verhuizing van de Klein Brabantse Shootingclub naar de Gansbroekstraat in Puurs-Sint-Amands. De…"
+          "title": "In Wijgmaal en Wilsele-Dorp zijn 32 huizen erkend als waardevol bouwkundig erfgoed",
+          "url": "https://vrtnws.be/p.QAXYB0wQo",
+          "time": "2026-10-15T13:58:54.000Z",
+          "summary": "De stad Leuven heeft een inventaris opgemaakt van waardevolle huizen in de deelgemeenten Wijgmaal en Wilsele-Dorp. 32 gebouwen zijn erkend als bouwkundig erfgoed. Dat…"
         }
       ]
     }
