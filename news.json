@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-15T14:19:16.291Z",
+  "generatedAt": "2026-10-15T18:31:12.081Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-15T14:19:16.291Z",
+      "fetchedAt": "2026-10-15T18:31:12.081Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple CEO John Ternus on Early Foldables: 'Kind of Cheap and Crappy'",
+          "url": "https://www.macrumors.com/2026/10/15/john-ternus-cheap-and-crappy-foldables/",
+          "time": "2026-10-15T18:06:36.000Z",
+          "summary": "In a recent interview with TIME , Apple CEO John Ternus described some early foldable smartphones as feeling \"kind of cheap and crappy.\" Samsung released its first…"
+        },
+        {
+          "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
+          "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+          "time": "2026-10-15T17:47:29.000Z",
+          "summary": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\" &zwnj;Meta&zwnj; worked with Apple to bring Muse…"
+        },
+        {
+          "title": "Apple TV 4K 2022 vs. 2026 Buyer's Guide: All Differences Compared",
+          "url": "https://www.macrumors.com/guide/apple-tv-4k-2022-vs-2026/",
+          "time": "2026-10-15T16:07:52.000Z",
+          "summary": "Apple announced the fourth-generation Apple TV 4K earlier this week, introducing the A19 chip, built-in microphones for hands-free Siri , four-speaker HomePod surround…"
+        },
+        {
+          "title": "Greg Joswiak Says Apple Isn't Focused on Making AI for 'Lunatic Fringe'",
+          "url": "https://www.macrumors.com/2026/10/15/greg-joswiak-lunatic-fringe/",
+          "time": "2026-10-15T15:13:56.000Z",
+          "summary": "In an interview with TIME 's Andrew R. Chow , Apple's marketing chief Greg Joswiak said Apple Intelligence is meant for \"everyday people\" as opposed to the \"lunatic…"
+        },
         {
           "title": "Apple CEO John Ternus Featured on Cover of TIME Magazine: 'New Era'",
           "url": "https://www.macrumors.com/2026/10/15/john-ternus-on-time-magazine-cover/",
           "time": "2026-10-15T13:37:57.000Z",
           "summary": "Apple CEO John Ternus has been featured on the cover of TIME Magazine's \"Best Inventions of 2026\" edition , available October 26. Ternus, who joined Apple in 2001 and…"
-        },
-        {
-          "title": "Apple Announces Deadline to 'Get Ready' to Pre-Order the iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/15/apple-deadline-to-get-ready-iphone-duo-preorder/",
-          "time": "2026-10-15T13:32:49.000Z",
-          "summary": "Apple today announced that customers have until 9 p.m. Pacific Time today to \"get ready\" for their iPhone Duo pre-order . By completing this process via Apple's online…"
-        },
-        {
-          "title": "MKBHD is 'Not Convinced' About Apple's New HomeView, Here's Why",
-          "url": "https://www.macrumors.com/2026/10/15/mkbhd-not-convinced-about-apple-homeview/",
-          "time": "2026-10-15T13:03:46.000Z",
-          "summary": "Apple this week introduced an all-new HomeView smart home hub , but popular tech reviewer Marques Brownlee is \"not convinced\" about it. In his HomeView impressions video…"
-        },
-        {
-          "title": "Apple's Wall-Mounted HomeView Ships Without a Power Adapter",
-          "url": "https://www.macrumors.com/2026/10/15/wall-mounted-homeview-ships-without-power-adapter/",
-          "time": "2026-10-15T12:18:41.000Z",
-          "summary": "Apple's wall-mounted HomeView will ship without a power adapter, USB-C cable, or mount, requiring customers to purchase compatible accessories separately. In a support…"
-        },
-        {
-          "title": "Rare Apple-1 With Steve Jobs Letter Sells for $1.15 Million",
-          "url": "https://www.macrumors.com/2026/10/15/rare-apple-1-with-steve-jobs-letter-sells/",
-          "time": "2026-10-15T12:01:56.000Z",
-          "summary": "The \"Hatfield\" Apple-1 has sold for $1,148,200 including the buyer's premium, setting a world auction record for a commercially sold Apple-1, according to Bonhams . Two…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-15T14:19:16.291Z",
+      "fetchedAt": "2026-10-15T18:31:12.081Z",
       "error": null,
       "items": [
         {
-          "title": "John Ternus talks iPhone Duo, ‘cheap and crappy’ foldables in new interview",
-          "url": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/",
-          "time": "2026-10-15T14:11:18.000Z",
-          "summary": "TIME has just published its list of the best inventions of 2026, and iPhone Duo made the list with John Ternus featured on the magazine cover. Here’s what Ternus said in…"
+          "title": "Apple is about to kick off four weeks straight of new product launches",
+          "url": "https://9to5mac.com/2026/10/15/apple-is-about-to-kick-off-four-weeks-straight-of-new-product-launches/",
+          "time": "2026-10-15T17:58:48.000Z",
+          "summary": "Apple’s busiest product launch month is usually September. But despite a packed event last month, many more products remain ahead this fall. Next week’s iPhone Duo…"
         },
         {
-          "title": "Apple sets cutoff time for getting fastest iPhone Duo pre-order",
-          "url": "https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/",
-          "time": "2026-10-15T13:36:55.000Z",
-          "summary": "iPhone Duo pre-orders start tomorrow, and if you want the fastest checkout possible, Apple just set the deadline for completing its ‘Get Ready’ process. more…"
+          "title": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio",
+          "url": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
+          "time": "2026-10-15T17:00:00.000Z",
+          "summary": "Meta today unveiled Muse Spark Open, which it says is the “most capable US open-weight model to date.” For Apple users, Meta says Muse Spark Open is optimized to run on…"
         },
         {
-          "title": "Half of United flights have Starlink Wi-Fi – here’s how to check yours",
-          "url": "https://9to5mac.com/2026/10/15/half-of-united-flights-have-starlink-wi-fi-heres-how-to-check-yours/",
-          "time": "2026-10-15T12:52:16.000Z",
-          "summary": "United Airlines first introduced Starlink Wi-Fi on its flights starting early in 2025, the airline says nearly half of its flights currently offer the high-speed…"
+          "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November",
+          "url": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
+          "time": "2026-10-15T15:39:21.000Z",
+          "summary": "Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already…"
         },
         {
-          "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
-          "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
-          "time": "2026-10-15T12:00:14.000Z",
-          "summary": "Today marks a milestone for MacPaw, as the company is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things…"
+          "title": "Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans",
+          "url": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/",
+          "time": "2026-10-15T15:05:02.000Z",
+          "summary": "Today in a new story at TIME , the publication interviewed CEO John Ternus but also spoke to Greg “Joz” Joswiak, Apple’s SVP of Worldwide Marketing, who addressed the…"
         },
         {
-          "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
-          "url": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
-          "time": "2026-10-15T11:41:56.000Z",
-          "summary": "We’ve long been awaiting the launch of the first touchscreen and OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on…"
+          "title": "Hands-on: Pokémon x Beats Pill is one of my favorite collabs yet [Video]",
+          "url": "https://9to5mac.com/2026/10/15/hands-on-pokemon-x-beats-pill-is-one-of-my-favorite-collabs-yet-video/",
+          "time": "2026-10-15T14:32:11.000Z",
+          "summary": "As someone who loves all things Apple and Pokémon, I never thought these worlds would collide, but here we are! Beats and the Pokémon Company have officially teamed up…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-15T14:19:16.291Z",
+      "fetchedAt": "2026-10-15T18:31:12.081Z",
       "error": null,
       "items": [
+        {
+          "title": "Meta Releases Muse Spark Open, an Over 800 Billion Parameter Model That Can Run Locally on Multiple M5 Ultra Mac Studios",
+          "url": "https://www.macstories.net/news/meta-releases-muse-spark-open-an-over-800-billion-parameter-model-that-can-run-locally-on-multiple-m5-ultra-mac-studios/",
+          "time": "2026-10-15T17:10:08.000Z",
+          "summary": "Meta just released the weights for Muse Spark Open, a multimodal large language model with a mixture-of-experts architecture. It has over 800 billion parameters in…"
+        },
         {
           "title": "HomeView Points to Siri AI as the Next Developer Platform",
           "url": "https://www.macstories.net/stories/homeview-points-to-siri-ai-as-the-next-developer-platform/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/apple-reveals-homepod-mini-2-with-new-colors-richer-sound-and-siri-ai/",
           "time": "2026-10-13T14:34:54.000Z",
           "summary": "As part of today’s announcements related to Home (including the brand new HomeView, which we’ve covered here), Apple also announced HomePod mini 2, an update to its…"
-        },
-        {
-          "title": "Apple Unveils HomeView: A Smart Home Display Powered by Siri AI",
-          "url": "https://www.macstories.net/news/apple-unveils-homeview-a-smart-home-display-powered-by-siri-ai/",
-          "time": "2026-10-13T13:53:35.000Z",
-          "summary": "Source: Apple. Today, Apple announced the highly anticipated HomeView, a Siri AI-powered device for controlling your HomeKit devices and accessing other apps and…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-15T14:19:16.291Z",
+      "fetchedAt": "2026-10-15T18:31:12.081Z",
       "error": null,
       "items": [
         {
-          "title": "Al 12 jaar klaar, nu pas geopend: nieuwe brug tussen China en Noord-Korea",
-          "url": "https://vrtnws.be/p.nwYyb64Kp",
-          "time": "2026-10-15T14:13:02.000Z",
-          "summary": "China en Noord-Korea hebben een nieuwe brug over de grensrivier Yalu officieel geopend. De 3 kilometer lange verbinding moet de handel stimuleren en symboliseert de…"
+          "title": "België gaf vorig jaar 20 procent minder klimaatsteun aan kwetsbare landen",
+          "url": "https://vrtnws.be/p.Yby45ekZw",
+          "time": "2026-10-15T17:46:37.000Z",
+          "summary": "Het klimaatgeld dat België uitgeeft om kwetsbare landen zich te helpen aanpassen aan de klimaatverandering, is in 2025 met een vijfde afgenomen in vergelijking met 2024.…"
         },
         {
-          "title": "Ondernemers, kunstenaars en zelfs kerk palmen (tijdelijk) oude Financiëncentrum in Brugge in: \"Opnieuw een bruisende plek\"",
-          "url": "https://vrtnws.be/p.jGyBJnnAV",
-          "time": "2026-10-15T14:12:55.000Z",
-          "summary": "Tientallen ondernemingen, kunstenaars en organisaties hebben in afwachting van een definitieve herbestemming hun intrek genomen in het oude Financiëncentrum in Brugge.…"
+          "title": "Parket buigt zich over brievenbusdiefstal bij gemeente Opwijk: \"Mogelijk gevoelige informatie gestolen\"",
+          "url": "https://vrtnws.be/p.dLyxwkppN",
+          "time": "2026-10-15T17:45:42.000Z",
+          "summary": "Onbekenden hebben de brievenbus aan het Gemeentelijk Administratief Centrum in de Marktstraat in Opwijk gestolen. Mogelijk zat er persoonsgebonden en gevoelige…"
         },
         {
-          "title": "Kermiscross van Ardooie houdt stand als 'losse' cross: \"Wel alsmaar moeilijker om toppers aan start te krijgen\"",
-          "url": "https://vrtnws.be/p.93XqYWQBx",
-          "time": "2026-10-15T14:07:27.000Z",
-          "summary": "De organisatie achter de Kermiscross in Ardooie merkt dat het elk jaar moeilijker wordt om toppers aan de start te krijgen. De veldrit is nog een van de weinige…"
+          "title": "Twee jaar extra cel voor Maasmechelaar (30) die oom aanvalt met machete",
+          "url": "https://vrtnws.be/p.BlX6BbRV3",
+          "time": "2026-10-15T17:44:44.000Z",
+          "summary": "Een 30-jarige man uit Maasmechelen moet 2 jaar langer in de gevangenis blijven omdat hij zijn oom met een kapmes aanviel. Dat heeft de Tongerse rechter beslist. De man…"
         },
         {
-          "title": "Het is beslist: we nemen afscheid van de schrikkelseconde",
-          "url": "https://vrtnws.be/p.dLyxWyEmY",
-          "time": "2026-10-15T13:59:52.000Z",
-          "summary": "De schrikkelseconde wordt afgeschaft. Dat is beslist op een wetenschappelijke conferentie in Versailles, bij Parijs. De seconde was ingevoerd om atoomklokken af te…"
+          "title": "Harry en Meghan maken eerste publieke verschijning samen sinds terugkeer naar Verenigd Koninkrijk",
+          "url": "https://vrtnws.be/p.qEdAXxaEK",
+          "time": "2026-10-15T17:34:22.000Z",
+          "summary": "Voor het eerst sinds hun terugkeer naar het Verenigd Koninkrijk hebben prins Harry en zijn echtgenote Meghan een publieke verschijning samen gemaakt. Ze brachten een…"
         },
         {
-          "title": "In Wijgmaal en Wilsele-Dorp zijn 32 huizen erkend als waardevol bouwkundig erfgoed",
-          "url": "https://vrtnws.be/p.QAXYB0wQo",
-          "time": "2026-10-15T13:58:54.000Z",
-          "summary": "De stad Leuven heeft een inventaris opgemaakt van waardevolle huizen in de deelgemeenten Wijgmaal en Wilsele-Dorp. 32 gebouwen zijn erkend als bouwkundig erfgoed. Dat…"
+          "title": "Jins Scouts Tessenderlo-Centrum maaien gras en wassen auto's voor buitenlands kamp",
+          "url": "https://vrtnws.be/p.43NkLBMok",
+          "time": "2026-10-15T17:25:20.000Z",
+          "summary": "Om hun buitenlands kamp te financieren, steken de jins van Scouts Tessenderlo-Centrum de handen uit de mouwen. Voor buurtbewoners maaien ze het gras en wassen ze auto's.…"
         }
       ]
     }
