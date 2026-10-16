@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-16T00:37:06.977Z",
+  "generatedAt": "2026-10-16T05:36:22.680Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-16T00:37:06.977Z",
+      "fetchedAt": "2026-10-16T05:36:22.680Z",
       "error": null,
       "items": [
         {
           "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
           "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
-          "time": "2026-10-16T00:27:14.000Z",
+          "time": "2026-10-16T00:27:05.000Z",
           "summary": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website , hinting that a new &zwnj;iPad mini&zwnj; is coming. The case's A3632 model number…"
         },
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-16T00:37:06.977Z",
+      "fetchedAt": "2026-10-16T05:36:22.680Z",
       "error": null,
       "items": [
+        {
+          "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
+          "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
+          "time": "2026-10-16T01:00:14.000Z",
+          "summary": "The newest Apple Original Films feature, “ Tenzing ,” is now available to Apple TV subscribers. Watch the trailer below. more…"
+        },
+        {
+          "title": "Apple lists unreleased iPad mini accessory ahead of rumored launch",
+          "url": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/",
+          "time": "2026-10-16T00:49:10.000Z",
+          "summary": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the…"
+        },
         {
           "title": "Strava announces coach-designed strength workouts with live set and rep tracking",
           "url": "https://9to5mac.com/2026/10/15/strava-announces-coach-designed-strength-workouts-with-live-set-and-rep-tracking/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/15/apple-sports-update-improves-live-activity-support-adds-soccer-leagues-from-around-the-world/",
           "time": "2026-10-15T20:48:00.000Z",
           "summary": "Apple updated its Apple Sports app today with improvements to Live Activities and support for five additional soccer leagues. Here are the details. more…"
-        },
-        {
-          "title": "IDC: Apple closes in on Samsung as global smartphone shipments see record decline in Q3",
-          "url": "https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3/",
-          "time": "2026-10-15T20:35:49.000Z",
-          "summary": "In a report published today, IDC says Apple saw a 4% year-over-year decline in global iPhone shipments during Q3 2026, but its share of worldwide smartphone shipments…"
-        },
-        {
-          "title": "Here’s Apple’s official response to OpenAI’s trade secret theft allegations",
-          "url": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
-          "time": "2026-10-15T19:57:37.000Z",
-          "summary": "Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-16T00:37:06.977Z",
+      "fetchedAt": "2026-10-16T05:36:22.680Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-16T00:37:06.977Z",
+      "fetchedAt": "2026-10-16T05:36:22.680Z",
       "error": null,
       "items": [
+        {
+          "title": "Voor de derde dag op rij straatprotest in Albanië, premier wil niet opstappen",
+          "url": "https://vrtnws.be/p.bDyvxEaPD",
+          "time": "2026-10-16T04:38:50.000Z",
+          "summary": "Voor de derde dag op rij zijn straatprotesten tegen de regering in Albanië uitgedraaid op geweld. Studenten en andere demonstranten willen hervormingen in het onderwijs…"
+        },
+        {
+          "title": "16-jarige schutter doodt 3 kinderen en leraar op basisschool in Amerikaanse staat Oregon",
+          "url": "https://vrtnws.be/p.3Bx3E0V1D",
+          "time": "2026-10-16T03:53:26.000Z",
+          "summary": "Bij een schietpartij op een basisschool in de Amerikaanse staat Oregon, in het westen van de Verenigde Staten, zijn 3 kinderen en een leraar om het leven gekomen. Dat…"
+        },
+        {
+          "title": "Pakawi in Olmen moet 16 dierenverblijven sluiten na aanhoudende problemen, minister Weyts: \"Veel kansen gegeven\"",
+          "url": "https://vrtnws.be/p.3Bx36jWP5",
+          "time": "2026-10-16T03:26:01.000Z",
+          "summary": "In dierenpark Pakawi in Olmen moeten 16 dierenverblijven sluiten voor bezoekers. Dat heeft Vlaams minister van Dierenwelzijn Ben Weyts (N-VA) beslist. In de verblijven…"
+        },
+        {
+          "title": "Museumnacht of pompoenmarkt? Dit zijn onze 5 weekendtips",
+          "url": "https://vrtnws.be/p.93Xnq7jj3",
+          "time": "2026-10-16T03:14:27.000Z",
+          "summary": "Op verschillende plaatsen in ons land vinden dit weekend uiteenlopende activiteiten plaats. Weet je niet wat gedaan de komende dagen? Met deze tips is het weekend zo…"
+        },
         {
           "title": "Fietser (69) sterft bij ongeval met bestelwagen in Beernem",
           "url": "https://vrtnws.be/p.5wjODY96x",
           "time": "2026-10-15T20:16:59.000Z",
           "summary": "In Beernem is een man van 69 om het leven gekomen bij een ongeval met een bestelwagen. Hij wou per fiets de weg oversteken, maar werd daarbij door het voertuig gegrepen.…"
-        },
-        {
-          "title": "Minibus botst tegen trein bij Kanaaltunnel in Calais: 2 mensen zwaargewond, treinverkeer dan toch niet onderbroken",
-          "url": "https://vrtnws.be/p.M9Xw4NDDE",
-          "time": "2026-10-15T19:28:47.000Z",
-          "summary": "In Calais zijn meerdere gewonden gevallen bij een ongeval waarbij een minibus tegen een trein botste bij de ingang van de Kanaaltunnel. Dat bevestigt de prefect van…"
-        },
-        {
-          "title": "Pastoor ontdekt net op tijd brand in kerk van Meulebeke tijdens dakwerken: \"Anders was kerk mogelijk verloren\"",
-          "url": "https://vrtnws.be/p.bDyvl4Oel",
-          "time": "2026-10-15T19:17:23.000Z",
-          "summary": "In de kerk van Meulebeke, deelgemeente van Tielt, is brand uitgebroken. De brand ontstond tijdens werken aan het dak van de sacristie. De brandweer kreeg de brand snel…"
-        },
-        {
-          "title": "Na nieuwe ontslagen bij Antwerpse chemie: \"Sector moet zichzelf heruitvinden\"",
-          "url": "https://vrtnws.be/p.43Nkm7ve5",
-          "time": "2026-10-15T19:14:17.000Z",
-          "summary": "Chemiebedrijven die vandaag wegtrekken uit België, komen niet meer terug. Daarvoor waarschuwt professor Wouter Van Bockhaven (Antwerp Management School) na het nieuws…"
-        },
-        {
-          "title": "First lady van Congo verbaasd over huiszoeking in gezinswoning in België",
-          "url": "https://vrtnws.be/p.11vQZ9L39",
-          "time": "2026-10-15T19:13:48.000Z",
-          "summary": "Denise Nyakeru Nkana, de echtgenote van president Félix Tshisekedi van Congo, reageert verbaasd op de huiszoeking die het gerecht heeft uitgevoerd in hun gezinswoning in…"
         }
       ]
     }
