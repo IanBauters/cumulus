@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-16T05:36:22.680Z",
+  "generatedAt": "2026-10-16T10:59:57.808Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-16T05:36:22.680Z",
+      "fetchedAt": "2026-10-16T10:59:57.808Z",
       "error": null,
       "items": [
+        {
+          "title": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
+          "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
+          "time": "2026-10-16T09:48:00.000Z",
+          "summary": "Apple's new iPhone lineup presents an unusual choice: Pay more for a folding display, or spend less on a phone with more advanced cameras and fewer hardware compromises.…"
+        },
+        {
+          "title": "Apple Store Down Ahead of iPhone Duo Pre-Orders",
+          "url": "https://www.macrumors.com/2026/10/16/apple-store-down-ahead-of-iphone-duo-pre-orders/",
+          "time": "2026-10-16T09:30:57.000Z",
+          "summary": "Apple's online store is down ahead of iPhone Duo pre-orders, which begin at 5:00 a.m. Pacific Time on Friday, October 16. \"We love that early energy,\" reads the Apple…"
+        },
         {
           "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
           "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/15/touchscreen-macbook-pro-november-6/",
           "time": "2026-10-15T20:23:34.000Z",
           "summary": "Apple is planning to introduce new OLED touchscreen MacBook Pro models on October 27 or October 28, and the machines could launch on Friday, November 6, Bloomberg 's…"
-        },
-        {
-          "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-          "url": "https://www.macrumors.com/2026/10/15/withings-plus-apple-health-syncing/",
-          "time": "2026-10-15T20:18:32.000Z",
-          "summary": "Withings, the maker of smart scales for measuring body weight, has announced that customers who create an account on October 13, 2026 or later must have a Withings+…"
-        },
-        {
-          "title": "Apple CEO John Ternus on Early Foldables: 'Kind of Cheap and Crappy'",
-          "url": "https://www.macrumors.com/2026/10/15/john-ternus-cheap-and-crappy-foldables/",
-          "time": "2026-10-15T19:55:51.000Z",
-          "summary": "In a recent interview with TIME , Apple CEO John Ternus described some early foldable smartphones as feeling \"kind of cheap and crappy.\" Samsung released its first…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-16T05:36:22.680Z",
+      "fetchedAt": "2026-10-16T10:59:57.808Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Store is down ahead of iPhone Duo preorder rush",
+          "url": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/",
+          "time": "2026-10-16T07:02:48.000Z",
+          "summary": "In keeping with tradition, Apple has taken down the Apple Store this morning ahead of the iPhone Duo going up for preorder. If you are waiting to buy the new Apple…"
+        },
         {
           "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
           "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
           "time": "2026-10-15T21:22:49.000Z",
           "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the…"
-        },
-        {
-          "title": "Apple Sports update improves Live Activity support, adds soccer leagues from around the world",
-          "url": "https://9to5mac.com/2026/10/15/apple-sports-update-improves-live-activity-support-adds-soccer-leagues-from-around-the-world/",
-          "time": "2026-10-15T20:48:00.000Z",
-          "summary": "Apple updated its Apple Sports app today with improvements to Live Activities and support for five additional soccer leagues. Here are the details. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-16T05:36:22.680Z",
+      "fetchedAt": "2026-10-16T10:59:57.808Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-16T05:36:22.680Z",
+      "fetchedAt": "2026-10-16T10:59:57.808Z",
       "error": null,
       "items": [
         {
-          "title": "Voor de derde dag op rij straatprotest in Albanië, premier wil niet opstappen",
-          "url": "https://vrtnws.be/p.bDyvxEaPD",
-          "time": "2026-10-16T04:38:50.000Z",
-          "summary": "Voor de derde dag op rij zijn straatprotesten tegen de regering in Albanië uitgedraaid op geweld. Studenten en andere demonstranten willen hervormingen in het onderwijs…"
+          "title": "\"Een inspirerend voorbeeld\": VRT NWS-collega Kristien Bonneure wint Grote Prijs Martine Tanghe bij jury én publiek",
+          "url": "https://vrtnws.be/p.ewPpOJWbK",
+          "time": "2026-10-16T10:48:10.000Z",
+          "summary": "Kristien Bonneure wint de Grote Prijs Martine Tanghe 2026, een bekroning voor creatief en uitmuntend taalgebruik in de gesproken media. Onze collega van VRT NWS wint de…"
         },
         {
-          "title": "16-jarige schutter doodt 3 kinderen en leraar op basisschool in Amerikaanse staat Oregon",
-          "url": "https://vrtnws.be/p.3Bx3E0V1D",
-          "time": "2026-10-16T03:53:26.000Z",
-          "summary": "Bij een schietpartij op een basisschool in de Amerikaanse staat Oregon, in het westen van de Verenigde Staten, zijn 3 kinderen en een leraar om het leven gekomen. Dat…"
+          "title": "Stad Antwerpen wil openbare toiletten properder en beter vindbaar maken, maar voorziet geen geld voor nieuwe",
+          "url": "https://vrtnws.be/p.w78wjwo6Z",
+          "time": "2026-10-16T10:15:30.000Z",
+          "summary": "Het Antwerpse stadsbestuur heeft een visienota goedgekeurd die openbare toiletten beter vindbaar, properder en veiliger moet maken voor inwoners en bezoekers. Het gaat…"
         },
         {
-          "title": "Pakawi in Olmen moet 16 dierenverblijven sluiten na aanhoudende problemen, minister Weyts: \"Veel kansen gegeven\"",
-          "url": "https://vrtnws.be/p.3Bx36jWP5",
-          "time": "2026-10-16T03:26:01.000Z",
-          "summary": "In dierenpark Pakawi in Olmen moeten 16 dierenverblijven sluiten voor bezoekers. Dat heeft Vlaams minister van Dierenwelzijn Ben Weyts (N-VA) beslist. In de verblijven…"
+          "title": "Antwerpenaar (58) aangehouden op verdenking van exhibitionisme aan sportclubs en parken in Wilrijk",
+          "url": "https://vrtnws.be/p.E1X7RL64V",
+          "time": "2026-10-16T10:09:33.000Z",
+          "summary": "Een Antwerpenaar van 58 is aangehouden op verdenking van exhibitionisme en mogelijke zedenfeiten in de buurt van parken en sportclubs op de grens tussen Antwerpen en…"
         },
         {
-          "title": "Museumnacht of pompoenmarkt? Dit zijn onze 5 weekendtips",
-          "url": "https://vrtnws.be/p.93Xnq7jj3",
-          "time": "2026-10-16T03:14:27.000Z",
-          "summary": "Op verschillende plaatsen in ons land vinden dit weekend uiteenlopende activiteiten plaats. Weet je niet wat gedaan de komende dagen? Met deze tips is het weekend zo…"
+          "title": "Drie verdachten opgepakt na vechtpartij aan school Mosa-RT in Maaseik: 2 jongeren uit Kinrooi aangehouden",
+          "url": "https://vrtnws.be/p.43NkJ6ER1",
+          "time": "2026-10-16T10:08:30.000Z",
+          "summary": "De politie heeft 3 jongeren geïdentificeerd na de vechtpartij aan de middelbare school Mosa- RT in Maaseik. Dinsdag na schooltijd werd een leerling van de school…"
         },
         {
-          "title": "Fietser (69) sterft bij ongeval met bestelwagen in Beernem",
-          "url": "https://vrtnws.be/p.5wjODY96x",
-          "time": "2026-10-15T20:16:59.000Z",
-          "summary": "In Beernem is een man van 69 om het leven gekomen bij een ongeval met een bestelwagen. Hij wou per fiets de weg oversteken, maar werd daarbij door het voertuig gegrepen.…"
+          "title": "Op de weg, door de lucht of ondersteboven: Tesla stelt 'vliegende auto' voor met spectaculaire demonstratie",
+          "url": "https://vrtnws.be/p.kQGEEOR6W",
+          "time": "2026-10-16T10:05:27.000Z",
+          "summary": "In de VS heeft Elon Musk zijn nieuwe 'vliegende' Tesla voorgesteld. De auto is uitgerust met stuwraketten van SpaceX om door de lucht te gaan en een zuigsysteem om…"
         }
       ]
     }
