@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-16T15:20:45.302Z",
+  "generatedAt": "2026-10-16T18:56:00.887Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-16T15:20:45.302Z",
+      "fetchedAt": "2026-10-16T18:56:00.887Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
+          "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+          "time": "2026-10-16T17:30:23.000Z",
+          "summary": "Daring Fireball 's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price increases the devices…"
+        },
+        {
+          "title": "Apple Refers to HomeView as 'HomePodDevice' in Legal Document",
+          "url": "https://www.macrumors.com/2026/10/16/apple-homeview-homepoddevice/",
+          "time": "2026-10-16T16:39:26.000Z",
+          "summary": "Apple's HomeView software license agreement refers to the HomeView as a \"HomePodDevice\" in one section. This is surely a placeholder name from a draft version of the…"
+        },
         {
           "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
           "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
           "time": "2026-10-16T13:11:43.000Z",
           "summary": "If you were hoping to surprise someone with an iPhone Duo for Christmas, you might be out of luck, as Apple's online store in the U.S. is already showing an estimated…"
-        },
-        {
-          "title": "Didn't Pre-Order an iPhone Duo Yet? Wait Times Are Significant Now",
-          "url": "https://www.macrumors.com/2026/10/16/iphone-duo-preorder-shipping-wait-times/",
-          "time": "2026-10-16T12:27:22.000Z",
-          "summary": "iPhone Duo pre-orders began today in the U.S. and select other countries. If you have yet to place a pre-order, however, wait times at Apple are longer now. The first…"
-        },
-        {
-          "title": "iPhone Duo Now Available to Pre-Order From Apple",
-          "url": "https://www.macrumors.com/2026/10/16/iphone-duo-now-available-to-pre-order/",
-          "time": "2026-10-16T12:00:37.000Z",
-          "summary": "Apple is now accepting pre-orders for the iPhone Duo through its online storefront and Apple Store app. If you don't see the option to order, refresh both the website…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-16T15:20:45.302Z",
+      "fetchedAt": "2026-10-16T18:56:00.887Z",
       "error": null,
       "items": [
+        {
+          "title": "iOS 27.2 has three new changes just added this week",
+          "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
+          "time": "2026-10-16T17:45:58.000Z",
+          "summary": "iOS 27.2 is launching soon for all users, but Apple keeps introducing new updates with each beta release. Here are three changes added to iOS 27.2 this week. more…"
+        },
+        {
+          "title": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
+          "url": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
+          "time": "2026-10-16T16:00:00.000Z",
+          "summary": "I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field . The executive summary is that the difference is small,…"
+        },
+        {
+          "title": "HomePod is about to get free upgrade with these new features",
+          "url": "https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features/",
+          "time": "2026-10-16T15:49:06.000Z",
+          "summary": "Apple unveiled three new Home products this week: HomeView , HomePod mini 2 , and a new Apple TV 4K . While there’s no new full-size HomePod launching, Apple did…"
+        },
         {
           "title": "iPhone Duo launch is a massive success, but Apple has a problem",
           "url": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/",
           "time": "2026-10-16T15:00:36.000Z",
           "summary": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take…"
-        },
-        {
-          "title": "iPhone 18 Pro one month later: These features keep impressing me",
-          "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-one-month-later-these-features-keep-impressing-me/",
-          "time": "2026-10-16T14:23:42.000Z",
-          "summary": "I’ve had the iPhone 18 Pro for about a month now , and during that time three main features have consistently impressed me. more…"
-        },
-        {
-          "title": "Security Bite: Americans are contradicting themselves around privacy",
-          "url": "https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy/",
-          "time": "2026-10-16T13:52:09.000Z",
-          "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our…"
-        },
-        {
-          "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-          "url": "https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-          "time": "2026-10-16T13:17:34.000Z",
-          "summary": "iPhone Duo is almost here, so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-16T15:20:45.302Z",
+      "fetchedAt": "2026-10-16T18:56:00.887Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-16T15:20:45.302Z",
+      "fetchedAt": "2026-10-16T18:56:00.887Z",
       "error": null,
       "items": [
         {
-          "title": "Oprichter van 'Kakkerlakkenbeweging' in India opgepakt, net voor betoging in New Delhi",
-          "url": "https://vrtnws.be/p.8eXKoXPwd",
-          "time": "2026-10-16T15:15:59.000Z",
-          "summary": "De Indiase autoriteiten hebben in New Delhi de oprichter van de zogenoemde 'Kakkerlakkenbeweging' opgepakt. Dat gebeurde vlak voordat een betoging van de beweging van…"
+          "title": "Europese leiders botsen hard over migratie: \"Slecht debat, goede resultaten\"",
+          "url": "https://vrtnws.be/p.bDyVbGxRA",
+          "time": "2026-10-16T18:25:24.000Z",
+          "summary": "Terwijl de Oekraïense president Volodymyr Zelensky op de EU-top in Brussel met het gros van de aandacht ging lopen, botsten de Europese leiders vandaag ook hard over…"
         },
         {
-          "title": "Aanval met bijtend zuur op 79-jarige man in Attenhoven: partner en 2 verdachten opgepakt",
-          "url": "https://vrtnws.be/p.xZW5VmbBN",
-          "time": "2026-10-16T15:12:47.000Z",
-          "summary": "De onderzoeksrechter in Leuven heeft 2 verdachten aangehouden na een incident waarbij een man (79) zwaar verbrand raakte door bijtend zuur in Attenhoven. Ook de vrouw…"
+          "title": "Katie Zacharia stopt als woordvoerster Witte Huis, nadat Trump haar had aangeraden \"om job te heroverwegen\"",
+          "url": "https://vrtnws.be/p.3BxO0QM8n",
+          "time": "2026-10-16T17:52:30.000Z",
+          "summary": "Katie Zacharia stopt als woordvoerster van het Witte Huis, amper enkele dagen nadat ze aan de slag ging. Dat bevestigt het Witte Huis aan de BBC. President Donald Trump…"
         },
         {
-          "title": "Poperinge roept op om te zoeken naar mannelijke hopplanten: \"Slecht voor kwaliteit van hopteelt\"",
-          "url": "https://vrtnws.be/p.y3mBwm4Va",
-          "time": "2026-10-16T15:12:39.000Z",
-          "summary": "De gemeente Poperinge roept op om op zoek te gaan naar mannelijke hopplanten. Die kunnen een bedreiging vormen voor de lokale hopteelt, als hun stuifmeel zich verspreidt."
+          "title": "Restauratie van Hoge Venen van start gegaan, Waals Gewest investeert 20 miljoen euro",
+          "url": "https://vrtnws.be/p.GvXmQyV8J",
+          "time": "2026-10-16T17:12:18.000Z",
+          "summary": "Het Waals Gewest heeft een budget van 20 miljoen euro aangekondigd voor het herstelplan voor de Hoge Venen. Het natuurgebied werd in augustus getroffen door een grote…"
         },
         {
-          "title": "Gang Kunstacademie Hasselt weer open na kwikincident: dampen enkel bij spiegel",
-          "url": "https://vrtnws.be/p.lOl0WWOZV",
-          "time": "2026-10-16T14:55:42.000Z",
-          "summary": "De afgesloten gang in de Stedelijke Kunstacademie van Hasselt (KNST) wordt vanavond weer vrijgegeven na het incident met kwik begin deze week. Een gespecialiseerde firma…"
+          "title": "Jean-Romy Manzila is de nieuwe Ketnet-wrapper: \"Wil luisterend oor zijn voor ketnetters\"",
+          "url": "https://vrtnws.be/p.43NkkOXVQ",
+          "time": "2026-10-16T16:32:30.000Z",
+          "summary": "Jean-Romy Manzila wordt de nieuwe Ketnet-wrapper. Dat is vanavond bekendgemaakt in 'Hallo Kroket!'. De Brusselse acteur wordt de nieuwe collega van Nona, Thomas, Emma en…"
         },
         {
-          "title": "Isabelle A heeft hoopvol nieuws na kankerdiagnose: \"Tumor is de helft kleiner geworden\"",
-          "url": "https://vrtnws.be/p.oL1oEEjZ6",
-          "time": "2026-10-16T14:50:24.000Z",
-          "summary": "Zangeres Isabelle A heeft tijdens de Radio 2 Dansathon hoopvol nieuws gedeeld over haar strijd tegen borstkanker. De chemotherapie slaat aan, want de tumor is intussen…"
+          "title": "Group Machiels trekt naar Cassatie tegen vonnis om put te vullen met zand op REMO-stort in Houthalen-Helchteren",
+          "url": "https://vrtnws.be/p.11vWmJGEq",
+          "time": "2026-10-16T15:35:08.000Z",
+          "summary": "De Group Machiels trekt naar het Hof van Cassatie tegen het vonnis van het Hof van Beroep over het REMO-stort in Houthalen-Helchteren. In april oordeelde de rechter in…"
         }
       ]
     }
