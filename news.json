@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-15T22:00:23.028Z",
+  "generatedAt": "2026-10-16T00:37:06.977Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-15T22:00:23.028Z",
+      "fetchedAt": "2026-10-16T00:37:06.977Z",
       "error": null,
       "items": [
+        {
+          "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
+          "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+          "time": "2026-10-16T00:27:14.000Z",
+          "summary": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website , hinting that a new &zwnj;iPad mini&zwnj; is coming. The case's A3632 model number…"
+        },
         {
           "title": "Apple Pledged $25 Million to Trump's White House Ballroom",
           "url": "https://www.macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/15/john-ternus-cheap-and-crappy-foldables/",
           "time": "2026-10-15T19:55:51.000Z",
           "summary": "In a recent interview with TIME , Apple CEO John Ternus described some early foldable smartphones as feeling \"kind of cheap and crappy.\" Samsung released its first…"
-        },
-        {
-          "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
-          "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
-          "time": "2026-10-15T17:47:29.000Z",
-          "summary": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\" &zwnj;Meta&zwnj; worked with Apple to bring Muse…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-15T22:00:23.028Z",
+      "fetchedAt": "2026-10-16T00:37:06.977Z",
       "error": null,
       "items": [
+        {
+          "title": "Strava announces coach-designed strength workouts with live set and rep tracking",
+          "url": "https://9to5mac.com/2026/10/15/strava-announces-coach-designed-strength-workouts-with-live-set-and-rep-tracking/",
+          "time": "2026-10-15T22:09:39.000Z",
+          "summary": "Exercise-tracking platform Strava announced today a new expansion of its strength training features, adding coach-designed guided workouts with live set and rep…"
+        },
         {
           "title": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
           "url": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
           "time": "2026-10-15T19:57:37.000Z",
           "summary": "Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more…"
-        },
-        {
-          "title": "Apple HomeView unveiled, new Apple TV and HomePod mini first impressions",
-          "url": "https://9to5mac.com/2026/10/15/happy-hour-612/",
-          "time": "2026-10-15T19:23:08.000Z",
-          "summary": "Benjamin and Chance react to Apple’s smart home event, with first impressions on the new Apple HomeView smart display, the insanely priced Apple TV 4K…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-15T22:00:23.028Z",
+      "fetchedAt": "2026-10-16T00:37:06.977Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-15T22:00:23.028Z",
+      "fetchedAt": "2026-10-16T00:37:06.977Z",
       "error": null,
       "items": [
         {
