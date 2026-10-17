@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T16:35:46.760Z",
+  "generatedAt": "2026-10-17T19:06:11.873Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-17T16:35:46.760Z",
+      "fetchedAt": "2026-10-17T19:06:11.873Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-17T16:35:46.760Z",
+      "fetchedAt": "2026-10-17T19:06:11.873Z",
       "error": null,
       "items": [
+        {
+          "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+          "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+          "time": "2026-10-17T17:52:00.000Z",
+          "summary": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist:…"
+        },
         {
           "title": "EE announces iPhone Handoff pricing details for UK customers",
           "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
           "time": "2026-10-17T00:01:38.000Z",
           "summary": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details.…"
-        },
-        {
-          "title": "Apple poaches longtime Meta executive to lead global litigation",
-          "url": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
-          "time": "2026-10-16T22:53:24.000Z",
-          "summary": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-17T16:35:46.760Z",
+      "fetchedAt": "2026-10-17T19:06:11.873Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,21 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-17T16:35:46.760Z",
+      "fetchedAt": "2026-10-17T19:06:11.873Z",
       "error": null,
       "items": [
+        {
+          "title": "'La gradiva' van Franse regisseur Marine Atlan wint Grand Prix op Film Fest Gent",
+          "url": "https://vrtnws.be/p.8eXKDN804",
+          "time": "2026-10-17T18:36:47.000Z",
+          "summary": "'La gradiva' van de Franse regisseur Marine Atlan heeft de grote prijs voor beste film op het Film Fest Gent gewonnen. De jury was onder de indruk van de manier waarop…"
+        },
+        {
+          "title": "Europese delegatie met Belgische diplomaten aangevallen door Israëlische kolonisten op Westelijke Jordaanoever",
+          "url": "https://vrtnws.be/p.QAX9bW5M4",
+          "time": "2026-10-17T16:50:33.000Z",
+          "summary": "Een diplomatieke delegatie met onder meer de Belgische consul-generaal is op de bezette Westelijke Jordaanoever aangevallen door Israëlische kolonisten. Dat meldt…"
+        },
         {
           "title": "Botsing met vrachtwagen op E40 in Veurne: bestuurder zegt dat elektrische auto \"plots op hol sloeg\"",
           "url": "https://vrtnws.be/p.dLyEwxMlN",
@@ -142,18 +154,6 @@
           "url": "https://vrtnws.be/p.QAX9yGnj5",
           "time": "2026-10-17T16:04:00.000Z",
           "summary": "De stad Poperinge past het subsidiereglement aan voor jeugdbewegingen om bewakingsagenten in te huren. Zo kunnen de jeugdbewegingen voor bewaking zorgen tijdens fuiven.…"
-        },
-        {
-          "title": "Dertien recreanten wagen zich aan 1e 'funcross' op parcours van Berencross in Meulebeke",
-          "url": "https://vrtnws.be/p.Ybye5lZeD",
-          "time": "2026-10-17T15:42:08.000Z",
-          "summary": "In Meulebeke hebben recreatieve crossers voor het eerst het officiële parcours van de Berencross kunnen afleggen, tijdens een funcross. De deelnemers kregen een…"
-        },
-        {
-          "title": "Nieuwe jeugdbeweging voor kinderen met autisme en ADHD gestart in Lommel: \"Hier kunnen ze zichzelf zijn\"",
-          "url": "https://vrtnws.be/p.8eXKXjZMG",
-          "time": "2026-10-17T15:30:10.000Z",
-          "summary": "In Lommel is vandaag een nieuwe jeugdbeweging gestart voor kinderen en jongeren met autismespectrumstoornis en ADHD. De organisatie Samino wil hen dezelfde kansen geven…"
         }
       ]
     }
