@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T00:18:24.048Z",
+  "generatedAt": "2026-10-17T04:52:05.063Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-17T00:18:24.048Z",
+      "fetchedAt": "2026-10-17T04:52:05.063Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-17T00:18:24.048Z",
+      "fetchedAt": "2026-10-17T04:52:05.063Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-17T00:18:24.048Z",
+      "fetchedAt": "2026-10-17T04:52:05.063Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,27 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-17T00:18:24.048Z",
+      "fetchedAt": "2026-10-17T04:52:05.063Z",
       "error": null,
       "items": [
+        {
+          "title": "Steeds meer AI-boeken op de markt, Vlaamse Auteursvereniging roept op tot label",
+          "url": "https://vrtnws.be/p.M9X5aDw6Z",
+          "time": "2026-10-17T03:49:00.000Z",
+          "summary": "\"Alles over Brussel\", \"Alles over Dressuur\" of \"De rol van de keeper\". Wie vandaag online een boek zoekt, heeft steeds meer kans om een door AI geschreven titel tegen te…"
+        },
+        {
+          "title": "Is breuk tussen Trump en Zelensky nog te lijmen? \"Er is hoop, maar het blijft uitstel van executie\"",
+          "url": "https://vrtnws.be/p.OvXll9ObJ",
+          "time": "2026-10-17T03:48:00.000Z",
+          "summary": "De relatie tussen de Amerikaanse president Donald Trump en de Oekraïense president Zelensky heeft een nieuw dieptepunt bereikt. Zelensky voelt zich verraden na een…"
+        },
+        {
+          "title": "\"Als ze van mij geen medicatie krijgen, zoeken ze andere manier\": psychiater over uitzichtloze situatie in gevangenis Mechelen",
+          "url": "https://vrtnws.be/p.E1X7wOdej",
+          "time": "2026-10-17T03:47:00.000Z",
+          "summary": "Gevangenen die smachten naar drugs, 22 uur per dag in overbevolkte cellen zitten, of met een psychose in isolatie belanden. Het zijn voorbeelden die psychiater Steven…"
+        },
         {
           "title": "Europese leiders botsen hard over migratie: \"Slecht debat, goede resultaten\"",
           "url": "https://vrtnws.be/p.bDyVbGxRA",
@@ -136,24 +154,6 @@
           "url": "https://vrtnws.be/p.3BxO0QM8n",
           "time": "2026-10-16T17:52:30.000Z",
           "summary": "Katie Zacharia stopt als woordvoerster van het Witte Huis, amper enkele dagen nadat ze aan de slag ging. Dat bevestigt het Witte Huis aan de BBC. President Donald Trump…"
-        },
-        {
-          "title": "Restauratie van Hoge Venen van start gegaan, Waals Gewest investeert 20 miljoen euro",
-          "url": "https://vrtnws.be/p.GvXmQyV8J",
-          "time": "2026-10-16T17:12:18.000Z",
-          "summary": "Het Waals Gewest heeft een budget van 20 miljoen euro aangekondigd voor het herstelplan voor de Hoge Venen. Het natuurgebied werd in augustus getroffen door een grote…"
-        },
-        {
-          "title": "Jean-Romy Manzila is de nieuwe Ketnet-wrapper: \"Wil luisterend oor zijn voor ketnetters\"",
-          "url": "https://vrtnws.be/p.43NkkOXVQ",
-          "time": "2026-10-16T16:32:30.000Z",
-          "summary": "Jean-Romy Manzila wordt de nieuwe Ketnet-wrapper. Dat is vanavond bekendgemaakt in 'Hallo Kroket!'. De Brusselse acteur wordt de nieuwe collega van Nona, Thomas, Emma en…"
-        },
-        {
-          "title": "Group Machiels trekt naar Cassatie tegen vonnis om put te vullen met zand op REMO-stort in Houthalen-Helchteren",
-          "url": "https://vrtnws.be/p.11vWmJGEq",
-          "time": "2026-10-16T15:35:08.000Z",
-          "summary": "De Group Machiels trekt naar het Hof van Cassatie tegen het vonnis van het Hof van Beroep over het REMO-stort in Houthalen-Helchteren. In april oordeelde de rechter in…"
         }
       ]
     }
