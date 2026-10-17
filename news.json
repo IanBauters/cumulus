@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T04:52:05.063Z",
+  "generatedAt": "2026-10-17T09:04:50.471Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-17T04:52:05.063Z",
+      "fetchedAt": "2026-10-17T09:04:50.471Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-17T04:52:05.063Z",
+      "fetchedAt": "2026-10-17T09:04:50.471Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-17T04:52:05.063Z",
+      "fetchedAt": "2026-10-17T09:04:50.471Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-17T04:52:05.063Z",
+      "fetchedAt": "2026-10-17T09:04:50.471Z",
       "error": null,
       "items": [
         {
-          "title": "Steeds meer AI-boeken op de markt, Vlaamse Auteursvereniging roept op tot label",
-          "url": "https://vrtnws.be/p.M9X5aDw6Z",
-          "time": "2026-10-17T03:49:00.000Z",
-          "summary": "\"Alles over Brussel\", \"Alles over Dressuur\" of \"De rol van de keeper\". Wie vandaag online een boek zoekt, heeft steeds meer kans om een door AI geschreven titel tegen te…"
+          "title": "Mysterieuze klant laat bijzondere tekening achter op servet van restaurant in Poperinge",
+          "url": "https://vrtnws.be/p.lOl0JDbQk",
+          "time": "2026-10-17T08:56:14.000Z",
+          "summary": "In Poperinge is restaurantuitbater Bart op een tekening gebotst toen hij de tafel van een klant afruimde. Op een servet heeft de mysterieuze klant een illustratie…"
         },
         {
-          "title": "Is breuk tussen Trump en Zelensky nog te lijmen? \"Er is hoop, maar het blijft uitstel van executie\"",
-          "url": "https://vrtnws.be/p.OvXll9ObJ",
-          "time": "2026-10-17T03:48:00.000Z",
-          "summary": "De relatie tussen de Amerikaanse president Donald Trump en de Oekraïense president Zelensky heeft een nieuw dieptepunt bereikt. Zelensky voelt zich verraden na een…"
+          "title": "Sean 'Diddy' Combs overgeplaatst naar andere gevangenis na verhalen over decadent en storend gedrag",
+          "url": "https://vrtnws.be/p.0YJ4N9pmL",
+          "time": "2026-10-17T08:49:00.000Z",
+          "summary": "De veroordeelde Amerikaanse rapper Sean 'Diddy' Combs is overgeplaatst naar een andere gevangenis. Hij is verhuisd naar een gevangenis met een laag beveiligingsniveau in…"
         },
         {
-          "title": "\"Als ze van mij geen medicatie krijgen, zoeken ze andere manier\": psychiater over uitzichtloze situatie in gevangenis Mechelen",
-          "url": "https://vrtnws.be/p.E1X7wOdej",
-          "time": "2026-10-17T03:47:00.000Z",
-          "summary": "Gevangenen die smachten naar drugs, 22 uur per dag in overbevolkte cellen zitten, of met een psychose in isolatie belanden. Het zijn voorbeelden die psychiater Steven…"
+          "title": "Singapore beschuldigt 7 Indonesische bedrijven: \"Ze steken bewust grote stukken bos in brand\"",
+          "url": "https://vrtnws.be/p.YbyeOYJLw",
+          "time": "2026-10-17T08:45:55.000Z",
+          "summary": "In Singapore zijn 7 Indonesische bedrijven aangeduid als mogelijke verantwoordelijken voor de branden die al bijna 1 miljoen hectare natuurgebied in as hebben gelegd.…"
         },
         {
-          "title": "Europese leiders botsen hard over migratie: \"Slecht debat, goede resultaten\"",
-          "url": "https://vrtnws.be/p.bDyVbGxRA",
-          "time": "2026-10-16T18:25:24.000Z",
-          "summary": "Terwijl de Oekraïense president Volodymyr Zelensky op de EU-top in Brussel met het gros van de aandacht ging lopen, botsten de Europese leiders vandaag ook hard over…"
+          "title": "Gloednieuw bushokje pronkt in Wuustwezel, maar buslijn is intussen geschrapt",
+          "url": "https://vrtnws.be/p.ewPpLkQGE",
+          "time": "2026-10-17T08:03:33.000Z",
+          "summary": "In Wuustwezel pronkt sinds de heraanleg van de Dorpsstraat een gloednieuw bushokje, maar lijn 68 - die de halte moest bedienen - bestaat intussen niet meer. Die lijn…"
         },
         {
-          "title": "Katie Zacharia stopt als woordvoerster Witte Huis, nadat Trump haar had aangeraden \"om job te heroverwegen\"",
-          "url": "https://vrtnws.be/p.3BxO0QM8n",
-          "time": "2026-10-16T17:52:30.000Z",
-          "summary": "Katie Zacharia stopt als woordvoerster van het Witte Huis, amper enkele dagen nadat ze aan de slag ging. Dat bevestigt het Witte Huis aan de BBC. President Donald Trump…"
+          "title": "Heirstraat in Maasmechelen na een jaar weer open",
+          "url": "https://vrtnws.be/p.8eXKMOZYK",
+          "time": "2026-10-17T07:29:28.000Z",
+          "summary": "In Maasmechelen is de Heirstraat na bijna een jaar werken volledig vernieuwd. De straat kreeg een gescheiden riolering, een nieuw wegdek en veilige fietspaden aan beide…"
         }
       ]
     }
