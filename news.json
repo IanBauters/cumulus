@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-17T19:06:11.873Z",
+  "generatedAt": "2026-10-17T21:38:12.525Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-17T19:06:11.873Z",
+      "fetchedAt": "2026-10-17T21:38:12.525Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+          "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+          "time": "2026-10-17T21:30:45.000Z",
+          "summary": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23. Apple Store employees…"
+        },
+        {
+          "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
+          "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
+          "time": "2026-10-17T20:21:20.000Z",
+          "summary": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg 's Mark Gurman . Tucker will become Apple's vice president of global…"
+        },
         {
           "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
           "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/",
           "time": "2026-10-16T22:53:57.000Z",
           "summary": "Demand for the iPhone Duo has been \"nothing short of extraordinary,\" Apple said in a statement to the Financial Times . The company also said it is \"working hard to get…"
-        },
-        {
-          "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
-          "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
-          "time": "2026-10-16T22:21:45.000Z",
-          "summary": "Apple today expanded its App Store moderation rules to cover AI-generated nonconsensual intimate imagery. Sexually explicit content was already banned, but now Apple…"
-        },
-        {
-          "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
-          "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
-          "time": "2026-10-16T20:55:31.000Z",
-          "summary": "Apple's all-new HomeView smart home hub has been available for pre-order since Tuesday, with the earliest orders set to be delivered on Friday, November 13. If you did…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-17T19:06:11.873Z",
+      "fetchedAt": "2026-10-17T21:38:12.525Z",
       "error": null,
       "items": [
+        {
+          "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+          "url": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
+          "time": "2026-10-17T19:30:00.000Z",
+          "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
+        },
         {
           "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
           "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
           "time": "2026-10-17T13:00:00.000Z",
           "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
-        },
-        {
-          "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
-          "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
-          "time": "2026-10-17T00:01:38.000Z",
-          "summary": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-17T19:06:11.873Z",
+      "fetchedAt": "2026-10-17T21:38:12.525Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,21 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-17T19:06:11.873Z",
+      "fetchedAt": "2026-10-17T21:38:12.525Z",
       "error": null,
       "items": [
+        {
+          "title": "5e dag op rij gewelddadig protest tegen regering in Albanië, politie gebruikt voor het eerst rubberkogels",
+          "url": "https://vrtnws.be/p.jGywqjW5k",
+          "time": "2026-10-17T21:00:02.000Z",
+          "summary": "Voor de 5e dag op rij is het in Albanië tot rellen gekomen bij protesten tegen de regering. De politie zette voor de eerste keer rubberkogels in. Verschillende…"
+        },
+        {
+          "title": "Bewoners in As en Genk opgeschrikt door kleine aardbeving",
+          "url": "https://vrtnws.be/p.ewPpkJv9Y",
+          "time": "2026-10-17T20:43:54.000Z",
+          "summary": "In Genk en buurgemeente As is vanavond een lichte aardbeving gevoeld. De Koninklijke Sterrenwacht spreekt van een kracht 2,1. Schade lijkt er niet."
+        },
         {
           "title": "'La gradiva' van Franse regisseur Marine Atlan wint Grand Prix op Film Fest Gent",
           "url": "https://vrtnws.be/p.8eXKDN804",
@@ -142,18 +154,6 @@
           "url": "https://vrtnws.be/p.dLyEwxMlN",
           "time": "2026-10-17T16:18:03.000Z",
           "summary": "Op de E40 in Veurne zijn vandaag rond 12 uur een auto en een vrachtwagen met elkaar gebotst. Volgens de eigenaar van de elektrische wagen gebeurde dat \"toen het voertuig…"
-        },
-        {
-          "title": "Grote-Brogel viert 500e verjaardag van Pieter Bruegel: \"Wij zijn zeker dat hij een Limburger was\"",
-          "url": "https://vrtnws.be/p.WkXY7y7Vp",
-          "time": "2026-10-17T16:15:29.000Z",
-          "summary": "In Grote-Brogel (Peer) wordt dit weekend de 500ste verjaardag van Pieter Bruegel gevierd. Vandaag werd een standbeeld voor de schilder onthuld en met een nieuw boek…"
-        },
-        {
-          "title": "Na noodkreet van jeugdbewegingen: stad Poperinge betaalt kosten voor bewakingsagent grotendeels terug",
-          "url": "https://vrtnws.be/p.QAX9yGnj5",
-          "time": "2026-10-17T16:04:00.000Z",
-          "summary": "De stad Poperinge past het subsidiereglement aan voor jeugdbewegingen om bewakingsagenten in te huren. Zo kunnen de jeugdbewegingen voor bewaking zorgen tijdens fuiven.…"
         }
       ]
     }
