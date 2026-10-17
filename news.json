@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-17T09:04:50.471Z",
+  "generatedAt": "2026-10-17T13:06:39.563Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-17T09:04:50.471Z",
+      "fetchedAt": "2026-10-17T13:06:39.563Z",
       "error": null,
       "items": [
+        {
+          "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
+          "time": "2026-10-17T13:00:11.000Z",
+          "summary": "It was another crazy busy week for Apple, headlined by Tuesday seeing the company take the wraps off of several home-related products as part of a \"Welcome home\" launch…"
+        },
         {
           "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
           "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
           "time": "2026-10-16T20:55:31.000Z",
           "summary": "Apple's all-new HomeView smart home hub has been available for pre-order since Tuesday, with the earliest orders set to be delivered on Friday, November 13. If you did…"
-        },
-        {
-          "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
-          "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
-          "time": "2026-10-16T19:51:58.000Z",
-          "summary": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up . The case comes in two pieces and uses adhesive strips along…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-17T09:04:50.471Z",
+      "fetchedAt": "2026-10-17T13:06:39.563Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
+          "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
+          "time": "2026-10-17T13:00:00.000Z",
+          "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
+        },
         {
           "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
           "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
           "time": "2026-10-16T21:33:28.000Z",
           "summary": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company…"
-        },
-        {
-          "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
-          "url": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
-          "time": "2026-10-16T21:06:13.000Z",
-          "summary": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-17T09:04:50.471Z",
+      "fetchedAt": "2026-10-17T13:06:39.563Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-17T09:04:50.471Z",
+      "fetchedAt": "2026-10-17T13:06:39.563Z",
       "error": null,
       "items": [
         {
-          "title": "Mysterieuze klant laat bijzondere tekening achter op servet van restaurant in Poperinge",
-          "url": "https://vrtnws.be/p.lOl0JDbQk",
-          "time": "2026-10-17T08:56:14.000Z",
-          "summary": "In Poperinge is restaurantuitbater Bart op een tekening gebotst toen hij de tafel van een klant afruimde. Op een servet heeft de mysterieuze klant een illustratie…"
+          "title": "Fietstunnel in Tongeren-Borgloon krijgt kleurrijke streetart over historisch Fruitspoor",
+          "url": "https://vrtnws.be/p.5wjqRo78w",
+          "time": "2026-10-17T12:31:15.000Z",
+          "summary": "De fietstunnel onder de Bilzersteenweg in Tongeren-Borgloon is langs binnen en buiten omgevormd tot een oranje-rood kunstwerk. De Limburgse streetartkunstenaar TUZQ…"
         },
         {
-          "title": "Sean 'Diddy' Combs overgeplaatst naar andere gevangenis na verhalen over decadent en storend gedrag",
-          "url": "https://vrtnws.be/p.0YJ4N9pmL",
-          "time": "2026-10-17T08:49:00.000Z",
-          "summary": "De veroordeelde Amerikaanse rapper Sean 'Diddy' Combs is overgeplaatst naar een andere gevangenis. Hij is verhuisd naar een gevangenis met een laag beveiligingsniveau in…"
+          "title": "Armoedevereniging Ons Gedacht in Lier laat mensen rugzak vol stenen dragen, maar vreest voor toekomst",
+          "url": "https://vrtnws.be/p.vL4xeM9jj",
+          "time": "2026-10-17T12:23:02.000Z",
+          "summary": "Armoedevereniging Ons gedacht heeft een sensibiliseringsactie gehouden op de Grote Markt in Lier, op de Dag van het Verzet tegen Armoede. Ze willen laten zien welke…"
         },
         {
-          "title": "Singapore beschuldigt 7 Indonesische bedrijven: \"Ze steken bewust grote stukken bos in brand\"",
-          "url": "https://vrtnws.be/p.YbyeOYJLw",
-          "time": "2026-10-17T08:45:55.000Z",
-          "summary": "In Singapore zijn 7 Indonesische bedrijven aangeduid als mogelijke verantwoordelijken voor de branden die al bijna 1 miljoen hectare natuurgebied in as hebben gelegd.…"
+          "title": "Stad Poperinge koopt zaal De Gilde om te slopen, slapende werf ernaast heeft gebouw instabiel gemaakt",
+          "url": "https://vrtnws.be/p.LNDjGyD9V",
+          "time": "2026-10-17T11:14:37.000Z",
+          "summary": "De stad Poperinge gaat de oude zaal De Gilde aankopen voor 660.000 euro. De voormalige feestzaal is een doorn in het oog van het stadsbestuur, omdat het gebouw nu al…"
         },
         {
-          "title": "Gloednieuw bushokje pronkt in Wuustwezel, maar buslijn is intussen geschrapt",
-          "url": "https://vrtnws.be/p.ewPpLkQGE",
-          "time": "2026-10-17T08:03:33.000Z",
-          "summary": "In Wuustwezel pronkt sinds de heraanleg van de Dorpsstraat een gloednieuw bushokje, maar lijn 68 - die de halte moest bedienen - bestaat intussen niet meer. Die lijn…"
+          "title": "Eerste tweedehandssupermarkt van het land geopend in Maldegem: \"Jij huurt een rek, wij verkopen je spullen\"",
+          "url": "https://vrtnws.be/p.jGywj88Wa",
+          "time": "2026-10-17T10:50:17.000Z",
+          "summary": "In Maldegem is 'Loppe' geopend, een populair Scandinavisch winkelconcept voor tweedehandsspullen. In de tweedehandssupermarkt kunnen particulieren zelf een rek huren om…"
         },
         {
-          "title": "Heirstraat in Maasmechelen na een jaar weer open",
-          "url": "https://vrtnws.be/p.8eXKMOZYK",
-          "time": "2026-10-17T07:29:28.000Z",
-          "summary": "In Maasmechelen is de Heirstraat na bijna een jaar werken volledig vernieuwd. De straat kreeg een gescheiden riolering, een nieuw wegdek en veilige fietspaden aan beide…"
+          "title": "Etienne (80) keert terug naar het 'kasteel' in Halle waar hij zijn vader verloor",
+          "url": "https://vrtnws.be/p.5wjq9epWl",
+          "time": "2026-10-17T10:31:46.000Z",
+          "summary": "Kunstenaar Etienne Geeurickx stelt tentoon in de Villa Servais in Halle, waar hij als kind in de jaren 50 woonde. Zijn vader verongelukte er, toch keert kunstenaar…"
         }
       ]
     }
