@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T13:06:39.563Z",
+  "generatedAt": "2026-10-17T16:35:46.760Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-17T13:06:39.563Z",
+      "fetchedAt": "2026-10-17T16:35:46.760Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-17T13:06:39.563Z",
+      "fetchedAt": "2026-10-17T16:35:46.760Z",
       "error": null,
       "items": [
+        {
+          "title": "EE announces iPhone Handoff pricing details for UK customers",
+          "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
+          "time": "2026-10-17T15:54:02.000Z",
+          "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here…"
+        },
+        {
+          "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
+          "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
+          "time": "2026-10-17T13:45:00.000Z",
+          "summary": "iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early…"
+        },
         {
           "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
           "url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
           "time": "2026-10-16T22:53:24.000Z",
           "summary": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the…"
-        },
-        {
-          "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
-          "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
-          "time": "2026-10-16T22:17:07.000Z",
-          "summary": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here…"
-        },
-        {
-          "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
-          "url": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
-          "time": "2026-10-16T21:33:28.000Z",
-          "summary": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-17T13:06:39.563Z",
+      "fetchedAt": "2026-10-17T16:35:46.760Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-17T13:06:39.563Z",
+      "fetchedAt": "2026-10-17T16:35:46.760Z",
       "error": null,
       "items": [
         {
-          "title": "Fietstunnel in Tongeren-Borgloon krijgt kleurrijke streetart over historisch Fruitspoor",
-          "url": "https://vrtnws.be/p.5wjqRo78w",
-          "time": "2026-10-17T12:31:15.000Z",
-          "summary": "De fietstunnel onder de Bilzersteenweg in Tongeren-Borgloon is langs binnen en buiten omgevormd tot een oranje-rood kunstwerk. De Limburgse streetartkunstenaar TUZQ…"
+          "title": "Botsing met vrachtwagen op E40 in Veurne: bestuurder zegt dat elektrische auto \"plots op hol sloeg\"",
+          "url": "https://vrtnws.be/p.dLyEwxMlN",
+          "time": "2026-10-17T16:18:03.000Z",
+          "summary": "Op de E40 in Veurne zijn vandaag rond 12 uur een auto en een vrachtwagen met elkaar gebotst. Volgens de eigenaar van de elektrische wagen gebeurde dat \"toen het voertuig…"
         },
         {
-          "title": "Armoedevereniging Ons Gedacht in Lier laat mensen rugzak vol stenen dragen, maar vreest voor toekomst",
-          "url": "https://vrtnws.be/p.vL4xeM9jj",
-          "time": "2026-10-17T12:23:02.000Z",
-          "summary": "Armoedevereniging Ons gedacht heeft een sensibiliseringsactie gehouden op de Grote Markt in Lier, op de Dag van het Verzet tegen Armoede. Ze willen laten zien welke…"
+          "title": "Grote-Brogel viert 500e verjaardag van Pieter Bruegel: \"Wij zijn zeker dat hij een Limburger was\"",
+          "url": "https://vrtnws.be/p.WkXY7y7Vp",
+          "time": "2026-10-17T16:15:29.000Z",
+          "summary": "In Grote-Brogel (Peer) wordt dit weekend de 500ste verjaardag van Pieter Bruegel gevierd. Vandaag werd een standbeeld voor de schilder onthuld en met een nieuw boek…"
         },
         {
-          "title": "Stad Poperinge koopt zaal De Gilde om te slopen, slapende werf ernaast heeft gebouw instabiel gemaakt",
-          "url": "https://vrtnws.be/p.LNDjGyD9V",
-          "time": "2026-10-17T11:14:37.000Z",
-          "summary": "De stad Poperinge gaat de oude zaal De Gilde aankopen voor 660.000 euro. De voormalige feestzaal is een doorn in het oog van het stadsbestuur, omdat het gebouw nu al…"
+          "title": "Na noodkreet van jeugdbewegingen: stad Poperinge betaalt kosten voor bewakingsagent grotendeels terug",
+          "url": "https://vrtnws.be/p.QAX9yGnj5",
+          "time": "2026-10-17T16:04:00.000Z",
+          "summary": "De stad Poperinge past het subsidiereglement aan voor jeugdbewegingen om bewakingsagenten in te huren. Zo kunnen de jeugdbewegingen voor bewaking zorgen tijdens fuiven.…"
         },
         {
-          "title": "Eerste tweedehandssupermarkt van het land geopend in Maldegem: \"Jij huurt een rek, wij verkopen je spullen\"",
-          "url": "https://vrtnws.be/p.jGywj88Wa",
-          "time": "2026-10-17T10:50:17.000Z",
-          "summary": "In Maldegem is 'Loppe' geopend, een populair Scandinavisch winkelconcept voor tweedehandsspullen. In de tweedehandssupermarkt kunnen particulieren zelf een rek huren om…"
+          "title": "Dertien recreanten wagen zich aan 1e 'funcross' op parcours van Berencross in Meulebeke",
+          "url": "https://vrtnws.be/p.Ybye5lZeD",
+          "time": "2026-10-17T15:42:08.000Z",
+          "summary": "In Meulebeke hebben recreatieve crossers voor het eerst het officiële parcours van de Berencross kunnen afleggen, tijdens een funcross. De deelnemers kregen een…"
         },
         {
-          "title": "Etienne (80) keert terug naar het 'kasteel' in Halle waar hij zijn vader verloor",
-          "url": "https://vrtnws.be/p.5wjq9epWl",
-          "time": "2026-10-17T10:31:46.000Z",
-          "summary": "Kunstenaar Etienne Geeurickx stelt tentoon in de Villa Servais in Halle, waar hij als kind in de jaren 50 woonde. Zijn vader verongelukte er, toch keert kunstenaar…"
+          "title": "Nieuwe jeugdbeweging voor kinderen met autisme en ADHD gestart in Lommel: \"Hier kunnen ze zichzelf zijn\"",
+          "url": "https://vrtnws.be/p.8eXKXjZMG",
+          "time": "2026-10-17T15:30:10.000Z",
+          "summary": "In Lommel is vandaag een nieuwe jeugdbeweging gestart voor kinderen en jongeren met autismespectrumstoornis en ADHD. De organisatie Samino wil hen dezelfde kansen geven…"
         }
       ]
     }
