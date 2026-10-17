@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-16T21:58:17.257Z",
+  "generatedAt": "2026-10-17T00:18:24.048Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-16T21:58:17.257Z",
+      "fetchedAt": "2026-10-17T00:18:24.048Z",
       "error": null,
       "items": [
+        {
+          "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
+          "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+          "time": "2026-10-16T23:37:48.000Z",
+          "summary": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27 . iPhone Handoff allows one phone number to be shared across…"
+        },
+        {
+          "title": "Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027",
+          "url": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/",
+          "time": "2026-10-16T22:53:57.000Z",
+          "summary": "Demand for the iPhone Duo has been \"nothing short of extraordinary,\" Apple said in a statement to the Financial Times . The company also said it is \"working hard to get…"
+        },
+        {
+          "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
+          "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
+          "time": "2026-10-16T22:21:45.000Z",
+          "summary": "Apple today expanded its App Store moderation rules to cover AI-generated nonconsensual intimate imagery. Sexually explicit content was already banned, but now Apple…"
+        },
         {
           "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
           "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
           "time": "2026-10-16T19:51:58.000Z",
           "summary": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up . The case comes in two pieces and uses adhesive strips along…"
-        },
-        {
-          "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
-          "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
-          "time": "2026-10-16T19:35:41.000Z",
-          "summary": "Daring Fireball 's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price increases the devices…"
-        },
-        {
-          "title": "Apple Refers to HomeView as 'HomePodDevice' in Legal Document",
-          "url": "https://www.macrumors.com/2026/10/16/apple-homeview-homepoddevice/",
-          "time": "2026-10-16T16:39:26.000Z",
-          "summary": "Apple's HomeView software license agreement refers to the HomeView as a \"HomePodDevice\" in one section. This is surely a placeholder name from a draft version of the…"
-        },
-        {
-          "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
-          "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
-          "time": "2026-10-16T13:50:12.000Z",
-          "summary": "As spotted by Vadim Yuryev of the YouTube channel Max Tech , the iPhone Duo has already been resold on eBay for as much as $5,000 after shipping estimates for the device…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-16T21:58:17.257Z",
+      "fetchedAt": "2026-10-17T00:18:24.048Z",
       "error": null,
       "items": [
+        {
+          "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
+          "url": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
+          "time": "2026-10-17T00:01:38.000Z",
+          "summary": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details.…"
+        },
+        {
+          "title": "Apple poaches longtime Meta executive to lead global litigation",
+          "url": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
+          "time": "2026-10-16T22:53:24.000Z",
+          "summary": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the…"
+        },
+        {
+          "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
+          "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
+          "time": "2026-10-16T22:17:07.000Z",
+          "summary": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here…"
+        },
         {
           "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
           "url": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
           "time": "2026-10-16T21:06:13.000Z",
           "summary": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in…"
-        },
-        {
-          "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
-          "url": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
-          "time": "2026-10-16T20:04:21.000Z",
-          "summary": "The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far…"
-        },
-        {
-          "title": "iPhone Duo vs iPhone 18 Pro: Here’s every key difference",
-          "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
-          "time": "2026-10-16T19:55:17.000Z",
-          "summary": "Apple has strong pitches for all of its flagship iPhones this fall, but which model is right for you? Here’s an overview of the key differences between iPhone Duo and…"
-        },
-        {
-          "title": "HomeView will include these Apple apps at launch",
-          "url": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/",
-          "time": "2026-10-16T19:50:31.000Z",
-          "summary": "Apple’s HomeView is available to pre-order now and ships November 13. Here are the Apple apps you’ll be able to use on HomeView at launch. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-16T21:58:17.257Z",
+      "fetchedAt": "2026-10-17T00:18:24.048Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-16T21:58:17.257Z",
+      "fetchedAt": "2026-10-17T00:18:24.048Z",
       "error": null,
       "items": [
         {
