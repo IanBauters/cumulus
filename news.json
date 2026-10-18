@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-18T16:44:26.970Z",
+  "generatedAt": "2026-10-18T19:18:50.281Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-18T16:44:26.970Z",
+      "fetchedAt": "2026-10-18T19:18:50.281Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Expected to Release New Products on Next Four Fridays",
+          "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/",
+          "time": "2026-10-18T18:01:53.000Z",
+          "summary": "Apple likely plans to release MacBook Pro models with OLED displays, 14-inch MacBook Pro and iMac models with M6 chips, and/or an iPad mini 8 with an OLED display on…"
+        },
         {
           "title": "Apple Reveals iPhone Duo's Battery Capacity",
           "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
           "time": "2026-10-17T21:30:45.000Z",
           "summary": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23. Apple Store employees…"
-        },
-        {
-          "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
-          "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
-          "time": "2026-10-17T20:21:20.000Z",
-          "summary": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg 's Mark Gurman . Tucker will become Apple's vice president of global…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-18T16:44:26.970Z",
+      "fetchedAt": "2026-10-18T19:18:50.281Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
+          "url": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
+          "time": "2026-10-18T17:56:43.000Z",
+          "summary": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature…"
+        },
         {
           "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
           "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
           "time": "2026-10-17T19:30:00.000Z",
           "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
-        },
-        {
-          "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
-          "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
-          "time": "2026-10-17T17:52:00.000Z",
-          "summary": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist:…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-18T16:44:26.970Z",
+      "fetchedAt": "2026-10-18T19:18:50.281Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,27 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-18T16:44:26.970Z",
+      "fetchedAt": "2026-10-18T19:18:50.281Z",
       "error": null,
       "items": [
+        {
+          "title": "Priester in Ecuador overleden nadat groot kruisbeeld op hem valt tijdens mis",
+          "url": "https://vrtnws.be/p.5waoLMnnw",
+          "time": "2026-10-18T18:46:16.000Z",
+          "summary": "In Ecuador is een katholieke priester om het leven gekomen nadat een zwaar kruisbeeld op hem is gevallen tijdens een avondmis. Het tragische ongeval werd live…"
+        },
+        {
+          "title": "Oktoberfeesten Leuven lokken opnieuw veel volk: \"Bijna 100% van de bezoekers in lederhosen of dirndl\"",
+          "url": "https://vrtnws.be/p.xZYP4JW51",
+          "time": "2026-10-18T18:41:14.000Z",
+          "summary": "De Leuvense Oktoberfeesten hebben zaterdag hun eerste feestdag afgesloten met een op voorhand uitverkochte Brabanthal in Leuven. Gisteren, op de 2e dag, waren er opnieuw…"
+        },
+        {
+          "title": "NASCAR brengt Amerikaanse racesfeer naar Circuit Zolder: \"Je moet die brullende motoren voelen\"",
+          "url": "https://vrtnws.be/p.PqON3nGJ7",
+          "time": "2026-10-18T18:29:59.000Z",
+          "summary": "Circuit Zolder stond dit weekend helemaal in het teken van de NASCAR Euro Series. De Europese kampioenschappen worden er beslist, maar voor veel bezoekers draait het om…"
+        },
         {
           "title": "Topeditie voor Hasseltse Jeneverfeesten: 145.000 bezoekers zakken af naar binnenstad",
           "url": "https://vrtnws.be/p.8epqQmVwM",
@@ -136,24 +154,6 @@
           "url": "https://vrtnws.be/p.nwvpGQQYx",
           "time": "2026-10-18T16:37:47.000Z",
           "summary": "De onderzoeksrechter in Gent heeft 4 mannen aangehouden die zaterdagavond na een politieachtervolging waren opgepakt. Dat bevestigt het parket van Oost-Vlaanderen. Ze…"
-        },
-        {
-          "title": "\"Hoe kan de bliksem twee keer inslaan?\" Moeder overleefde een schietpartij op school, nu maakt haar zoon hetzelfde mee",
-          "url": "https://vrtnws.be/p.6KpALnZJ0",
-          "time": "2026-10-18T16:14:23.000Z",
-          "summary": "De Amerikaanse Michelle overleefde 20 jaar geleden een schietpartij op haar school in Californië. Afgelopen week moest ze via sms haar 10-jarige zoon geruststellen,…"
-        },
-        {
-          "title": "Rondeweg in Zoutleeuw is weer open: \"Buurtbewoners kunnen weer rechtstreeks naar het Vinne\"",
-          "url": "https://vrtnws.be/p.mRJmANZmk",
-          "time": "2026-10-18T15:24:27.000Z",
-          "summary": "De Rondeweg in Zoutleeuw is opnieuw toegankelijk voor wandelaars. De eigenaars, de stad Zoutleeuw, provinciedomein Het Vinne, ezelboerderij Den Doolaard en Regionaal…"
-        },
-        {
-          "title": "Hevige brand in bedrijfsloods in Antwerpen: BE-Alert voor omwonenden, rook trekt richting Hoboken",
-          "url": "https://vrtnws.be/p.lObEw06Qo",
-          "time": "2026-10-18T15:17:27.000Z",
-          "summary": "Bij een bedrijf aan de D'Herbouvillekaai in Antwerpen is een hevige brand uitgebroken. De rookpluim is van ver zichtbaar. De brandweer en de politie zijn ter plaatse. Er…"
         }
       ]
     }
