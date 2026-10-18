@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T08:42:25.215Z",
+  "generatedAt": "2026-10-18T13:05:19.776Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-18T08:42:25.215Z",
+      "fetchedAt": "2026-10-18T13:05:19.776Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-18T08:42:25.215Z",
+      "fetchedAt": "2026-10-18T13:05:19.776Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-18T08:42:25.215Z",
+      "fetchedAt": "2026-10-18T13:05:19.776Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-18T08:42:25.215Z",
+      "fetchedAt": "2026-10-18T13:05:19.776Z",
       "error": null,
       "items": [
         {
-          "title": "Groot gat in hek van luchthaven Leipzig in Duitsland: politie zoekt terrein af",
-          "url": "https://vrtnws.be/p.43pddeKlD",
-          "time": "2026-10-18T07:57:28.000Z",
-          "summary": "Op de luchthaven van Leipzig in Duitsland hebben de autoriteiten een groot gat in de omheining ontdekt. De politie van Leipzig zoekt het vliegveld af naar personen,…"
+          "title": "Crash bij Hemicuda-rally in Werken: Britse vader en dochter vliegen met 140 per uur uit de bocht",
+          "url": "https://vrtnws.be/p.y31kwxjYQ",
+          "time": "2026-10-18T12:58:19.000Z",
+          "summary": "Bij de Hemicuda-rally in Werken (Kortemark) is een Brits duo, een vader en dochter, zwaar gecrasht. Ze zijn met een snelheid van 140 kilometer per uur uit de bocht…"
         },
         {
-          "title": "Huis gekocht met verborgen gebreken: wanneer kun je de verkoper aansprakelijk stellen?",
-          "url": "https://vrtnws.be/p.bDyvv7K0A",
-          "time": "2026-10-18T07:27:17.000Z",
-          "summary": "Van koelkasten tot huisdieren: op zowat alles wat je in ons land koopt, heb je garantie. Maar koop je een huis, dan liggen de kaarten anders. Waarom ben je het slechtst…"
+          "title": "Waarom de Europese Unie nu al zenuwachtig wordt van nakende verkiezingen in 4 lidstaten",
+          "url": "https://vrtnws.be/p.0Yp00jOoM",
+          "time": "2026-10-18T12:54:42.000Z",
+          "summary": "Spanje, Frankrijk, Polen en Italië trekken volgend jaar naar de stembus en die verkiezingen worden met argusogen gevolgd door de Europese Unie. \"Deze keer zijn er meer…"
         },
         {
-          "title": "Fonteinen, standbeelden en 'putti': hoe beeldhouwers uit Vlaanderen het mooie weer maakten in Italië",
-          "url": "https://vrtnws.be/p.pAM9wvMQm",
-          "time": "2026-10-18T06:02:38.000Z",
-          "summary": "Museum M Leuven presenteert 'Scultori Fiamminghi': beeldhouwers uit de Lage Landen die in de 16e eeuw kind aan huis waren in Italië bij pausen en koningen. De werken…"
+          "title": "1.700 deelnemers wandelen en lopen 24 uur voor Levensloop in Beveren-Kruibeke-Zwijndrecht",
+          "url": "https://vrtnws.be/p.PqONbK8yG",
+          "time": "2026-10-18T12:31:58.000Z",
+          "summary": "Zo'n 1.700 mensen hebben in Beveren-Kruibeke-Zwijndrecht meegewandeld en meegelopen voor Levensloop. Deelnemers, vrijwilligers en lotgenoten zamelden er 24 uur lang geld…"
         },
         {
-          "title": "Waarom ik voortdurend 'hahaha' in de kantlijn schreef",
-          "url": "https://vrtnws.be/p.6KVb4EJmX",
-          "time": "2026-10-18T06:02:25.000Z",
-          "summary": "'Verloren schaapjes' van Madeline Cash is een hit. Popster Dua Lipa, host van de boekenpodcast 'Service95 Book Club', is er gek op. Actrice en scenariste Lena Dunham is…"
+          "title": "Oud-premier Leterme waarschuwt voor uitblijven van begrotingsakkoord: \"Oppassen dat speculanten België niet gaan viseren\"",
+          "url": "https://vrtnws.be/p.aDe9vK0Ey",
+          "time": "2026-10-18T12:16:37.000Z",
+          "summary": "Oud-premier Yves Leterme waarschuwt de federale regering dat ze dringend werk moet maken van een meerjarenbegroting. Hij wijst op de stijgende langetermijnrente en zegt…"
         },
         {
-          "title": "\"Moet ik mijn gevoelens opbiechten, ook al denk ik dat het niet wederzijds is?\": Rika Ponnet beantwoordt vraag van Rik",
-          "url": "https://vrtnws.be/p.QAX550J78",
-          "time": "2026-10-18T05:48:41.000Z",
-          "summary": "Rik probeert na zijn scheiding zijn leven opnieuw op te bouwen. Bij een sportclub leerde hij iemand kennen op wie hij stapelverliefd werd. Moet hij haar dat vertellen,…"
+          "title": "Mysterie van servet-tekenaar in Poperinge opgelost: \"Ik laat mijn tekeningen altijd achter zonder iets te zeggen\"",
+          "url": "https://vrtnws.be/p.pAxOOvdWM",
+          "time": "2026-10-18T12:10:57.000Z",
+          "summary": "De mysterieuze klant die in Poperinge een tekening had achtergelaten op zijn servet, blijkt de 81-jarige Ignace uit Hansbeke (Deinze) te zijn. Hij laat regelmatig…"
         }
       ]
     }
