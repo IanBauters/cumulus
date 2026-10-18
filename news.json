@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T21:42:56.841Z",
+  "generatedAt": "2026-10-18T23:59:34.659Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-18T21:42:56.841Z",
+      "fetchedAt": "2026-10-18T23:59:34.659Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-18T21:42:56.841Z",
+      "fetchedAt": "2026-10-18T23:59:34.659Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-18T21:42:56.841Z",
+      "fetchedAt": "2026-10-18T23:59:34.659Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-18T21:42:56.841Z",
+      "fetchedAt": "2026-10-18T23:59:34.659Z",
       "error": null,
       "items": [
+        {
+          "title": "Dodelijk noodweer in Spanje: code rood van kracht in Valencia en Mallorca",
+          "url": "https://vrtnws.be/p.KK8RnY6Nb",
+          "time": "2026-10-18T21:53:06.000Z",
+          "summary": "Het oosten en zuiden van Spanje zuchten onder hevig noodweer. In Catalonië is een vrouw om het leven gekomen nadat ze werd meegesleurd door een kolkende rivier.…"
+        },
         {
           "title": "Albanese premier stapt niet op, gewelddadige protesten houden aan",
           "url": "https://vrtnws.be/p.APQYdQk11",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.xZYP4JW51",
           "time": "2026-10-18T18:41:14.000Z",
           "summary": "De Leuvense Oktoberfeesten hebben zaterdag hun eerste feestdag afgesloten met een op voorhand uitverkochte Brabanthal in Leuven. Gisteren, op de 2e dag, waren er opnieuw…"
-        },
-        {
-          "title": "NASCAR brengt Amerikaanse racesfeer naar Circuit Zolder: \"Je moet die brullende motoren voelen\"",
-          "url": "https://vrtnws.be/p.PqON3nGJ7",
-          "time": "2026-10-18T18:29:59.000Z",
-          "summary": "Circuit Zolder stond dit weekend helemaal in het teken van de NASCAR Euro Series. De Europese kampioenschappen worden er beslist, maar voor veel bezoekers draait het om…"
         }
       ]
     }
