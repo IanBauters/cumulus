@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T19:18:50.281Z",
+  "generatedAt": "2026-10-18T21:42:56.841Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-18T19:18:50.281Z",
+      "fetchedAt": "2026-10-18T21:42:56.841Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-18T19:18:50.281Z",
+      "fetchedAt": "2026-10-18T21:42:56.841Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple keeps making the Phone app better; here’s how",
+          "url": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
+          "time": "2026-10-18T21:19:49.000Z",
+          "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a…"
+        },
         {
           "title": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
           "url": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
           "time": "2026-10-17T22:21:41.000Z",
           "summary": "According to a new report from MacRumors , Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you…"
-        },
-        {
-          "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
-          "url": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
-          "time": "2026-10-17T19:30:00.000Z",
-          "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-18T19:18:50.281Z",
+      "fetchedAt": "2026-10-18T21:42:56.841Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,21 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-18T19:18:50.281Z",
+      "fetchedAt": "2026-10-18T21:42:56.841Z",
       "error": null,
       "items": [
+        {
+          "title": "Albanese premier stapt niet op, gewelddadige protesten houden aan",
+          "url": "https://vrtnws.be/p.APQYdQk11",
+          "time": "2026-10-18T21:06:44.000Z",
+          "summary": "De Albanese premier Edi Rama heeft opnieuw de eis van demonstranten om af te treden van de hand gewezen. De gewelddadige anti-regeringsprotesten gingen in de hoofdstad…"
+        },
+        {
+          "title": "Theo Francken wil \"rijkswacht 2.0\": \"Militaire versterking voor crisissituaties zoals in straten van Brussel of Luik\"",
+          "url": "https://vrtnws.be/p.E1dDNbdpL",
+          "time": "2026-10-18T20:47:16.000Z",
+          "summary": "Minister van Defensie Theo Francken (N-VA) wil een \"rijkswacht 2.0\" op poten zetten om de politie te versterken met militair opgeleide manschappen. \"Het kat-en-muisspel…"
+        },
         {
           "title": "Priester in Ecuador overleden nadat groot kruisbeeld op hem valt tijdens mis",
           "url": "https://vrtnws.be/p.5waoLMnnw",
@@ -142,18 +154,6 @@
           "url": "https://vrtnws.be/p.PqON3nGJ7",
           "time": "2026-10-18T18:29:59.000Z",
           "summary": "Circuit Zolder stond dit weekend helemaal in het teken van de NASCAR Euro Series. De Europese kampioenschappen worden er beslist, maar voor veel bezoekers draait het om…"
-        },
-        {
-          "title": "Topeditie voor Hasseltse Jeneverfeesten: 145.000 bezoekers zakken af naar binnenstad",
-          "url": "https://vrtnws.be/p.8epqQmVwM",
-          "time": "2026-10-18T16:40:13.000Z",
-          "summary": "De Jeneverfeesten hebben dit weekend zo'n 145.000 bezoekers naar de Hasseltse binnenstad gelokt. Zaterdag kwamen er 85.000 mensen opdagen, zondag nog eens 60.000.…"
-        },
-        {
-          "title": "Vier verdachten aangehouden na achtervolging tussen Deinze en Aalst",
-          "url": "https://vrtnws.be/p.nwvpGQQYx",
-          "time": "2026-10-18T16:37:47.000Z",
-          "summary": "De onderzoeksrechter in Gent heeft 4 mannen aangehouden die zaterdagavond na een politieachtervolging waren opgepakt. Dat bevestigt het parket van Oost-Vlaanderen. Ze…"
         }
       ]
     }
