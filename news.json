@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-18T13:05:19.776Z",
+  "generatedAt": "2026-10-18T16:44:26.970Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-18T13:05:19.776Z",
+      "fetchedAt": "2026-10-18T16:44:26.970Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Reveals iPhone Duo's Battery Capacity",
+          "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+          "time": "2026-10-18T15:07:06.000Z",
+          "summary": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh. The document appears to confirm a…"
+        },
+        {
+          "title": "Apple Planning 'HomeView Max' With 9-Inch, 360-Degree Screen",
+          "url": "https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/",
+          "time": "2026-10-18T14:54:31.000Z",
+          "summary": "Apple plans to release a higher-end version of its new HomeView smart home hub with a larger 9-inch screen that can swivel a full 360 degrees on a robotic arm, according…"
+        },
+        {
+          "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders",
+          "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
+          "time": "2026-10-18T14:33:47.000Z",
+          "summary": "Despite knowing that the iPhone Duo would face \"severe supply constraints\" due to manufacturing challenges, Apple chose to begin iPhone Duo pre-orders on Friday instead…"
+        },
         {
           "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
           "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
           "time": "2026-10-17T20:21:20.000Z",
           "summary": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg 's Mark Gurman . Tucker will become Apple's vice president of global…"
-        },
-        {
-          "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
-          "time": "2026-10-17T13:00:11.000Z",
-          "summary": "It was another crazy busy week for Apple, headlined by Tuesday seeing the company take the wraps off of several home-related products as part of a \"Welcome home\" launch…"
-        },
-        {
-          "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
-          "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
-          "time": "2026-10-16T23:37:48.000Z",
-          "summary": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27 . iPhone Handoff allows one phone number to be shared across…"
-        },
-        {
-          "title": "Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027",
-          "url": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/",
-          "time": "2026-10-16T22:53:57.000Z",
-          "summary": "Demand for the iPhone Duo has been \"nothing short of extraordinary,\" Apple said in a statement to the Financial Times . The company also said it is \"working hard to get…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-18T13:05:19.776Z",
+      "fetchedAt": "2026-10-18T16:44:26.970Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
+          "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
+          "time": "2026-10-18T14:48:53.000Z",
+          "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th,…"
+        },
+        {
+          "title": "Apple’s next HomeView could debut as soon as next year with a robotic arm: report",
+          "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+          "time": "2026-10-18T14:17:21.000Z",
+          "summary": "Apple just announced its long awaited smart home display: HomeView, and it’s available for $299. That said, the product has been in development for quite some time,…"
+        },
         {
           "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
           "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
           "time": "2026-10-17T17:52:00.000Z",
           "summary": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist:…"
-        },
-        {
-          "title": "EE announces iPhone Handoff pricing details for UK customers",
-          "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
-          "time": "2026-10-17T15:54:02.000Z",
-          "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here…"
-        },
-        {
-          "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
-          "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
-          "time": "2026-10-17T13:45:00.000Z",
-          "summary": "iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-18T13:05:19.776Z",
+      "fetchedAt": "2026-10-18T16:44:26.970Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-18T13:05:19.776Z",
+      "fetchedAt": "2026-10-18T16:44:26.970Z",
       "error": null,
       "items": [
         {
-          "title": "Crash bij Hemicuda-rally in Werken: Britse vader en dochter vliegen met 140 per uur uit de bocht",
-          "url": "https://vrtnws.be/p.y31kwxjYQ",
-          "time": "2026-10-18T12:58:19.000Z",
-          "summary": "Bij de Hemicuda-rally in Werken (Kortemark) is een Brits duo, een vader en dochter, zwaar gecrasht. Ze zijn met een snelheid van 140 kilometer per uur uit de bocht…"
+          "title": "Topeditie voor Hasseltse Jeneverfeesten: 145.000 bezoekers zakken af naar binnenstad",
+          "url": "https://vrtnws.be/p.8epqQmVwM",
+          "time": "2026-10-18T16:40:13.000Z",
+          "summary": "De Jeneverfeesten hebben dit weekend zo'n 145.000 bezoekers naar de Hasseltse binnenstad gelokt. Zaterdag kwamen er 85.000 mensen opdagen, zondag nog eens 60.000.…"
         },
         {
-          "title": "Waarom de Europese Unie nu al zenuwachtig wordt van nakende verkiezingen in 4 lidstaten",
-          "url": "https://vrtnws.be/p.0Yp00jOoM",
-          "time": "2026-10-18T12:54:42.000Z",
-          "summary": "Spanje, Frankrijk, Polen en Italië trekken volgend jaar naar de stembus en die verkiezingen worden met argusogen gevolgd door de Europese Unie. \"Deze keer zijn er meer…"
+          "title": "Vier verdachten aangehouden na achtervolging tussen Deinze en Aalst",
+          "url": "https://vrtnws.be/p.nwvpGQQYx",
+          "time": "2026-10-18T16:37:47.000Z",
+          "summary": "De onderzoeksrechter in Gent heeft 4 mannen aangehouden die zaterdagavond na een politieachtervolging waren opgepakt. Dat bevestigt het parket van Oost-Vlaanderen. Ze…"
         },
         {
-          "title": "1.700 deelnemers wandelen en lopen 24 uur voor Levensloop in Beveren-Kruibeke-Zwijndrecht",
-          "url": "https://vrtnws.be/p.PqONbK8yG",
-          "time": "2026-10-18T12:31:58.000Z",
-          "summary": "Zo'n 1.700 mensen hebben in Beveren-Kruibeke-Zwijndrecht meegewandeld en meegelopen voor Levensloop. Deelnemers, vrijwilligers en lotgenoten zamelden er 24 uur lang geld…"
+          "title": "\"Hoe kan de bliksem twee keer inslaan?\" Moeder overleefde een schietpartij op school, nu maakt haar zoon hetzelfde mee",
+          "url": "https://vrtnws.be/p.6KpALnZJ0",
+          "time": "2026-10-18T16:14:23.000Z",
+          "summary": "De Amerikaanse Michelle overleefde 20 jaar geleden een schietpartij op haar school in Californië. Afgelopen week moest ze via sms haar 10-jarige zoon geruststellen,…"
         },
         {
-          "title": "Oud-premier Leterme waarschuwt voor uitblijven van begrotingsakkoord: \"Oppassen dat speculanten België niet gaan viseren\"",
-          "url": "https://vrtnws.be/p.aDe9vK0Ey",
-          "time": "2026-10-18T12:16:37.000Z",
-          "summary": "Oud-premier Yves Leterme waarschuwt de federale regering dat ze dringend werk moet maken van een meerjarenbegroting. Hij wijst op de stijgende langetermijnrente en zegt…"
+          "title": "Rondeweg in Zoutleeuw is weer open: \"Buurtbewoners kunnen weer rechtstreeks naar het Vinne\"",
+          "url": "https://vrtnws.be/p.mRJmANZmk",
+          "time": "2026-10-18T15:24:27.000Z",
+          "summary": "De Rondeweg in Zoutleeuw is opnieuw toegankelijk voor wandelaars. De eigenaars, de stad Zoutleeuw, provinciedomein Het Vinne, ezelboerderij Den Doolaard en Regionaal…"
         },
         {
-          "title": "Mysterie van servet-tekenaar in Poperinge opgelost: \"Ik laat mijn tekeningen altijd achter zonder iets te zeggen\"",
-          "url": "https://vrtnws.be/p.pAxOOvdWM",
-          "time": "2026-10-18T12:10:57.000Z",
-          "summary": "De mysterieuze klant die in Poperinge een tekening had achtergelaten op zijn servet, blijkt de 81-jarige Ignace uit Hansbeke (Deinze) te zijn. Hij laat regelmatig…"
+          "title": "Hevige brand in bedrijfsloods in Antwerpen: BE-Alert voor omwonenden, rook trekt richting Hoboken",
+          "url": "https://vrtnws.be/p.lObEw06Qo",
+          "time": "2026-10-18T15:17:27.000Z",
+          "summary": "Bij een bedrijf aan de D'Herbouvillekaai in Antwerpen is een hevige brand uitgebroken. De rookpluim is van ver zichtbaar. De brandweer en de politie zijn ter plaatse. Er…"
         }
       ]
     }
