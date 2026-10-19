@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-19T17:06:20.222Z",
+  "generatedAt": "2026-10-19T21:41:25.688Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-19T17:06:20.222Z",
+      "fetchedAt": "2026-10-19T21:41:25.688Z",
       "error": null,
       "items": [
         {
-          "title": "RIP, MacBook Ultra",
-          "url": "https://www.macrumors.com/2026/10/19/rip-macbook-ultra/",
-          "time": "2026-10-19T16:57:26.000Z",
-          "summary": "Apple today sent out invites for an experience in Los Angeles on Wednesday, October 28 , and the \"Pro and tell\" tagline on the invitation likely means that the rumored…"
+          "title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
+          "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
+          "time": "2026-10-19T21:10:19.000Z",
+          "summary": "The Electronic Frontier Foundation (EFF) today announced the launch of Privacy Badger for Safari on macOS . The free browser extension allows Safari users to block ad…"
         },
         {
-          "title": "Apple Announcing New Products Next Week: 'Pro and Tell'",
-          "url": "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/",
-          "time": "2026-10-19T16:05:07.000Z",
-          "summary": "Apple's Greg Joswiak today hinted at new product announcements coming next week, sharing a social media post that says \"Can't wait to pro and tell next week.\" Rumors…"
+          "title": "HomePod 27.2 Adds Sound Glow to Existing HomePod Models",
+          "url": "https://www.macrumors.com/2026/10/19/homepod-27-2-sound-glow/",
+          "time": "2026-10-19T20:31:09.000Z",
+          "summary": "Apple's latest software update for the HomePod brings a new Sound Glow feature to the &zwnj;HomePod&zwnj;, &zwnj;HomePod&zwnj; mini, and HomePod mini 2 . Apple…"
         },
         {
-          "title": "GM Says Apple Wallet Car Keys Coming to These Vehicles",
-          "url": "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/",
-          "time": "2026-10-19T13:51:47.000Z",
-          "summary": "In a late September press release that we just discovered now, GM announced that it has started rolling out Apple Wallet car key support in select Cadillac, Chevrolet,…"
+          "title": "Apple Starts Moving Up iPhone Duo Delivery Dates",
+          "url": "https://www.macrumors.com/2026/10/19/apple-starts-moving-up-iphone-duo-delivery-dates/",
+          "time": "2026-10-19T19:31:47.000Z",
+          "summary": "Apple has started bumping up estimated delivery dates for some customers who pre-ordered the iPhone Duo in countries such as the U.S. and Japan. In the U.S., for…"
         },
         {
-          "title": "Apple Expected to Release New Products on Next Four Fridays",
-          "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/",
-          "time": "2026-10-18T18:01:53.000Z",
-          "summary": "Apple likely plans to release MacBook Pro models with OLED displays, 14-inch MacBook Pro and iMac models with M6 chips, and/or an iPad mini 8 with an OLED display on…"
+          "title": "tvOS 27.2 RC Lays Groundwork for HomePod Surround Sound",
+          "url": "https://www.macrumors.com/2026/10/19/tvos-27-2-homepod-surround-sound/",
+          "time": "2026-10-19T19:09:15.000Z",
+          "summary": "The iOS 27.2, tvOS 27.2, and HomePod Software 27.2 updates that Apple seeded today add support for four-speaker surround sound on the new Apple TV 4K ahead of its…"
         },
         {
-          "title": "Apple Reveals iPhone Duo's Battery Capacity",
-          "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
-          "time": "2026-10-18T15:07:06.000Z",
-          "summary": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh. The document appears to confirm a…"
+          "title": "Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries",
+          "url": "https://www.macrumors.com/2026/10/19/apple-says-no-iphone-duo-walk-ins-japan-korea/",
+          "time": "2026-10-19T18:10:55.000Z",
+          "summary": "For a limited time, the iPhone Duo and the iPhone 18 Pro Max will be limited to customers with a pickup reservation at Apple Stores in Japan and South Korea , according…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-19T17:06:20.222Z",
+      "fetchedAt": "2026-10-19T21:41:25.688Z",
       "error": null,
       "items": [
         {
-          "title": "Apple announces special event for October 28: ‘Pro and tell’",
-          "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/",
-          "time": "2026-10-19T16:02:47.000Z",
-          "summary": "Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.” Here’s…"
+          "title": "Following $5.7B verdict, Taction wants a cut of iPhone and Apple Watch sales through 2035",
+          "url": "https://9to5mac.com/2026/10/19/following-5-7b-verdict-taction-wants-a-cut-of-iphone-and-apple-watch-sales-through-2035/",
+          "time": "2026-10-19T21:14:04.000Z",
+          "summary": "Following a historic $5.7 billion patent infringement verdict against Apple, Taction Technology is now seeking additional damages, interest, and ongoing royalties on…"
         },
         {
-          "title": "Car Keys in Apple Wallet coming soon to three popular vehicle brands",
-          "url": "https://9to5mac.com/2026/10/19/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
-          "time": "2026-10-19T14:31:06.000Z",
-          "summary": "Apple Wallet car keys are about to get a big expansion, with GM announcing support for a variety of vehicles across three of its popular brands: Cadillac, Chevrolet, and…"
+          "title": "Best iPhone 18 Pro accessories: Solid-state power banks, MagSafe, chargers, more",
+          "url": "https://9to5mac.com/2026/10/19/best-iphone-18-pro-accessories-solid-state-power-bank/",
+          "time": "2026-10-19T20:58:36.000Z",
+          "summary": "The iPhone 18 Pro has arrived and the 3-in-1 MagSafe charging stations, CarPlay accessories, and wall adapters to max your charging speeds, all of that and more awaits…"
         },
         {
-          "title": "Apple is right about the wild west of AI, and the growing backlash",
-          "url": "https://9to5mac.com/2026/10/19/apple-is-right-about-the-wild-west-of-ai-and-the-growing-backlash/",
-          "time": "2026-10-19T14:22:14.000Z",
-          "summary": "Apple marketing chief Greg Joswiak didn’t hold back when he described the most ambitious figures in the AI race as the “lunatic fringe” of Silicon Valley. The piece…"
+          "title": "Your HomePod has a colorful new party trick: how to enable Sound Glow",
+          "url": "https://9to5mac.com/2026/10/19/homepod-sound-glow-colorful-light/",
+          "time": "2026-10-19T19:24:33.000Z",
+          "summary": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that…"
         },
         {
-          "title": "Some iPhone Duo orders getting moved up to earlier dates",
-          "url": "https://9to5mac.com/2026/10/19/some-iphone-duo-orders-getting-moved-up-to-earlier-dates/",
-          "time": "2026-10-19T13:19:10.000Z",
-          "summary": "iPhone Duo became available for pre-order last Friday, then quickly became backordered into late January 2027. However, a number of users have started reporting that…"
+          "title": "MagSafe Monday: Upgrading to the iPhone Duo? This MagSafe battery was built specifically for it",
+          "url": "https://9to5mac.com/2026/10/19/solidsafe-duo/",
+          "time": "2026-10-19T18:53:00.000Z",
+          "summary": "With the iPhone Duo bringing an entirely different shape to the iPhone lineup, you’ll need accessories built for it as well. BMX built the SolidSafe Duo specifically…"
         },
         {
-          "title": "Nobody should buy the $299 Apple TV 4K, but it could have been worse",
-          "url": "https://9to5mac.com/2026/10/19/nobody-should-buy-the-299-apple-tv-4k-but-it-could-have-been-worse/",
-          "time": "2026-10-19T12:11:27.000Z",
-          "summary": "My colleague Zac Hall described HomeView as one of the best ways to spend $299 on an Apple device and the Apple TV 4K as the worst . Almost nobody thinks anyone should…"
+          "title": "iOS 27.2 adds new setting to fix common HomePod annoyance",
+          "url": "https://9to5mac.com/2026/10/19/ios-27-2-adds-new-setting-to-fix-common-homepod-annoyance/",
+          "time": "2026-10-19T18:45:43.000Z",
+          "summary": "HomePod owners, have you ever wished you could disable touch controls on the top of your device? With iOS 27.2, Apple is finally adding that option. Here are the…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-19T17:06:20.222Z",
+      "fetchedAt": "2026-10-19T21:41:25.688Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-19T17:06:20.222Z",
+      "fetchedAt": "2026-10-19T21:41:25.688Z",
       "error": null,
       "items": [
         {
-          "title": "Parlementslid in Australië in kritieke toestand na aanrijding door auto, \"bewuste aanval\" volgens premier",
-          "url": "https://vrtnws.be/p.11pYD1JkG",
-          "time": "2026-10-19T17:02:11.000Z",
-          "summary": "In Australië is parlementslid Helen Haines door een auto aangereden in de buurt van haar kantoor. De vrouw is in kritiek toestand. Volgens premier Anthony Albenese was…"
+          "title": "Tot zondag hinder op deel van Gentse ring door werken aan fietssnelweg in Lievegem",
+          "url": "https://vrtnws.be/p.qENwBddeX",
+          "time": "2026-10-19T18:54:17.000Z",
+          "summary": "Het Agentschap Wegen en Verkeer vernieuwt vanaf morgen tot en met zondag het asfalt van de fietssnelweg langs de R4 in Lievegem. De werken vinden plaats ter hoogte van…"
         },
         {
-          "title": "Selena Gomez zag stem veranderen door jarenlang intensief nicotine te vapen: \"Het is het niet waard\"",
-          "url": "https://vrtnws.be/p.APQYKY7qw",
-          "time": "2026-10-19T16:51:25.000Z",
-          "summary": "De stem van Selena Gomez (34) is veranderd door jarenlang nicotine te vapen. Dat claimt de zangeres en actrice in een post op Instagram, nadat fans haar hebben…"
+          "title": "12 pv's voor 26 verkeersovertredingen van trouwkaravaan die centrum Kortrijk op stelten zet",
+          "url": "https://vrtnws.be/p.vLlG7lpoR",
+          "time": "2026-10-19T18:50:18.000Z",
+          "summary": "De politie van de zone Vlas heeft 12 pv’s opgemaakt voor 26 verkeersovertredingen na de trouwstoet die het centrum van Kortrijk op stelten heeft gezet. Het kruispunt…"
         },
         {
-          "title": "Verdachte voor dood politieagent Nordine El Talbi zegt dat hij zélf slachtoffer is: \"Hij werd ontvoerd\"",
-          "url": "https://vrtnws.be/p.dLROJm08e",
-          "time": "2026-10-19T16:20:54.000Z",
-          "summary": "Een van de verdachten in het onderzoek naar de dood van politieagent Nordine El Talbi stelt dat hij zélf een slachtoffer is in de zaak. \"Hij werd ontvoerd door 4 anderen…"
+          "title": "Sekteleider Paul Nthenge Mackenzie schuldig aan moord op 191 volgelingen in Kenia",
+          "url": "https://vrtnws.be/p.jGk3qnBE0",
+          "time": "2026-10-19T18:39:12.000Z",
+          "summary": "In Kenia is sekteleider Paul Nthenge Mackenzie schuldig bevonden aan de moord op 191 volgelingen, onder wie 190 kinderen. Dat melden internationale media. De predikant…"
         },
         {
-          "title": "Mysterie rond verdwijning Amelia Earhart blijft onopgelost: mogelijk vliegtuigwrak blijkt stapel boomstammen",
-          "url": "https://vrtnws.be/p.vLlGq0JvR",
-          "time": "2026-10-19T16:01:28.000Z",
-          "summary": "Een nieuwe zoektocht op een atol in de Stille Oceaan naar het vliegtuig van Amelia Earhart heeft geen sluitend bewijs opgeleverd dat de Amerikaanse pilote daar bijna 90…"
+          "title": "Werkstraf voor Nederlander die in Bilzen bestuurder van bestelwagen in elkaar sloeg na aanrijding",
+          "url": "https://vrtnws.be/p.11pYZZedW",
+          "time": "2026-10-19T18:32:09.000Z",
+          "summary": "De rechtbank van Tongeren heeft een 23-jarige Nederlander veroordeeld tot een werkstraf van 80 uur. Hij sloeg 2 jaar geleden een bestuurder van een bestelwagen in elkaar…"
         },
         {
-          "title": "Geen instant crush, wel liefde op het 2e gezicht: waarom de nieuwe muziek van Angèle blijft plakken",
-          "url": "https://vrtnws.be/p.GvoL68BB6",
-          "time": "2026-10-19T15:52:49.000Z",
-          "summary": "Op haar nieuwe album 'Instinct' vertaalt Angèle haar buikgevoel naar nieuwe muziek, met als basis stevige beats. We leren een nieuwe kant van de Brusselse zangeres…"
+          "title": "Iconisch Tafelrond op Grote Markt in Leuven opent in september 2027 opnieuw als hotel: \"Warme sfeer terugbrengen\"",
+          "url": "https://vrtnws.be/p.lObEv9l0X",
+          "time": "2026-10-19T18:30:23.000Z",
+          "summary": "Het historische Tafelrond aan de Grote Markt in Leuven krijgt opnieuw een nieuw leven als hotel. Nadat hotel The Fourth enkele jaren geleden sloot, bleef het gebouw…"
         }
       ]
     }
