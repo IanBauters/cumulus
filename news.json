@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T23:59:34.659Z",
+  "generatedAt": "2026-10-19T04:28:49.088Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-18T23:59:34.659Z",
+      "fetchedAt": "2026-10-19T04:28:49.088Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-18T23:59:34.659Z",
+      "fetchedAt": "2026-10-19T04:28:49.088Z",
       "error": null,
       "items": [
+        {
+          "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
+          "url": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
+          "time": "2026-10-19T02:16:00.000Z",
+          "summary": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether…"
+        },
+        {
+          "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
+          "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+          "time": "2026-10-19T01:32:09.000Z",
+          "summary": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that…"
+        },
         {
           "title": "Apple keeps making the Phone app better; here’s how",
           "url": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
           "time": "2026-10-18T14:48:53.000Z",
           "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th,…"
-        },
-        {
-          "title": "Apple’s next HomeView could debut as soon as next year with a robotic arm: report",
-          "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
-          "time": "2026-10-18T14:17:21.000Z",
-          "summary": "Apple just announced its long awaited smart home display: HomeView, and it’s available for $299. That said, the product has been in development for quite some time,…"
-        },
-        {
-          "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
-          "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
-          "time": "2026-10-17T22:21:41.000Z",
-          "summary": "According to a new report from MacRumors , Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-18T23:59:34.659Z",
+      "fetchedAt": "2026-10-19T04:28:49.088Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,21 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-18T23:59:34.659Z",
+      "fetchedAt": "2026-10-19T04:28:49.088Z",
       "error": null,
       "items": [
+        {
+          "title": "Kunnen we het natuurverlies nog stoppen tegen 2030? VN-top maakt balans op",
+          "url": "https://vrtnws.be/p.RayPqGWqX",
+          "time": "2026-10-19T03:08:27.000Z",
+          "summary": "Gaan we 30 procent van de zee en het land beschermd krijgen tegen 2030, en gaan we het natuurverlies tegen dan kunnen keren? Vandaag begint een nieuwe…"
+        },
+        {
+          "title": "Verliest Canada straks een provincie? Canadezen in Alberta trekken naar stembus voor referendum over onafhankelijkheid",
+          "url": "https://vrtnws.be/p.xZWkVay8D",
+          "time": "2026-10-19T03:06:45.000Z",
+          "summary": "In de Canadese provincie Alberta trekken kiezers naar de stembussen voor een referendum over hun toekomst: moet Alberta bij Canada blijven, of toch onafhankelijk worden?…"
+        },
         {
           "title": "Dodelijk noodweer in Spanje: code rood van kracht in Valencia en Mallorca",
           "url": "https://vrtnws.be/p.KK8RnY6Nb",
@@ -142,18 +154,6 @@
           "url": "https://vrtnws.be/p.E1dDNbdpL",
           "time": "2026-10-18T20:47:16.000Z",
           "summary": "Minister van Defensie Theo Francken (N-VA) wil een \"rijkswacht 2.0\" op poten zetten om de politie te versterken met militair opgeleide manschappen. \"Het kat-en-muisspel…"
-        },
-        {
-          "title": "Priester in Ecuador overleden nadat groot kruisbeeld op hem valt tijdens mis",
-          "url": "https://vrtnws.be/p.5waoLMnnw",
-          "time": "2026-10-18T18:46:16.000Z",
-          "summary": "In Ecuador is een katholieke priester om het leven gekomen nadat een zwaar kruisbeeld op hem is gevallen tijdens een avondmis. Het tragische ongeval werd live…"
-        },
-        {
-          "title": "Oktoberfeesten Leuven lokken opnieuw veel volk: \"Bijna 100% van de bezoekers in lederhosen of dirndl\"",
-          "url": "https://vrtnws.be/p.xZYP4JW51",
-          "time": "2026-10-18T18:41:14.000Z",
-          "summary": "De Leuvense Oktoberfeesten hebben zaterdag hun eerste feestdag afgesloten met een op voorhand uitverkochte Brabanthal in Leuven. Gisteren, op de 2e dag, waren er opnieuw…"
         }
       ]
     }
