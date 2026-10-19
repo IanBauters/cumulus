@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T04:28:49.088Z",
+  "generatedAt": "2026-10-19T10:12:53.318Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-19T04:28:49.088Z",
+      "fetchedAt": "2026-10-19T10:12:53.318Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-19T04:28:49.088Z",
+      "fetchedAt": "2026-10-19T10:12:53.318Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-19T04:28:49.088Z",
+      "fetchedAt": "2026-10-19T10:12:53.318Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-19T04:28:49.088Z",
+      "fetchedAt": "2026-10-19T10:12:53.318Z",
       "error": null,
       "items": [
         {
-          "title": "Kunnen we het natuurverlies nog stoppen tegen 2030? VN-top maakt balans op",
-          "url": "https://vrtnws.be/p.RayPqGWqX",
-          "time": "2026-10-19T03:08:27.000Z",
-          "summary": "Gaan we 30 procent van de zee en het land beschermd krijgen tegen 2030, en gaan we het natuurverlies tegen dan kunnen keren? Vandaag begint een nieuwe…"
+          "title": "Man (68) krijgt 9 messteken op Eilandje in Antwerpen: politie pakt verdachte (25) op",
+          "url": "https://vrtnws.be/p.5waoR1Bxm",
+          "time": "2026-10-19T10:06:40.000Z",
+          "summary": "In Antwerpen heeft de politie een man van 25 opgepakt die ervan verdacht wordt een man van 68 te hebben neergestoken. Dat gebeurde afgelopen weekend aan Kattendijkdok…"
         },
         {
-          "title": "Verliest Canada straks een provincie? Canadezen in Alberta trekken naar stembus voor referendum over onafhankelijkheid",
-          "url": "https://vrtnws.be/p.xZWkVay8D",
-          "time": "2026-10-19T03:06:45.000Z",
-          "summary": "In de Canadese provincie Alberta trekken kiezers naar de stembussen voor een referendum over hun toekomst: moet Alberta bij Canada blijven, of toch onafhankelijk worden?…"
+          "title": "Twee voelbare aardbevingen in 1 maand tijd: \"Zeer uitzonderlijk, maar Limburg is gevoeliger voor bevingen\"",
+          "url": "https://vrtnws.be/p.Nv3KyJXGa",
+          "time": "2026-10-19T10:03:42.000Z",
+          "summary": "Het is zeer uitzonderlijk dat op 2 weken tijd mensen de aarde voelen beven. Dat zegt seismoloog Koen Van Noten na de aardbeving in Genk en As. Het was de zwaarste…"
         },
         {
-          "title": "Dodelijk noodweer in Spanje: code rood van kracht in Valencia en Mallorca",
-          "url": "https://vrtnws.be/p.KK8RnY6Nb",
-          "time": "2026-10-18T21:53:06.000Z",
-          "summary": "Het oosten en zuiden van Spanje zuchten onder hevig noodweer. In Catalonië is een vrouw om het leven gekomen nadat ze werd meegesleurd door een kolkende rivier.…"
+          "title": "Rijkevorsel opent vernieuwd gemeentehuis met ruimere openingsuren en snelloket",
+          "url": "https://vrtnws.be/p.8epq6Q4lG",
+          "time": "2026-10-19T09:55:34.000Z",
+          "summary": "Het vernieuwde gemeentehuis van Rijkevorsel is vanaf vandaag opnieuw geopend. Het gebouw is de afgelopen 2,5 jaar grondig gerenoveerd, wat langer duurde dan gepland. Ook…"
         },
         {
-          "title": "Albanese premier stapt niet op, gewelddadige protesten houden aan",
-          "url": "https://vrtnws.be/p.APQYdQk11",
-          "time": "2026-10-18T21:06:44.000Z",
-          "summary": "De Albanese premier Edi Rama heeft opnieuw de eis van demonstranten om af te treden van de hand gewezen. De gewelddadige anti-regeringsprotesten gingen in de hoofdstad…"
+          "title": "\"Wegenonderhoud is basistaak van Vlaanderen\": Burgemeester Sint-Truiden hekelt krappe budgetten AWV na dodelijk ongeval",
+          "url": "https://vrtnws.be/p.PqON9blDy",
+          "time": "2026-10-19T09:55:26.000Z",
+          "summary": "\"Dit is echt wraakroepend.\" Burgemeester van Sint-Truiden Ludwig Vandenhove (Vooruit) reageert scherp op het nieuws dat het Vlaams Agentschap Wegen en Verkeer een aantal…"
         },
         {
-          "title": "Theo Francken wil \"rijkswacht 2.0\": \"Militaire versterking voor crisissituaties zoals in straten van Brussel of Luik\"",
-          "url": "https://vrtnws.be/p.E1dDNbdpL",
-          "time": "2026-10-18T20:47:16.000Z",
-          "summary": "Minister van Defensie Theo Francken (N-VA) wil een \"rijkswacht 2.0\" op poten zetten om de politie te versterken met militair opgeleide manschappen. \"Het kat-en-muisspel…"
+          "title": "Rente blijft maar stijgen: welke woonlening kies je nu best?",
+          "url": "https://vrtnws.be/p.QAb1BOJ09",
+          "time": "2026-10-19T09:49:02.000Z",
+          "summary": "Gemiddeld 4,58 procent rente betaal je tegenwoordig al bij een woonlening over 25 jaar met vaste rentevoet. \"Dat zijn de hoogste percentages in zowat 14 jaar\", zegt John…"
         }
       ]
     }
