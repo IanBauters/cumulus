@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-19T10:12:53.318Z",
+  "generatedAt": "2026-10-19T17:06:20.222Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-19T10:12:53.318Z",
+      "fetchedAt": "2026-10-19T17:06:20.222Z",
       "error": null,
       "items": [
+        {
+          "title": "RIP, MacBook Ultra",
+          "url": "https://www.macrumors.com/2026/10/19/rip-macbook-ultra/",
+          "time": "2026-10-19T16:57:26.000Z",
+          "summary": "Apple today sent out invites for an experience in Los Angeles on Wednesday, October 28 , and the \"Pro and tell\" tagline on the invitation likely means that the rumored…"
+        },
+        {
+          "title": "Apple Announcing New Products Next Week: 'Pro and Tell'",
+          "url": "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/",
+          "time": "2026-10-19T16:05:07.000Z",
+          "summary": "Apple's Greg Joswiak today hinted at new product announcements coming next week, sharing a social media post that says \"Can't wait to pro and tell next week.\" Rumors…"
+        },
+        {
+          "title": "GM Says Apple Wallet Car Keys Coming to These Vehicles",
+          "url": "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/",
+          "time": "2026-10-19T13:51:47.000Z",
+          "summary": "In a late September press release that we just discovered now, GM announced that it has started rolling out Apple Wallet car key support in select Cadillac, Chevrolet,…"
+        },
         {
           "title": "Apple Expected to Release New Products on Next Four Fridays",
           "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
           "time": "2026-10-18T15:07:06.000Z",
           "summary": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh. The document appears to confirm a…"
-        },
-        {
-          "title": "Apple Planning 'HomeView Max' With 9-Inch, 360-Degree Screen",
-          "url": "https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/",
-          "time": "2026-10-18T14:54:31.000Z",
-          "summary": "Apple plans to release a higher-end version of its new HomeView smart home hub with a larger 9-inch screen that can swivel a full 360 degrees on a robotic arm, according…"
-        },
-        {
-          "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders",
-          "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
-          "time": "2026-10-18T14:33:47.000Z",
-          "summary": "Despite knowing that the iPhone Duo would face \"severe supply constraints\" due to manufacturing challenges, Apple chose to begin iPhone Duo pre-orders on Friday instead…"
-        },
-        {
-          "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
-          "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
-          "time": "2026-10-17T21:30:45.000Z",
-          "summary": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23. Apple Store employees…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-19T10:12:53.318Z",
+      "fetchedAt": "2026-10-19T17:06:20.222Z",
       "error": null,
       "items": [
         {
-          "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
-          "url": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
-          "time": "2026-10-19T02:16:00.000Z",
-          "summary": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether…"
+          "title": "Apple announces special event for October 28: ‘Pro and tell’",
+          "url": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/",
+          "time": "2026-10-19T16:02:47.000Z",
+          "summary": "Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.” Here’s…"
         },
         {
-          "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
-          "url": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
-          "time": "2026-10-19T01:32:09.000Z",
-          "summary": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that…"
+          "title": "Car Keys in Apple Wallet coming soon to three popular vehicle brands",
+          "url": "https://9to5mac.com/2026/10/19/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
+          "time": "2026-10-19T14:31:06.000Z",
+          "summary": "Apple Wallet car keys are about to get a big expansion, with GM announcing support for a variety of vehicles across three of its popular brands: Cadillac, Chevrolet, and…"
         },
         {
-          "title": "Apple keeps making the Phone app better; here’s how",
-          "url": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
-          "time": "2026-10-18T21:19:49.000Z",
-          "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a…"
+          "title": "Apple is right about the wild west of AI, and the growing backlash",
+          "url": "https://9to5mac.com/2026/10/19/apple-is-right-about-the-wild-west-of-ai-and-the-growing-backlash/",
+          "time": "2026-10-19T14:22:14.000Z",
+          "summary": "Apple marketing chief Greg Joswiak didn’t hold back when he described the most ambitious figures in the AI race as the “lunatic fringe” of Silicon Valley. The piece…"
         },
         {
-          "title": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
-          "url": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
-          "time": "2026-10-18T17:56:43.000Z",
-          "summary": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature…"
+          "title": "Some iPhone Duo orders getting moved up to earlier dates",
+          "url": "https://9to5mac.com/2026/10/19/some-iphone-duo-orders-getting-moved-up-to-earlier-dates/",
+          "time": "2026-10-19T13:19:10.000Z",
+          "summary": "iPhone Duo became available for pre-order last Friday, then quickly became backordered into late January 2027. However, a number of users have started reporting that…"
         },
         {
-          "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
-          "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
-          "time": "2026-10-18T14:48:53.000Z",
-          "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th,…"
+          "title": "Nobody should buy the $299 Apple TV 4K, but it could have been worse",
+          "url": "https://9to5mac.com/2026/10/19/nobody-should-buy-the-299-apple-tv-4k-but-it-could-have-been-worse/",
+          "time": "2026-10-19T12:11:27.000Z",
+          "summary": "My colleague Zac Hall described HomeView as one of the best ways to spend $299 on an Apple device and the Apple TV 4K as the worst . Almost nobody thinks anyone should…"
         }
       ]
     },
@@ -83,9 +83,21 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-19T10:12:53.318Z",
+      "fetchedAt": "2026-10-19T17:06:20.222Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Announces October 28 “Pro and Tell” Event",
+          "url": "https://www.macstories.net/news/apple-announces-october-28-pro-and-tell-event/",
+          "time": "2026-10-19T16:48:41.000Z",
+          "summary": "In a post by Greg Joswiak on X, Apple has said it will hold an ‘Pro and Tell’ in Los Angeles, California on Wednesday, October 28 at 10:00 am Pacific. Judging from the…"
+        },
+        {
+          "title": "ChatGPT Dots Gain Widget and New Shortcuts Actions",
+          "url": "https://www.macstories.net/reviews/chatgpt-dots-gain-widget-and-new-shortcuts-actions/",
+          "time": "2026-10-19T13:34:42.000Z",
+          "summary": "Late Friday, OpenAI updated the ChatGPT app on iOS and iPadOS with a new widget for your Dot and Shortcuts actions that let you control it three ways. The implementation…"
+        },
         {
           "title": "Meta Releases Muse Spark Open, an Over 800 Billion Parameter Model That Can Run Locally on Multiple M5 Ultra Mac Studios",
           "url": "https://www.macstories.net/news/meta-releases-muse-spark-open-an-over-800-billion-parameter-model-that-can-run-locally-on-multiple-m5-ultra-mac-studios/",
@@ -103,18 +115,6 @@
           "url": "https://www.macstories.net/news/apple-teams-up-with-lg-electronics-and-schneider-electric-to-offer-the-apple-home-collection/",
           "time": "2026-10-13T15:15:41.000Z",
           "summary": "Source: Apple. Apple revealed today that it has partnered with LG Electronics and Schneider Electric on the Apple Home Collection, a range of smart home products…"
-        },
-        {
-          "title": "The Apple TV 4K Gets Siri AI, an A19 Chip, and a $299 Price Tag",
-          "url": "https://www.macstories.net/news/the-apple-tv-4k-gets-siri-ai-an-a19-chip-and-a-299-price-tag/",
-          "time": "2026-10-13T14:36:54.000Z",
-          "summary": "Source: Apple. Apple also updated the Apple TV 4K today. Last updated in 2022, the Apple TV 4K’s fourth-generation update is focused on bringing an improved surround…"
-        },
-        {
-          "title": "Apple Reveals HomePod mini 2 with New Colors, Richer Sound, and Siri AI",
-          "url": "https://www.macstories.net/news/apple-reveals-homepod-mini-2-with-new-colors-richer-sound-and-siri-ai/",
-          "time": "2026-10-13T14:34:54.000Z",
-          "summary": "As part of today’s announcements related to Home (including the brand new HomeView, which we’ve covered here), Apple also announced HomePod mini 2, an update to its…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-19T10:12:53.318Z",
+      "fetchedAt": "2026-10-19T17:06:20.222Z",
       "error": null,
       "items": [
         {
-          "title": "Man (68) krijgt 9 messteken op Eilandje in Antwerpen: politie pakt verdachte (25) op",
-          "url": "https://vrtnws.be/p.5waoR1Bxm",
-          "time": "2026-10-19T10:06:40.000Z",
-          "summary": "In Antwerpen heeft de politie een man van 25 opgepakt die ervan verdacht wordt een man van 68 te hebben neergestoken. Dat gebeurde afgelopen weekend aan Kattendijkdok…"
+          "title": "Parlementslid in Australië in kritieke toestand na aanrijding door auto, \"bewuste aanval\" volgens premier",
+          "url": "https://vrtnws.be/p.11pYD1JkG",
+          "time": "2026-10-19T17:02:11.000Z",
+          "summary": "In Australië is parlementslid Helen Haines door een auto aangereden in de buurt van haar kantoor. De vrouw is in kritiek toestand. Volgens premier Anthony Albenese was…"
         },
         {
-          "title": "Twee voelbare aardbevingen in 1 maand tijd: \"Zeer uitzonderlijk, maar Limburg is gevoeliger voor bevingen\"",
-          "url": "https://vrtnws.be/p.Nv3KyJXGa",
-          "time": "2026-10-19T10:03:42.000Z",
-          "summary": "Het is zeer uitzonderlijk dat op 2 weken tijd mensen de aarde voelen beven. Dat zegt seismoloog Koen Van Noten na de aardbeving in Genk en As. Het was de zwaarste…"
+          "title": "Selena Gomez zag stem veranderen door jarenlang intensief nicotine te vapen: \"Het is het niet waard\"",
+          "url": "https://vrtnws.be/p.APQYKY7qw",
+          "time": "2026-10-19T16:51:25.000Z",
+          "summary": "De stem van Selena Gomez (34) is veranderd door jarenlang nicotine te vapen. Dat claimt de zangeres en actrice in een post op Instagram, nadat fans haar hebben…"
         },
         {
-          "title": "Rijkevorsel opent vernieuwd gemeentehuis met ruimere openingsuren en snelloket",
-          "url": "https://vrtnws.be/p.8epq6Q4lG",
-          "time": "2026-10-19T09:55:34.000Z",
-          "summary": "Het vernieuwde gemeentehuis van Rijkevorsel is vanaf vandaag opnieuw geopend. Het gebouw is de afgelopen 2,5 jaar grondig gerenoveerd, wat langer duurde dan gepland. Ook…"
+          "title": "Verdachte voor dood politieagent Nordine El Talbi zegt dat hij zélf slachtoffer is: \"Hij werd ontvoerd\"",
+          "url": "https://vrtnws.be/p.dLROJm08e",
+          "time": "2026-10-19T16:20:54.000Z",
+          "summary": "Een van de verdachten in het onderzoek naar de dood van politieagent Nordine El Talbi stelt dat hij zélf een slachtoffer is in de zaak. \"Hij werd ontvoerd door 4 anderen…"
         },
         {
-          "title": "\"Wegenonderhoud is basistaak van Vlaanderen\": Burgemeester Sint-Truiden hekelt krappe budgetten AWV na dodelijk ongeval",
-          "url": "https://vrtnws.be/p.PqON9blDy",
-          "time": "2026-10-19T09:55:26.000Z",
-          "summary": "\"Dit is echt wraakroepend.\" Burgemeester van Sint-Truiden Ludwig Vandenhove (Vooruit) reageert scherp op het nieuws dat het Vlaams Agentschap Wegen en Verkeer een aantal…"
+          "title": "Mysterie rond verdwijning Amelia Earhart blijft onopgelost: mogelijk vliegtuigwrak blijkt stapel boomstammen",
+          "url": "https://vrtnws.be/p.vLlGq0JvR",
+          "time": "2026-10-19T16:01:28.000Z",
+          "summary": "Een nieuwe zoektocht op een atol in de Stille Oceaan naar het vliegtuig van Amelia Earhart heeft geen sluitend bewijs opgeleverd dat de Amerikaanse pilote daar bijna 90…"
         },
         {
-          "title": "Rente blijft maar stijgen: welke woonlening kies je nu best?",
-          "url": "https://vrtnws.be/p.QAb1BOJ09",
-          "time": "2026-10-19T09:49:02.000Z",
-          "summary": "Gemiddeld 4,58 procent rente betaal je tegenwoordig al bij een woonlening over 25 jaar met vaste rentevoet. \"Dat zijn de hoogste percentages in zowat 14 jaar\", zegt John…"
+          "title": "Geen instant crush, wel liefde op het 2e gezicht: waarom de nieuwe muziek van Angèle blijft plakken",
+          "url": "https://vrtnws.be/p.GvoL68BB6",
+          "time": "2026-10-19T15:52:49.000Z",
+          "summary": "Op haar nieuwe album 'Instinct' vertaalt Angèle haar buikgevoel naar nieuwe muziek, met als basis stevige beats. We leren een nieuwe kant van de Brusselse zangeres…"
         }
       ]
     }
