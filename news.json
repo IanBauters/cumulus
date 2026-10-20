@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-20T15:47:25.130Z",
+  "generatedAt": "2026-10-20T19:54:50.044Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-20T15:47:25.130Z",
+      "fetchedAt": "2026-10-20T19:54:50.044Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know",
+          "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
+          "time": "2026-10-20T19:51:59.000Z",
+          "summary": "Apple is working on a high-end MacBook Pro , and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and a touchscreen. Design…"
+        },
+        {
+          "title": "Here's What Apple's Apps Look Like on the iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
+          "time": "2026-10-20T18:12:50.000Z",
+          "summary": "With just three days to go until the iPhone Duo is released, Apple is getting ready for the launch. Behind the scenes, the App Store now has screenshots of Apple's…"
+        },
+        {
+          "title": "iOS 27.3 May Expand RCS Support to Australia's Telstra in December",
+          "url": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
+          "time": "2026-10-20T17:28:56.000Z",
+          "summary": "In a support document that it has since deleted, Australian carrier Telstra said RCS support would be available starting with an iOS update coming in December. If this…"
+        },
+        {
+          "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
+          "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
+          "time": "2026-10-20T15:53:34.000Z",
+          "summary": "As reported by 9to5Mac , Apple is now selling parts for the iPhone 18 Pro, iPhone 18 Pro Max, new Mac mini with M6 and M5 Pro chips, and new Mac Studio with M5 Max and…"
+        },
         {
           "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
           "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
           "time": "2026-10-20T14:49:32.000Z",
           "summary": "The new fourth-generation Apple TV 4K announced last week can connect to up to four HomePods in front-left, front-right, rear-left, and rear-right positions, enabling an…"
-        },
-        {
-          "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
-          "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
-          "time": "2026-10-20T14:42:22.000Z",
-          "summary": "As reported by 9to5Mac , Apple is now selling parts for the iPhone 18 Pro, iPhone 18 Pro Max, new Mac mini with M6 and M5 Pro chips, and new Mac Studio with M5 Max and…"
-        },
-        {
-          "title": "Apple Says Mac Mini Assembly in U.S. to Begin Later This Year",
-          "url": "https://www.macrumors.com/2026/10/20/mac-mini-assembly-in-us-later-this-year/",
-          "time": "2026-10-20T14:17:24.000Z",
-          "summary": "In a press release focused on its latest American Manufacturing Program commitments today, Apple reiterated that Mac mini assembly in the U.S. will begin later this…"
-        },
-        {
-          "title": "Apple Says Nearly 100 iPhone Duo and iPhone 18 Pro Parts Made in USA",
-          "url": "https://www.macrumors.com/2026/10/20/apple-touts-iphone-duo-18-pro-parts-made-in-usa/",
-          "time": "2026-10-20T13:39:42.000Z",
-          "summary": "Apple today announced new and expanded partnerships with two U.S. companies for iPhone Duo and iPhone 18 Pro components and materials. Through its existing American…"
-        },
-        {
-          "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
-          "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
-          "time": "2026-10-19T23:51:05.000Z",
-          "summary": "Apple will announce a second wave of new products on Wednesday, October 28. Like the October 13 \"Welcome Home\" announcement, \"Pro and Tell\" isn't going to be a…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-20T15:47:25.130Z",
+      "fetchedAt": "2026-10-20T19:54:50.044Z",
       "error": null,
       "items": [
+        {
+          "title": "John Ternus talks his involvement with design teams at Apple",
+          "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
+          "time": "2026-10-20T19:51:56.000Z",
+          "summary": "Last week TIME shared select quotes from a new interview with Apple CEO John Ternus, but today the full video has been published , including a discussion on Ternus’s…"
+        },
+        {
+          "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
+          "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
+          "time": "2026-10-20T18:56:15.000Z",
+          "summary": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature…"
+        },
+        {
+          "title": "Apple keeps acquiring companies with one clear goal in mind",
+          "url": "https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/",
+          "time": "2026-10-20T18:14:03.000Z",
+          "summary": "Apple acquires a variety of companies every year, and recently many of its acquisitions— including the latest, Samplab —have revolved around one clear goal: improving…"
+        },
+        {
+          "title": "iOS 27.2 adds new features in six iPhone apps, here’s what’s coming",
+          "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/",
+          "time": "2026-10-20T16:18:15.000Z",
+          "summary": "iOS 27.2 launches next week with new features for iPhone users, including improvements across six Apple apps. Here’s what’s coming. more…"
+        },
         {
           "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
           "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
           "time": "2026-10-20T15:00:00.000Z",
           "summary": "Perplexity is adding a new local-first mode to its Mac app that lets Computer work entirely on the device. This includes running tasks without an internet connection.…"
-        },
-        {
-          "title": "Apple explains why HomeView couldn’t launch until now",
-          "url": "https://9to5mac.com/2026/10/20/apple-explains-why-homeview-couldnt-launch-until-now/",
-          "time": "2026-10-20T14:47:59.000Z",
-          "summary": "Apple’s new HomeView was reportedly mostly finished for years, but kept getting delayed. Here’s why HomeView couldn’t launch until now, per quotes from key Apple execs.…"
-        },
-        {
-          "title": "tvOS 27.2 adds three new features to your Apple TV 4K",
-          "url": "https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k/",
-          "time": "2026-10-20T13:57:50.000Z",
-          "summary": "tvOS 27.2 is coming next week, bringing several new features to Apple TV 4K users—including some screen saver upgrades. Here’s what’s new. more…"
-        },
-        {
-          "title": "Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models",
-          "url": "https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models/",
-          "time": "2026-10-20T13:48:26.000Z",
-          "summary": "Apple today began selling repair parts for the iPhone 18 Pro and iPhone 18 Pro Max, as well as the M5 Max and M5 Ultra Mac Studio and the M6 or M5 Pro Mac mini models.…"
-        },
-        {
-          "title": "Apple says American suppliers make almost 100 parts for iPhone 18 Pro and iPhone Duo",
-          "url": "https://9to5mac.com/2026/10/20/apple-says-american-suppliers-make-almost-100-parts-for-iphone-18-pro-and-iphone-duo/",
-          "time": "2026-10-20T12:24:26.000Z",
-          "summary": "Apple says that American companies are supplying “critical materials and components” for both the iPhone 18 Pro and the iPhone Duo . In all, it says that nearly 100…"
         }
       ]
     },
@@ -83,14 +83,14 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-20T15:47:25.130Z",
+      "fetchedAt": "2026-10-20T19:54:50.044Z",
       "error": null,
       "items": [
         {
           "title": "Perplexity Computer’s Local-First Approach to Agents",
           "url": "https://www.macstories.net/news/perplexity-computers-local-first-approach-to-agents/",
           "time": "2026-10-20T15:00:01.000Z",
-          "summary": "Today, Perplexity announced a local-first mode for Computer where the model and agent work entirely on your Mac whether you’re online or not, sending data to the cloud…"
+          "summary": "Source: Perplexity. Today, Perplexity announced a local-first mode for Computer where the model and agent work entirely on your Mac whether you’re online or not, sending…"
         },
         {
           "title": "Apple Announces October 28 “Pro and Tell” Event",
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-20T15:47:25.130Z",
+      "fetchedAt": "2026-10-20T19:54:50.044Z",
       "error": null,
       "items": [
         {
-          "title": "Grote zoektocht naar dieven die op heterdaad zijn betrapt in Noord-Limburg",
-          "url": "https://vrtnws.be/p.7nXev6qm6",
-          "time": "2026-10-20T15:38:19.000Z",
-          "summary": "In Noord-Limburg hebben politiediensten vanmiddag gezocht naar inbrekers die op heterdaad waren betrapt. De inbrekers sloegen op de vlucht toen de bewoners van het huis…"
+          "title": "Steven uit Aarschot vindt Chinese wolhandkrab in zijn kelder: \"Misschien is ze via de riolering binnengekomen\"",
+          "url": "https://vrtnws.be/p.DYMdLy4Em",
+          "time": "2026-10-20T19:47:37.000Z",
+          "summary": "\"Ik ging even iets halen in mijn kelder en plots lag ze daar\": dat vertelt Steven Supply (52) uit Rillaar bij Aarschot die een Chinese wolhandkrab in zijn kelder vond.…"
         },
         {
-          "title": "Echtpaar uit Wielsbeke samen 200 jaar oud: \"Ik zie haar nu nog liever dan 80 jaar geleden\"",
-          "url": "https://vrtnws.be/p.dLRmPq3O4",
-          "time": "2026-10-20T15:33:11.000Z",
-          "summary": "In Wielsbeke is een echtpaar samen 200 jaar geworden. Prudent is 101 en zijn vrouw Maria 99. Ze leerden elkaar 80 jaar geleden kennen en het was liefde op het eerste…"
+          "title": "Ninove weigert voetbalacademie ESOA toegang tot voetbalterreinen, ondanks omkering door provincie: \"Club maakte het te bont\"",
+          "url": "https://vrtnws.be/p.xZYDK9VO9",
+          "time": "2026-10-20T19:11:41.000Z",
+          "summary": "Ninove is niet van plan de voetbalacademie ESOA opnieuw toe te laten op de terreinen van de Pollare. Ook al draaide de provincie de beslissingen van de gemeenteraad om…"
         },
         {
-          "title": "Handelaars aan Leuvens station zien nadarhekken verschijnen voor gevel: \"Hopelijk verliezen we geen klanten\"",
-          "url": "https://vrtnws.be/p.JN4VP3nGa",
-          "time": "2026-10-20T15:30:45.000Z",
-          "summary": "De handelaars aan het Leuvense station zagen plots nadarhekken verschijnen voor hun zaken. De hekken, die over 2 weken vaste beugels worden, moeten voetgangers…"
+          "title": "Parlement in Polen keurt wet goed die abortusregels versoepelt, maar president kan nog veto stellen",
+          "url": "https://vrtnws.be/p.qENqKMEX4",
+          "time": "2026-10-20T18:59:58.000Z",
+          "summary": "In Polen heeft het parlement 2 wetsvoorstellen aangenomen die de abortuswetgeving, een van de strengste in Europa, versoepelen. Mogelijk dwarsboomt de nationalistische…"
         },
         {
-          "title": "2 Duitse jongemannen opgepakt na achtervolging van Jabbeke tot Gent: verdacht van mensensmokkel",
-          "url": "https://vrtnws.be/p.w70kBOj4p",
-          "time": "2026-10-20T15:30:07.000Z",
-          "summary": "2 jongemannen van 19 en 20 zijn aangehouden door de Brugse onderzoeksrechter na een politieachtervolging zondag. Ze worden onder meer verdacht van mensensmokkel,…"
+          "title": "Elke dag historische weetjes en dialectuitdrukkingen op de 'Halmanak', de scheurkalender van Halle",
+          "url": "https://vrtnws.be/p.aDem09Bdd",
+          "time": "2026-10-20T18:37:21.000Z",
+          "summary": "Halle heeft voortaan zijn eigen scheurkalender. De 'Halmanak' is een variant op de bekende Druivelaar, met elke dag een blaadje om af te scheuren. Daarop staan leuke…"
         },
         {
-          "title": "Jeugdvoetbalclubs slaan alarm over dalend engagement: \"Moeilijk om zo te blijven functioneren\"",
-          "url": "https://vrtnws.be/p.Nv3VJZ3x4",
-          "time": "2026-10-20T15:22:25.000Z",
-          "summary": "Door het verminderde engagement van jeugdvoetballers wordt het moeilijk voor clubs om te blijven functioneren. Dat staat in een tekst die verschillende Vlaamse…"
+          "title": "Straatverlichting 's nachts weer aan in Malle, maar minder fel: \"Lichtsterkte aangepast aan hoeveelheid verkeer\"",
+          "url": "https://vrtnws.be/p.QAbkjbQm8",
+          "time": "2026-10-20T18:37:05.000Z",
+          "summary": "Tegen 2028 moet er in Malle overal weer straatverlichting branden 's nachts. De gemeente vervangt haar straatlantaarns door ledlampen. Die zijn zuiniger en kunnen gedimd…"
         }
       ]
     }
