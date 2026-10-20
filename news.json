@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-10-20T19:54:50.044Z",
+  "generatedAt": "2026-10-20T23:01:36.340Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-20T19:54:50.044Z",
+      "fetchedAt": "2026-10-20T23:01:36.340Z",
       "error": null,
       "items": [
+        {
+          "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
+          "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
+          "time": "2026-10-20T22:20:12.000Z",
+          "summary": "Perplexity today said it is updating Perplexity Computer to run fully locally on Mac . The local version runs on Qwen 3.6 or PPLX Pro (a post-trained version of Qwen) in…"
+        },
         {
           "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know",
           "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
           "time": "2026-10-20T19:51:59.000Z",
           "summary": "Apple is working on a high-end MacBook Pro , and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and a touchscreen. Design…"
+        },
+        {
+          "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
+          "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
+          "time": "2026-10-20T19:35:00.000Z",
+          "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to…"
         },
         {
           "title": "Here's What Apple's Apps Look Like on the iPhone Duo",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
           "time": "2026-10-20T17:28:56.000Z",
           "summary": "In a support document that it has since deleted, Australian carrier Telstra said RCS support would be available starting with an iOS update coming in December. If this…"
-        },
-        {
-          "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
-          "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
-          "time": "2026-10-20T15:53:34.000Z",
-          "summary": "As reported by 9to5Mac , Apple is now selling parts for the iPhone 18 Pro, iPhone 18 Pro Max, new Mac mini with M6 and M5 Pro chips, and new Mac Studio with M5 Max and…"
-        },
-        {
-          "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
-          "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
-          "time": "2026-10-20T14:49:32.000Z",
-          "summary": "The new fourth-generation Apple TV 4K announced last week can connect to up to four HomePods in front-left, front-right, rear-left, and rear-right positions, enabling an…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-20T19:54:50.044Z",
+      "fetchedAt": "2026-10-20T23:01:36.340Z",
       "error": null,
       "items": [
+        {
+          "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
+          "url": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
+          "time": "2026-10-20T20:45:05.000Z",
+          "summary": "According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its…"
+        },
+        {
+          "title": "Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers",
+          "url": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/",
+          "time": "2026-10-20T20:07:26.000Z",
+          "summary": "Apple, in collaboration with Design Miami, is highlighting four creative projects from emerging designers in this year’s ‘Designers of Tomorrow’ exhibition, which opens…"
+        },
         {
           "title": "John Ternus talks his involvement with design teams at Apple",
           "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/",
           "time": "2026-10-20T18:14:03.000Z",
           "summary": "Apple acquires a variety of companies every year, and recently many of its acquisitions— including the latest, Samplab —have revolved around one clear goal: improving…"
-        },
-        {
-          "title": "iOS 27.2 adds new features in six iPhone apps, here’s what’s coming",
-          "url": "https://9to5mac.com/2026/10/20/ios-27-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/",
-          "time": "2026-10-20T16:18:15.000Z",
-          "summary": "iOS 27.2 launches next week with new features for iPhone users, including improvements across six Apple apps. Here’s what’s coming. more…"
-        },
-        {
-          "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
-          "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
-          "time": "2026-10-20T15:00:00.000Z",
-          "summary": "Perplexity is adding a new local-first mode to its Mac app that lets Computer work entirely on the device. This includes running tasks without an internet connection.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-20T19:54:50.044Z",
+      "fetchedAt": "2026-10-20T23:01:36.340Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-20T19:54:50.044Z",
+      "fetchedAt": "2026-10-20T23:01:36.340Z",
       "error": null,
       "items": [
+        {
+          "title": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink",
+          "url": "https://vrtnws.be/p.pAxQL16N9",
+          "time": "2026-10-20T21:51:09.000Z",
+          "summary": "Ruimtevaartbedrijf SpaceX heeft de omzet het afgelopen kwartaal ruim verdubbeld. Dat komt dankzij flink toegenomen opbrengsten uit zijn activiteiten rond artificiële…"
+        },
         {
           "title": "Steven uit Aarschot vindt Chinese wolhandkrab in zijn kelder: \"Misschien is ze via de riolering binnengekomen\"",
           "url": "https://vrtnws.be/p.DYMdLy4Em",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.aDem09Bdd",
           "time": "2026-10-20T18:37:21.000Z",
           "summary": "Halle heeft voortaan zijn eigen scheurkalender. De 'Halmanak' is een variant op de bekende Druivelaar, met elke dag een blaadje om af te scheuren. Daarop staan leuke…"
-        },
-        {
-          "title": "Straatverlichting 's nachts weer aan in Malle, maar minder fel: \"Lichtsterkte aangepast aan hoeveelheid verkeer\"",
-          "url": "https://vrtnws.be/p.QAbkjbQm8",
-          "time": "2026-10-20T18:37:05.000Z",
-          "summary": "Tegen 2028 moet er in Malle overal weer straatverlichting branden 's nachts. De gemeente vervangt haar straatlantaarns door ledlampen. Die zijn zuiniger en kunnen gedimd…"
         }
       ]
     }
