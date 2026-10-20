@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T00:57:59.901Z",
+  "generatedAt": "2026-10-20T05:53:55.981Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-20T00:57:59.901Z",
+      "fetchedAt": "2026-10-20T05:53:55.981Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-20T00:57:59.901Z",
+      "fetchedAt": "2026-10-20T05:53:55.981Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-20T00:57:59.901Z",
+      "fetchedAt": "2026-10-20T05:53:55.981Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-20T00:57:59.901Z",
+      "fetchedAt": "2026-10-20T05:53:55.981Z",
       "error": null,
       "items": [
         {
-          "title": "Tot zondag hinder op deel van Gentse ring door werken aan fietssnelweg in Lievegem",
-          "url": "https://vrtnws.be/p.qENwBddeX",
-          "time": "2026-10-19T18:54:17.000Z",
-          "summary": "Het Agentschap Wegen en Verkeer vernieuwt vanaf morgen tot en met zondag het asfalt van de fietssnelweg langs de R4 in Lievegem. De werken vinden plaats ter hoogte van…"
+          "title": "Afschaffing van ziektebriefje leidt tot ruim de helft meer ziekmeldingen voor 1 dag",
+          "url": "https://vrtnws.be/p.ZWKkLMVWW",
+          "time": "2026-10-20T05:31:44.000Z",
+          "summary": "Sinds de afschaffing van het ziektebriefje voor één dag melden werknemers in grote bedrijven gemiddeld 54 procent vaker één dag ziekteverlof. Dat meldt HR-dienstverlener…"
         },
         {
-          "title": "12 pv's voor 26 verkeersovertredingen van trouwkaravaan die centrum Kortrijk op stelten zet",
-          "url": "https://vrtnws.be/p.vLlG7lpoR",
-          "time": "2026-10-19T18:50:18.000Z",
-          "summary": "De politie van de zone Vlas heeft 12 pv’s opgemaakt voor 26 verkeersovertredingen na de trouwstoet die het centrum van Kortrijk op stelten heeft gezet. Het kruispunt…"
+          "title": "Snel mee met het nieuws? VRT NWS lanceert NWS kort",
+          "url": "https://vrtnws.be/p.bDyVBZO8M",
+          "time": "2026-10-20T05:22:30.000Z",
+          "summary": "Korte video's, foto's en verhalen waardoor je snel op de hoogte bent van het belangrijkste nieuws, dat is NWS kort in een notendop. De nieuwe verticale nieuwsfeed is…"
         },
         {
-          "title": "Sekteleider Paul Nthenge Mackenzie schuldig aan moord op 191 volgelingen in Kenia",
-          "url": "https://vrtnws.be/p.jGk3qnBE0",
-          "time": "2026-10-19T18:39:12.000Z",
-          "summary": "In Kenia is sekteleider Paul Nthenge Mackenzie schuldig bevonden aan de moord op 191 volgelingen, onder wie 190 kinderen. Dat melden internationale media. De predikant…"
+          "title": "Kluisbergen heeft officieel een nieuwe burgemeester: Thijs Cousaert legt eed af bij gouverneur",
+          "url": "https://vrtnws.be/p.WkjRY9Ye7",
+          "time": "2026-10-20T05:20:08.000Z",
+          "summary": "Thijs Cousaert (37) heeft bij Oost-Vlaams gouverneur Carina Van Cauter de eed afgelegd als burgemeester van Kluisbergen. Hij was eerder al benoemd door Vlaams minister…"
         },
         {
-          "title": "Werkstraf voor Nederlander die in Bilzen bestuurder van bestelwagen in elkaar sloeg na aanrijding",
-          "url": "https://vrtnws.be/p.11pYZZedW",
-          "time": "2026-10-19T18:32:09.000Z",
-          "summary": "De rechtbank van Tongeren heeft een 23-jarige Nederlander veroordeeld tot een werkstraf van 80 uur. Hij sloeg 2 jaar geleden een bestuurder van een bestelwagen in elkaar…"
+          "title": "Na personeelscrisis bij Stad Eeklo: bestuur belooft 35 maatregelen tegen toxische werkcultuur",
+          "url": "https://vrtnws.be/p.0Yp08l79e",
+          "time": "2026-10-20T04:32:40.000Z",
+          "summary": "Het stadsbestuur van Eeklo wil volgende maand een actieplan met 35 maatregelen voorstellen om de werkcultuur en het vertrouwen bij het personeel te herstellen. Dat bleek…"
         },
         {
-          "title": "Iconisch Tafelrond op Grote Markt in Leuven opent in september 2027 opnieuw als hotel: \"Warme sfeer terugbrengen\"",
-          "url": "https://vrtnws.be/p.lObEv9l0X",
-          "time": "2026-10-19T18:30:23.000Z",
-          "summary": "Het historische Tafelrond aan de Grote Markt in Leuven krijgt opnieuw een nieuw leven als hotel. Nadat hotel The Fourth enkele jaren geleden sloot, bleef het gebouw…"
+          "title": "Oppositie Izegem stemt tegen motie over Vlaamse besparingen, meerderheid keurt motie wel goed",
+          "url": "https://vrtnws.be/p.nwvpyv47D",
+          "time": "2026-10-20T04:30:56.000Z",
+          "summary": "In Izegem hebben N-VA, Vooruit-Groen en CD&V tegen de motie gestemd over de Vlaamse besparingen. De meerderheid, Stip+ en Vlaams Belang, wilde daarmee unaniem een…"
         }
       ]
     }
