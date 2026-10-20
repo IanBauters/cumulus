@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T05:53:55.981Z",
+  "generatedAt": "2026-10-20T11:09:43.081Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-20T05:53:55.981Z",
+      "fetchedAt": "2026-10-20T11:09:43.081Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-20T05:53:55.981Z",
+      "fetchedAt": "2026-10-20T11:09:43.081Z",
       "error": null,
       "items": [
+        {
+          "title": "iPhone Duo orders limited to two per customer as Apple tackles scalping",
+          "url": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/",
+          "time": "2026-10-20T11:05:13.000Z",
+          "summary": "Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes…"
+        },
         {
           "title": "WhatsApp may soon let iPhone users open any link in an in-app browser",
           "url": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/19/best-iphone-18-pro-accessories-solid-state-power-bank/",
           "time": "2026-10-19T20:58:36.000Z",
           "summary": "The iPhone 18 Pro has arrived and the 3-in-1 MagSafe charging stations, CarPlay accessories, and wall adapters to max your charging speeds, all of that and more awaits…"
-        },
-        {
-          "title": "Your HomePod has a colorful new party trick: how to enable Sound Glow",
-          "url": "https://9to5mac.com/2026/10/19/homepod-sound-glow-colorful-light/",
-          "time": "2026-10-19T19:24:33.000Z",
-          "summary": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-20T05:53:55.981Z",
+      "fetchedAt": "2026-10-20T11:09:43.081Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-20T05:53:55.981Z",
+      "fetchedAt": "2026-10-20T11:09:43.081Z",
       "error": null,
       "items": [
         {
-          "title": "Afschaffing van ziektebriefje leidt tot ruim de helft meer ziekmeldingen voor 1 dag",
-          "url": "https://vrtnws.be/p.ZWKkLMVWW",
-          "time": "2026-10-20T05:31:44.000Z",
-          "summary": "Sinds de afschaffing van het ziektebriefje voor één dag melden werknemers in grote bedrijven gemiddeld 54 procent vaker één dag ziekteverlof. Dat meldt HR-dienstverlener…"
+          "title": "\"De volgende stap is dat ze alle steun volledig stopzetten\": hoe Trump de druk op Zelensky opvoert",
+          "url": "https://vrtnws.be/p.oLqn89Voe",
+          "time": "2026-10-20T11:07:55.000Z",
+          "summary": "Starlink vertragen, beperkte inlichtingen verschaffen en nu ook een rem op de levering van luchtafweerraketten. De Amerikaanse regering lijkt alle middelen in te zetten…"
         },
         {
-          "title": "Snel mee met het nieuws? VRT NWS lanceert NWS kort",
-          "url": "https://vrtnws.be/p.bDyVBZO8M",
-          "time": "2026-10-20T05:22:30.000Z",
-          "summary": "Korte video's, foto's en verhalen waardoor je snel op de hoogte bent van het belangrijkste nieuws, dat is NWS kort in een notendop. De nieuwe verticale nieuwsfeed is…"
+          "title": "Mechelaars krijgen veiligheidsmagazine in de bus: \"Inwoners mobiliseren om buurt veilig te houden\"",
+          "url": "https://vrtnws.be/p.oLqn8leqO",
+          "time": "2026-10-20T11:07:06.000Z",
+          "summary": "Mechelaars krijgen deze week voor de 2e keer het veiligheidsmagazine 'Samen houden we Mechelen veilig' in de bus. Dat is een jaarlijks magazine waarin de stad de…"
         },
         {
-          "title": "Kluisbergen heeft officieel een nieuwe burgemeester: Thijs Cousaert legt eed af bij gouverneur",
-          "url": "https://vrtnws.be/p.WkjRY9Ye7",
-          "time": "2026-10-20T05:20:08.000Z",
-          "summary": "Thijs Cousaert (37) heeft bij Oost-Vlaams gouverneur Carina Van Cauter de eed afgelegd als burgemeester van Kluisbergen. Hij was eerder al benoemd door Vlaams minister…"
+          "title": "Inval in rendez-voushotel in Diepenbeek in onderzoek naar mensenhandel",
+          "url": "https://vrtnws.be/p.APQv75756",
+          "time": "2026-10-20T10:52:50.000Z",
+          "summary": "De Federale Gerechtelijke Politie heeft een inval gedaan bij champagnebar Le Mirage op de Nieuwstraat in Diepenbeek. Uit goede bron verneemt VRT NWS dat het gaat om een…"
         },
         {
-          "title": "Na personeelscrisis bij Stad Eeklo: bestuur belooft 35 maatregelen tegen toxische werkcultuur",
-          "url": "https://vrtnws.be/p.0Yp08l79e",
-          "time": "2026-10-20T04:32:40.000Z",
-          "summary": "Het stadsbestuur van Eeklo wil volgende maand een actieplan met 35 maatregelen voorstellen om de werkcultuur en het vertrouwen bij het personeel te herstellen. Dat bleek…"
+          "title": "Vogelgriep bij eend in Natuurhulpcentrum Oudsbergen bevestigd: \"Dier is intussen gestorven\"",
+          "url": "https://vrtnws.be/p.43penWMnD",
+          "time": "2026-10-20T10:44:53.000Z",
+          "summary": "Een smient die vorige week in het Natuurhulpcentrum van Oudsbergen werd binnengebracht, had een agressieve vorm van vogelgriep. Dat bevestigt Dries Damiaens van het…"
         },
         {
-          "title": "Oppositie Izegem stemt tegen motie over Vlaamse besparingen, meerderheid keurt motie wel goed",
-          "url": "https://vrtnws.be/p.nwvpyv47D",
-          "time": "2026-10-20T04:30:56.000Z",
-          "summary": "In Izegem hebben N-VA, Vooruit-Groen en CD&V tegen de motie gestemd over de Vlaamse besparingen. De meerderheid, Stip+ en Vlaams Belang, wilde daarmee unaniem een…"
+          "title": "Dodelijke brand in Evere was aangestoken met molotovcocktail",
+          "url": "https://vrtnws.be/p.ZWKEPKqpm",
+          "time": "2026-10-20T10:33:07.000Z",
+          "summary": "De brand die afgelopen weekend in Evere het leven kostte aan 1 persoon, was aangestoken met een molotovcocktail. Dat heeft de Brusselse procureur des Konings Julien…"
         }
       ]
     }
