@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-20T11:09:43.081Z",
+  "generatedAt": "2026-10-20T15:47:25.130Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-20T11:09:43.081Z",
+      "fetchedAt": "2026-10-20T15:47:25.130Z",
       "error": null,
       "items": [
+        {
+          "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
+          "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
+          "time": "2026-10-20T14:49:32.000Z",
+          "summary": "The new fourth-generation Apple TV 4K announced last week can connect to up to four HomePods in front-left, front-right, rear-left, and rear-right positions, enabling an…"
+        },
+        {
+          "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
+          "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
+          "time": "2026-10-20T14:42:22.000Z",
+          "summary": "As reported by 9to5Mac , Apple is now selling parts for the iPhone 18 Pro, iPhone 18 Pro Max, new Mac mini with M6 and M5 Pro chips, and new Mac Studio with M5 Max and…"
+        },
+        {
+          "title": "Apple Says Mac Mini Assembly in U.S. to Begin Later This Year",
+          "url": "https://www.macrumors.com/2026/10/20/mac-mini-assembly-in-us-later-this-year/",
+          "time": "2026-10-20T14:17:24.000Z",
+          "summary": "In a press release focused on its latest American Manufacturing Program commitments today, Apple reiterated that Mac mini assembly in the U.S. will begin later this…"
+        },
+        {
+          "title": "Apple Says Nearly 100 iPhone Duo and iPhone 18 Pro Parts Made in USA",
+          "url": "https://www.macrumors.com/2026/10/20/apple-touts-iphone-duo-18-pro-parts-made-in-usa/",
+          "time": "2026-10-20T13:39:42.000Z",
+          "summary": "Apple today announced new and expanded partnerships with two U.S. companies for iPhone Duo and iPhone 18 Pro components and materials. Through its existing American…"
+        },
         {
           "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
           "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
           "time": "2026-10-19T23:51:05.000Z",
           "summary": "Apple will announce a second wave of new products on Wednesday, October 28. Like the October 13 \"Welcome Home\" announcement, \"Pro and Tell\" isn't going to be a…"
-        },
-        {
-          "title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
-          "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
-          "time": "2026-10-19T23:42:24.000Z",
-          "summary": "Apple is only allowing customers in the United States to purchase a maximum of two iPhone Duos. Attempting to purchase more than two on the website or the Apple Store…"
-        },
-        {
-          "title": "Apple Buys AI Audio Editing App Samplab",
-          "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
-          "time": "2026-10-19T22:35:24.000Z",
-          "summary": "Apple acquired AI audio editing app Samplab in June, according to a notice shared today by the European Commission. Samplab offered a desktop app and plugins for…"
-        },
-        {
-          "title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
-          "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
-          "time": "2026-10-19T21:10:19.000Z",
-          "summary": "The Electronic Frontier Foundation (EFF) today announced the launch of Privacy Badger for Safari on macOS . The free browser extension allows Safari users to block ad…"
-        },
-        {
-          "title": "HomePod 27.2 Adds Sound Glow to Existing HomePod Models",
-          "url": "https://www.macrumors.com/2026/10/19/homepod-27-2-sound-glow/",
-          "time": "2026-10-19T20:31:09.000Z",
-          "summary": "Apple's latest software update for the HomePod brings a new Sound Glow feature to the &zwnj;HomePod&zwnj;, &zwnj;HomePod&zwnj; mini, and HomePod mini 2 . Apple…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-20T11:09:43.081Z",
+      "fetchedAt": "2026-10-20T15:47:25.130Z",
       "error": null,
       "items": [
         {
-          "title": "iPhone Duo orders limited to two per customer as Apple tackles scalping",
-          "url": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/",
-          "time": "2026-10-20T11:05:13.000Z",
-          "summary": "Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes…"
+          "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
+          "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
+          "time": "2026-10-20T15:00:00.000Z",
+          "summary": "Perplexity is adding a new local-first mode to its Mac app that lets Computer work entirely on the device. This includes running tasks without an internet connection.…"
         },
         {
-          "title": "WhatsApp may soon let iPhone users open any link in an in-app browser",
-          "url": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/",
-          "time": "2026-10-20T00:01:33.000Z",
-          "summary": "After introducing limited in-app browser support for certain business links last year, WhatsApp is now working on expanding the feature to all links shared in chats.…"
+          "title": "Apple explains why HomeView couldn’t launch until now",
+          "url": "https://9to5mac.com/2026/10/20/apple-explains-why-homeview-couldnt-launch-until-now/",
+          "time": "2026-10-20T14:47:59.000Z",
+          "summary": "Apple’s new HomeView was reportedly mostly finished for years, but kept getting delayed. Here’s why HomeView couldn’t launch until now, per quotes from key Apple execs.…"
         },
         {
-          "title": "New App Store chief discusses Apple’s gaming strategy, future of Apple Arcade, more",
-          "url": "https://9to5mac.com/2026/10/19/new-app-store-chief-discusses-apples-gaming-strategy-future-of-apple-arcade-more/",
-          "time": "2026-10-19T22:14:32.000Z",
-          "summary": "In an interview with Polygon , Apple’s new head of App Store Worldwide, Carson Oliver, discussed the company’s broader gaming ambitions, the growing number of premium…"
+          "title": "tvOS 27.2 adds three new features to your Apple TV 4K",
+          "url": "https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k/",
+          "time": "2026-10-20T13:57:50.000Z",
+          "summary": "tvOS 27.2 is coming next week, bringing several new features to Apple TV 4K users—including some screen saver upgrades. Here’s what’s new. more…"
         },
         {
-          "title": "Following $5.7B verdict, Taction wants a cut of iPhone and Apple Watch sales through 2035",
-          "url": "https://9to5mac.com/2026/10/19/following-5-7b-verdict-taction-wants-a-cut-of-iphone-and-apple-watch-sales-through-2035/",
-          "time": "2026-10-19T21:14:04.000Z",
-          "summary": "Following a historic $5.7 billion patent infringement verdict against Apple, Taction Technology is now seeking additional damages, interest, and ongoing royalties on…"
+          "title": "Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models",
+          "url": "https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models/",
+          "time": "2026-10-20T13:48:26.000Z",
+          "summary": "Apple today began selling repair parts for the iPhone 18 Pro and iPhone 18 Pro Max, as well as the M5 Max and M5 Ultra Mac Studio and the M6 or M5 Pro Mac mini models.…"
         },
         {
-          "title": "Best iPhone 18 Pro accessories: Solid-state power banks, MagSafe, chargers, more",
-          "url": "https://9to5mac.com/2026/10/19/best-iphone-18-pro-accessories-solid-state-power-bank/",
-          "time": "2026-10-19T20:58:36.000Z",
-          "summary": "The iPhone 18 Pro has arrived and the 3-in-1 MagSafe charging stations, CarPlay accessories, and wall adapters to max your charging speeds, all of that and more awaits…"
+          "title": "Apple says American suppliers make almost 100 parts for iPhone 18 Pro and iPhone Duo",
+          "url": "https://9to5mac.com/2026/10/20/apple-says-american-suppliers-make-almost-100-parts-for-iphone-18-pro-and-iphone-duo/",
+          "time": "2026-10-20T12:24:26.000Z",
+          "summary": "Apple says that American companies are supplying “critical materials and components” for both the iPhone 18 Pro and the iPhone Duo . In all, it says that nearly 100…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-20T11:09:43.081Z",
+      "fetchedAt": "2026-10-20T15:47:25.130Z",
       "error": null,
       "items": [
+        {
+          "title": "Perplexity Computer’s Local-First Approach to Agents",
+          "url": "https://www.macstories.net/news/perplexity-computers-local-first-approach-to-agents/",
+          "time": "2026-10-20T15:00:01.000Z",
+          "summary": "Today, Perplexity announced a local-first mode for Computer where the model and agent work entirely on your Mac whether you’re online or not, sending data to the cloud…"
+        },
         {
           "title": "Apple Announces October 28 “Pro and Tell” Event",
           "url": "https://www.macstories.net/news/apple-announces-october-28-pro-and-tell-event/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/stories/homeview-points-to-siri-ai-as-the-next-developer-platform/",
           "time": "2026-10-14T20:03:59.000Z",
           "summary": "Source: Apple. Yesterday, Wired reported that third-party apps with CarPlay functionality would be available on Apple’s new HomeView device. That struck me as odd. I was…"
-        },
-        {
-          "title": "Apple Teams Up with LG Electronics and Schneider Electric to Offer the Apple Home Collection",
-          "url": "https://www.macstories.net/news/apple-teams-up-with-lg-electronics-and-schneider-electric-to-offer-the-apple-home-collection/",
-          "time": "2026-10-13T15:15:41.000Z",
-          "summary": "Source: Apple. Apple revealed today that it has partnered with LG Electronics and Schneider Electric on the Apple Home Collection, a range of smart home products…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-20T11:09:43.081Z",
+      "fetchedAt": "2026-10-20T15:47:25.130Z",
       "error": null,
       "items": [
         {
-          "title": "\"De volgende stap is dat ze alle steun volledig stopzetten\": hoe Trump de druk op Zelensky opvoert",
-          "url": "https://vrtnws.be/p.oLqn89Voe",
-          "time": "2026-10-20T11:07:55.000Z",
-          "summary": "Starlink vertragen, beperkte inlichtingen verschaffen en nu ook een rem op de levering van luchtafweerraketten. De Amerikaanse regering lijkt alle middelen in te zetten…"
+          "title": "Grote zoektocht naar dieven die op heterdaad zijn betrapt in Noord-Limburg",
+          "url": "https://vrtnws.be/p.7nXev6qm6",
+          "time": "2026-10-20T15:38:19.000Z",
+          "summary": "In Noord-Limburg hebben politiediensten vanmiddag gezocht naar inbrekers die op heterdaad waren betrapt. De inbrekers sloegen op de vlucht toen de bewoners van het huis…"
         },
         {
-          "title": "Mechelaars krijgen veiligheidsmagazine in de bus: \"Inwoners mobiliseren om buurt veilig te houden\"",
-          "url": "https://vrtnws.be/p.oLqn8leqO",
-          "time": "2026-10-20T11:07:06.000Z",
-          "summary": "Mechelaars krijgen deze week voor de 2e keer het veiligheidsmagazine 'Samen houden we Mechelen veilig' in de bus. Dat is een jaarlijks magazine waarin de stad de…"
+          "title": "Echtpaar uit Wielsbeke samen 200 jaar oud: \"Ik zie haar nu nog liever dan 80 jaar geleden\"",
+          "url": "https://vrtnws.be/p.dLRmPq3O4",
+          "time": "2026-10-20T15:33:11.000Z",
+          "summary": "In Wielsbeke is een echtpaar samen 200 jaar geworden. Prudent is 101 en zijn vrouw Maria 99. Ze leerden elkaar 80 jaar geleden kennen en het was liefde op het eerste…"
         },
         {
-          "title": "Inval in rendez-voushotel in Diepenbeek in onderzoek naar mensenhandel",
-          "url": "https://vrtnws.be/p.APQv75756",
-          "time": "2026-10-20T10:52:50.000Z",
-          "summary": "De Federale Gerechtelijke Politie heeft een inval gedaan bij champagnebar Le Mirage op de Nieuwstraat in Diepenbeek. Uit goede bron verneemt VRT NWS dat het gaat om een…"
+          "title": "Handelaars aan Leuvens station zien nadarhekken verschijnen voor gevel: \"Hopelijk verliezen we geen klanten\"",
+          "url": "https://vrtnws.be/p.JN4VP3nGa",
+          "time": "2026-10-20T15:30:45.000Z",
+          "summary": "De handelaars aan het Leuvense station zagen plots nadarhekken verschijnen voor hun zaken. De hekken, die over 2 weken vaste beugels worden, moeten voetgangers…"
         },
         {
-          "title": "Vogelgriep bij eend in Natuurhulpcentrum Oudsbergen bevestigd: \"Dier is intussen gestorven\"",
-          "url": "https://vrtnws.be/p.43penWMnD",
-          "time": "2026-10-20T10:44:53.000Z",
-          "summary": "Een smient die vorige week in het Natuurhulpcentrum van Oudsbergen werd binnengebracht, had een agressieve vorm van vogelgriep. Dat bevestigt Dries Damiaens van het…"
+          "title": "2 Duitse jongemannen opgepakt na achtervolging van Jabbeke tot Gent: verdacht van mensensmokkel",
+          "url": "https://vrtnws.be/p.w70kBOj4p",
+          "time": "2026-10-20T15:30:07.000Z",
+          "summary": "2 jongemannen van 19 en 20 zijn aangehouden door de Brugse onderzoeksrechter na een politieachtervolging zondag. Ze worden onder meer verdacht van mensensmokkel,…"
         },
         {
-          "title": "Dodelijke brand in Evere was aangestoken met molotovcocktail",
-          "url": "https://vrtnws.be/p.ZWKEPKqpm",
-          "time": "2026-10-20T10:33:07.000Z",
-          "summary": "De brand die afgelopen weekend in Evere het leven kostte aan 1 persoon, was aangestoken met een molotovcocktail. Dat heeft de Brusselse procureur des Konings Julien…"
+          "title": "Jeugdvoetbalclubs slaan alarm over dalend engagement: \"Moeilijk om zo te blijven functioneren\"",
+          "url": "https://vrtnws.be/p.Nv3VJZ3x4",
+          "time": "2026-10-20T15:22:25.000Z",
+          "summary": "Door het verminderde engagement van jeugdvoetballers wordt het moeilijk voor clubs om te blijven functioneren. Dat staat in een tekst die verschillende Vlaamse…"
         }
       ]
     }
