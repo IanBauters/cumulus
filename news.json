@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-19T21:41:25.688Z",
+  "generatedAt": "2026-10-20T00:57:59.901Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-19T21:41:25.688Z",
+      "fetchedAt": "2026-10-20T00:57:59.901Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
+          "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
+          "time": "2026-10-19T23:51:05.000Z",
+          "summary": "Apple will announce a second wave of new products on Wednesday, October 28. Like the October 13 \"Welcome Home\" announcement, \"Pro and Tell\" isn't going to be a…"
+        },
+        {
+          "title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
+          "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
+          "time": "2026-10-19T23:42:24.000Z",
+          "summary": "Apple is only allowing customers in the United States to purchase a maximum of two iPhone Duos. Attempting to purchase more than two on the website or the Apple Store…"
+        },
+        {
+          "title": "Apple Buys AI Audio Editing App Samplab",
+          "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
+          "time": "2026-10-19T22:35:24.000Z",
+          "summary": "Apple acquired AI audio editing app Samplab in June, according to a notice shared today by the European Commission. Samplab offered a desktop app and plugins for…"
+        },
         {
           "title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
           "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/19/homepod-27-2-sound-glow/",
           "time": "2026-10-19T20:31:09.000Z",
           "summary": "Apple's latest software update for the HomePod brings a new Sound Glow feature to the &zwnj;HomePod&zwnj;, &zwnj;HomePod&zwnj; mini, and HomePod mini 2 . Apple…"
-        },
-        {
-          "title": "Apple Starts Moving Up iPhone Duo Delivery Dates",
-          "url": "https://www.macrumors.com/2026/10/19/apple-starts-moving-up-iphone-duo-delivery-dates/",
-          "time": "2026-10-19T19:31:47.000Z",
-          "summary": "Apple has started bumping up estimated delivery dates for some customers who pre-ordered the iPhone Duo in countries such as the U.S. and Japan. In the U.S., for…"
-        },
-        {
-          "title": "tvOS 27.2 RC Lays Groundwork for HomePod Surround Sound",
-          "url": "https://www.macrumors.com/2026/10/19/tvos-27-2-homepod-surround-sound/",
-          "time": "2026-10-19T19:09:15.000Z",
-          "summary": "The iOS 27.2, tvOS 27.2, and HomePod Software 27.2 updates that Apple seeded today add support for four-speaker surround sound on the new Apple TV 4K ahead of its…"
-        },
-        {
-          "title": "Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries",
-          "url": "https://www.macrumors.com/2026/10/19/apple-says-no-iphone-duo-walk-ins-japan-korea/",
-          "time": "2026-10-19T18:10:55.000Z",
-          "summary": "For a limited time, the iPhone Duo and the iPhone 18 Pro Max will be limited to customers with a pickup reservation at Apple Stores in Japan and South Korea , according…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-19T21:41:25.688Z",
+      "fetchedAt": "2026-10-20T00:57:59.901Z",
       "error": null,
       "items": [
+        {
+          "title": "WhatsApp may soon let iPhone users open any link in an in-app browser",
+          "url": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/",
+          "time": "2026-10-20T00:01:33.000Z",
+          "summary": "After introducing limited in-app browser support for certain business links last year, WhatsApp is now working on expanding the feature to all links shared in chats.…"
+        },
+        {
+          "title": "New App Store chief discusses Apple’s gaming strategy, future of Apple Arcade, more",
+          "url": "https://9to5mac.com/2026/10/19/new-app-store-chief-discusses-apples-gaming-strategy-future-of-apple-arcade-more/",
+          "time": "2026-10-19T22:14:32.000Z",
+          "summary": "In an interview with Polygon , Apple’s new head of App Store Worldwide, Carson Oliver, discussed the company’s broader gaming ambitions, the growing number of premium…"
+        },
         {
           "title": "Following $5.7B verdict, Taction wants a cut of iPhone and Apple Watch sales through 2035",
           "url": "https://9to5mac.com/2026/10/19/following-5-7b-verdict-taction-wants-a-cut-of-iphone-and-apple-watch-sales-through-2035/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/19/homepod-sound-glow-colorful-light/",
           "time": "2026-10-19T19:24:33.000Z",
           "summary": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that…"
-        },
-        {
-          "title": "MagSafe Monday: Upgrading to the iPhone Duo? This MagSafe battery was built specifically for it",
-          "url": "https://9to5mac.com/2026/10/19/solidsafe-duo/",
-          "time": "2026-10-19T18:53:00.000Z",
-          "summary": "With the iPhone Duo bringing an entirely different shape to the iPhone lineup, you’ll need accessories built for it as well. BMX built the SolidSafe Duo specifically…"
-        },
-        {
-          "title": "iOS 27.2 adds new setting to fix common HomePod annoyance",
-          "url": "https://9to5mac.com/2026/10/19/ios-27-2-adds-new-setting-to-fix-common-homepod-annoyance/",
-          "time": "2026-10-19T18:45:43.000Z",
-          "summary": "HomePod owners, have you ever wished you could disable touch controls on the top of your device? With iOS 27.2, Apple is finally adding that option. Here are the…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-19T21:41:25.688Z",
+      "fetchedAt": "2026-10-20T00:57:59.901Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-19T21:41:25.688Z",
+      "fetchedAt": "2026-10-20T00:57:59.901Z",
       "error": null,
       "items": [
         {
