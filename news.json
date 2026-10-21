@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-21T13:05:40.098Z",
+  "generatedAt": "2026-10-21T18:11:12.009Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-21T13:05:40.098Z",
+      "fetchedAt": "2026-10-21T18:11:12.009Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Says 'Reachability' Feature Coming to iPhone Duo Later This Year",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
-          "time": "2026-10-21T13:05:08.000Z",
-          "summary": "Apple plans to add Reachability support to the iPhone Duo in a software update coming later this year, according to WIRED 's Julian Chokkattu . The feature will…"
+          "title": "iPhone Duo Has 'Edge Light' Feature That Debuted on Macs Last Year",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
+          "time": "2026-10-21T17:57:33.000Z",
+          "summary": "As noted by Miles Franklin , the iPhone Duo's inner display supports Edge Light, an optional setting that debuted on Apple silicon Macs last year . On video calls in…"
         },
         {
-          "title": "Loop Capital Cuts Apple Rating Over iPhone Sales Outlook",
-          "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
-          "time": "2026-10-21T08:38:06.000Z",
-          "summary": "Loop Capital has lowered its rating on Apple from \"Buy\" to \"Hold,\" saying the company is unlikely to make up an estimated 13 million iPhone shipments cut from its plans…"
+          "title": "Apple Support App Updated for iPhone Duo's Larger Display",
+          "url": "https://www.macrumors.com/2026/10/21/apple-support-app-iphone-duo/",
+          "time": "2026-10-21T17:55:28.000Z",
+          "summary": "Apple today updated its Apple Support app to add support for the iPhone Duo and iOS 27.1 (which the Duo ships with). Apple Support will now display properly on the…"
         },
         {
-          "title": "Apple Stores in Bordeaux and Lille Looted During French Protests",
-          "url": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
-          "time": "2026-10-21T08:35:00.000Z",
-          "summary": "Apple retail stores in Bordeaux and Lille were looted earlier this week amid unrest accompanying demonstrations against the high cost of living in France, Boursorama…"
+          "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
+          "time": "2026-10-21T17:24:56.000Z",
+          "summary": "Some upright MagSafe charger designs won't work well with the iPhone Duo when it's unfolded. As demonstrated by Mrwhosetheboss, the uneven weight of the &zwnj;iPhone…"
         },
         {
-          "title": "Bluesound Adds Native Apple Music Support",
-          "url": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
-          "time": "2026-10-21T08:06:00.000Z",
-          "summary": "Apple Music subscribers can now stream directly to compatible Bluesound speakers and hi-fi equipment, allowing playback without sending audio via AirPlay 2. Bluesound…"
+          "title": "Apple Music's New Look Officially Announced",
+          "url": "https://www.macrumors.com/2026/10/21/apple-music-new-look-announced/",
+          "time": "2026-10-21T16:48:18.000Z",
+          "summary": "Following the introduction of a new Apple Music logo and app icon earlier this month, Apple today officially introduced Apple Music's new brand identity. In a YouTube…"
         },
         {
-          "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
-          "url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
-          "time": "2026-10-21T07:03:00.000Z",
-          "summary": "Apple CEO John Ternus says improving the user's experience guides Apple's design decisions, whether that means adding practical features or an animation that simply…"
+          "title": "iPhone Duo Supports Apple Pencil Starting With iOS 27.2",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-apple-pencil-support-ios-27-2/",
+          "time": "2026-10-21T15:45:11.000Z",
+          "summary": "As noted by Creative Strategies analyst Max Weinbach , the iPhone Duo is gaining Apple Pencil support with iOS 27.2, which is expected to be released to the public next…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-21T13:05:40.098Z",
+      "fetchedAt": "2026-10-21T18:11:12.009Z",
       "error": null,
       "items": [
         {
-          "title": "Apple blocks web certificates that could be used by scammers, but Mac vulnerability remains",
-          "url": "https://9to5mac.com/2026/10/21/apple-blocks-web-certificates-that-could-be-used-by-scammers-but-mac-vulnerability-remains/",
-          "time": "2026-10-21T12:16:19.000Z",
-          "summary": "Apple has blocked eight web security certificates that could have been used by scammers to impersonate legitimate websites. However, one cryptography engineer has warned…"
+          "title": "Slow Horses showrunner explains finale shock ending, season 7 trailer debuts",
+          "url": "https://9to5mac.com/2026/10/21/slow-horses-showrunner-explains-finale-shock-ending-season-7-trailer-debuts/",
+          "time": "2026-10-21T17:14:00.000Z",
+          "summary": "The Slow Horses season 6 finale is available now , with a shocking ending that is explained by new showrunner Gaby Chiappe in an interview. Plus, Apple has debuted the…"
         },
         {
-          "title": "iPhone Duo review: The future is foldable",
-          "url": "https://9to5mac.com/2026/10/21/iphone-duo-review/",
-          "time": "2026-10-21T12:00:06.000Z",
-          "summary": "The iPhone Duo is the biggest change to the iPhone’s form factor in its nearly 20-year history. It combines a compact, notebook-style design with an iPad-like inner…"
+          "title": "iOS Decoded: iOS 27.2 RC – hands-on w/ HomePod Sound Glow, TV profiles, Apple TV Home Theater assets, more [Video]",
+          "url": "https://9to5mac.com/2026/10/21/ios-decoded-ios-27-2-rc-hands-on-w-homepod-sound-glow-tv-profiles-apple-tv-home-theater-assets-more-video/",
+          "time": "2026-10-21T17:00:32.000Z",
+          "summary": "In this episode of iOS Decoded , we take the HomePod’s new Sound Glow feature for a test drive and try out the new Lock Controls feature to prevent accidental activation…"
         },
         {
-          "title": "TikTok accused of profiting from illegal child sexual exploitation videos",
-          "url": "https://9to5mac.com/2026/10/21/tiktok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos/",
-          "time": "2026-10-21T11:19:45.000Z",
-          "summary": "TikTok has been accused of profiting from illegal child sexual exploitation videos posted on its platform. The allegations were made by former and current employees, who…"
+          "title": "Here’s where Apple says iPhone Duo will (and won’t) be available for walk-ins",
+          "url": "https://9to5mac.com/2026/10/21/heres-where-apple-says-iphone-duo-will-and-wont-be-available-for-walk-ins/",
+          "time": "2026-10-21T15:58:59.000Z",
+          "summary": "Are you planning to line up at the Apple Store for a walk-in iPhone Duo purchase? Here’s what Apple says about availability to expect for the new model. more…"
         },
         {
-          "title": "Video shows French Apple store being emptied by looters",
-          "url": "https://9to5mac.com/2026/10/21/video-shows-french-apple-store-being-emptied-by-looters/",
-          "time": "2026-10-21T10:53:36.000Z",
-          "summary": "Video captured during the protests in France show an Apple store being almost completely emptied by looters amid chaotic scenes that include cars being set alight.…"
+          "title": "Apple Music unveils new design rebrand, with logo ‘made by sound’",
+          "url": "https://9to5mac.com/2026/10/21/apple-music-unveils-new-design-rebrand-with-logo-made-by-sound/",
+          "time": "2026-10-21T15:35:18.000Z",
+          "summary": "Apple Music has officially launched its rebrand with a new design, logo, and more. And in a video detailing the rebrand, Apple reveals the new look was actually “made by…"
         },
         {
-          "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
-          "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
-          "time": "2026-10-21T01:18:32.000Z",
-          "summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are…"
+          "title": "Google Maps on CarPlay rolling out Gemini when navigating",
+          "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+          "time": "2026-10-21T15:01:12.000Z",
+          "summary": "Google Maps in CarPlay now lets you access Gemini when navigating for a conversational driving experience. more…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-21T13:05:40.098Z",
+      "fetchedAt": "2026-10-21T18:11:12.009Z",
       "error": null,
       "items": [
+        {
+          "title": "iPhone Duo Review Roundup: Great Hinge, Messy Apps, and Everybody Misses Face ID",
+          "url": "https://www.macstories.net/roundups/iphone-duo-review-roundup-great-hinge-messy-apps-and-everybody-misses-face-id/",
+          "time": "2026-10-21T15:07:32.000Z",
+          "summary": "iPhone Duo reviews are out today, and while I was hoping that this year I’d get to review this hybrid device under embargo, it hasn’t happened (I hope it will,…"
+        },
         {
           "title": "Perplexity Computer’s Local-First Approach to Agents",
           "url": "https://www.macstories.net/news/perplexity-computers-local-first-approach-to-agents/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/meta-releases-muse-spark-open-an-over-800-billion-parameter-model-that-can-run-locally-on-multiple-m5-ultra-mac-studios/",
           "time": "2026-10-15T17:10:08.000Z",
           "summary": "Meta just released the weights for Muse Spark Open, a multimodal large language model with a mixture-of-experts architecture. It has over 800 billion parameters in…"
-        },
-        {
-          "title": "HomeView Points to Siri AI as the Next Developer Platform",
-          "url": "https://www.macstories.net/stories/homeview-points-to-siri-ai-as-the-next-developer-platform/",
-          "time": "2026-10-14T20:03:59.000Z",
-          "summary": "Source: Apple. Yesterday, Wired reported that third-party apps with CarPlay functionality would be available on Apple’s new HomeView device. That struck me as odd. I was…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-21T13:05:40.098Z",
+      "fetchedAt": "2026-10-21T18:11:12.009Z",
       "error": null,
       "items": [
         {
-          "title": "Man uit Buggenhout in kritieke toestand na botsing tegen bus in Wolvertem",
-          "url": "https://vrtnws.be/p.93p7ZA1ZZ",
-          "time": "2026-10-21T12:55:46.000Z",
-          "summary": "Bij een ongeval op het rondpunt van de Dries met de Veilinglaan in Wolvertem (Meise) raakte een bestuurder vanochtend zwaargewond. Hij was met zijn bestelwagen tegen een…"
+          "title": "Meta moet boete van 25 miljard dollar betalen in privacyzaak Cambridge Analytica",
+          "url": "https://vrtnws.be/p.3BwdGdVkP",
+          "time": "2026-10-21T18:08:22.000Z",
+          "summary": "Internetreus Meta moet van een rechter in New Mexico 25 miljard dollar (ruim 22 miljard euro) boete betalen in de zaak rond het privacyschandaal met Cambridge Analytica.…"
         },
         {
-          "title": "Alle websites van Vlaamse overheid en Antwerpse ziekenhuizen offline na lekken in PHP-programmeertaal",
-          "url": "https://vrtnws.be/p.RaJMmwl7d",
-          "time": "2026-10-21T12:52:53.000Z",
-          "summary": ""
+          "title": "Parkway Drive staat volgende zomer als headliner op feesteditie van Graspop",
+          "url": "https://vrtnws.be/p.3BwdbyLox",
+          "time": "2026-10-21T17:58:03.000Z",
+          "summary": "De Australische metalcoreband Parkway Drive komt volgend jaar naar Graspop Metal Meeting. De Australiërs sluiten de South Stage af op donderdag 17 juni en zijn de 2e…"
         },
         {
-          "title": "Huiszoekingen in Europees Parlement in onderzoek naar voormalige uiterst rechtse fractie ID",
-          "url": "https://vrtnws.be/p.5waNZ6ND8",
-          "time": "2026-10-21T12:51:58.000Z",
-          "summary": "In het Europees Parlement in Brussel en Straatsburg hebben huiszoekingen plaatsgevonden in een onderzoek naar de voormalige uiterst rechtse fractie Identiteit &…"
+          "title": "Onderzoek naar migratiedeal tussen Italië en Albanië wint Daphne Caruana Galiziaprijs voor journalistiek",
+          "url": "https://vrtnws.be/p.nwv4L85ep",
+          "time": "2026-10-21T17:57:02.000Z",
+          "summary": "De Europese Daphne Caruana Galiziaprijs voor journalistiek gaat dit jaar naar een onderzoek naar de deal tussen Italië en Albanië over de bouw van een detentiecentrum en…"
         },
         {
-          "title": "Antwerps gemeenteraadslid Tim Tubbax verlaat plaats van ongeval: \"Ook als passagier blijf je best ter plaatse\"",
-          "url": "https://vrtnws.be/p.GvodoWVJy",
-          "time": "2026-10-21T12:40:20.000Z",
-          "summary": "In Antwerpen is maandagavond een vrouw ingereden op een terras van een koffiebar nadat ze de controle verloor over het stuur. Ze had te veel gedronken. Er vielen geen…"
+          "title": "\"Ik ben jaar lang wekelijks verkracht en legde schuld bij mij\": Anna getuigt over seksueel misbruik door pastor Go Church",
+          "url": "https://vrtnws.be/p.11pXZMyaG",
+          "time": "2026-10-21T17:36:02.000Z",
+          "summary": "Anna* is een jaar lang elke week verkracht door haar pastor van Go Church, die haar ook financieel en emotioneel misbruikte. Dat vertelt de ex-volgeling van de populaire…"
         },
         {
-          "title": "Havenbaas North Sea Port wil snellere vergunningen en maatregelen tegen dumping: \"Dat is waar bedrijven nu veel last van hebben\"",
-          "url": "https://vrtnws.be/p.ew431LVON",
-          "time": "2026-10-21T12:36:45.000Z",
-          "summary": "Cas König, CEO van North Sea Port, pleit voor snellere vergunningverlening en een eerlijker speelveld voor de industrie. Aanleiding is een nieuwe studie over het…"
+          "title": "Autoluwe fietsroute tussen Herentals en Turnhout wordt verder afgewerkt: \"Comfortabeler en veiliger fietsen\"",
+          "url": "https://vrtnws.be/p.Yb5kqAKA4",
+          "time": "2026-10-21T17:34:31.000Z",
+          "summary": "Tussen Herentals en Turnhout kan de provincie weer enkele stukken aanleggen van een autoluwe fietsroute. Ze kreeg de nodige vergunningen. De route wordt 18 kilometer…"
         }
       ]
     }
