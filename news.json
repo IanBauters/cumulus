@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-21T07:17:26.489Z",
+  "generatedAt": "2026-10-21T13:05:40.098Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-21T07:17:26.489Z",
+      "fetchedAt": "2026-10-21T13:05:40.098Z",
       "error": null,
       "items": [
         {
-          "title": "UK Proposes New Ways to Help Apple Pay Rivals",
-          "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
-          "time": "2026-10-21T04:57:09.000Z",
-          "summary": "The UK's competition regulator has proposed changes to make it easier and cheaper for companies to offer alternatives to Apple Pay on the iPhone (via Reuters ). The…"
+          "title": "Apple Says 'Reachability' Feature Coming to iPhone Duo Later This Year",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
+          "time": "2026-10-21T13:05:08.000Z",
+          "summary": "Apple plans to add Reachability support to the iPhone Duo in a software update coming later this year, according to WIRED 's Julian Chokkattu . The feature will…"
         },
         {
-          "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
-          "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
-          "time": "2026-10-21T04:15:09.000Z",
-          "summary": "WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WABetaInfo…"
+          "title": "Loop Capital Cuts Apple Rating Over iPhone Sales Outlook",
+          "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+          "time": "2026-10-21T08:38:06.000Z",
+          "summary": "Loop Capital has lowered its rating on Apple from \"Buy\" to \"Hold,\" saying the company is unlikely to make up an estimated 13 million iPhone shipments cut from its plans…"
         },
         {
-          "title": "Apple's App Store Chief Explains Its Push for Premium Games",
-          "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
-          "time": "2026-10-21T03:58:10.000Z",
-          "summary": "More premium games are launching on the App Store this year than last, Apple's &zwnj;App Store&zwnj; Worldwide head Carson Oliver told Polygon , including more…"
+          "title": "Apple Stores in Bordeaux and Lille Looted During French Protests",
+          "url": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
+          "time": "2026-10-21T08:35:00.000Z",
+          "summary": "Apple retail stores in Bordeaux and Lille were looted earlier this week amid unrest accompanying demonstrations against the high cost of living in France, Boursorama…"
         },
         {
-          "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
-          "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
-          "time": "2026-10-21T03:24:11.000Z",
-          "summary": "Apple could face additional payments on top of a $5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and royalties on…"
+          "title": "Bluesound Adds Native Apple Music Support",
+          "url": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
+          "time": "2026-10-21T08:06:00.000Z",
+          "summary": "Apple Music subscribers can now stream directly to compatible Bluesound speakers and hi-fi equipment, allowing playback without sending audio via AirPlay 2. Bluesound…"
         },
         {
-          "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
-          "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
-          "time": "2026-10-21T02:56:30.000Z",
-          "summary": "Bethesda's beloved role-playing game \"The Elder Scrolls V: Skyrim\" has reached multiple generations of consoles since its 2011 debut, but it never officially came to the…"
+          "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
+          "url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
+          "time": "2026-10-21T07:03:00.000Z",
+          "summary": "Apple CEO John Ternus says improving the user's experience guides Apple's design decisions, whether that means adding practical features or an animation that simply…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-21T07:17:26.489Z",
+      "fetchedAt": "2026-10-21T13:05:40.098Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple blocks web certificates that could be used by scammers, but Mac vulnerability remains",
+          "url": "https://9to5mac.com/2026/10/21/apple-blocks-web-certificates-that-could-be-used-by-scammers-but-mac-vulnerability-remains/",
+          "time": "2026-10-21T12:16:19.000Z",
+          "summary": "Apple has blocked eight web security certificates that could have been used by scammers to impersonate legitimate websites. However, one cryptography engineer has warned…"
+        },
+        {
+          "title": "iPhone Duo review: The future is foldable",
+          "url": "https://9to5mac.com/2026/10/21/iphone-duo-review/",
+          "time": "2026-10-21T12:00:06.000Z",
+          "summary": "The iPhone Duo is the biggest change to the iPhone’s form factor in its nearly 20-year history. It combines a compact, notebook-style design with an iPad-like inner…"
+        },
+        {
+          "title": "TikTok accused of profiting from illegal child sexual exploitation videos",
+          "url": "https://9to5mac.com/2026/10/21/tiktok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos/",
+          "time": "2026-10-21T11:19:45.000Z",
+          "summary": "TikTok has been accused of profiting from illegal child sexual exploitation videos posted on its platform. The allegations were made by former and current employees, who…"
+        },
+        {
+          "title": "Video shows French Apple store being emptied by looters",
+          "url": "https://9to5mac.com/2026/10/21/video-shows-french-apple-store-being-emptied-by-looters/",
+          "time": "2026-10-21T10:53:36.000Z",
+          "summary": "Video captured during the protests in France show an Apple store being almost completely emptied by looters amid chaotic scenes that include cars being set alight.…"
+        },
         {
           "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
           "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
           "time": "2026-10-21T01:18:32.000Z",
           "summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are…"
-        },
-        {
-          "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
-          "url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
-          "time": "2026-10-21T01:01:09.000Z",
-          "summary": "German-language dark comedy “ Where’s Wanda? ” is back on Apple TV, with the first episode of its second season now streaming. Here are the details. more…"
-        },
-        {
-          "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
-          "url": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
-          "time": "2026-10-20T20:45:05.000Z",
-          "summary": "According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its…"
-        },
-        {
-          "title": "Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers",
-          "url": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/",
-          "time": "2026-10-20T20:07:26.000Z",
-          "summary": "Apple, in collaboration with Design Miami, is highlighting four creative projects from emerging designers in this year’s ‘Designers of Tomorrow’ exhibition, which opens…"
-        },
-        {
-          "title": "John Ternus talks his involvement with design teams at Apple",
-          "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
-          "time": "2026-10-20T19:51:56.000Z",
-          "summary": "Last week TIME shared select quotes from a new interview with Apple CEO John Ternus, but today the full video has been published , including a discussion on Ternus’s…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-21T07:17:26.489Z",
+      "fetchedAt": "2026-10-21T13:05:40.098Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-21T07:17:26.489Z",
+      "fetchedAt": "2026-10-21T13:05:40.098Z",
       "error": null,
       "items": [
         {
-          "title": "Wie is Stephan Hubbard, de Amerikaanse leraar die Trump uit een Russische cel wil halen?",
-          "url": "https://vrtnws.be/p.8ep80Onlo",
-          "time": "2026-10-21T07:13:39.000Z",
-          "summary": "De VS en Rusland onderhandelen momenteel over de vrijlating van de Amerikaanse leraar Stephen Hubbard (74). Hij werd in 2022 gevangengenomen door Rusland, dat hem ervan…"
+          "title": "Man uit Buggenhout in kritieke toestand na botsing tegen bus in Wolvertem",
+          "url": "https://vrtnws.be/p.93p7ZA1ZZ",
+          "time": "2026-10-21T12:55:46.000Z",
+          "summary": "Bij een ongeval op het rondpunt van de Dries met de Veilinglaan in Wolvertem (Meise) raakte een bestuurder vanochtend zwaargewond. Hij was met zijn bestelwagen tegen een…"
         },
         {
-          "title": "Verzet tegen aanvliegroute luchthaven Zaventem groeit: 900 Brusselaars sluiten aan bij rechtszaak",
-          "url": "https://vrtnws.be/p.5waN974Qm",
-          "time": "2026-10-21T06:58:10.000Z",
-          "summary": "Meer dan 900 inwoners uit het Brusselse Gewest, verspreid over 370 gezinnen, hebben zich aangesloten bij de rechtszaak tegen de aanvliegroute RNP 07L naar Brussels…"
+          "title": "Alle websites van Vlaamse overheid en Antwerpse ziekenhuizen offline na lekken in PHP-programmeertaal",
+          "url": "https://vrtnws.be/p.RaJMmwl7d",
+          "time": "2026-10-21T12:52:53.000Z",
+          "summary": ""
         },
         {
-          "title": "Na fraude met lonen in provinciaal onderwijs: directeur APP-school Munsterbilzen ontslagen, algemeen directeur verliest ambt",
-          "url": "https://vrtnws.be/p.LNWOGpqn7",
-          "time": "2026-10-21T06:46:58.000Z",
-          "summary": "De Limburgse deputatie heeft 2 schooldirecteurs gestraft na een fraudeonderzoek van Audit Vlaanderen. Dat meldt Het Belang van Limburg. De directeur van de APP-school in…"
+          "title": "Huiszoekingen in Europees Parlement in onderzoek naar voormalige uiterst rechtse fractie ID",
+          "url": "https://vrtnws.be/p.5waNZ6ND8",
+          "time": "2026-10-21T12:51:58.000Z",
+          "summary": "In het Europees Parlement in Brussel en Straatsburg hebben huiszoekingen plaatsgevonden in een onderzoek naar de voormalige uiterst rechtse fractie Identiteit &…"
         },
         {
-          "title": "Dansen op 'Can't take my eyes off you': Julia Stiles herdenkt Heath Ledger met emotionele reünie",
-          "url": "https://vrtnws.be/p.QAbkG11DP",
-          "time": "2026-10-21T06:29:21.000Z",
-          "summary": "Actrice Julia Stiles heeft in de Amerikaanse versie van 'Dancing with the stars' een reünie op poten gezet van de '10 things I hate about you'-cast. Met een bijzondere…"
+          "title": "Antwerps gemeenteraadslid Tim Tubbax verlaat plaats van ongeval: \"Ook als passagier blijf je best ter plaatse\"",
+          "url": "https://vrtnws.be/p.GvodoWVJy",
+          "time": "2026-10-21T12:40:20.000Z",
+          "summary": "In Antwerpen is maandagavond een vrouw ingereden op een terras van een koffiebar nadat ze de controle verloor over het stuur. Ze had te veel gedronken. Er vielen geen…"
         },
         {
-          "title": "Gruwelijk of creatief? Halloweenversiering in Erps-Kwerps verdeelt buurt: \"Vroeg me af of ik moest helpen\"",
-          "url": "https://vrtnws.be/p.pAxQ74yD4",
-          "time": "2026-10-21T06:08:45.000Z",
-          "summary": "Wie de Nederokkerzeelsesteenweg in Erps-Kwerps (Kortenberg) passeert, kan al eens schrikken. Aan een huis hangt een man met 3 pijlen in zijn rug. Geen paniek: het gaat…"
+          "title": "Havenbaas North Sea Port wil snellere vergunningen en maatregelen tegen dumping: \"Dat is waar bedrijven nu veel last van hebben\"",
+          "url": "https://vrtnws.be/p.ew431LVON",
+          "time": "2026-10-21T12:36:45.000Z",
+          "summary": "Cas König, CEO van North Sea Port, pleit voor snellere vergunningverlening en een eerlijker speelveld voor de industrie. Aanleiding is een nieuwe studie over het…"
         }
       ]
     }
