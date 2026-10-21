@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-20T23:01:36.340Z",
+  "generatedAt": "2026-10-21T01:52:28.878Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-20T23:01:36.340Z",
+      "fetchedAt": "2026-10-21T01:52:28.878Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
+          "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
+          "time": "2026-10-20T23:46:21.000Z",
+          "summary": "Apple is continuing to work on 6G, the successor to 5G that's on track to be ready sometime around 2030. Apple has been preparing for the eventual launch of the 6G…"
+        },
+        {
+          "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
+          "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+          "time": "2026-10-20T23:31:23.000Z",
+          "summary": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device early. The…"
+        },
         {
           "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
           "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
           "time": "2026-10-20T19:35:00.000Z",
           "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to…"
-        },
-        {
-          "title": "Here's What Apple's Apps Look Like on the iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
-          "time": "2026-10-20T18:12:50.000Z",
-          "summary": "With just three days to go until the iPhone Duo is released, Apple is getting ready for the launch. Behind the scenes, the App Store now has screenshots of Apple's…"
-        },
-        {
-          "title": "iOS 27.3 May Expand RCS Support to Australia's Telstra in December",
-          "url": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
-          "time": "2026-10-20T17:28:56.000Z",
-          "summary": "In a support document that it has since deleted, Australian carrier Telstra said RCS support would be available starting with an iOS update coming in December. If this…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-20T23:01:36.340Z",
+      "fetchedAt": "2026-10-21T01:52:28.878Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
+          "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
+          "time": "2026-10-21T01:18:32.000Z",
+          "summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are…"
+        },
+        {
+          "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
+          "url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
+          "time": "2026-10-21T01:01:09.000Z",
+          "summary": "German-language dark comedy “ Where’s Wanda? ” is back on Apple TV, with the first episode of its second season now streaming. Here are the details. more…"
+        },
         {
           "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
           "url": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
           "time": "2026-10-20T19:51:56.000Z",
           "summary": "Last week TIME shared select quotes from a new interview with Apple CEO John Ternus, but today the full video has been published , including a discussion on Ternus’s…"
-        },
-        {
-          "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
-          "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
-          "time": "2026-10-20T18:56:15.000Z",
-          "summary": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature…"
-        },
-        {
-          "title": "Apple keeps acquiring companies with one clear goal in mind",
-          "url": "https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/",
-          "time": "2026-10-20T18:14:03.000Z",
-          "summary": "Apple acquires a variety of companies every year, and recently many of its acquisitions— including the latest, Samplab —have revolved around one clear goal: improving…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-20T23:01:36.340Z",
+      "fetchedAt": "2026-10-21T01:52:28.878Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-20T23:01:36.340Z",
+      "fetchedAt": "2026-10-21T01:52:28.878Z",
       "error": null,
       "items": [
         {
