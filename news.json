@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-21T01:52:28.878Z",
+  "generatedAt": "2026-10-21T07:17:26.489Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-21T01:52:28.878Z",
+      "fetchedAt": "2026-10-21T07:17:26.489Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
-          "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
-          "time": "2026-10-20T23:46:21.000Z",
-          "summary": "Apple is continuing to work on 6G, the successor to 5G that's on track to be ready sometime around 2030. Apple has been preparing for the eventual launch of the 6G…"
+          "title": "UK Proposes New Ways to Help Apple Pay Rivals",
+          "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
+          "time": "2026-10-21T04:57:09.000Z",
+          "summary": "The UK's competition regulator has proposed changes to make it easier and cheaper for companies to offer alternatives to Apple Pay on the iPhone (via Reuters ). The…"
         },
         {
-          "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
-          "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
-          "time": "2026-10-20T23:31:23.000Z",
-          "summary": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device early. The…"
+          "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
+          "url": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
+          "time": "2026-10-21T04:15:09.000Z",
+          "summary": "WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WABetaInfo…"
         },
         {
-          "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
-          "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
-          "time": "2026-10-20T22:20:12.000Z",
-          "summary": "Perplexity today said it is updating Perplexity Computer to run fully locally on Mac . The local version runs on Qwen 3.6 or PPLX Pro (a post-trained version of Qwen) in…"
+          "title": "Apple's App Store Chief Explains Its Push for Premium Games",
+          "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
+          "time": "2026-10-21T03:58:10.000Z",
+          "summary": "More premium games are launching on the App Store this year than last, Apple's &zwnj;App Store&zwnj; Worldwide head Carson Oliver told Polygon , including more…"
         },
         {
-          "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know",
-          "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
-          "time": "2026-10-20T19:51:59.000Z",
-          "summary": "Apple is working on a high-end MacBook Pro , and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and a touchscreen. Design…"
+          "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
+          "url": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
+          "time": "2026-10-21T03:24:11.000Z",
+          "summary": "Apple could face additional payments on top of a $5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and royalties on…"
         },
         {
-          "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-          "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
-          "time": "2026-10-20T19:35:00.000Z",
-          "summary": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to…"
+          "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
+          "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
+          "time": "2026-10-21T02:56:30.000Z",
+          "summary": "Bethesda's beloved role-playing game \"The Elder Scrolls V: Skyrim\" has reached multiple generations of consoles since its 2011 debut, but it never officially came to the…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-21T01:52:28.878Z",
+      "fetchedAt": "2026-10-21T07:17:26.489Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-21T01:52:28.878Z",
+      "fetchedAt": "2026-10-21T07:17:26.489Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-21T01:52:28.878Z",
+      "fetchedAt": "2026-10-21T07:17:26.489Z",
       "error": null,
       "items": [
         {
-          "title": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink",
-          "url": "https://vrtnws.be/p.pAxQL16N9",
-          "time": "2026-10-20T21:51:09.000Z",
-          "summary": "Ruimtevaartbedrijf SpaceX heeft de omzet het afgelopen kwartaal ruim verdubbeld. Dat komt dankzij flink toegenomen opbrengsten uit zijn activiteiten rond artificiële…"
+          "title": "Wie is Stephan Hubbard, de Amerikaanse leraar die Trump uit een Russische cel wil halen?",
+          "url": "https://vrtnws.be/p.8ep80Onlo",
+          "time": "2026-10-21T07:13:39.000Z",
+          "summary": "De VS en Rusland onderhandelen momenteel over de vrijlating van de Amerikaanse leraar Stephen Hubbard (74). Hij werd in 2022 gevangengenomen door Rusland, dat hem ervan…"
         },
         {
-          "title": "Steven uit Aarschot vindt Chinese wolhandkrab in zijn kelder: \"Misschien is ze via de riolering binnengekomen\"",
-          "url": "https://vrtnws.be/p.DYMdLy4Em",
-          "time": "2026-10-20T19:47:37.000Z",
-          "summary": "\"Ik ging even iets halen in mijn kelder en plots lag ze daar\": dat vertelt Steven Supply (52) uit Rillaar bij Aarschot die een Chinese wolhandkrab in zijn kelder vond.…"
+          "title": "Verzet tegen aanvliegroute luchthaven Zaventem groeit: 900 Brusselaars sluiten aan bij rechtszaak",
+          "url": "https://vrtnws.be/p.5waN974Qm",
+          "time": "2026-10-21T06:58:10.000Z",
+          "summary": "Meer dan 900 inwoners uit het Brusselse Gewest, verspreid over 370 gezinnen, hebben zich aangesloten bij de rechtszaak tegen de aanvliegroute RNP 07L naar Brussels…"
         },
         {
-          "title": "Ninove weigert voetbalacademie ESOA toegang tot voetbalterreinen, ondanks omkering door provincie: \"Club maakte het te bont\"",
-          "url": "https://vrtnws.be/p.xZYDK9VO9",
-          "time": "2026-10-20T19:11:41.000Z",
-          "summary": "Ninove is niet van plan de voetbalacademie ESOA opnieuw toe te laten op de terreinen van de Pollare. Ook al draaide de provincie de beslissingen van de gemeenteraad om…"
+          "title": "Na fraude met lonen in provinciaal onderwijs: directeur APP-school Munsterbilzen ontslagen, algemeen directeur verliest ambt",
+          "url": "https://vrtnws.be/p.LNWOGpqn7",
+          "time": "2026-10-21T06:46:58.000Z",
+          "summary": "De Limburgse deputatie heeft 2 schooldirecteurs gestraft na een fraudeonderzoek van Audit Vlaanderen. Dat meldt Het Belang van Limburg. De directeur van de APP-school in…"
         },
         {
-          "title": "Parlement in Polen keurt wet goed die abortusregels versoepelt, maar president kan nog veto stellen",
-          "url": "https://vrtnws.be/p.qENqKMEX4",
-          "time": "2026-10-20T18:59:58.000Z",
-          "summary": "In Polen heeft het parlement 2 wetsvoorstellen aangenomen die de abortuswetgeving, een van de strengste in Europa, versoepelen. Mogelijk dwarsboomt de nationalistische…"
+          "title": "Dansen op 'Can't take my eyes off you': Julia Stiles herdenkt Heath Ledger met emotionele reünie",
+          "url": "https://vrtnws.be/p.QAbkG11DP",
+          "time": "2026-10-21T06:29:21.000Z",
+          "summary": "Actrice Julia Stiles heeft in de Amerikaanse versie van 'Dancing with the stars' een reünie op poten gezet van de '10 things I hate about you'-cast. Met een bijzondere…"
         },
         {
-          "title": "Elke dag historische weetjes en dialectuitdrukkingen op de 'Halmanak', de scheurkalender van Halle",
-          "url": "https://vrtnws.be/p.aDem09Bdd",
-          "time": "2026-10-20T18:37:21.000Z",
-          "summary": "Halle heeft voortaan zijn eigen scheurkalender. De 'Halmanak' is een variant op de bekende Druivelaar, met elke dag een blaadje om af te scheuren. Daarop staan leuke…"
+          "title": "Gruwelijk of creatief? Halloweenversiering in Erps-Kwerps verdeelt buurt: \"Vroeg me af of ik moest helpen\"",
+          "url": "https://vrtnws.be/p.pAxQ74yD4",
+          "time": "2026-10-21T06:08:45.000Z",
+          "summary": "Wie de Nederokkerzeelsesteenweg in Erps-Kwerps (Kortenberg) passeert, kan al eens schrikken. Aan een huis hangt een man met 3 pijlen in zijn rug. Geen paniek: het gaat…"
         }
       ]
     }
