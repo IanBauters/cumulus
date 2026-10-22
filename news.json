@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-22T05:17:35.446Z",
+  "generatedAt": "2026-10-22T10:29:16.167Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-22T05:17:35.446Z",
+      "fetchedAt": "2026-10-22T10:29:16.167Z",
       "error": null,
       "items": [
+        {
+          "title": "Tesla App Gains iPad and iPhone Duo Support",
+          "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
+          "time": "2026-10-22T06:48:11.000Z",
+          "summary": "Tesla this week updated its app with native iPad and iPhone Duo support, adapting its vehicle and home energy controls for larger displays. Previously, &zwnj;iPad&zwnj;…"
+        },
+        {
+          "title": "Apple Reportedly Boosts iPhone Duo Orders by 44%",
+          "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
+          "time": "2026-10-22T06:23:10.000Z",
+          "summary": "Strong pre-orders have reportedly prompted Apple to order millions more iPhone Duo units from suppliers, according to DigiTimes . Supply chain sources said Foxconn and…"
+        },
+        {
+          "title": "Fortnite Returning to Australian App Store After Court Ruling",
+          "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
+          "time": "2026-10-22T05:55:06.000Z",
+          "summary": "Fortnite will return to Australia's App Store today, Epic Games told Reuters , after a federal court ordered Apple to allow eligible Epic apps back onto the store.…"
+        },
+        {
+          "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+          "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
+          "time": "2026-10-22T05:41:09.000Z",
+          "summary": "Australia's Federal Court today ordered Apple to allow competing app stores, direct app downloads, and alternative payment services for Australian users from March 1,…"
+        },
         {
           "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
           "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
           "time": "2026-10-22T05:15:09.000Z",
           "summary": "Apple's efforts to cut supply chain emissions face persistent challenges among printed circuit board manufacturers, where demand for more advanced components is…"
-        },
-        {
-          "title": "Things Updated for iPhone Duo With Adaptive Layout",
-          "url": "https://www.macrumors.com/2026/10/22/things-updated-for-iphone-duo/",
-          "time": "2026-10-22T04:52:10.000Z",
-          "summary": "Cultured Code has updated its task management app Things with support for the iPhone Duo , introducing an adaptive layout, a sidebar, and multi-window support ahead of…"
-        },
-        {
-          "title": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
-          "url": "https://www.macrumors.com/2026/10/22/simplicity-and-siri-ai-homeview-killer-features/",
-          "time": "2026-10-22T04:28:25.000Z",
-          "summary": "Apple designed Siri AI on the HomeView to complete household tasks with natural voice commands and minimal follow-up questions, executives told The Verge , emphasizing…"
-        },
-        {
-          "title": "iPhone Duo Reviewers Really Miss Face ID",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/",
-          "time": "2026-10-22T03:31:12.000Z",
-          "summary": "Touch ID on the iPhone Duo might end up being frustrating for some users, based on media reviews that came out today. Multiple reviewers found &zwnj;Touch ID&zwnj; to be…"
-        },
-        {
-          "title": "Apple Music's New Look is Now Live on Apple's Website",
-          "url": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/",
-          "time": "2026-10-21T22:51:59.000Z",
-          "summary": "As spotted by Hidde Collee , the Apple Music page on Apple's website now has the updated branding that Apple officially introduced earlier today . Apple Music has a new…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-22T05:17:35.446Z",
+      "fetchedAt": "2026-10-22T10:29:16.167Z",
       "error": null,
       "items": [
+        {
+          "title": "Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple",
+          "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
+          "time": "2026-10-22T09:56:28.000Z",
+          "summary": "The iPhone Duo comes out tomorrow but, given the strong pre-order demand, it is already looking to be a smash hit. And we are all expecting Apple to follow up with a…"
+        },
         {
           "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
           "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/",
           "time": "2026-10-21T20:05:13.000Z",
           "summary": "iOS 27.2 launches next week , and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread…"
-        },
-        {
-          "title": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
-          "url": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
-          "time": "2026-10-21T19:39:25.000Z",
-          "summary": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-22T05:17:35.446Z",
+      "fetchedAt": "2026-10-22T10:29:16.167Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-22T05:17:35.446Z",
+      "fetchedAt": "2026-10-22T10:29:16.167Z",
       "error": null,
       "items": [
         {
-          "title": "Overgang naar wintertijd: meer ernstige ongevallen met voetgangers",
-          "url": "https://vrtnws.be/p.E1dkDL1pj",
-          "time": "2026-10-22T05:09:48.000Z",
-          "summary": "Het aantal ernstige ongevallen met voetgangers stijgt met 73 procent na de overgang naar wintertijd. Dat blijkt uit een nieuwe statistische analyse van het…"
+          "title": "Voor de 'Top gun'-fans: scheur door de lucht in 'Ace combat 8'",
+          "url": "https://vrtnws.be/p.vLlZQmDoN",
+          "time": "2026-10-22T10:18:13.000Z",
+          "summary": "Enkele jaren geleden kreeg de filmklassieker 'Top gun' eindelijk een vervolg, maar voor wie nooit genoeg krijgt van razendsnelle luchtactie is er nu ook 'Ace combat 8:…"
         },
         {
-          "title": "Kankeronderzoeksinstituut CRIG in Gent bestaat 10 jaar: \"Springplank voor jonge onderzoekers\"",
-          "url": "https://vrtnws.be/p.3Bwdy1EXD",
-          "time": "2026-10-22T05:06:11.000Z",
-          "summary": "Het Kankeronderzoeksinstituut Gent (CRIG) bestaat deze maand 10 jaar. Het instituut verbindt 700 laboranten, artsen en biomedici die onderzoek doen naar kanker in de…"
+          "title": "Internationaal Strafhof krijgt prestigieuze Sacharovprijs van Europees Parlement",
+          "url": "https://vrtnws.be/p.LNWKaMkqv",
+          "time": "2026-10-22T10:06:05.000Z",
+          "summary": "Het Internationaal Strafhof in Den Haag heeft de prestigieuze Sacharovprijs gewonnen. Dat is de jaarlijkse onderscheiding van het Europees Parlement voor verdedigers van…"
         },
         {
-          "title": "Centrum Melle onderbroken door groot waterlek: \"Vermijd centrum\"",
-          "url": "https://vrtnws.be/p.0YpOQ1JAm",
-          "time": "2026-10-22T05:03:08.000Z",
-          "summary": "Het centrum van Melle is momenteel onderbroken door een groot waterlek. Bij werken van Elia werd gisteren een waterleiding geraakt. Om het lek te herstellen, moest de…"
+          "title": "Werkstraf van 120 uur voor 20-jarige man die BOB-chauffeur zwaargewond achterlaat in Gent",
+          "url": "https://vrtnws.be/p.KK87KvJXG",
+          "time": "2026-10-22T10:05:31.000Z",
+          "summary": "De Gentse correctionele rechtbank heeft een 20-jarige man veroordeeld tot een werkstraf van 120 uur wegens onder meer opzettelijke slagen en verwondingen aan een…"
         },
         {
-          "title": "Leerlingen PISO Tienen timmeren rolstoel om tot mini-ambulance voor jonge ziekenhuispatiëntjes",
-          "url": "https://vrtnws.be/p.93pB8ANb7",
-          "time": "2026-10-22T04:54:39.000Z",
-          "summary": "Leerlingen van het Provinciaal Instituut voor Secundair Onderwijs (PISO) in Tienen timmerden een rolstoel om tot een miniatuurambulance. Uitgerust met een stuurtje en…"
+          "title": "Overleden vrouw met AI op scène, theatermarathon van 5 uur en woordloze voorstelling: NTGent trapt nieuw seizoen af",
+          "url": "https://vrtnws.be/p.dLRmkn7Je",
+          "time": "2026-10-22T10:00:00.000Z",
+          "summary": "NTGent opent het theaterseizoen met bijzondere producties die passen in het thema 'Melancholie als verzet'. Een voorstelling zonder woorden én gezichten bijt de spits…"
         },
         {
-          "title": "Studentenkring Apolloon wint Leuvense 24 urenloop met recordaantal van 1.115 rondjes",
-          "url": "https://vrtnws.be/p.oLqwBy14Y",
-          "time": "2026-10-22T04:37:35.000Z",
-          "summary": "Studentenkring Apolloon heeft woensdagavond de 54ste editie van de 24 urenloop in Leuven gewonnen. Dat gebeurde met een recordaantal van 1.115 rondjes. De studentenkring…"
+          "title": "Gent mikt op 150 miljoen nieuwe besparingen en 400 miljoen minder investeringen: \"We moeten keuzes maken\"",
+          "url": "https://vrtnws.be/p.lObAO7a9V",
+          "time": "2026-10-22T09:58:18.000Z",
+          "summary": "Het Gentse stadsbestuur is begonnen aan een \"overgedimensioneerde\" besparingsoefening en mikt op 150 miljoen euro minder werkingsbudget per jaar. De bedoeling is ook dat…"
         }
       ]
     }
