@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-22T15:34:05.506Z",
+  "generatedAt": "2026-10-22T19:50:10.814Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-22T15:34:05.506Z",
+      "fetchedAt": "2026-10-22T19:50:10.814Z",
       "error": null,
       "items": [
+        {
+          "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
+          "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
+          "time": "2026-10-22T18:50:41.000Z",
+          "summary": "To celebrate the launch of the iPhone Duo this Friday, Apple has set up oversized iPhone Duo promotional displays at Apple Fifth Avenue in New York City, Apple Covent…"
+        },
+        {
+          "title": "Apple Pulls Keynote, Pages and Numbers From App Store",
+          "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+          "time": "2026-10-22T18:01:29.000Z",
+          "summary": "Apple has temporarily removed Keynote, Pages, and Numbers from the App Store , just after releasing an update that added iPhone Duo support and a new Intelligent…"
+        },
+        {
+          "title": "Apple Updates More Apps With iPhone Duo Support",
+          "url": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+          "time": "2026-10-22T17:31:41.000Z",
+          "summary": "Apple today updated its TestFlight and GarageBand apps with support for the iPhone Duo 's inner and outer displays. Both apps have the vertical toolbar and will now…"
+        },
         {
           "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
           "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/22/f1-apple-tv-dolby-atmos/",
           "time": "2026-10-22T14:11:14.000Z",
           "summary": "Apple today announced that F1 races on the Apple TV streaming service will now be broadcast with Dolby Atmos spatial sound, starting with the 2026 U.S. Grand Prix in…"
-        },
-        {
-          "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
-          "time": "2026-10-22T13:52:35.000Z",
-          "summary": "Apple today highlighted more than 50 third-party App Store apps that are or will soon be fully optimized for the iPhone Duo and its various layouts and poses. You can…"
-        },
-        {
-          "title": "Apple Blocks Certificates That Could Help Attackers Fake Websites",
-          "url": "https://www.macrumors.com/2026/10/22/apple-blocks-certificates-that-could-help-attackers/",
-          "time": "2026-10-22T11:43:09.000Z",
-          "summary": "Apple has blocked compromised security certificates on its devices that could help attackers impersonate websites, BleepingComputer reports . The certificates were…"
-        },
-        {
-          "title": "Giant iPhone Duo Installations Spotted at Apple Fifth Avenue",
-          "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duo-apple-fifth-avenue/",
-          "time": "2026-10-22T11:02:36.000Z",
-          "summary": "Apple is preparing what appear to be giant iPhone Duo displays outside its Fifth Avenue store in New York ahead of the device's launch on Friday, October 23. Photos from…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-22T15:34:05.506Z",
+      "fetchedAt": "2026-10-22T19:50:10.814Z",
       "error": null,
       "items": [
         {
-          "title": "iOS 27.2 introduces design changes for these Apple apps",
-          "url": "https://9to5mac.com/2026/10/22/ios-27-2-introduces-design-changes-for-these-apple-apps/",
-          "time": "2026-10-22T14:49:17.000Z",
-          "summary": "iOS 27.2 launches next week with a variety of new features , and also design changes for select Apple apps. Here’s what’s coming. more…"
+          "title": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks",
+          "url": "https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks/",
+          "time": "2026-10-22T18:46:45.000Z",
+          "summary": "Today Amazon announced that its Kindle Unlimited subscription has been rebranded ‘Kindle+’ and includes more audiobooks than before. Here are the details. more…"
         },
         {
-          "title": "First iPhone Duo pre-orders now say ‘shipped’ ahead of launch",
-          "url": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
-          "time": "2026-10-22T13:52:51.000Z",
-          "summary": "iPhone Duo arrives in stores tomorrow ( details on availability here ), and Apple has started marking early pre-orders with launch day delivery as “shipped.” more…"
+          "title": "Apple TV is adding two new features with iOS 27.2",
+          "url": "https://9to5mac.com/2026/10/22/apple-tv-is-adding-two-new-features-with-ios-27-2/",
+          "time": "2026-10-22T18:16:52.000Z",
+          "summary": "iOS 27.2 is coming next week and brings two new features for Apple TV subscribers. Here’s what’s new. more…"
         },
         {
-          "title": "Apple reportedly boosts iPhone Duo orders by more than 40% given strong demand",
-          "url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
-          "time": "2026-10-22T13:29:29.000Z",
-          "summary": "Supply chain reports suggest that Apple has increased iPhone Duo orders by more than 40% in response to what the company described as “extraordinary” pre-order demand.…"
+          "title": "Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee",
+          "url": "https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/",
+          "time": "2026-10-22T17:48:26.000Z",
+          "summary": "Starting tomorrow, Orangetheory Fitness will allow members to connect the Apple Watch to the club’s proprietary in-studio performance-tracking experience. Using a…"
         },
         {
-          "title": "Apple says developers are showing ‘incredible’ support for the iPhone Duo",
-          "url": "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/",
-          "time": "2026-10-22T12:28:16.000Z",
-          "summary": "One of the major issues raised by early reviews of the iPhone Duo is limited support by third-party apps. As we noted in our own review , there are three tiers of…"
+          "title": "Pages, Keynote, Numbers just added powerful new AI features",
+          "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+          "time": "2026-10-22T17:44:43.000Z",
+          "summary": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s…"
         },
         {
-          "title": "What’s going on with the web? The PHP issue and sites going offline",
-          "url": "https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline/",
-          "time": "2026-10-22T12:10:22.000Z",
-          "summary": "A significant number of websites have gone offline, and that’s not due to a service outage, but rather a deliberate decision by the site’s owners. The reason is because…"
+          "title": "Arc browser gets a sunset date, and users have two months to move on",
+          "url": "https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/",
+          "time": "2026-10-22T17:28:58.000Z",
+          "summary": "The Browser Company announced plans to discontinue its flagship Arc browser in favor of a new browser project called Dia. Today, Arc received a sunset date that gives…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-22T15:34:05.506Z",
+      "fetchedAt": "2026-10-22T19:50:10.814Z",
       "error": null,
       "items": [
+        {
+          "title": "Building for iPhone Duo, in App Developers’ Own Words",
+          "url": "https://www.macstories.net/stories/building-for-iphone-duo-in-app-developers-own-words/",
+          "time": "2026-10-22T16:32:11.000Z",
+          "summary": "I spent yesterday in New York City interviewing developers about their iPhone Duo apps and the experience of building for such a new and different device. The depth and…"
+        },
         {
           "title": "iPhone Duo Review Roundup: Great Hinge, Messy Apps, and Everybody Misses Face ID",
           "url": "https://www.macstories.net/roundups/iphone-duo-review-roundup-great-hinge-messy-apps-and-everybody-misses-face-id/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/reviews/chatgpt-dots-gain-widget-and-new-shortcuts-actions/",
           "time": "2026-10-19T13:34:42.000Z",
           "summary": "Late Friday, OpenAI updated the ChatGPT app on iOS and iPadOS with a new widget for your Dot and Shortcuts actions that let you control it three ways. The implementation…"
-        },
-        {
-          "title": "Meta Releases Muse Spark Open, an Over 800 Billion Parameter Model That Can Run Locally on Multiple M5 Ultra Mac Studios",
-          "url": "https://www.macstories.net/news/meta-releases-muse-spark-open-an-over-800-billion-parameter-model-that-can-run-locally-on-multiple-m5-ultra-mac-studios/",
-          "time": "2026-10-15T17:10:08.000Z",
-          "summary": "Meta just released the weights for Muse Spark Open, a multimodal large language model with a mixture-of-experts architecture. It has over 800 billion parameters in…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-22T15:34:05.506Z",
+      "fetchedAt": "2026-10-22T19:50:10.814Z",
       "error": null,
       "items": [
         {
-          "title": "Stad vraagt fietsers om trager te rijden op begraafplaats in Leuven: \"Niet bedoeling om rouwstoeten te storen\"",
-          "url": "https://vrtnws.be/p.mRJnQqONE",
-          "time": "2026-10-22T15:30:32.000Z",
-          "summary": "Het Leuvense bestuur vraagt aan fietsers om hun snelheid aan te passen op de begraafplaats. Schepen Bieke Verlinden (Vooruit) kreeg al enkele opmerkingen over te snelle…"
+          "title": "Duiker spuit 12 dagen vet uit riool onder Molenpoort in Hasselt: \"Eerste keer dat we dit doen\"",
+          "url": "https://vrtnws.be/p.RaJq01JMd",
+          "time": "2026-10-22T18:56:05.000Z",
+          "summary": "Een duiker zal de komende 12 dagen met een hogedrukreiniger het aangekoekte vet uit de riolering onder de Molenpoort in Hasselt wegspuiten. De ondergrondse riolering is…"
         },
         {
-          "title": "Dieven stelen voor 157.000 euro aan fietsen bij winkel in Sint-Niklaas: \"Ze wisten perfect welke fietsen ze wilden\"",
-          "url": "https://vrtnws.be/p.PqOPdv0Je",
-          "time": "2026-10-22T15:19:05.000Z",
-          "summary": "Dieven hebben voor in totaal 157.000 euro aan fietsen gestolen bij fietsenwinkel HBC Premium Bikes in Sint-Niklaas. Zaakvoerder Tom Temmerman (38) kon de inbraak via…"
+          "title": "Miran Scheers wordt Brussels drugscommissaris",
+          "url": "https://vrtnws.be/p.mRJnYBVQ7",
+          "time": "2026-10-22T18:45:45.000Z",
+          "summary": "De Brusselse ministerraad heeft Miran Scheers tot gewestelijk drugscommissaris benoemd. Dat meldt Brussels minister-president Boris Dilliès. Scheers is criminologe van…"
         },
         {
-          "title": "Duitse WO II-onderzeeër die door typefout verdwenen was na 82 jaar teruggevonden",
-          "url": "https://vrtnws.be/p.y31GxDAoW",
-          "time": "2026-10-22T15:16:37.000Z",
-          "summary": "Voor de Engelse kust is bij toeval een Duitse onderzeeër uit de Tweede Wereldoorlog teruggevonden. De onderzeeër was 82 jaar lang vermist. De oorzaak? Een typefout in de…"
+          "title": "Op site van oude centrale Langerlo in Genk staan 106 Tesla-batterijen klaar: \"Genoeg stroom voor 40.000 gezinnen\"",
+          "url": "https://vrtnws.be/p.RaJqa7yYM",
+          "time": "2026-10-22T18:43:07.000Z",
+          "summary": "Op de site van de oude centrale in Langerlo bij Genk zijn 106 Tesla-batterijen geleverd voor Storms batterijpark van 100 MW. Het project van 100 miljoen euro moet in…"
         },
         {
-          "title": "Dendermonde voert samenscholingsverbod en gerichte identiteitscontroles in tot 3 januari",
-          "url": "https://vrtnws.be/p.qENmPQW7V",
-          "time": "2026-10-22T15:13:52.000Z",
-          "summary": "Burgemeester Lien Dierick (CD&V) van Dendermonde neemt 2 tijdelijke maatregelen om de veiligheid en leefbaarheid te bewaken. Het gaat om een samenscholingsverbod op Oude…"
+          "title": "Geen diepgangbeperkingen meer op Kanaal Gent-Terneuzen na regen, maar verzilting blijft hoog",
+          "url": "https://vrtnws.be/p.y31G0vwWA",
+          "time": "2026-10-22T18:25:24.000Z",
+          "summary": "Op het Kanaal Gent-Terneuzen gelden geen diepgangbeperkingen meer. Door de regen van de voorbije periode en de verwachte neerslag rekent de waterbeheerder op een stabiel…"
         },
         {
-          "title": "Acteur Matthew McConaughey roept op om te stemmen voor onafhankelijke kandidaten: heeft dat zin in Amerika?",
-          "url": "https://vrtnws.be/p.ZWKOWGQdM",
-          "time": "2026-10-22T15:10:39.000Z",
-          "summary": "Acteur Matthew McConaughey roept Amerikaanse kiezers op om een stem voor onafhankelijke kandidaten te overwegen tijdens de aankomende 'midterms'. Hij gelooft dat meer…"
+          "title": "Minister Crevits neemt dossier fietspad Langestraat in Pajottegem mee naar de Vlaamse regering",
+          "url": "https://vrtnws.be/p.43p14PmZv",
+          "time": "2026-10-22T18:16:46.000Z",
+          "summary": "Minister van Binnenland, Steden- en Plattelandsbeleid Hilde Crevits (CD&V) bezocht vandaag het gemeentebestuur van Pajottegem. Ze luisterde naar de ervaringen met de…"
         }
       ]
     }
