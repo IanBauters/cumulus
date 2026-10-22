@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-22T10:29:16.167Z",
+  "generatedAt": "2026-10-22T15:34:05.506Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-22T10:29:16.167Z",
+      "fetchedAt": "2026-10-22T15:34:05.506Z",
       "error": null,
       "items": [
         {
-          "title": "Tesla App Gains iPad and iPhone Duo Support",
-          "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
-          "time": "2026-10-22T06:48:11.000Z",
-          "summary": "Tesla this week updated its app with native iPad and iPhone Duo support, adapting its vehicle and home energy controls for larger displays. Previously, &zwnj;iPad&zwnj;…"
+          "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
+          "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+          "time": "2026-10-22T14:40:36.000Z",
+          "summary": "In its press release highlighting apps that have been optimized for the iPhone Duo , Apple said the App Store will label apps that are \"Made for iPhone Duo.\" In order…"
         },
         {
-          "title": "Apple Reportedly Boosts iPhone Duo Orders by 44%",
-          "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
-          "time": "2026-10-22T06:23:10.000Z",
-          "summary": "Strong pre-orders have reportedly prompted Apple to order millions more iPhone Duo units from suppliers, according to DigiTimes . Supply chain sources said Foxconn and…"
+          "title": "F1 on Apple TV Now Available in Dolby Atmos",
+          "url": "https://www.macrumors.com/2026/10/22/f1-apple-tv-dolby-atmos/",
+          "time": "2026-10-22T14:11:14.000Z",
+          "summary": "Apple today announced that F1 races on the Apple TV streaming service will now be broadcast with Dolby Atmos spatial sound, starting with the 2026 U.S. Grand Prix in…"
         },
         {
-          "title": "Fortnite Returning to Australian App Store After Court Ruling",
-          "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
-          "time": "2026-10-22T05:55:06.000Z",
-          "summary": "Fortnite will return to Australia's App Store today, Epic Games told Reuters , after a federal court ordered Apple to allow eligible Epic apps back onto the store.…"
+          "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
+          "time": "2026-10-22T13:52:35.000Z",
+          "summary": "Apple today highlighted more than 50 third-party App Store apps that are or will soon be fully optimized for the iPhone Duo and its various layouts and poses. You can…"
         },
         {
-          "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
-          "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
-          "time": "2026-10-22T05:41:09.000Z",
-          "summary": "Australia's Federal Court today ordered Apple to allow competing app stores, direct app downloads, and alternative payment services for Australian users from March 1,…"
+          "title": "Apple Blocks Certificates That Could Help Attackers Fake Websites",
+          "url": "https://www.macrumors.com/2026/10/22/apple-blocks-certificates-that-could-help-attackers/",
+          "time": "2026-10-22T11:43:09.000Z",
+          "summary": "Apple has blocked compromised security certificates on its devices that could help attackers impersonate websites, BleepingComputer reports . The certificates were…"
         },
         {
-          "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
-          "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
-          "time": "2026-10-22T05:15:09.000Z",
-          "summary": "Apple's efforts to cut supply chain emissions face persistent challenges among printed circuit board manufacturers, where demand for more advanced components is…"
+          "title": "Giant iPhone Duo Installations Spotted at Apple Fifth Avenue",
+          "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duo-apple-fifth-avenue/",
+          "time": "2026-10-22T11:02:36.000Z",
+          "summary": "Apple is preparing what appear to be giant iPhone Duo displays outside its Fifth Avenue store in New York ahead of the device's launch on Friday, October 23. Photos from…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-22T10:29:16.167Z",
+      "fetchedAt": "2026-10-22T15:34:05.506Z",
       "error": null,
       "items": [
         {
-          "title": "Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple",
-          "url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
-          "time": "2026-10-22T09:56:28.000Z",
-          "summary": "The iPhone Duo comes out tomorrow but, given the strong pre-order demand, it is already looking to be a smash hit. And we are all expecting Apple to follow up with a…"
+          "title": "iOS 27.2 introduces design changes for these Apple apps",
+          "url": "https://9to5mac.com/2026/10/22/ios-27-2-introduces-design-changes-for-these-apple-apps/",
+          "time": "2026-10-22T14:49:17.000Z",
+          "summary": "iOS 27.2 launches next week with a variety of new features , and also design changes for select Apple apps. Here’s what’s coming. more…"
         },
         {
-          "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
-          "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
-          "time": "2026-10-22T03:57:58.000Z",
-          "summary": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games. Apple has…"
+          "title": "First iPhone Duo pre-orders now say ‘shipped’ ahead of launch",
+          "url": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
+          "time": "2026-10-22T13:52:51.000Z",
+          "summary": "iPhone Duo arrives in stores tomorrow ( details on availability here ), and Apple has started marking early pre-orders with launch day delivery as “shipped.” more…"
         },
         {
-          "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
-          "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
-          "time": "2026-10-21T23:16:18.000Z",
-          "summary": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the…"
+          "title": "Apple reportedly boosts iPhone Duo orders by more than 40% given strong demand",
+          "url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
+          "time": "2026-10-22T13:29:29.000Z",
+          "summary": "Supply chain reports suggest that Apple has increased iPhone Duo orders by more than 40% in response to what the company described as “extraordinary” pre-order demand.…"
         },
         {
-          "title": "Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit",
-          "url": "https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/",
-          "time": "2026-10-21T21:44:49.000Z",
-          "summary": "Apple and the Department of Justice have submitted a joint notice of impasse over how recent Apple’s documents must be to fall within the scope of discovery in their…"
+          "title": "Apple says developers are showing ‘incredible’ support for the iPhone Duo",
+          "url": "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/",
+          "time": "2026-10-22T12:28:16.000Z",
+          "summary": "One of the major issues raised by early reviews of the iPhone Duo is limited support by third-party apps. As we noted in our own review , there are three tiers of…"
         },
         {
-          "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
-          "url": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/",
-          "time": "2026-10-21T20:05:13.000Z",
-          "summary": "iOS 27.2 launches next week , and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread…"
+          "title": "What’s going on with the web? The PHP issue and sites going offline",
+          "url": "https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline/",
+          "time": "2026-10-22T12:10:22.000Z",
+          "summary": "A significant number of websites have gone offline, and that’s not due to a service outage, but rather a deliberate decision by the site’s owners. The reason is because…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-22T10:29:16.167Z",
+      "fetchedAt": "2026-10-22T15:34:05.506Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-22T10:29:16.167Z",
+      "fetchedAt": "2026-10-22T15:34:05.506Z",
       "error": null,
       "items": [
         {
-          "title": "Voor de 'Top gun'-fans: scheur door de lucht in 'Ace combat 8'",
-          "url": "https://vrtnws.be/p.vLlZQmDoN",
-          "time": "2026-10-22T10:18:13.000Z",
-          "summary": "Enkele jaren geleden kreeg de filmklassieker 'Top gun' eindelijk een vervolg, maar voor wie nooit genoeg krijgt van razendsnelle luchtactie is er nu ook 'Ace combat 8:…"
+          "title": "Stad vraagt fietsers om trager te rijden op begraafplaats in Leuven: \"Niet bedoeling om rouwstoeten te storen\"",
+          "url": "https://vrtnws.be/p.mRJnQqONE",
+          "time": "2026-10-22T15:30:32.000Z",
+          "summary": "Het Leuvense bestuur vraagt aan fietsers om hun snelheid aan te passen op de begraafplaats. Schepen Bieke Verlinden (Vooruit) kreeg al enkele opmerkingen over te snelle…"
         },
         {
-          "title": "Internationaal Strafhof krijgt prestigieuze Sacharovprijs van Europees Parlement",
-          "url": "https://vrtnws.be/p.LNWKaMkqv",
-          "time": "2026-10-22T10:06:05.000Z",
-          "summary": "Het Internationaal Strafhof in Den Haag heeft de prestigieuze Sacharovprijs gewonnen. Dat is de jaarlijkse onderscheiding van het Europees Parlement voor verdedigers van…"
+          "title": "Dieven stelen voor 157.000 euro aan fietsen bij winkel in Sint-Niklaas: \"Ze wisten perfect welke fietsen ze wilden\"",
+          "url": "https://vrtnws.be/p.PqOPdv0Je",
+          "time": "2026-10-22T15:19:05.000Z",
+          "summary": "Dieven hebben voor in totaal 157.000 euro aan fietsen gestolen bij fietsenwinkel HBC Premium Bikes in Sint-Niklaas. Zaakvoerder Tom Temmerman (38) kon de inbraak via…"
         },
         {
-          "title": "Werkstraf van 120 uur voor 20-jarige man die BOB-chauffeur zwaargewond achterlaat in Gent",
-          "url": "https://vrtnws.be/p.KK87KvJXG",
-          "time": "2026-10-22T10:05:31.000Z",
-          "summary": "De Gentse correctionele rechtbank heeft een 20-jarige man veroordeeld tot een werkstraf van 120 uur wegens onder meer opzettelijke slagen en verwondingen aan een…"
+          "title": "Duitse WO II-onderzeeër die door typefout verdwenen was na 82 jaar teruggevonden",
+          "url": "https://vrtnws.be/p.y31GxDAoW",
+          "time": "2026-10-22T15:16:37.000Z",
+          "summary": "Voor de Engelse kust is bij toeval een Duitse onderzeeër uit de Tweede Wereldoorlog teruggevonden. De onderzeeër was 82 jaar lang vermist. De oorzaak? Een typefout in de…"
         },
         {
-          "title": "Overleden vrouw met AI op scène, theatermarathon van 5 uur en woordloze voorstelling: NTGent trapt nieuw seizoen af",
-          "url": "https://vrtnws.be/p.dLRmkn7Je",
-          "time": "2026-10-22T10:00:00.000Z",
-          "summary": "NTGent opent het theaterseizoen met bijzondere producties die passen in het thema 'Melancholie als verzet'. Een voorstelling zonder woorden én gezichten bijt de spits…"
+          "title": "Dendermonde voert samenscholingsverbod en gerichte identiteitscontroles in tot 3 januari",
+          "url": "https://vrtnws.be/p.qENmPQW7V",
+          "time": "2026-10-22T15:13:52.000Z",
+          "summary": "Burgemeester Lien Dierick (CD&V) van Dendermonde neemt 2 tijdelijke maatregelen om de veiligheid en leefbaarheid te bewaken. Het gaat om een samenscholingsverbod op Oude…"
         },
         {
-          "title": "Gent mikt op 150 miljoen nieuwe besparingen en 400 miljoen minder investeringen: \"We moeten keuzes maken\"",
-          "url": "https://vrtnws.be/p.lObAO7a9V",
-          "time": "2026-10-22T09:58:18.000Z",
-          "summary": "Het Gentse stadsbestuur is begonnen aan een \"overgedimensioneerde\" besparingsoefening en mikt op 150 miljoen euro minder werkingsbudget per jaar. De bedoeling is ook dat…"
+          "title": "Acteur Matthew McConaughey roept op om te stemmen voor onafhankelijke kandidaten: heeft dat zin in Amerika?",
+          "url": "https://vrtnws.be/p.ZWKOWGQdM",
+          "time": "2026-10-22T15:10:39.000Z",
+          "summary": "Acteur Matthew McConaughey roept Amerikaanse kiezers op om een stem voor onafhankelijke kandidaten te overwegen tijdens de aankomende 'midterms'. Hij gelooft dat meer…"
         }
       ]
     }
