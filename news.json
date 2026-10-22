@@ -1,18 +1,30 @@
 {
-  "generatedAt": "2026-10-21T21:54:22.263Z",
+  "generatedAt": "2026-10-22T00:29:51.303Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-21T21:54:22.263Z",
+      "fetchedAt": "2026-10-22T00:29:51.303Z",
       "error": null,
       "items": [
         {
+          "title": "iPhone Duo Reviewers Really Miss Face ID",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/",
+          "time": "2026-10-21T23:27:31.000Z",
+          "summary": "Touch ID on the iPhone Duo might end up being frustrating for some users, based on media reviews that came out today. Multiple reviewers found &zwnj;Touch ID&zwnj; to be…"
+        },
+        {
           "title": "Apple Music's New Look is Now Live on Apple's Website",
           "url": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/",
-          "time": "2026-10-21T21:24:31.000Z",
+          "time": "2026-10-21T22:51:59.000Z",
           "summary": "As spotted by Hidde Collee , the Apple Music page on Apple's website now has the updated branding that Apple officially introduced earlier today . Apple Music has a new…"
+        },
+        {
+          "title": "Does the iPhone Duo Run Hot? Here's What Reviews Found",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/",
+          "time": "2026-10-21T22:05:15.000Z",
+          "summary": "Multiple iPhone Duo reviews covered the device's thermal properties, and reviewer opinions varied. Some found that it was just warm, while others thought it was running…"
         },
         {
           "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
           "time": "2026-10-21T20:21:07.000Z",
           "summary": "As noted by Miles Franklin , the iPhone Duo's inner display supports Edge Light, an optional setting that debuted on Apple silicon Macs last year . On video calls in…"
-        },
-        {
-          "title": "What 32,000 Folds Did to the iPhone Duo's Hinge",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
-          "time": "2026-10-21T20:05:27.000Z",
-          "summary": "Apple hasn't shared iPhone Duo hinge tests or given a lifetime fold number like Samsung, but Joanna Stern used a custom device to subject her review unit to more than…"
-        },
-        {
-          "title": "iPhone Duo's Hidden FaceTime Camera Takes 'Trash' Photos",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-facetime-camera/",
-          "time": "2026-10-21T18:36:52.000Z",
-          "summary": "The iPhone Duo 's inner screen has an under-display front camera that's largely hidden from view. It's the first time we've seen an under-display camera on an iPhone,…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-21T21:54:22.263Z",
+      "fetchedAt": "2026-10-22T00:29:51.303Z",
       "error": null,
       "items": [
+        {
+          "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
+          "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
+          "time": "2026-10-21T23:16:18.000Z",
+          "summary": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the…"
+        },
         {
           "title": "Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit",
           "url": "https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/21/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
           "time": "2026-10-21T19:13:08.000Z",
           "summary": "iPadOS 27.2 launches next week, and among its many new features , Apple has also brought over a recent Mac addition: a Siri popup when text is selected. more…"
-        },
-        {
-          "title": "Photographer Tyler Stalman reviews iPhone Duo’s new cameras",
-          "url": "https://9to5mac.com/2026/10/21/photographer-tyler-stalman-reviews-iphone-duos-new-cameras/",
-          "time": "2026-10-21T18:17:11.000Z",
-          "summary": "iPhone Duo is almost here, and our in-depth 9to5Mac review was published today . While that review offers plenty of insights into iPhone Duo’s cameras, if you want a…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-21T21:54:22.263Z",
+      "fetchedAt": "2026-10-22T00:29:51.303Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-21T21:54:22.263Z",
+      "fetchedAt": "2026-10-22T00:29:51.303Z",
       "error": null,
       "items": [
         {
