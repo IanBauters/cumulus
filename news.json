@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-10-22T00:29:51.303Z",
+  "generatedAt": "2026-10-22T05:17:35.446Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-22T00:29:51.303Z",
+      "fetchedAt": "2026-10-22T05:17:35.446Z",
       "error": null,
       "items": [
         {
+          "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
+          "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
+          "time": "2026-10-22T05:15:09.000Z",
+          "summary": "Apple's efforts to cut supply chain emissions face persistent challenges among printed circuit board manufacturers, where demand for more advanced components is…"
+        },
+        {
+          "title": "Things Updated for iPhone Duo With Adaptive Layout",
+          "url": "https://www.macrumors.com/2026/10/22/things-updated-for-iphone-duo/",
+          "time": "2026-10-22T04:52:10.000Z",
+          "summary": "Cultured Code has updated its task management app Things with support for the iPhone Duo , introducing an adaptive layout, a sidebar, and multi-window support ahead of…"
+        },
+        {
+          "title": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
+          "url": "https://www.macrumors.com/2026/10/22/simplicity-and-siri-ai-homeview-killer-features/",
+          "time": "2026-10-22T04:28:25.000Z",
+          "summary": "Apple designed Siri AI on the HomeView to complete household tasks with natural voice commands and minimal follow-up questions, executives told The Verge , emphasizing…"
+        },
+        {
           "title": "iPhone Duo Reviewers Really Miss Face ID",
           "url": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/",
-          "time": "2026-10-21T23:27:31.000Z",
+          "time": "2026-10-22T03:31:12.000Z",
           "summary": "Touch ID on the iPhone Duo might end up being frustrating for some users, based on media reviews that came out today. Multiple reviewers found &zwnj;Touch ID&zwnj; to be…"
         },
         {
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/",
           "time": "2026-10-21T22:51:59.000Z",
           "summary": "As spotted by Hidde Collee , the Apple Music page on Apple's website now has the updated branding that Apple officially introduced earlier today . Apple Music has a new…"
-        },
-        {
-          "title": "Does the iPhone Duo Run Hot? Here's What Reviews Found",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/",
-          "time": "2026-10-21T22:05:15.000Z",
-          "summary": "Multiple iPhone Duo reviews covered the device's thermal properties, and reviewer opinions varied. Some found that it was just warm, while others thought it was running…"
-        },
-        {
-          "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
-          "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
-          "time": "2026-10-21T20:53:08.000Z",
-          "summary": "Anthropic today introduced Claude Duet , its answer to Meta's Muse agent and OpenAI's Dots agent . Like Dots and Muse, it is a proactive agent that \"reaches out before…"
-        },
-        {
-          "title": "iPhone Duo Has 'Edge Light' Feature That Debuted on Macs Last Year",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
-          "time": "2026-10-21T20:21:07.000Z",
-          "summary": "As noted by Miles Franklin , the iPhone Duo's inner display supports Edge Light, an optional setting that debuted on Apple silicon Macs last year . On video calls in…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-22T00:29:51.303Z",
+      "fetchedAt": "2026-10-22T05:17:35.446Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+          "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
+          "time": "2026-10-22T03:57:58.000Z",
+          "summary": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games. Apple has…"
+        },
         {
           "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
           "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
           "time": "2026-10-21T19:39:25.000Z",
           "summary": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when…"
-        },
-        {
-          "title": "iPadOS 27.2 adds convenient new feature from the Mac",
-          "url": "https://9to5mac.com/2026/10/21/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
-          "time": "2026-10-21T19:13:08.000Z",
-          "summary": "iPadOS 27.2 launches next week, and among its many new features , Apple has also brought over a recent Mac addition: a Siri popup when text is selected. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-22T00:29:51.303Z",
+      "fetchedAt": "2026-10-22T05:17:35.446Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-22T00:29:51.303Z",
+      "fetchedAt": "2026-10-22T05:17:35.446Z",
       "error": null,
       "items": [
         {
-          "title": "Recyclagepark Boortmeerbeek sluit van eind december tot najaar 2027 voor verbouwing",
-          "url": "https://vrtnws.be/p.lObpyyaOq",
-          "time": "2026-10-21T21:05:00.000Z",
-          "summary": "Het recyclagepark van Boortmeerbeek sluit na 31 december 2026 voor verbouwingswerken. Het park heropent in het najaar van 2027 als Diftar-gewichtspark van EcoWerf.…"
+          "title": "Overgang naar wintertijd: meer ernstige ongevallen met voetgangers",
+          "url": "https://vrtnws.be/p.E1dkDL1pj",
+          "time": "2026-10-22T05:09:48.000Z",
+          "summary": "Het aantal ernstige ongevallen met voetgangers stijgt met 73 procent na de overgang naar wintertijd. Dat blijkt uit een nieuwe statistische analyse van het…"
         },
         {
-          "title": "Longkanker van Leo XIV is niet uitgezaaid, paus heeft geen verdere behandeling nodig",
-          "url": "https://vrtnws.be/p.vLlZd6w8n",
-          "time": "2026-10-21T20:12:34.000Z",
-          "summary": "De longkanker bij paus Leo XIV is niet uitgezaaid. Dat laten zijn artsen weten, nadat er een kwaadaardig knobbeltje op zijn long werd ontdekt. De paus heeft voorlopig…"
+          "title": "Kankeronderzoeksinstituut CRIG in Gent bestaat 10 jaar: \"Springplank voor jonge onderzoekers\"",
+          "url": "https://vrtnws.be/p.3Bwdy1EXD",
+          "time": "2026-10-22T05:06:11.000Z",
+          "summary": "Het Kankeronderzoeksinstituut Gent (CRIG) bestaat deze maand 10 jaar. Het instituut verbindt 700 laboranten, artsen en biomedici die onderzoek doen naar kanker in de…"
         },
         {
-          "title": "Lek sluimderde al 14 jaar bij PHP, tot AI het opspoorde: \"Als hackers zo'n lek ontdekken, hebben we groter probleem\"",
-          "url": "https://vrtnws.be/p.dLRmpQd0N",
-          "time": "2026-10-21T19:31:15.000Z",
-          "summary": "Artificiële intelligentie (AI) is de hulp én de schuldige in de veiligheidslekken in PHP. Dat zegt AI-expert Steven Latré. De lekken stonden al 14 jaar in de codes PHP,…"
+          "title": "Centrum Melle onderbroken door groot waterlek: \"Vermijd centrum\"",
+          "url": "https://vrtnws.be/p.0YpOQ1JAm",
+          "time": "2026-10-22T05:03:08.000Z",
+          "summary": "Het centrum van Melle is momenteel onderbroken door een groot waterlek. Bij werken van Elia werd gisteren een waterleiding geraakt. Om het lek te herstellen, moest de…"
         },
         {
-          "title": "\"Premier Sánchez is smerige dictator\": president Milei van Argentinië mengt zich in kiescampagne in Spanje",
-          "url": "https://vrtnws.be/p.ew43kwQPY",
-          "time": "2026-10-21T19:21:43.000Z",
-          "summary": "Javier Milei heeft tijdens een bezoek aan Madrid zwaar uitgehaald naar premier Pedro Sánchez van Spanje. De president van Argentinië noemde hem een \"smerige dictator\" en…"
+          "title": "Leerlingen PISO Tienen timmeren rolstoel om tot mini-ambulance voor jonge ziekenhuispatiëntjes",
+          "url": "https://vrtnws.be/p.93pB8ANb7",
+          "time": "2026-10-22T04:54:39.000Z",
+          "summary": "Leerlingen van het Provinciaal Instituut voor Secundair Onderwijs (PISO) in Tienen timmerden een rolstoel om tot een miniatuurambulance. Uitgerust met een stuurtje en…"
         },
         {
-          "title": "Muziekmozaïek ontslaat alle 6 medewerkers na verlies alle cultuursubsidies: \"Gooikoorts blijft voorlopig bestaan\"",
-          "url": "https://vrtnws.be/p.LNWOeq4JV",
-          "time": "2026-10-21T19:10:14.000Z",
-          "summary": "De vzw Muziekmozaïek uit Gooik ontslaat al haar 6 medewerkers. Dat meldt Ring-tv. De organisatie verliest volgend jaar 800.000 euro subsidie. Vlaams minister van Cultuur…"
+          "title": "Studentenkring Apolloon wint Leuvense 24 urenloop met recordaantal van 1.115 rondjes",
+          "url": "https://vrtnws.be/p.oLqwBy14Y",
+          "time": "2026-10-22T04:37:35.000Z",
+          "summary": "Studentenkring Apolloon heeft woensdagavond de 54ste editie van de 24 urenloop in Leuven gewonnen. Dat gebeurde met een recordaantal van 1.115 rondjes. De studentenkring…"
         }
       ]
     }
