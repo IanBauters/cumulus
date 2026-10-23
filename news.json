@@ -1,24 +1,30 @@
 {
-  "generatedAt": "2026-10-23T21:10:25.398Z",
+  "generatedAt": "2026-10-23T23:56:22.862Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-23T21:10:25.398Z",
+      "fetchedAt": "2026-10-23T23:56:22.862Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
+          "time": "2026-10-23T23:33:36.000Z",
+          "summary": "The option to reserve an iPhone Duo for Apple Store pickup is starting to return on Apple's online store, with the system live again in countries such as Australia ,…"
+        },
+        {
+          "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
+          "time": "2026-10-23T23:22:55.000Z",
+          "summary": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps…"
+        },
         {
           "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
           "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
           "time": "2026-10-23T20:49:57.000Z",
           "summary": "The iPhone Duo is compatible with the Apple Pencil , if you have the right one. MacRumors videographer Dan Barbera tested the &zwnj;Apple Pencil&zwnj; with the…"
-        },
-        {
-          "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
-          "time": "2026-10-23T20:16:18.000Z",
-          "summary": "The option to reserve an iPhone Duo for Apple Store pickup is starting to return on Apple's online store, with the system live again in countries such as Australia ,…"
         },
         {
           "title": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
           "time": "2026-10-23T19:53:55.000Z",
           "summary": "Just hours after being released, an iPhone Duo running iOS 27.1 has been jailbroken by hacker team Calif . Calif demonstrated the &zwnj;iPhone Duo&zwnj;'s icons and…"
-        },
-        {
-          "title": "Apple Seeds Updated watchOS 27.2 Release Candidate",
-          "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/",
-          "time": "2026-10-23T19:28:10.000Z",
-          "summary": "Apple today seeded an updated version of the watchOS 27.2 release candidate, four days after the first RC became available . Registered developers and public beta…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-23T21:10:25.398Z",
+      "fetchedAt": "2026-10-23T23:56:22.862Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
+          "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
+          "time": "2026-10-23T23:50:49.000Z",
+          "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the…"
+        },
+        {
+          "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
+          "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
+          "time": "2026-10-23T23:12:21.000Z",
+          "summary": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or…"
+        },
         {
           "title": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
           "url": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
           "time": "2026-10-23T19:43:08.000Z",
           "summary": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center…"
-        },
-        {
-          "title": "watchOS 27.2 gets new RC ahead of next week’s launch",
-          "url": "https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/",
-          "time": "2026-10-23T19:19:09.000Z",
-          "summary": "Apple has just released a second RC (release candidate) build of watchOS 27.2 for testing. Here are the details. more…"
-        },
-        {
-          "title": "Next week’s MacBook Pro could be huge upgrade, but with one problem",
-          "url": "https://9to5mac.com/2026/10/23/next-weeks-macbook-pro-could-be-huge-upgrade-but-with-one-problem/",
-          "time": "2026-10-23T19:10:15.000Z",
-          "summary": "Apple has a fully redesigned MacBook Pro launching next week that promises to be a major upgrade, except in one key area. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-23T21:10:25.398Z",
+      "fetchedAt": "2026-10-23T23:56:22.862Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-23T21:10:25.398Z",
+      "fetchedAt": "2026-10-23T23:56:22.862Z",
       "error": null,
       "items": [
         {
