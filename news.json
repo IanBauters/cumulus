@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T23:04:14.211Z",
+  "generatedAt": "2026-10-23T01:46:46.967Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-22T23:04:14.211Z",
+      "fetchedAt": "2026-10-23T01:46:46.967Z",
       "error": null,
       "items": [
         {
@@ -17,7 +17,7 @@
         {
           "title": "1Password for Agents Keeps Your Passwords Hidden From AI",
           "url": "https://www.macrumors.com/2026/10/22/1password-for-agents/",
-          "time": "2026-10-22T21:28:01.000Z",
+          "time": "2026-10-22T21:27:57.000Z",
           "summary": "Popular password management app 1Password today announced 1Password for Agents, a platform that gives AI agents safe access to user credentials for completing tasks. The…"
         },
         {
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-22T23:04:14.211Z",
+      "fetchedAt": "2026-10-23T01:46:46.967Z",
       "error": null,
       "items": [
         {
-          "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
-          "url": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
-          "time": "2026-10-22T22:35:38.000Z",
-          "summary": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of…"
+          "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
+          "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
+          "time": "2026-10-23T01:42:38.000Z",
+          "summary": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory…"
         },
         {
-          "title": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
-          "url": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
-          "time": "2026-10-22T22:07:34.000Z",
-          "summary": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds , including moving Subscriptions out of the bottom bar. more…"
+          "title": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+          "url": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
+          "time": "2026-10-23T01:22:37.000Z",
+          "summary": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…"
         },
         {
-          "title": "Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date",
-          "url": "https://9to5mac.com/2026/10/22/apple-tvs-long-awaited-fleetwood-mac-documentary-finally-has-a-release-date/",
-          "time": "2026-10-22T21:38:44.000Z",
-          "summary": "Nearly two years after it was first announced, Fleetwood Mac fans won’t have to wait much longer for Frank Marshall’s documentary about the legendary band to arrive on…"
+          "title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+          "url": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
+          "time": "2026-10-23T00:30:41.000Z",
+          "summary": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller…"
         },
         {
-          "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
-          "url": "https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
-          "time": "2026-10-22T20:29:15.000Z",
-          "summary": "iOS 27 is packed with new features for apps like Notes , Wallet , Maps , Messages , and more. But one iOS 27 addition that’s especially impressed me is a new Phone…"
+          "title": "Strava revamps route discovery with smarter search, offline improvements, more",
+          "url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
+          "time": "2026-10-22T23:29:15.000Z",
+          "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…"
         },
         {
-          "title": "iPhone Duo hands-on review, Apple announces MacBook Pro and Tell event",
-          "url": "https://9to5mac.com/2026/10/22/happy-hour-613/",
-          "time": "2026-10-22T20:13:51.000Z",
-          "summary": "Ahead of its official launch, Chance has spent a week with the iPhone Duo and he is here to tell us all about his experiences with Apple’s new foldable phone, including…"
+          "title": "Retro game emulator Delta looks great on the iPhone Duo",
+          "url": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
+          "time": "2026-10-22T23:23:32.000Z",
+          "summary": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-22T23:04:14.211Z",
+      "fetchedAt": "2026-10-23T01:46:46.967Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-22T23:04:14.211Z",
+      "fetchedAt": "2026-10-23T01:46:46.967Z",
       "error": null,
       "items": [
         {
