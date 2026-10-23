@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-23T07:11:30.129Z",
+  "generatedAt": "2026-10-23T12:46:49.653Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-23T07:11:30.129Z",
+      "fetchedAt": "2026-10-23T12:46:49.653Z",
       "error": null,
       "items": [
+        {
+          "title": "Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/",
+          "time": "2026-10-23T11:10:06.000Z",
+          "summary": "Apple's first foldable iPhone, the iPhone Duo , officially launched today, Friday October 23. Pre-order deliveries are arriving to customers, but supply is extremely…"
+        },
+        {
+          "title": "MacBook Neo Helps Apple Outpace Rivals as Market Declines",
+          "url": "https://www.macrumors.com/2026/10/23/macbook-neo-helps-apple-outpace-rivals-as-market-declines/",
+          "time": "2026-10-23T07:30:09.000Z",
+          "summary": "Apple increased its share of worldwide PC shipments in the third quarter of 2026, with Counterpoint Research crediting the MacBook Neo for some of the company's…"
+        },
         {
           "title": "Happy 25th Anniversary, iPod",
           "url": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/",
           "time": "2026-10-22T22:21:59.000Z",
           "summary": "It's already Friday, October 23 in Australia and New Zealand, which means customers who pre-ordered an iPhone Duo are beginning to receive their devices. We are seeing…"
-        },
-        {
-          "title": "1Password for Agents Keeps Your Passwords Hidden From AI",
-          "url": "https://www.macrumors.com/2026/10/22/1password-for-agents/",
-          "time": "2026-10-22T21:27:57.000Z",
-          "summary": "Popular password management app 1Password today announced 1Password for Agents, a platform that gives AI agents safe access to user credentials for completing tasks. The…"
-        },
-        {
-          "title": "iPhone Duo 24 Hours Later: Your Questions Answered",
-          "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
-          "time": "2026-10-22T20:55:51.000Z",
-          "summary": "MacRumors videographer Dan Barbera got his iPhone Duo a day early, so he spent today answering some of the questions people are asking about the new device. On app…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-23T07:11:30.129Z",
+      "fetchedAt": "2026-10-23T12:46:49.653Z",
       "error": null,
       "items": [
+        {
+          "title": "New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]",
+          "url": "https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/",
+          "time": "2026-10-23T12:17:00.000Z",
+          "summary": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take…"
+        },
         {
           "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
           "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
           "time": "2026-10-23T00:30:41.000Z",
           "summary": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller…"
-        },
-        {
-          "title": "Strava revamps route discovery with smarter search, offline improvements, more",
-          "url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
-          "time": "2026-10-22T23:29:15.000Z",
-          "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-23T07:11:30.129Z",
+      "fetchedAt": "2026-10-23T12:46:49.653Z",
       "error": null,
       "items": [
+        {
+          "title": "A Day with the iPhone Duo: First Impressions",
+          "url": "https://www.macstories.net/stories/a-day-with-the-iphone-duo-first-impressions/",
+          "time": "2026-10-23T12:15:18.000Z",
+          "summary": "I spent Wednesday in New York, interviewing developers about their iPhone Duo apps. It was like a little slice of WWDC dropped among Manhattan’s skyscrapers, which was…"
+        },
         {
           "title": "Building for iPhone Duo, in App Developers’ Own Words",
           "url": "https://www.macstories.net/stories/building-for-iphone-duo-in-app-developers-own-words/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/apple-announces-october-28-pro-and-tell-event/",
           "time": "2026-10-19T16:48:41.000Z",
           "summary": "In a post by Greg Joswiak on X, Apple has said it will hold an ‘Pro and Tell’ in Los Angeles, California on Wednesday, October 28 at 10:00 am Pacific. Judging from the…"
-        },
-        {
-          "title": "ChatGPT Dots Gain Widget and New Shortcuts Actions",
-          "url": "https://www.macstories.net/reviews/chatgpt-dots-gain-widget-and-new-shortcuts-actions/",
-          "time": "2026-10-19T13:34:42.000Z",
-          "summary": "Late Friday, OpenAI updated the ChatGPT app on iOS and iPadOS with a new widget for your Dot and Shortcuts actions that let you control it three ways. The implementation…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-23T07:11:30.129Z",
+      "fetchedAt": "2026-10-23T12:46:49.653Z",
       "error": null,
       "items": [
         {
-          "title": "Het was aanschuiven op Dag van Jeugdbeweging in Kortrijk: \"Mensen geraakten niet binnen\"",
-          "url": "https://vrtnws.be/p.8epRWYoko",
-          "time": "2026-10-23T06:56:34.000Z",
-          "summary": "In Kortrijk valt het begin van de Dag van de Jeugdbeweging voor sommige jongeren in het water. Door het slechte weer gingen het ontbijt en de DJ-sets door in…"
+          "title": "Limburgse kamerleden verzetten zich mee tegen centralisatie van de Federale Politie in Antwerpen",
+          "url": "https://vrtnws.be/p.M9mvLld7d",
+          "time": "2026-10-23T12:41:21.000Z",
+          "summary": "Verschillende Limburgse kamerleden gaan zich samen proberen te verzetten tegen het plan om een deel van de Limburgse federale politie in Antwerpen onder te brengen. Dat…"
         },
         {
-          "title": "Onafhankelijk en eigenzinnig: hoe Maasmechelse jeugdbeweging 'Jong Leut' al decennia op eigen benen staat",
-          "url": "https://vrtnws.be/p.y31GPvyQQ",
-          "time": "2026-10-23T06:56:16.000Z",
-          "summary": "Op de Dag van de Jeugdbeweging kleuren de straatbeelden en speelpleinen overal te lande blauw, rood en groen. Wie aan een jeugdvereniging denkt, komt al snel uit bij de…"
+          "title": "Vrouw komt vast te zitten in wagen door gevallen boom in Melkwezer",
+          "url": "https://vrtnws.be/p.jGk1VvPLk",
+          "time": "2026-10-23T11:55:36.000Z",
+          "summary": "Door het stormweer is in Melkwezer, een deelgemeente van Linter, een boom op een voorbijrijdende wagen gevallen. In de auto zaten 2 vrouwen. 1 van hen raakte gekneld en…"
         },
         {
-          "title": "Loonkloof te groot bij kwart van bedrijven: vrouwen verdienen 5 procent minder dan mannen",
-          "url": "https://vrtnws.be/p.Ovk0QybBN",
-          "time": "2026-10-23T06:43:19.000Z",
-          "summary": "Bij een kwart van de bedrijven in ons land is de loonkloof nog te groot. Dat blijkt uit een studie van Randstad die verschenen is in Nieuwsblad. Vrouwen in dezelfde…"
+          "title": "Republikeinse politicus voert moeder van Democratische tegenstander op in campagnespot: \"Dit is verachtelijk\"",
+          "url": "https://vrtnws.be/p.7nXQOReDy",
+          "time": "2026-10-23T11:38:00.000Z",
+          "summary": "In de Verenigde Staten is er grote commotie over een campagnevideo van Vivek Ramaswamy, de Republikeinse kandidaat-gouverneur in de staat Ohio. Daarin laat hij de moeder…"
         },
         {
-          "title": "Einde aan jarenlange traditie én discussie: New York verbiedt paardenkoetsen in Central Park",
-          "url": "https://vrtnws.be/p.0YpOKDZAm",
-          "time": "2026-10-23T06:40:08.000Z",
-          "summary": "De gemeenteraad van New York heeft een verbod goedgekeurd voor ritjes met paardenkoetsen in Central Park. Dat moet ingaan vanaf 1 juni 2028. Over een verbod wordt al…"
+          "title": "\"Een whisky op uw gezondheid, meneer de minister\": whatsapp-berichten tussen directeur Staatsveiligheid en Didier Reynders uitgelekt",
+          "url": "https://vrtnws.be/p.5waeZynxA",
+          "time": "2026-10-23T11:36:06.000Z",
+          "summary": "Er zijn oude whatsapp-berichten uitgelekt tussen voormalig vicepremier Didier Reynders (MR) en een toenmalige directeur van de Staatsveiligheid. In de berichten wordt…"
         },
         {
-          "title": "Golfclub Keerbergen kapt 200 zieke bomen: \"Zonder ingrijpen blijft er weinig van parkbeleving over\"",
-          "url": "https://vrtnws.be/p.JN4a65jG7",
-          "time": "2026-10-23T06:15:58.000Z",
-          "summary": "De golfclub van Keerbergen gaat zo'n 200 zieke bomen kappen. De golfbaan bestaat al sinds 1968. Veel bomen zijn er slecht aan toe door ouderdom of door de droogte van…"
+          "title": "Nieuw fietspunt aan Denderleeuws station: \"Voor herstellingen, maar ook voor meer sociale controle\"",
+          "url": "https://vrtnws.be/p.kQOMXZ8pB",
+          "time": "2026-10-23T11:24:00.000Z",
+          "summary": "In de stationsbuurt van Denderleeuw is een nieuw fietspunt geopend. Daar kunnen treinreizigers en inwoners hun fiets laten herstellen of een tweedehandsfiets kopen. Het…"
         }
       ]
     }
