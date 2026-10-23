@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-23T01:46:46.967Z",
+  "generatedAt": "2026-10-23T07:11:30.129Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-23T01:46:46.967Z",
+      "fetchedAt": "2026-10-23T07:11:30.129Z",
       "error": null,
       "items": [
+        {
+          "title": "Happy 25th Anniversary, iPod",
+          "url": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/",
+          "time": "2026-10-23T07:00:11.000Z",
+          "summary": "Apple today marks 25 years since the introduction of the original iPod, one of the company's most significant products and a major contributor to its expansion beyond…"
+        },
+        {
+          "title": "iPhone Duo Demand Reportedly Exceeds Apple's Expectations",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-demand-exceeds-expectations/",
+          "time": "2026-10-23T04:24:18.000Z",
+          "summary": "Apple's iPhone Duo has attracted more pre-orders than the company anticipated in several major markets, according to DigiTimes , with display chip suppliers hoping its…"
+        },
         {
           "title": "iPhone Duo Launch Begins as First Orders Reach Customers",
           "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
           "time": "2026-10-22T20:55:51.000Z",
           "summary": "MacRumors videographer Dan Barbera got his iPhone Duo a day early, so he spent today answering some of the questions people are asking about the new device. On app…"
-        },
-        {
-          "title": "Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support",
-          "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
-          "time": "2026-10-22T20:15:24.000Z",
-          "summary": "Apple today added an \"Intelligent Assistant\" to Keynote, Numbers, and Pages. The feature is available in beta for Apple Creator Studio subscribers. The update is…"
-        },
-        {
-          "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
-          "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
-          "time": "2026-10-22T18:50:41.000Z",
-          "summary": "To celebrate the launch of the iPhone Duo this Friday, Apple has set up oversized iPhone Duo promotional displays at Apple Fifth Avenue in New York City, Apple Covent…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-23T01:46:46.967Z",
+      "fetchedAt": "2026-10-23T07:11:30.129Z",
       "error": null,
       "items": [
+        {
+          "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+          "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+          "time": "2026-10-23T03:15:09.000Z",
+          "summary": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new…"
+        },
         {
           "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
           "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
           "time": "2026-10-22T23:29:15.000Z",
           "summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…"
-        },
-        {
-          "title": "Retro game emulator Delta looks great on the iPhone Duo",
-          "url": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
-          "time": "2026-10-22T23:23:32.000Z",
-          "summary": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-23T01:46:46.967Z",
+      "fetchedAt": "2026-10-23T07:11:30.129Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-23T01:46:46.967Z",
+      "fetchedAt": "2026-10-23T07:11:30.129Z",
       "error": null,
       "items": [
         {
-          "title": "Zeker 16 doden en 32 gewonden bij aardbeving in Tibet",
-          "url": "https://vrtnws.be/p.3BwnjqRjb",
-          "time": "2026-10-22T21:49:28.000Z",
-          "summary": "Bij een aardbeving in de Chinese autonome regio Tibet zijn minstens 16 mensen omgekomen. Zeker 32 mensen raakten gewond. Dat meldt het Chinese persbureau Xinhua ."
+          "title": "Het was aanschuiven op Dag van Jeugdbeweging in Kortrijk: \"Mensen geraakten niet binnen\"",
+          "url": "https://vrtnws.be/p.8epRWYoko",
+          "time": "2026-10-23T06:56:34.000Z",
+          "summary": "In Kortrijk valt het begin van de Dag van de Jeugdbeweging voor sommige jongeren in het water. Door het slechte weer gingen het ontbijt en de DJ-sets door in…"
         },
         {
-          "title": "Acteur Tom Skerritt (93), bekend van 'Top gun' en 'Alien', overleden",
-          "url": "https://vrtnws.be/p.bDoek9pBK",
-          "time": "2026-10-22T20:54:04.000Z",
-          "summary": "De Amerikaanse acteur Tom Skerritt (93) is overleden. Dat heeft zijn familie bekendgemaakt, zo melden Amerikaanse media. Hij was onder meer bekend om zijn rol als Mike…"
+          "title": "Onafhankelijk en eigenzinnig: hoe Maasmechelse jeugdbeweging 'Jong Leut' al decennia op eigen benen staat",
+          "url": "https://vrtnws.be/p.y31GPvyQQ",
+          "time": "2026-10-23T06:56:16.000Z",
+          "summary": "Op de Dag van de Jeugdbeweging kleuren de straatbeelden en speelpleinen overal te lande blauw, rood en groen. Wie aan een jeugdvereniging denkt, komt al snel uit bij de…"
         },
         {
-          "title": "Militaire carrière voor prins Gabriël? Niet-gedoteerde royals mogen binnenkort in het leger",
-          "url": "https://vrtnws.be/p.Yb5aQdyGN",
-          "time": "2026-10-22T20:38:38.000Z",
-          "summary": "Leden van de koninklijke familie die geen dotatie krijgen, zullen binnenkort actief mogen worden binnen het leger. De plenaire Kamer heeft daarvoor unaniem, op de…"
+          "title": "Loonkloof te groot bij kwart van bedrijven: vrouwen verdienen 5 procent minder dan mannen",
+          "url": "https://vrtnws.be/p.Ovk0QybBN",
+          "time": "2026-10-23T06:43:19.000Z",
+          "summary": "Bij een kwart van de bedrijven in ons land is de loonkloof nog te groot. Dat blijkt uit een studie van Randstad die verschenen is in Nieuwsblad. Vrouwen in dezelfde…"
         },
         {
-          "title": "Schilderij 'Iris' van Monet brengt 50 miljoen euro op en breekt Frans veilingrecord",
-          "url": "https://vrtnws.be/p.PqOPeZG4G",
-          "time": "2026-10-22T20:11:40.000Z",
-          "summary": "'Iris', een schilderij van de Franse impressionist Claude Monet, is in Parijs geveild voor 50 miljoen euro. Daarmee is het het duurste kunstwerk ooit dat op een veiling…"
+          "title": "Einde aan jarenlange traditie én discussie: New York verbiedt paardenkoetsen in Central Park",
+          "url": "https://vrtnws.be/p.0YpOKDZAm",
+          "time": "2026-10-23T06:40:08.000Z",
+          "summary": "De gemeenteraad van New York heeft een verbod goedgekeurd voor ritjes met paardenkoetsen in Central Park. Dat moet ingaan vanaf 1 juni 2028. Over een verbod wordt al…"
         },
         {
-          "title": "Duiker spuit 12 dagen lang vet uit riool onder Molenpoort in Hasselt: \"Eerste keer dat we dit doen\"",
-          "url": "https://vrtnws.be/p.RaJq01JMd",
-          "time": "2026-10-22T18:56:05.000Z",
-          "summary": "Een duiker zal de komende 12 dagen met een hogedrukreiniger het aangekoekte vet uit de riolering onder de Molenpoort in Hasselt wegspuiten. De ondergrondse riolering is…"
+          "title": "Golfclub Keerbergen kapt 200 zieke bomen: \"Zonder ingrijpen blijft er weinig van parkbeleving over\"",
+          "url": "https://vrtnws.be/p.JN4a65jG7",
+          "time": "2026-10-23T06:15:58.000Z",
+          "summary": "De golfclub van Keerbergen gaat zo'n 200 zieke bomen kappen. De golfbaan bestaat al sinds 1968. Veel bomen zijn er slecht aan toe door ouderdom of door de droogte van…"
         }
       ]
     }
