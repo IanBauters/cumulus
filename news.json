@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-23T23:56:22.862Z",
+  "generatedAt": "2026-10-24T04:13:39.917Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-23T23:56:22.862Z",
+      "fetchedAt": "2026-10-24T04:13:39.917Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Pushes Back on DOJ Request for More Evidence",
+          "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
+          "time": "2026-10-24T04:02:07.000Z",
+          "summary": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week.…"
+        },
+        {
+          "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
+          "time": "2026-10-24T00:14:20.000Z",
+          "summary": "The iPhone Duo is compatible with the Apple Pencil , if you have the right one. MacRumors videographer Dan Barbera tested the &zwnj;Apple Pencil&zwnj; with the…"
+        },
         {
           "title": "Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited",
           "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
@@ -21,22 +33,10 @@
           "summary": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps…"
         },
         {
-          "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
-          "time": "2026-10-23T20:49:57.000Z",
-          "summary": "The iPhone Duo is compatible with the Apple Pencil , if you have the right one. MacRumors videographer Dan Barbera tested the &zwnj;Apple Pencil&zwnj; with the…"
-        },
-        {
           "title": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
           "url": "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
           "time": "2026-10-23T20:02:59.000Z",
           "summary": "Following more than three months of renovations, the Apple SouthGate store in Bath, England reopened today, just in time for iPhone Duo launch day . The store has…"
-        },
-        {
-          "title": "iPhone Duo Jailbroken on Launch Day",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
-          "time": "2026-10-23T19:53:55.000Z",
-          "summary": "Just hours after being released, an iPhone Duo running iOS 27.1 has been jailbroken by hacker team Calif . Calif demonstrated the &zwnj;iPhone Duo&zwnj;'s icons and…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-23T23:56:22.862Z",
+      "fetchedAt": "2026-10-24T04:13:39.917Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-23T23:56:22.862Z",
+      "fetchedAt": "2026-10-24T04:13:39.917Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-23T23:56:22.862Z",
+      "fetchedAt": "2026-10-24T04:13:39.917Z",
       "error": null,
       "items": [
         {
-          "title": "Politiezones Voeren en Bilzen-Hoeselt-Riemst doen fusieplannen uit de doeken: \"Expertise en slagkracht verhogen\"",
-          "url": "https://vrtnws.be/p.0YpOjnBRm",
-          "time": "2026-10-23T19:12:50.000Z",
-          "summary": "De politiezones Bilzen-Hoeselt-Riemst en Voeren zetten de stap naar een fusie. De politiecolleges van beide zones hebben een haalbaarheidsstudie goedgekeurd waaruit…"
+          "title": "Van kolenmijn naar toeristische trekpleister: hoe de mijn van Eisden een shopping- en natuurbestemming werd",
+          "url": "https://vrtnws.be/p.LND4jLRyv",
+          "time": "2026-10-24T04:05:44.000Z",
+          "summary": "Waar vroeger in Eisden (Maasmechelen) steenkool uit de grond werd gehaald en duizenden mijnwerkers in zware omstandigheden ondergronds werkten, wandelen vandaag…"
         },
         {
-          "title": "Na wachttijden die opliepen tot 5 uur investeert Brussels Airport in bijkomende grenscontroleposten",
-          "url": "https://vrtnws.be/p.aDeOqZaQb",
-          "time": "2026-10-23T18:54:07.000Z",
-          "summary": "Brussels Airport investeert in bijkomende grenscontroleposten om de lange wachttijden te verminderen. Dat meldt de luchthaven. Er staan regelmatig lange wachtrijen aan…"
+          "title": "Fairouz (31) pleit voor meer verbinding met de natuur: \"De natuur discrimineert niemand\"",
+          "url": "https://vrtnws.be/p.7nXQZOx83",
+          "time": "2026-10-24T04:05:22.000Z",
+          "summary": "Fairouz Gazdallah (31) vond in de natuur niet alleen rust, maar ook een manier om zich thuis te voelen in België. Via het collectief Back2SoilBasics brengt ze mensen…"
         },
         {
-          "title": "Nicolas Baise gaat Bpost leiden",
-          "url": "https://vrtnws.be/p.y31GojaEQ",
-          "time": "2026-10-23T18:40:20.000Z",
-          "summary": "Nicolas Baise wordt vanaf 1 januari de nieuwe CEO van postbedrijf Bpost. Dat heeft het moederbedrijf Bnode bekendgemaakt. Baise is nu nog Chief Operations Officer. Twee…"
+          "title": "Komende nacht is het weer zover: waarom wintertijd beter aansluit bij ons natuurlijke ritme",
+          "url": "https://vrtnws.be/p.JN4a8ellQ",
+          "time": "2026-10-24T04:05:04.000Z",
+          "summary": "Leven op het ritme van de wintertijd is goed voor onze gezondheid en ons welzijn, omdat dat het nauwste aansluit bij onze biologische klok. Dat zegt slaapexpert Inge…"
         },
         {
-          "title": "Intussen 3 verdachten in de cel voor homejacking in Lummen",
-          "url": "https://vrtnws.be/p.w70Rd8yxX",
-          "time": "2026-10-23T18:33:41.000Z",
-          "summary": "In kader van het gerechtelijk onderzoek naar de homejacking in de Groenlarenstraat in Lummen zitten momenteel 3 verdachten opgesloten in de gevangenis. Na de arrestatie…"
+          "title": "Testaankoop pleit voor oogstjaar op flessen olijfolie: \"Na verloop van tijd verliest olie zijn kwaliteit\"",
+          "url": "https://vrtnws.be/p.8epRQWA5o",
+          "time": "2026-10-24T04:04:43.000Z",
+          "summary": "Testaankoop pleit voor een oogstjaar op flessen olijfolie. Zo kan de consument beter inschatten welke kwaliteit hij koopt. Want vergis je niet: het label 'extra vierge'…"
         },
         {
-          "title": "Welk energiecontract kies ik het beste? En gaan prijzen nog stijgen? Luc Pauwels beantwoordt jouw energievragen",
-          "url": "https://vrtnws.be/p.xZY6JeyGl",
-          "time": "2026-10-23T17:11:03.000Z",
-          "summary": "De energieprijzen stijgen, vooral de gasprijs bereikt nieuwe records, en onze redactie krijgt daar heel wat vragen over binnen. Onze energiespecialist Luc Pauwels…"
+          "title": "\"Basis van onderzoeksjournalistiek verandert niet, de context wel\": terugblik op 10 jaar VRT NWS Pano",
+          "url": "https://vrtnws.be/p.kQOKBx1NO",
+          "time": "2026-10-24T04:04:09.000Z",
+          "summary": "Ons onderzoeksmagazine 'VRT NWS Pano' bestaat 10 jaar. De wereld ziet er heel anders uit dan in 2016, maar het DNA en de missie van het reportageprogramma blijven na al…"
         }
       ]
     }
