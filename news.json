@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-24T04:13:39.917Z",
+  "generatedAt": "2026-10-24T09:01:47.728Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-24T04:13:39.917Z",
+      "fetchedAt": "2026-10-24T09:01:47.728Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Closes French Stores Ahead of Further Protests",
+          "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
+          "time": "2026-10-24T04:51:16.000Z",
+          "summary": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's…"
+        },
         {
           "title": "Apple Pushes Back on DOJ Request for More Evidence",
           "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
           "time": "2026-10-23T23:22:55.000Z",
           "summary": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a few apps…"
-        },
-        {
-          "title": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
-          "url": "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
-          "time": "2026-10-23T20:02:59.000Z",
-          "summary": "Following more than three months of renovations, the Apple SouthGate store in Bath, England reopened today, just in time for iPhone Duo launch day . The store has…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-24T04:13:39.917Z",
+      "fetchedAt": "2026-10-24T09:01:47.728Z",
       "error": null,
       "items": [
         {
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-24T04:13:39.917Z",
+      "fetchedAt": "2026-10-24T09:01:47.728Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Investigating Options for Extending Web Content Under iPhone Duo’s Safari Controls",
+          "url": "https://www.macstories.net/linked/apple-investigating-options-for-extending-web-content-under-iphone-duos-safari-controls/",
+          "time": "2026-10-24T07:40:48.000Z",
+          "summary": "Jen Simmons, writing at the official WebKit blog: Safari 27.1 does bring one change to users. Now, when someone holds iPhone Duo partially folded like a book while…"
+        },
         {
           "title": "A Day with the iPhone Duo: First Impressions",
           "url": "https://www.macstories.net/stories/a-day-with-the-iphone-duo-first-impressions/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/perplexity-computers-local-first-approach-to-agents/",
           "time": "2026-10-20T15:00:01.000Z",
           "summary": "Source: Perplexity. Today, Perplexity announced a local-first mode for Computer where the model and agent work entirely on your Mac whether you’re online or not, sending…"
-        },
-        {
-          "title": "Apple Announces October 28 “Pro and Tell” Event",
-          "url": "https://www.macstories.net/news/apple-announces-october-28-pro-and-tell-event/",
-          "time": "2026-10-19T16:48:41.000Z",
-          "summary": "In a post by Greg Joswiak on X, Apple has said it will hold an ‘Pro and Tell’ in Los Angeles, California on Wednesday, October 28 at 10:00 am Pacific. Judging from the…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-24T04:13:39.917Z",
+      "fetchedAt": "2026-10-24T09:01:47.728Z",
       "error": null,
       "items": [
         {
-          "title": "Van kolenmijn naar toeristische trekpleister: hoe de mijn van Eisden een shopping- en natuurbestemming werd",
-          "url": "https://vrtnws.be/p.LND4jLRyv",
-          "time": "2026-10-24T04:05:44.000Z",
-          "summary": "Waar vroeger in Eisden (Maasmechelen) steenkool uit de grond werd gehaald en duizenden mijnwerkers in zware omstandigheden ondergronds werkten, wandelen vandaag…"
+          "title": "Meise stelt 2 Incovo-medewerkers aan als GAS-vaststellers tegen sluikstorten en zwerfvuil",
+          "url": "https://vrtnws.be/p.VLN89p4ZA",
+          "time": "2026-10-24T08:53:57.000Z",
+          "summary": "De gemeente Meise wil de strijd tegen sluikstorten en zwerfvuil opvoeren. Daarom krijgen 2 medewerkers van afvalintercommunale Incovo extra bevoegdheden om overtredingen…"
         },
         {
-          "title": "Fairouz (31) pleit voor meer verbinding met de natuur: \"De natuur discrimineert niemand\"",
-          "url": "https://vrtnws.be/p.7nXQZOx83",
-          "time": "2026-10-24T04:05:22.000Z",
-          "summary": "Fairouz Gazdallah (31) vond in de natuur niet alleen rust, maar ook een manier om zich thuis te voelen in België. Via het collectief Back2SoilBasics brengt ze mensen…"
+          "title": "Zelzate legt symbolische 1e steen van nieuwe school Sint-Laurens",
+          "url": "https://vrtnws.be/p.XEVj9MVoj",
+          "time": "2026-10-24T08:46:30.000Z",
+          "summary": "In Zelzate is de symbolische 1e steen gelegd van de nieuwe school van Sint-Laurens. Geen gewone steen, maar een kei. \"Die moet later als zitbank dienen in de school. Een…"
         },
         {
-          "title": "Komende nacht is het weer zover: waarom wintertijd beter aansluit bij ons natuurlijke ritme",
-          "url": "https://vrtnws.be/p.JN4a8ellQ",
-          "time": "2026-10-24T04:05:04.000Z",
-          "summary": "Leven op het ritme van de wintertijd is goed voor onze gezondheid en ons welzijn, omdat dat het nauwste aansluit bij onze biologische klok. Dat zegt slaapexpert Inge…"
+          "title": "Werkstraffen voor 3 jongeren na helpdeskfraude in Maasmechelen",
+          "url": "https://vrtnws.be/p.ZWKJ9LwPE",
+          "time": "2026-10-24T08:40:55.000Z",
+          "summary": "3 jongeren zijn door een strafrechter veroordeeld voor helpdeskfraude in Maasmechelen. Daarbij zijn 8 mensen opgelicht. De jongeren kregen werkstraffen tot 200 uur of…"
         },
         {
-          "title": "Testaankoop pleit voor oogstjaar op flessen olijfolie: \"Na verloop van tijd verliest olie zijn kwaliteit\"",
-          "url": "https://vrtnws.be/p.8epRQWA5o",
-          "time": "2026-10-24T04:04:43.000Z",
-          "summary": "Testaankoop pleit voor een oogstjaar op flessen olijfolie. Zo kan de consument beter inschatten welke kwaliteit hij koopt. Want vergis je niet: het label 'extra vierge'…"
+          "title": "Bayern geeft update over Kompany: coach weken buiten strijd, toestand wel stabiel",
+          "url": "https://vrtnws.be/p.nwv5ldLpb",
+          "time": "2026-10-24T08:20:54.000Z",
+          "summary": "Vincent Kompany zal de komende weken niet langs de zijlijn staan bij Bayern München. Nadat de Belgische coach deze week in elkaar gezakt was tijdens een training van de…"
         },
         {
-          "title": "\"Basis van onderzoeksjournalistiek verandert niet, de context wel\": terugblik op 10 jaar VRT NWS Pano",
-          "url": "https://vrtnws.be/p.kQOKBx1NO",
-          "time": "2026-10-24T04:04:09.000Z",
-          "summary": "Ons onderzoeksmagazine 'VRT NWS Pano' bestaat 10 jaar. De wereld ziet er heel anders uit dan in 2016, maar het DNA en de missie van het reportageprogramma blijven na al…"
+          "title": "Storm blaast tribune-overkapping van voetbalclub Leeuw-Brucom in Sint-Pieters-Leeuw los",
+          "url": "https://vrtnws.be/p.BlYWOnado",
+          "time": "2026-10-24T08:06:00.000Z",
+          "summary": "Storm Austen heeft vrijdagmiddag voor zware schade gezorgd op het terrein van voetbalclub Leeuw-Brucom in Sint-Pieters-Leeuw. Een hevige rukwind blies de overkapping van…"
         }
       ]
     }
