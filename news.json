@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-24T16:53:59.237Z",
+  "generatedAt": "2026-10-24T19:19:02.866Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-24T16:53:59.237Z",
+      "fetchedAt": "2026-10-24T19:19:02.866Z",
       "error": null,
       "items": [
+        {
+          "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+          "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+          "time": "2026-10-24T18:29:16.000Z",
+          "summary": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed. In an email sent to…"
+        },
+        {
+          "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
+          "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
+          "time": "2026-10-24T18:28:00.000Z",
+          "summary": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step backwards after almost a decade of Face ID on iPhones, but…"
+        },
+        {
+          "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+          "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+          "time": "2026-10-24T18:27:42.000Z",
+          "summary": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test . Despite its IP68 dust-resistance rating, dust entered the hinge through several ingress…"
+        },
         {
           "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
           "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
           "time": "2026-10-24T15:02:56.000Z",
           "summary": "The first iPhone Duo teardown videos have been shared by YouTube channels REWA Technology and Phone Repair Guru , providing us with a look inside the device. iPhone Duo…"
-        },
-        {
-          "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
-          "url": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
-          "time": "2026-10-24T13:00:14.000Z",
-          "summary": "Yet another busy week for Apple saw a teaser for even more product announcements coming next week, plus we got the highly anticipated launch of Apple's first foldable…"
-        },
-        {
-          "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada",
-          "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
-          "time": "2026-10-24T12:12:00.000Z",
-          "summary": "The option to reserve an iPhone Duo for Apple Store pickup resumed in the U.S. and Canada between 5:10 a.m. and 5:15 a.m. Pacific Time today, but inventory is extremely…"
-        },
-        {
-          "title": "Apple Closes French Stores Ahead of Further Protests",
-          "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
-          "time": "2026-10-24T04:51:16.000Z",
-          "summary": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-24T16:53:59.237Z",
+      "fetchedAt": "2026-10-24T19:19:02.866Z",
       "error": null,
       "items": [
+        {
+          "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
+          "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
+          "time": "2026-10-24T17:47:49.000Z",
+          "summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m…"
+        },
         {
           "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
           "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
           "time": "2026-10-23T23:12:21.000Z",
           "summary": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or…"
-        },
-        {
-          "title": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
-          "url": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/",
-          "time": "2026-10-23T20:23:43.000Z",
-          "summary": "Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-24T16:53:59.237Z",
+      "fetchedAt": "2026-10-24T19:19:02.866Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-24T16:53:59.237Z",
+      "fetchedAt": "2026-10-24T19:19:02.866Z",
       "error": null,
       "items": [
+        {
+          "title": "\"Onverwachte gast zonder reservatie\": plots staat er een paard naast je tafel op restaurant",
+          "url": "https://vrtnws.be/p.Yb537wXmx",
+          "time": "2026-10-24T18:58:58.000Z",
+          "summary": "Bezoekers van een hotelrestaurant in Lanaken zijn tijdens de middagshift verrast door een paard. Het ontsnapte dier wandelde rustig en beheerst de zaak binnen en weer…"
+        },
         {
           "title": "Studenten UHasselt pleiten in oefening voor kapot koffiezetapparaat",
           "url": "https://vrtnws.be/p.oLq8pnZBY",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.11pleVJal",
           "time": "2026-10-24T13:51:27.000Z",
           "summary": "De stad Ieper sluit café De Valk in de Rijselstraat een maand lang. Buurtbewoners klagen al maanden over overlast. De uitbater spreekt zelf van een jaarlijkse sluiting…"
-        },
-        {
-          "title": "Lokeren stelt Reynaert-audiotour en nieuwe muurschildering voor in Daknam: \"Zelf uitmaken of de vos schurk of held is\"",
-          "url": "https://vrtnws.be/p.LNWm0EOpv",
-          "time": "2026-10-24T13:18:16.000Z",
-          "summary": "Stad Lokeren heeft in Daknam de audiotour 'Nobelpad: schurk of held' en een muurschildering van Reynaert de Vos officieel voorgesteld. De muurschildering is een werk van…"
         }
       ]
     }
