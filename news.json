@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-24T13:29:57.592Z",
+  "generatedAt": "2026-10-24T16:53:59.237Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-24T13:29:57.592Z",
+      "fetchedAt": "2026-10-24T16:53:59.237Z",
       "error": null,
       "items": [
+        {
+          "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
+          "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
+          "time": "2026-10-24T16:07:36.000Z",
+          "summary": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than you would a regular iPhone. This makes the volume buttons…"
+        },
+        {
+          "title": "iPhone Duo Teardowns Reveal Two Batteries and More",
+          "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+          "time": "2026-10-24T15:02:56.000Z",
+          "summary": "The first iPhone Duo teardown videos have been shared by YouTube channels REWA Technology and Phone Repair Guru , providing us with a look inside the device. iPhone Duo…"
+        },
         {
           "title": "Top Stories: Apple 'Pro and Tell' Debut, iPhone Duo Launch, and More",
           "url": "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
           "time": "2026-10-24T04:51:16.000Z",
           "summary": "Seven Apple stores across France are closed on today, as the country prepares for another round of demonstrations a week after looters targeted two of the company's…"
-        },
-        {
-          "title": "Apple Pushes Back on DOJ Request for More Evidence",
-          "url": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/",
-          "time": "2026-10-24T04:02:07.000Z",
-          "summary": "Apple and the U.S. Department of Justice disagree over how much newer evidence Apple must hand over in their antitrust case, according to a new court filing this week.…"
-        },
-        {
-          "title": "Using an Apple Pencil With the iPhone Duo: What to Know",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
-          "time": "2026-10-24T00:14:20.000Z",
-          "summary": "The iPhone Duo is compatible with the Apple Pencil , if you have the right one. MacRumors videographer Dan Barbera tested the &zwnj;Apple Pencil&zwnj; with the…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-24T13:29:57.592Z",
+      "fetchedAt": "2026-10-24T16:53:59.237Z",
       "error": null,
       "items": [
+        {
+          "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
+          "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
+          "time": "2026-10-24T16:00:00.000Z",
+          "summary": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US.…"
+        },
+        {
+          "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
+          "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
+          "time": "2026-10-24T13:00:00.000Z",
+          "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
+        },
         {
           "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
           "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/",
           "time": "2026-10-23T20:23:43.000Z",
           "summary": "Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…"
-        },
-        {
-          "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
-          "url": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
-          "time": "2026-10-23T19:50:23.000Z",
-          "summary": "Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details. more…"
-        },
-        {
-          "title": "iPhone Duo has hidden trick that solves a common complaint",
-          "url": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
-          "time": "2026-10-23T19:43:08.000Z",
-          "summary": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-24T13:29:57.592Z",
+      "fetchedAt": "2026-10-24T16:53:59.237Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-24T13:29:57.592Z",
+      "fetchedAt": "2026-10-24T16:53:59.237Z",
       "error": null,
       "items": [
+        {
+          "title": "Studenten UHasselt pleiten in oefening voor kapot koffiezetapparaat",
+          "url": "https://vrtnws.be/p.oLq8pnZBY",
+          "time": "2026-10-24T14:56:15.000Z",
+          "summary": "Twee studenten rechten van de UHasselt hebben zaterdag gepleit voor en tegen een kapot koffiezetapparaat. Dat doen ze om het recht van herstel van apparaten te duiden.…"
+        },
+        {
+          "title": "De 'Batman van Londen' haalt zwerfvuil op en betaalt je brandstof... maar waarom, dat weet niemand",
+          "url": "https://vrtnws.be/p.lObdG36JW",
+          "time": "2026-10-24T14:40:05.000Z",
+          "summary": "In Londen ruimt een man verkleed als Batman zwerfvuil op. Hij deelt chocolade en kip uit aan bodemprijzen. En hij betaalt je parkeerboetes. De Instagrammer Londons…"
+        },
+        {
+          "title": "Mechelen toont plannen voor groene oevers en nieuwe straten langs de Binnendijle",
+          "url": "https://vrtnws.be/p.LNWm9oDlE",
+          "time": "2026-10-24T14:23:24.000Z",
+          "summary": "In Mechelen krijgt de Binnendijle een flinke opknapbeurt, met meer groen, meer natuur en meer ruimte voor het water. De stad Mechelen en De Vlaamse Waterweg hebben de…"
+        },
+        {
+          "title": "Café De Valk in centrum Ieper moet een maand sluiten na klachten over overlast",
+          "url": "https://vrtnws.be/p.11pleVJal",
+          "time": "2026-10-24T13:51:27.000Z",
+          "summary": "De stad Ieper sluit café De Valk in de Rijselstraat een maand lang. Buurtbewoners klagen al maanden over overlast. De uitbater spreekt zelf van een jaarlijkse sluiting…"
+        },
         {
           "title": "Lokeren stelt Reynaert-audiotour en nieuwe muurschildering voor in Daknam: \"Zelf uitmaken of de vos schurk of held is\"",
           "url": "https://vrtnws.be/p.LNWm0EOpv",
           "time": "2026-10-24T13:18:16.000Z",
           "summary": "Stad Lokeren heeft in Daknam de audiotour 'Nobelpad: schurk of held' en een muurschildering van Reynaert de Vos officieel voorgesteld. De muurschildering is een werk van…"
-        },
-        {
-          "title": "Servië kiest: kan protestbeweging van studenten Aleksandar Vucic na 12 jaar van de macht verdrijven?",
-          "url": "https://vrtnws.be/p.5wael7G0d",
-          "time": "2026-10-24T13:07:56.000Z",
-          "summary": "Kan de protestbeweging in Servië na 2 jaar actievoeren de partij van aftredend president Aleksandar Vucic van de macht verdrijven? Dat zal moeten blijken na de…"
-        },
-        {
-          "title": "Toekomstvisies voor zuidelijke Antwerpse ring en omgeving station Berchem voorgesteld op 8e Ringdag",
-          "url": "https://vrtnws.be/p.KK8jlBOml",
-          "time": "2026-10-24T12:56:08.000Z",
-          "summary": "Vandaag vindt in het Crowne Plaza in Antwerpen de 8e Ringdag plaats. De eerste toekomstvisies voor de zuidelijke Antwerpse ring (R1) en de omgeving van het station van…"
-        },
-        {
-          "title": "Dierenverzorgster gewond geraakt in panterverblijf van dierenpark Beekse Bergen",
-          "url": "https://vrtnws.be/p.XEVj04jJO",
-          "time": "2026-10-24T12:43:43.000Z",
-          "summary": "Een dierenverzorgster van het Safaripark Beekse Bergen in de Nederlandse gemeente Hilvarenbeek, aan de grens met België, is zaterdag rond 11.00 uur gewond geraakt.…"
-        },
-        {
-          "title": "Halloweentocht door bos in Kampenhout uitgesteld door stormweer: \"Veiligheid gaat voor\"",
-          "url": "https://vrtnws.be/p.E1dq8ojbL",
-          "time": "2026-10-24T12:18:17.000Z",
-          "summary": "De halloweentocht van jiujitsuclub Samoerai in Kampenhout gaat zaterdagavond niet door. Door de voorspelde rukwinden en hevige regen vonden de organisatoren het risico…"
         }
       ]
     }
