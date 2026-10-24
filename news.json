@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T19:19:02.866Z",
+  "generatedAt": "2026-10-24T21:46:43.229Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-24T19:19:02.866Z",
+      "fetchedAt": "2026-10-24T21:46:43.229Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-24T19:19:02.866Z",
+      "fetchedAt": "2026-10-24T21:46:43.229Z",
       "error": null,
       "items": [
+        {
+          "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+          "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+          "time": "2026-10-24T21:46:33.000Z",
+          "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh…"
+        },
+        {
+          "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+          "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+          "time": "2026-10-24T19:30:00.000Z",
+          "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
+        },
         {
           "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
           "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
           "time": "2026-10-24T13:00:00.000Z",
           "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
-        },
-        {
-          "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-          "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-          "time": "2026-10-23T23:50:49.000Z",
-          "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the…"
-        },
-        {
-          "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-          "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-          "time": "2026-10-23T23:12:21.000Z",
-          "summary": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-24T19:19:02.866Z",
+      "fetchedAt": "2026-10-24T21:46:43.229Z",
       "error": null,
       "items": [
         {
@@ -122,11 +122,17 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-24T19:19:02.866Z",
+      "fetchedAt": "2026-10-24T21:46:43.229Z",
       "error": null,
       "items": [
         {
-          "title": "\"Onverwachte gast zonder reservatie\": plots staat er een paard naast je tafel op restaurant",
+          "title": "Ook Boelo is nu officieel een Belgische storm: vannacht rukwinden tot 80 km/u en veel regen",
+          "url": "https://vrtnws.be/p.aDevKjdaa",
+          "time": "2026-10-24T19:27:06.000Z",
+          "summary": "Boelo is nu ook officieel een Belgische storm. Dat zegt weerman David Dehenauw van het KMI. Wie de komende uren nog de baan op moet, houdt maar beter rekening met…"
+        },
+        {
+          "title": "\"Onverwachte gast zonder reservatie\": plots staat er een paard naast je tafel in een vijfsterrenhotel",
           "url": "https://vrtnws.be/p.Yb537wXmx",
           "time": "2026-10-24T18:58:58.000Z",
           "summary": "Bezoekers van een hotelrestaurant in Lanaken zijn tijdens de middagshift verrast door een paard. Het ontsnapte dier wandelde rustig en beheerst de zaak binnen en weer…"
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.LNWm9oDlE",
           "time": "2026-10-24T14:23:24.000Z",
           "summary": "In Mechelen krijgt de Binnendijle een flinke opknapbeurt, met meer groen, meer natuur en meer ruimte voor het water. De stad Mechelen en De Vlaamse Waterweg hebben de…"
-        },
-        {
-          "title": "Café De Valk in centrum Ieper moet een maand sluiten na klachten over overlast",
-          "url": "https://vrtnws.be/p.11pleVJal",
-          "time": "2026-10-24T13:51:27.000Z",
-          "summary": "De stad Ieper sluit café De Valk in de Rijselstraat een maand lang. Buurtbewoners klagen al maanden over overlast. De uitbater spreekt zelf van een jaarlijkse sluiting…"
         }
       ]
     }
