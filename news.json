@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T10:02:22.164Z",
+  "generatedAt": "2026-10-25T14:30:29.191Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T10:02:22.164Z",
+      "fetchedAt": "2026-10-25T14:30:29.191Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T10:02:22.164Z",
+      "fetchedAt": "2026-10-25T14:30:29.191Z",
       "error": null,
       "items": [
+        {
+          "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+          "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
+          "time": "2026-10-25T10:45:33.000Z",
+          "summary": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on…"
+        },
         {
           "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
           "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
           "time": "2026-10-24T16:00:00.000Z",
           "summary": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US.…"
-        },
-        {
-          "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
-          "url": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
-          "time": "2026-10-24T13:00:00.000Z",
-          "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T10:02:22.164Z",
+      "fetchedAt": "2026-10-25T14:30:29.191Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T10:02:22.164Z",
+      "fetchedAt": "2026-10-25T14:30:29.191Z",
       "error": null,
       "items": [
         {
-          "title": "Youri (51) verrast door Aziatische hoornaars na storm: \"Ze vallen uit de bomen door de wind\"",
-          "url": "https://vrtnws.be/p.ew4nM6MQ9",
-          "time": "2026-10-25T09:36:20.000Z",
-          "summary": "De stormen van de voorbije dagen deden niet alleen takken en bomen in het rond vliegen, maar ook hoornaarsnesten. Verdelgers zijn druk in de weer en doen een oproep.…"
+          "title": "Boom valt op 2 huizen in Riemst, niemand gewond",
+          "url": "https://vrtnws.be/p.y31pOdaBO",
+          "time": "2026-10-25T14:12:46.000Z",
+          "summary": "Een boom langs de Maastrichtersteenweg in Riemst is vandaag rond 7.30 uur op het dak van twee aanpalende huizen gevallen. Niemand raakte gewond. De daken liepen lichte…"
         },
         {
-          "title": "Voor tweede nacht op rij rijdt auto op exact dezelfde plek in de gracht op A19",
-          "url": "https://vrtnws.be/p.XEVjp7nlG",
-          "time": "2026-10-25T07:41:23.000Z",
-          "summary": "Op de A19 bij het West-Vlaamse Geluveld is voor de tweede avond op rij een auto de controle verloren op exact dezelfde plek. Opnieuw dook het voertuig in een diepe…"
+          "title": "Stormtij in Scheldevallei door storm Boelo, overstromingsgebieden afgesloten: \"Blijf er weg\"",
+          "url": "https://vrtnws.be/p.LNWmLDY4E",
+          "time": "2026-10-25T13:51:26.000Z",
+          "summary": "De Vlaamse Waterweg waarschuwt voor stormtij in de Scheldevallei in de nacht van zondag op maandag. De wind die gepaard gaat met storm Boelo stuwt het water de Schelde…"
         },
         {
-          "title": "\"Ik moet hier nu uit, en dat kan niet\": hoe claustrofobie het leven van Ruud beheerste",
-          "url": "https://vrtnws.be/p.ew4Bk18DK",
-          "time": "2026-10-25T07:37:07.000Z",
-          "summary": "De angst bekroop me al toen ik het nieuws zag voorbijkomen over de vrouw die 3 dagen opgesloten zat in de kelder van het Deense hooggerechtshof. Ruud heeft al zolang ze…"
+          "title": "Politie verdedigt inbeslagname van zwembrillen tijdens Brusselse betoging",
+          "url": "https://vrtnws.be/p.PqOaWnkEa",
+          "time": "2026-10-25T13:44:08.000Z",
+          "summary": "De Brusselse politie reageert op kritiek over de inbeslagname van zwembrillen, oogserum en mondmaskers tijdens een wilde betoging in Brussel. Volgens de politie waren…"
         },
         {
-          "title": "Kroonprinses Elisabeth viert 25e verjaardag, paleis verspreidt nieuwe zwart-witfoto",
-          "url": "https://vrtnws.be/p.Yb53pGLEw",
-          "time": "2026-10-25T07:26:27.000Z",
-          "summary": "Kroonprinses Elisabeth viert vandaag haar 25e verjaardag. Ter gelegenheid van die feestelijke gebeurtenis heeft het koninklijk paleis een nieuwe foto verspreid van de…"
+          "title": "Plantjesweekend Kom op tegen Kanker brengt 38.742,50 euro op in Sint-Truiden",
+          "url": "https://vrtnws.be/p.jGkQMJ3QE",
+          "time": "2026-10-25T13:28:41.000Z",
+          "summary": "De vrijwilligers van Kom op tegen Kanker verkochten in Sint-Truiden 3.800 azalea’s tijdens het Plantjesweekend in september. De actie bracht 38.742,50 euro op. Dat…"
         },
         {
-          "title": "Vechtpartijen tijdens halloweenavond Walibi in Nederland: verschillende gewonden, politie grijpt in",
-          "url": "https://vrtnws.be/p.43pEpn5LD",
-          "time": "2026-10-25T05:36:43.000Z",
-          "summary": "In de Nederlandse gemeente Biddinghuizen zijn vechtpartijen uitgebroken tijdens een halloweenevenement van pretpark Walibi. Dat melden Nederlandse media. Er zouden…"
+          "title": "Brand verwoest deel kasteel Hof te Melis in Lippelo: \"Door de hitte liep de verf van de schilderijen\"",
+          "url": "https://vrtnws.be/p.dLRv3GmW5",
+          "time": "2026-10-25T13:20:56.000Z",
+          "summary": "In Lippelo bij Puurs-Sint-Amands is brand uitgebroken in kasteel Hof te Melis. Die ontstond in de eetruimte, maar verspreidde zich al snel naar de andere kamers. Er was…"
         }
       ]
     }
