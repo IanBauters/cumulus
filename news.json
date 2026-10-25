@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-25T00:05:39.505Z",
+  "generatedAt": "2026-10-25T05:07:42.189Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T00:05:39.505Z",
+      "fetchedAt": "2026-10-25T05:07:42.189Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
+          "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+          "time": "2026-10-25T04:58:09.000Z",
+          "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an…"
+        },
+        {
+          "title": "Instagram Launches Apple TV App With Reels and More",
+          "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
+          "time": "2026-10-25T04:27:08.000Z",
+          "summary": "Instagram is now available on the Apple TV , bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time. The Instagram…"
+        },
+        {
+          "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
+          "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
+          "time": "2026-10-25T04:05:09.000Z",
+          "summary": "Apple and M. Night Shyamalan have won an appeal in the copyright dispute over Apple TV series \"Servant,\" with a federal appeals court upholding last year's jury verdict…"
+        },
         {
           "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
           "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
           "time": "2026-10-24T18:29:16.000Z",
           "summary": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed. In an email sent to…"
-        },
-        {
-          "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
-          "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
-          "time": "2026-10-24T18:28:00.000Z",
-          "summary": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step backwards after almost a decade of Face ID on iPhones, but…"
-        },
-        {
-          "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
-          "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
-          "time": "2026-10-24T18:27:42.000Z",
-          "summary": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test . Despite its IP68 dust-resistance rating, dust entered the hinge through several ingress…"
-        },
-        {
-          "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
-          "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
-          "time": "2026-10-24T16:07:36.000Z",
-          "summary": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than you would a regular iPhone. This makes the volume buttons…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T00:05:39.505Z",
+      "fetchedAt": "2026-10-25T05:07:42.189Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T00:05:39.505Z",
+      "fetchedAt": "2026-10-25T05:07:42.189Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T00:05:39.505Z",
+      "fetchedAt": "2026-10-25T05:07:42.189Z",
       "error": null,
       "items": [
         {
-          "title": "Ook Boelo is nu officieel een Belgische storm: vannacht rukwinden tot 80 km/u en veel regen",
-          "url": "https://vrtnws.be/p.aDevKjdaa",
-          "time": "2026-10-24T19:27:06.000Z",
-          "summary": "Boelo is nu ook officieel een Belgische storm. Dat zegt weerman David Dehenauw van het KMI. Wie de komende uren nog de baan op moet, houdt maar beter rekening met…"
+          "title": "Wanneer laat ik mijn winterbanden opleggen? \"Nu is het ideale moment\"",
+          "url": "https://vrtnws.be/p.y31G1vWYA",
+          "time": "2026-10-25T04:58:22.000Z",
+          "summary": "Ook al worden de winters milder, winterbanden blijven een hoeksteen voor de veiligheid op de weg. Dat benadrukt Gert Verhoeven, de woordvoerder van…"
         },
         {
-          "title": "\"Onverwachte gast zonder reservatie\": plots staat er een paard naast je tafel in een vijfsterrenhotel",
-          "url": "https://vrtnws.be/p.Yb537wXmx",
-          "time": "2026-10-24T18:58:58.000Z",
-          "summary": "Bezoekers van een hotelrestaurant in Lanaken zijn tijdens de middagshift verrast door een paard. Het ontsnapte dier wandelde rustig en beheerst de zaak binnen en weer…"
+          "title": "Oliedollars geen garantie voor veiligheid: waarom Saudi-Arabië kansloos is tegen aanvallen van Houthi-rebellen",
+          "url": "https://vrtnws.be/p.11pwmqNVl",
+          "time": "2026-10-25T04:58:06.000Z",
+          "summary": "Ondanks miljardeninvesteringen in defensie slaagt Saudi-Arabië er niet in om de aanhoudende aanvallen van de Houthi-rebellen in Jemen af te slaan. Het land blijkt…"
         },
         {
-          "title": "Studenten UHasselt pleiten in oefening voor kapot koffiezetapparaat",
-          "url": "https://vrtnws.be/p.oLq8pnZBY",
-          "time": "2026-10-24T14:56:15.000Z",
-          "summary": "Twee studenten rechten van de UHasselt hebben zaterdag gepleit voor en tegen een kapot koffiezetapparaat. Dat doen ze om het recht van herstel van apparaten te duiden.…"
+          "title": "Waarom Europese Unie (andermaal) grote afwezige is bij onderhandelingen over oorlog in Oekraïne",
+          "url": "https://vrtnws.be/p.5waeweBQR",
+          "time": "2026-10-25T04:57:49.000Z",
+          "summary": "Rusland ziet de EU niet als neutrale onderhandelaar omdat Europa sinds dag 1 de kant van Oekraïne kiest. Dat zegt professor Europese politiek Hendrik Vos nu Europese…"
         },
         {
-          "title": "De 'Batman van Londen' haalt zwerfvuil op en betaalt je brandstof... maar waarom, dat weet niemand",
-          "url": "https://vrtnws.be/p.lObdG36JW",
-          "time": "2026-10-24T14:40:05.000Z",
-          "summary": "In Londen ruimt een man verkleed als Batman zwerfvuil op. Hij deelt chocolade en kip uit aan bodemprijzen. En hij betaalt je parkeerboetes. De Instagrammer Londons…"
+          "title": "De mannenfabriek van Mar-a-Lago: Trump en de manosfeer",
+          "url": "https://vrtnws.be/p.0Yp00VE4Q",
+          "time": "2026-10-25T04:57:06.000Z",
+          "summary": "De afgelopen jaren voelt een pak jonge mannen zich aangetrokken tot de manosfeer en radicaal-rechts. De manosfeer trekt heftig van leer tegen alles wat woke is, en…"
         },
         {
-          "title": "Mechelen toont plannen voor groene oevers en nieuwe straten langs de Binnendijle",
-          "url": "https://vrtnws.be/p.LNWm9oDlE",
-          "time": "2026-10-24T14:23:24.000Z",
-          "summary": "In Mechelen krijgt de Binnendijle een flinke opknapbeurt, met meer groen, meer natuur en meer ruimte voor het water. De stad Mechelen en De Vlaamse Waterweg hebben de…"
+          "title": "\"Ik bedrieg mijn partner met een getrouwde man, moet ik stilaan een keuze maken?\": Rika Ponnet beantwoordt de vraag van Anneke",
+          "url": "https://vrtnws.be/p.XEVNvQymb",
+          "time": "2026-10-25T04:56:50.000Z",
+          "summary": "Hoewel Anneke (45) gelukkig getrouwd is, heeft ze al 4 jaar lang een geheime seksuele relatie met een getrouwde man. Dat kan ze naar eigen zeggen goed loskoppelen van…"
         }
       ]
     }
