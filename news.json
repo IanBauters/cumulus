@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T18:14:45.233Z",
+  "generatedAt": "2026-10-25T21:07:07.596Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T18:14:45.233Z",
+      "fetchedAt": "2026-10-25T21:07:07.596Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T18:14:45.233Z",
+      "fetchedAt": "2026-10-25T21:07:07.596Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T18:14:45.233Z",
+      "fetchedAt": "2026-10-25T21:07:07.596Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T18:14:45.233Z",
+      "fetchedAt": "2026-10-25T21:07:07.596Z",
       "error": null,
       "items": [
         {
-          "title": "Dronken bestuurder van dodelijke aanrijding op E34 in Kallo is aangehouden",
-          "url": "https://vrtnws.be/p.LNWmwLZWv",
-          "time": "2026-10-25T17:43:09.000Z",
-          "summary": "De bestuurder van de Porsche die in de nacht van vrijdag op zaterdag betrokken was bij een dodelijk ongeval op de E34 ter hoogte van Kallo is voorgeleid en aangehouden.…"
+          "title": "Filipijnen bevestigen vondst van kinderpornogafisch materiaal in huis van vader Meghan Markle",
+          "url": "https://vrtnws.be/p.DYMv9x55X",
+          "time": "2026-10-25T20:18:08.000Z",
+          "summary": "De Filipijnse politie bevestigt dat ze een\"omvangrijke hoeveelheid kinderpornografisch materiaal\" gevonden heeft in de voormalige woning van Thomas Markle, de vader van…"
         },
         {
-          "title": "Marine Le Pen belooft \"pluralistische regering van nationale eenheid\", als ze president van Frankrijk wordt",
-          "url": "https://vrtnws.be/p.11plKmay9",
-          "time": "2026-10-25T17:29:35.000Z",
-          "summary": "Als Marine Le Pen volgend jaar de Franse presidentsverkiezingen wint, dan wil ze \"een pluralistische regering van nationale eenheid\" vormen. Dat heeft ze gezegd op een…"
+          "title": "Tientallen gewonden na busongeval bij natuurpark Montseny in Catalonië: bus stort 20 meter naar beneden",
+          "url": "https://vrtnws.be/p.M9m7OjRQq",
+          "time": "2026-10-25T19:19:31.000Z",
+          "summary": "In Fogars de Montclús, in de Spaanse provincie Barcelona, is een ongeval gebeurd met een bus en een personenwagen. Er is nog veel onduidelijkheid over het aantal…"
         },
         {
-          "title": "Wedstrijd Black Beez stilgelegd door lek in dak van sporthal Erpe-Mere, club en gemeente maandag in overleg voor oplossing",
-          "url": "https://vrtnws.be/p.XEVjw403O",
-          "time": "2026-10-25T17:23:07.000Z",
-          "summary": "In de sporthal Sint-Bavo in Erpe-Mere heeft de scheidsrechter de wedstrijd van basketbalclub Black Beez moeten stilleggen, nadat er water was binnengesijpeld via het…"
+          "title": "Aftredend Servisch president Vucic roept nederlaag uit bij vervroegde parlementsverkiezingen: \"Historische overwinning voor Studentenlijst\"",
+          "url": "https://vrtnws.be/p.E1dqmAnnD",
+          "time": "2026-10-25T19:11:14.000Z",
+          "summary": "In Servië heeft aftredend president Aleksandar Vucic zijn nederlaag bij de vervroegde parlementsverkiezingen toegegeven op een persconferentie. Hij roept de…"
         },
         {
-          "title": "Honderden Leuvenaars zoeken rust op Dag van de Stilte: wandelingen en kunstperformance in Kruidtuin",
-          "url": "https://vrtnws.be/p.ew4nY0NyE",
-          "time": "2026-10-25T17:20:41.000Z",
-          "summary": "In Leuven nemen honderden mensen deel aan activiteiten rond de Dag van de Stilte. In de Kruidtuin, tijdens wandelingen en workshops staan rust, bezinning en vertraging…"
+          "title": "Dilbekenaar lanceert gratis maildienst na phishingmail aan zijn moeder: \"Vooral mensen met minder digitale kennis beschermen\"",
+          "url": "https://vrtnws.be/p.aDevY7Gqb",
+          "time": "2026-10-25T18:40:27.000Z",
+          "summary": "Een verdachte e-mail aan zijn moeder bracht Jany Ertveldt op een idee. De Dilbekenaar ontwikkelde een gratis dienst die verdachte e-mails binnen enkele minuten…"
         },
         {
-          "title": "Meer bezoekers dan verwacht op opendeurdag in rechtbank van Oudenaarde die 100e verjaardag viert",
-          "url": "https://vrtnws.be/p.oLq8WkYOq",
-          "time": "2026-10-25T17:17:32.000Z",
-          "summary": "De rechtbank van Oudenaarde hield zondag een opendeurdag in het 100-jarige gerechtsgebouw. Er kwamen meer bezoekers af op de rondleidingen dan verwacht. De rechtbank…"
+          "title": "Isabella (9) wint eerste Junior Smaakmaker wedstrijd met pompoentaart in Roeselare",
+          "url": "https://vrtnws.be/p.11plKKYaG",
+          "time": "2026-10-25T18:30:29.000Z",
+          "summary": "Isabella Macias-Declercq (9) is zondagmiddag de eerste Junior Smaakmaker van Roeselare geworden. Ze won de kookwedstrijd in het Ondernemerscentrum langs de Spanjestraat…"
         }
       ]
     }
