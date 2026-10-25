@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T05:07:42.189Z",
+  "generatedAt": "2026-10-25T10:02:22.164Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T05:07:42.189Z",
+      "fetchedAt": "2026-10-25T10:02:22.164Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T05:07:42.189Z",
+      "fetchedAt": "2026-10-25T10:02:22.164Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T05:07:42.189Z",
+      "fetchedAt": "2026-10-25T10:02:22.164Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T05:07:42.189Z",
+      "fetchedAt": "2026-10-25T10:02:22.164Z",
       "error": null,
       "items": [
         {
-          "title": "Wanneer laat ik mijn winterbanden opleggen? \"Nu is het ideale moment\"",
-          "url": "https://vrtnws.be/p.y31G1vWYA",
-          "time": "2026-10-25T04:58:22.000Z",
-          "summary": "Ook al worden de winters milder, winterbanden blijven een hoeksteen voor de veiligheid op de weg. Dat benadrukt Gert Verhoeven, de woordvoerder van…"
+          "title": "Youri (51) verrast door Aziatische hoornaars na storm: \"Ze vallen uit de bomen door de wind\"",
+          "url": "https://vrtnws.be/p.ew4nM6MQ9",
+          "time": "2026-10-25T09:36:20.000Z",
+          "summary": "De stormen van de voorbije dagen deden niet alleen takken en bomen in het rond vliegen, maar ook hoornaarsnesten. Verdelgers zijn druk in de weer en doen een oproep.…"
         },
         {
-          "title": "Oliedollars geen garantie voor veiligheid: waarom Saudi-Arabië kansloos is tegen aanvallen van Houthi-rebellen",
-          "url": "https://vrtnws.be/p.11pwmqNVl",
-          "time": "2026-10-25T04:58:06.000Z",
-          "summary": "Ondanks miljardeninvesteringen in defensie slaagt Saudi-Arabië er niet in om de aanhoudende aanvallen van de Houthi-rebellen in Jemen af te slaan. Het land blijkt…"
+          "title": "Voor tweede nacht op rij rijdt auto op exact dezelfde plek in de gracht op A19",
+          "url": "https://vrtnws.be/p.XEVjp7nlG",
+          "time": "2026-10-25T07:41:23.000Z",
+          "summary": "Op de A19 bij het West-Vlaamse Geluveld is voor de tweede avond op rij een auto de controle verloren op exact dezelfde plek. Opnieuw dook het voertuig in een diepe…"
         },
         {
-          "title": "Waarom Europese Unie (andermaal) grote afwezige is bij onderhandelingen over oorlog in Oekraïne",
-          "url": "https://vrtnws.be/p.5waeweBQR",
-          "time": "2026-10-25T04:57:49.000Z",
-          "summary": "Rusland ziet de EU niet als neutrale onderhandelaar omdat Europa sinds dag 1 de kant van Oekraïne kiest. Dat zegt professor Europese politiek Hendrik Vos nu Europese…"
+          "title": "\"Ik moet hier nu uit, en dat kan niet\": hoe claustrofobie het leven van Ruud beheerste",
+          "url": "https://vrtnws.be/p.ew4Bk18DK",
+          "time": "2026-10-25T07:37:07.000Z",
+          "summary": "De angst bekroop me al toen ik het nieuws zag voorbijkomen over de vrouw die 3 dagen opgesloten zat in de kelder van het Deense hooggerechtshof. Ruud heeft al zolang ze…"
         },
         {
-          "title": "De mannenfabriek van Mar-a-Lago: Trump en de manosfeer",
-          "url": "https://vrtnws.be/p.0Yp00VE4Q",
-          "time": "2026-10-25T04:57:06.000Z",
-          "summary": "De afgelopen jaren voelt een pak jonge mannen zich aangetrokken tot de manosfeer en radicaal-rechts. De manosfeer trekt heftig van leer tegen alles wat woke is, en…"
+          "title": "Kroonprinses Elisabeth viert 25e verjaardag, paleis verspreidt nieuwe zwart-witfoto",
+          "url": "https://vrtnws.be/p.Yb53pGLEw",
+          "time": "2026-10-25T07:26:27.000Z",
+          "summary": "Kroonprinses Elisabeth viert vandaag haar 25e verjaardag. Ter gelegenheid van die feestelijke gebeurtenis heeft het koninklijk paleis een nieuwe foto verspreid van de…"
         },
         {
-          "title": "\"Ik bedrieg mijn partner met een getrouwde man, moet ik stilaan een keuze maken?\": Rika Ponnet beantwoordt de vraag van Anneke",
-          "url": "https://vrtnws.be/p.XEVNvQymb",
-          "time": "2026-10-25T04:56:50.000Z",
-          "summary": "Hoewel Anneke (45) gelukkig getrouwd is, heeft ze al 4 jaar lang een geheime seksuele relatie met een getrouwde man. Dat kan ze naar eigen zeggen goed loskoppelen van…"
+          "title": "Vechtpartijen tijdens halloweenavond Walibi in Nederland: verschillende gewonden, politie grijpt in",
+          "url": "https://vrtnws.be/p.43pEpn5LD",
+          "time": "2026-10-25T05:36:43.000Z",
+          "summary": "In de Nederlandse gemeente Biddinghuizen zijn vechtpartijen uitgebroken tijdens een halloweenevenement van pretpark Walibi. Dat melden Nederlandse media. Er zouden…"
         }
       ]
     }
