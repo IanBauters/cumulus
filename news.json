@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-25T21:07:07.596Z",
+  "generatedAt": "2026-10-25T23:28:01.021Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T21:07:07.596Z",
+      "fetchedAt": "2026-10-25T23:28:01.021Z",
       "error": null,
       "items": [
         {
+          "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+          "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+          "time": "2026-10-25T23:07:28.000Z",
+          "summary": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority…"
+        },
+        {
+          "title": "iPhone Duo Can Run Automations When You Open or Close It",
+          "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+          "time": "2026-10-25T22:26:58.000Z",
+          "summary": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which…"
+        },
+        {
+          "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+          "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+          "time": "2026-10-25T22:00:02.000Z",
+          "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets…"
+        },
+        {
+          "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
+          "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+          "time": "2026-10-25T21:44:03.000Z",
+          "summary": "Teardown site iFixit took apart the iPhone Duo to see what's inside, how it holds up to dust, and how repairable it is. There's a video walking through the teardown, as…"
+        },
+        {
           "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
           "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
-          "time": "2026-10-25T15:18:08.000Z",
+          "time": "2026-10-25T15:18:04.000Z",
           "summary": "Bloomberg 's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from…"
-        },
-        {
-          "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
-          "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
-          "time": "2026-10-25T14:30:49.000Z",
-          "summary": "Bloomberg 's Mark Gurman today reiterated that Apple plans to announce new iMac and 14-inch MacBook Pro models on Wednesday. Apple is holding a \"Pro and tell\" experience…"
-        },
-        {
-          "title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
-          "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
-          "time": "2026-10-25T14:30:34.000Z",
-          "summary": "Apple plans to unveil 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays on Wednesday, October 28, according to Bloomberg 's Mark Gurman. Those…"
-        },
-        {
-          "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
-          "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
-          "time": "2026-10-25T04:58:09.000Z",
-          "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an…"
-        },
-        {
-          "title": "Instagram Launches Apple TV App With Reels and More",
-          "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
-          "time": "2026-10-25T04:27:08.000Z",
-          "summary": "Instagram is now available on the Apple TV , bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time. The Instagram…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T21:07:07.596Z",
+      "fetchedAt": "2026-10-25T23:28:01.021Z",
       "error": null,
       "items": [
+        {
+          "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
+          "url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+          "time": "2026-10-25T21:36:58.000Z",
+          "summary": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are…"
+        },
         {
           "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
           "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
           "time": "2026-10-24T21:46:33.000Z",
           "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh…"
-        },
-        {
-          "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
-          "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
-          "time": "2026-10-24T19:30:00.000Z",
-          "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T21:07:07.596Z",
+      "fetchedAt": "2026-10-25T23:28:01.021Z",
       "error": null,
       "items": [
         {
@@ -122,26 +122,26 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T21:07:07.596Z",
+      "fetchedAt": "2026-10-25T23:28:01.021Z",
       "error": null,
       "items": [
         {
-          "title": "Filipijnen bevestigen vondst van kinderpornogafisch materiaal in huis van vader Meghan Markle",
+          "title": "Filipijnen bevestigen vondst van beelden van kindermisbruik in huis van vader Meghan Markle",
           "url": "https://vrtnws.be/p.DYMv9x55X",
           "time": "2026-10-25T20:18:08.000Z",
-          "summary": "De Filipijnse politie bevestigt dat ze een\"omvangrijke hoeveelheid kinderpornografisch materiaal\" gevonden heeft in de voormalige woning van Thomas Markle, de vader van…"
+          "summary": "De Filipijnse politie bevestigt dat ze een \"omvangrijke hoeveelheid beelden van kindermisbruik\" gevonden heeft in de voormalige woning van Thomas Markle, de vader van…"
         },
         {
-          "title": "Tientallen gewonden na busongeval bij natuurpark Montseny in Catalonië: bus stort 20 meter naar beneden",
+          "title": "80 gewonden na busongeval bij natuurpark Montseny in Catalonië: bus stort 20 meter naar beneden",
           "url": "https://vrtnws.be/p.M9m7OjRQq",
           "time": "2026-10-25T19:19:31.000Z",
-          "summary": "In Fogars de Montclús, in de Spaanse provincie Barcelona, is een ongeval gebeurd met een bus en een personenwagen. Er is nog veel onduidelijkheid over het aantal…"
+          "summary": "Bij een busongeval in Fogars de Montclús, in de Spaanse provincie Barcelona, zijn 80 mensen gewond geraakt. 5 van hen zijn naar het ziekenhuis overgebracht. De bus…"
         },
         {
-          "title": "Aftredend Servisch president Vucic roept nederlaag uit bij vervroegde parlementsverkiezingen: \"Historische overwinning voor Studentenlijst\"",
+          "title": "Aftredend Servisch president Vucic erkent nederlaag bij vervroegde parlementsverkiezingen, \"historische overwinning voor Studentenlijst\"",
           "url": "https://vrtnws.be/p.E1dqmAnnD",
           "time": "2026-10-25T19:11:14.000Z",
-          "summary": "In Servië heeft aftredend president Aleksandar Vucic zijn nederlaag bij de vervroegde parlementsverkiezingen toegegeven op een persconferentie. Hij roept de…"
+          "summary": "In Servië heeft aftredend president Aleksandar Vucic zijn nederlaag bij de vervroegde parlementsverkiezingen toegegeven. Volgens de eerste resultaten heeft de…"
         },
         {
           "title": "Dilbekenaar lanceert gratis maildienst na phishingmail aan zijn moeder: \"Vooral mensen met minder digitale kennis beschermen\"",
