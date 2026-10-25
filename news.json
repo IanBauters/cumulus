@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-25T14:30:29.191Z",
+  "generatedAt": "2026-10-25T18:14:45.233Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T14:30:29.191Z",
+      "fetchedAt": "2026-10-25T18:14:45.233Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
+          "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+          "time": "2026-10-25T15:18:08.000Z",
+          "summary": "Bloomberg 's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from…"
+        },
+        {
+          "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
+          "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+          "time": "2026-10-25T14:30:49.000Z",
+          "summary": "Bloomberg 's Mark Gurman today reiterated that Apple plans to announce new iMac and 14-inch MacBook Pro models on Wednesday. Apple is holding a \"Pro and tell\" experience…"
+        },
+        {
+          "title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
+          "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
+          "time": "2026-10-25T14:30:34.000Z",
+          "summary": "Apple plans to unveil 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays on Wednesday, October 28, according to Bloomberg 's Mark Gurman. Those…"
+        },
         {
           "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
           "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
           "time": "2026-10-25T04:27:08.000Z",
           "summary": "Instagram is now available on the Apple TV , bringing Reels, longer videos, and live shows via the platform to Apple's streaming device for the first time. The Instagram…"
-        },
-        {
-          "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
-          "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
-          "time": "2026-10-25T04:05:09.000Z",
-          "summary": "Apple and M. Night Shyamalan have won an appeal in the copyright dispute over Apple TV series \"Servant,\" with a federal appeals court upholding last year's jury verdict…"
-        },
-        {
-          "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
-          "url": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
-          "time": "2026-10-24T23:48:55.000Z",
-          "summary": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part of your index finger…"
-        },
-        {
-          "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
-          "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
-          "time": "2026-10-24T18:29:16.000Z",
-          "summary": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed. In an email sent to…"
         }
       ]
     },
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T14:30:29.191Z",
+      "fetchedAt": "2026-10-25T18:14:45.233Z",
       "error": null,
       "items": [
+        {
+          "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
+          "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+          "time": "2026-10-25T16:06:33.000Z",
+          "summary": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple…"
+        },
+        {
+          "title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
+          "url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
+          "time": "2026-10-25T14:48:28.000Z",
+          "summary": "This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in…"
+        },
         {
           "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
           "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
           "time": "2026-10-24T19:30:00.000Z",
           "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app…"
-        },
-        {
-          "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
-          "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
-          "time": "2026-10-24T17:47:49.000Z",
-          "summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m…"
-        },
-        {
-          "title": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
-          "url": "https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/",
-          "time": "2026-10-24T16:00:00.000Z",
-          "summary": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T14:30:29.191Z",
+      "fetchedAt": "2026-10-25T18:14:45.233Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T14:30:29.191Z",
+      "fetchedAt": "2026-10-25T18:14:45.233Z",
       "error": null,
       "items": [
         {
-          "title": "Boom valt op 2 huizen in Riemst, niemand gewond",
-          "url": "https://vrtnws.be/p.y31pOdaBO",
-          "time": "2026-10-25T14:12:46.000Z",
-          "summary": "Een boom langs de Maastrichtersteenweg in Riemst is vandaag rond 7.30 uur op het dak van twee aanpalende huizen gevallen. Niemand raakte gewond. De daken liepen lichte…"
+          "title": "Dronken bestuurder van dodelijke aanrijding op E34 in Kallo is aangehouden",
+          "url": "https://vrtnws.be/p.LNWmwLZWv",
+          "time": "2026-10-25T17:43:09.000Z",
+          "summary": "De bestuurder van de Porsche die in de nacht van vrijdag op zaterdag betrokken was bij een dodelijk ongeval op de E34 ter hoogte van Kallo is voorgeleid en aangehouden.…"
         },
         {
-          "title": "Stormtij in Scheldevallei door storm Boelo, overstromingsgebieden afgesloten: \"Blijf er weg\"",
-          "url": "https://vrtnws.be/p.LNWmLDY4E",
-          "time": "2026-10-25T13:51:26.000Z",
-          "summary": "De Vlaamse Waterweg waarschuwt voor stormtij in de Scheldevallei in de nacht van zondag op maandag. De wind die gepaard gaat met storm Boelo stuwt het water de Schelde…"
+          "title": "Marine Le Pen belooft \"pluralistische regering van nationale eenheid\", als ze president van Frankrijk wordt",
+          "url": "https://vrtnws.be/p.11plKmay9",
+          "time": "2026-10-25T17:29:35.000Z",
+          "summary": "Als Marine Le Pen volgend jaar de Franse presidentsverkiezingen wint, dan wil ze \"een pluralistische regering van nationale eenheid\" vormen. Dat heeft ze gezegd op een…"
         },
         {
-          "title": "Politie verdedigt inbeslagname van zwembrillen tijdens Brusselse betoging",
-          "url": "https://vrtnws.be/p.PqOaWnkEa",
-          "time": "2026-10-25T13:44:08.000Z",
-          "summary": "De Brusselse politie reageert op kritiek over de inbeslagname van zwembrillen, oogserum en mondmaskers tijdens een wilde betoging in Brussel. Volgens de politie waren…"
+          "title": "Wedstrijd Black Beez stilgelegd door lek in dak van sporthal Erpe-Mere, club en gemeente maandag in overleg voor oplossing",
+          "url": "https://vrtnws.be/p.XEVjw403O",
+          "time": "2026-10-25T17:23:07.000Z",
+          "summary": "In de sporthal Sint-Bavo in Erpe-Mere heeft de scheidsrechter de wedstrijd van basketbalclub Black Beez moeten stilleggen, nadat er water was binnengesijpeld via het…"
         },
         {
-          "title": "Plantjesweekend Kom op tegen Kanker brengt 38.742,50 euro op in Sint-Truiden",
-          "url": "https://vrtnws.be/p.jGkQMJ3QE",
-          "time": "2026-10-25T13:28:41.000Z",
-          "summary": "De vrijwilligers van Kom op tegen Kanker verkochten in Sint-Truiden 3.800 azalea’s tijdens het Plantjesweekend in september. De actie bracht 38.742,50 euro op. Dat…"
+          "title": "Honderden Leuvenaars zoeken rust op Dag van de Stilte: wandelingen en kunstperformance in Kruidtuin",
+          "url": "https://vrtnws.be/p.ew4nY0NyE",
+          "time": "2026-10-25T17:20:41.000Z",
+          "summary": "In Leuven nemen honderden mensen deel aan activiteiten rond de Dag van de Stilte. In de Kruidtuin, tijdens wandelingen en workshops staan rust, bezinning en vertraging…"
         },
         {
-          "title": "Brand verwoest deel kasteel Hof te Melis in Lippelo: \"Door de hitte liep de verf van de schilderijen\"",
-          "url": "https://vrtnws.be/p.dLRv3GmW5",
-          "time": "2026-10-25T13:20:56.000Z",
-          "summary": "In Lippelo bij Puurs-Sint-Amands is brand uitgebroken in kasteel Hof te Melis. Die ontstond in de eetruimte, maar verspreidde zich al snel naar de andere kamers. Er was…"
+          "title": "Meer bezoekers dan verwacht op opendeurdag in rechtbank van Oudenaarde die 100e verjaardag viert",
+          "url": "https://vrtnws.be/p.oLq8WkYOq",
+          "time": "2026-10-25T17:17:32.000Z",
+          "summary": "De rechtbank van Oudenaarde hield zondag een opendeurdag in het 100-jarige gerechtsgebouw. Er kwamen meer bezoekers af op de rondleidingen dan verwacht. De rechtbank…"
         }
       ]
     }
