@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-26T07:34:06.732Z",
+  "generatedAt": "2026-10-26T14:58:17.246Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-26T07:34:06.732Z",
+      "fetchedAt": "2026-10-26T14:58:17.246Z",
       "error": null,
       "items": [
         {
-          "title": "Apple Display Veterans Step Back as New Leaders Take Over",
-          "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
-          "time": "2026-10-26T04:14:12.000Z",
-          "summary": "Two executives who have spent roughly three decades each at Apple are handing over responsibility for its displays, as part of a broader series of engineering leadership…"
+          "title": "New iPad Mini Gains Adaptive True Tone Flash",
+          "url": "https://www.macrumors.com/2026/10/26/ipad-mini-adaptive-true-tone-flash/",
+          "time": "2026-10-26T14:57:46.000Z",
+          "summary": "Apple's new iPad mini features an Adaptive True Tone flash, bringing an iPad Pro feature to Apple's smallest tablet for the first time. Unlike the iPad Air , the…"
         },
         {
-          "title": "OLED MacBook Air and iMac Remain in Testing",
-          "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
-          "time": "2026-10-26T03:41:01.000Z",
-          "summary": "Apple is testing OLED displays for future MacBook Air and iMac models, though both upgrades remain some way off, according to Bloomberg 's Mark Gurman in his latest…"
+          "title": "Quickly Silence iPhone Duo Without a Ring/Mute Switch",
+          "url": "https://www.macrumors.com/how-to/quickly-silence-iphone-duo-without-mute-switch/",
+          "time": "2026-10-26T14:36:49.000Z",
+          "summary": "The new iPhone Duo drops both the classic Ring/Silent switch as well as the newer Action button, so there is no physical mute control on the device, and no way to assign…"
         },
         {
-          "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
-          "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
-          "time": "2026-10-26T02:22:30.000Z",
-          "summary": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority…"
+          "title": "OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately",
+          "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-fast-charge-35w-adapter/",
+          "time": "2026-10-26T14:14:41.000Z",
+          "summary": "Apple's new iPad mini is fast-charge capable, but not with the adapter in the box. Apple's specifications say the device can reach up to a 50% charge in around 30…"
         },
         {
-          "title": "iPhone Duo Can Run Automations When You Open or Close It",
-          "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
-          "time": "2026-10-25T22:26:58.000Z",
-          "summary": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which…"
+          "title": "Apple Brings TechWoven to iPad With All-New $79 iPad Mini Smart Folio",
+          "url": "https://www.macrumors.com/2026/10/26/techwoven-ipad-mini-smart-folio/",
+          "time": "2026-10-26T14:07:43.000Z",
+          "summary": "Apple today announced a TechWoven Smart Folio for the new iPad mini bringing its woven fabric to an iPad cover for the first time and replacing the previous,…"
         },
         {
-          "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
-          "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
-          "time": "2026-10-25T22:00:02.000Z",
-          "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets…"
+          "title": "All Current iPads Now Feature a Landscape Front Camera",
+          "url": "https://www.macrumors.com/2026/10/26/all-ipads-now-feature-landscape-front-camera/",
+          "time": "2026-10-26T14:02:00.000Z",
+          "summary": "With the introduction of the new iPad mini , every model in Apple's current iPad lineup now features a landscape front-facing camera. The transition began with the…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-26T07:34:06.732Z",
+      "fetchedAt": "2026-10-26T14:58:17.246Z",
       "error": null,
       "items": [
         {
-          "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
-          "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
-          "time": "2026-10-26T05:16:58.000Z",
-          "summary": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor…"
+          "title": "New iPad mini vs previous model: Here’s everything new",
+          "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-vs-previous-model-heres-everything-new/",
+          "time": "2026-10-26T14:33:11.000Z",
+          "summary": "Apple unveiled a new iPad mini today, and it’s a big upgrade over the previous model. Here’s everything new. more…"
         },
         {
-          "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
-          "url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
-          "time": "2026-10-25T21:36:58.000Z",
-          "summary": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are…"
+          "title": "Apple teases an ‘exciting week’ of new products ahead",
+          "url": "https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead/",
+          "time": "2026-10-26T13:36:02.000Z",
+          "summary": "Today Apple introduced a big update to the iPad mini, but it’s only the start of what the company has planned, as Greg Joswiak just teased an exciting week ahead. more…"
         },
         {
-          "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
-          "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
-          "time": "2026-10-25T16:06:33.000Z",
-          "summary": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple…"
+          "title": "New iPad mini has big limitation on all but one model",
+          "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-has-big-limitation-on-all-but-one-model/",
+          "time": "2026-10-26T13:19:05.000Z",
+          "summary": "Today Apple unveiled its biggest update to the iPad mini yet, but if you’re looking to buy one, there’s a key limitation of the A20 Pro chip in every configuration but…"
         },
         {
-          "title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
-          "url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
-          "time": "2026-10-25T14:48:28.000Z",
-          "summary": "This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in…"
+          "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+          "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
+          "time": "2026-10-26T13:04:24.000Z",
+          "summary": "Apple has officially unveiled a new iPad mini. The company calls it the “biggest update ever” for the iPad mini, adding an OLED display and a thinner, lighter design.…"
         },
         {
-          "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
-          "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
-          "time": "2026-10-25T10:45:33.000Z",
-          "summary": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on…"
+          "title": "Some seven years later, the iTunes Store is making an unlikely come-back",
+          "url": "https://9to5mac.com/2026/10/26/some-27-years-later-the-itunes-store-is-making-an-unlikely-come-back/",
+          "time": "2026-10-26T12:43:55.000Z",
+          "summary": "Please accept my apologies if the headline made you feel old, but yes, Apple retired the iTunes desktop app way back in 2019 . However, a new report says that the iTunes…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-26T07:34:06.732Z",
+      "fetchedAt": "2026-10-26T14:58:17.246Z",
       "error": null,
       "items": [
+        {
+          "title": "The New iPad mini Adds OLED with a Larger 8.5-Inch Display",
+          "url": "https://www.macstories.net/news/the-new-ipad-mini-adds-oled-with-a-larger-8-5-inch-display/",
+          "time": "2026-10-26T13:46:45.000Z",
+          "summary": "Source: Apple. Apple today announced an update to the iPad mini, one of my favorite iPads. The new mini features an 8.5-inch OLED display, a landscape Center Stage…"
+        },
         {
           "title": "Apple Investigating Options for Extending Web Content Under iPhone Duo’s Safari Controls",
           "url": "https://www.macstories.net/linked/apple-investigating-options-for-extending-web-content-under-iphone-duos-safari-controls/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/roundups/iphone-duo-review-roundup-great-hinge-messy-apps-and-everybody-misses-face-id/",
           "time": "2026-10-21T15:07:32.000Z",
           "summary": "iPhone Duo reviews are out today, and while I was hoping that this year I’d get to review this hybrid device under embargo, it hasn’t happened (I hope it will,…"
-        },
-        {
-          "title": "Perplexity Computer’s Local-First Approach to Agents",
-          "url": "https://www.macstories.net/news/perplexity-computers-local-first-approach-to-agents/",
-          "time": "2026-10-20T15:00:01.000Z",
-          "summary": "Source: Perplexity. Today, Perplexity announced a local-first mode for Computer where the model and agent work entirely on your Mac whether you’re online or not, sending…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-26T07:34:06.732Z",
+      "fetchedAt": "2026-10-26T14:58:17.246Z",
       "error": null,
       "items": [
         {
-          "title": "Tijdelijke kinderopvang voor 28 kinderen in oude school van Pellenberg: \"Al jaren tekort aan plaatsen\"",
-          "url": "https://vrtnws.be/p.0YpnV0GYA",
-          "time": "2026-10-26T07:22:50.000Z",
-          "summary": "Begin januari start een tijdelijke opvang voor 28 kinderen in het voormalige schoolgebouw van Pellenberg in Lubbeek. De school verhuisde eerder naar kasteel de…"
+          "title": "Verenigd Koninkrijk zal niet terugkeren naar EU-regels zonder referendum, zegt premier Burnham",
+          "url": "https://vrtnws.be/p.QAbvoNx9P",
+          "time": "2026-10-26T14:50:43.000Z",
+          "summary": "Het Verenigd Koninkrijk zal niet zonder referendum terugkeren naar de EU-regels rond vrij verkeer. Dat heeft eerste minister Andy Burnham benadrukt. Het is volgens hem…"
         },
         {
-          "title": "Vijf mensen uit Ganshoren met CO-vergiftiging naar ziekenhuis, slachtoffer bewusteloos tijdens douchen",
-          "url": "https://vrtnws.be/p.bDo3b0M0L",
-          "time": "2026-10-26T07:21:48.000Z",
-          "summary": "In Ganshoren zijn 5 bewoners van een appartementsgebouw met een CO-vergiftiging naar het ziekenhuis gebracht. 1 van hen had tijdens het douchen het bewustzijn verloren…"
+          "title": "Mechelen helpt appartementen energiezuiniger maken met renovatieplan: \"Met 10 eigenaars beslissen is niet simpel\"",
+          "url": "https://vrtnws.be/p.3BwkeWL7e",
+          "time": "2026-10-26T14:45:18.000Z",
+          "summary": "In Mechelen kunnen mede-eigenaars van middelgrote appartementsgebouwen voortaan bij de stad een renovatieplan laten opmaken, om hun gebouwen energiezuiniger te maken.…"
         },
         {
-          "title": "1 op de 10 private woonzorgcentra zit in slechte papieren: \"Dienstverlening dreigt in gedrang te komen\"",
-          "url": "https://vrtnws.be/p.43pnYLDxv",
-          "time": "2026-10-26T07:01:03.000Z",
-          "summary": "Zowat 1 op de 10 woonzorgcentra heeft zulke grote financiële problemen dat de dienstverlening eronder dreigt te lijden. Dat blijkt uit de allereerste financiële…"
+          "title": "Dieven stelen kluis met geld uit jeugdhuis de Kaaf in Moorsel",
+          "url": "https://vrtnws.be/p.Yb5jDBRMn",
+          "time": "2026-10-26T14:35:34.000Z",
+          "summary": "In Moorsel, een deelgemeente van Tervuren, is afgelopen weekend ingebroken in jeugdhuis de Kaaf. Volgens de politie braken de dieven een raam open en namen ze een…"
         },
         {
-          "title": "Mechelse politie vat dronken autodief: \"Hij reed zwalpend rond zonder lichten\"",
-          "url": "https://vrtnws.be/p.ew40R78P9",
-          "time": "2026-10-26T06:54:48.000Z",
-          "summary": "De Mechelse politie heeft dit weekend een dronken man betrapt in een gestolen auto. De man reed zwalpend rond zonder lichten en trok zo de aandacht van de agenten. De…"
+          "title": "Dan toch nog 2 miljoen euro subsidies voor ZOO Antwerpen en Planckendael",
+          "url": "https://vrtnws.be/p.VLNEDPADE",
+          "time": "2026-10-26T14:22:51.000Z",
+          "summary": "ZOO Antwerpen en Planckendael krijgen dan toch nog 2 miljoen euro van de Vlaamse regering. Binnen het budget voor Mobiliteit is dat bedrag verschoven naar Toerisme. Zo…"
         },
         {
-          "title": "Natuurpunt koopt Rode Geul in Assenede: een paradijs voor de bever en de grutto en met een drijvend bosje",
-          "url": "https://vrtnws.be/p.6KpEMeB53",
-          "time": "2026-10-26T06:47:15.000Z",
-          "summary": "Natuurvereniging Natuurpunt heeft de kreek Rode Geul en omliggende percelen in Assenede gekocht. In totaal gaat het om 22 hectare natuur met een waardevolle kreek,…"
+          "title": "Wat doe je als een dier hebt aangereden? \"Raak het zeker niet aan\"",
+          "url": "https://vrtnws.be/p.PqObAbLpa",
+          "time": "2026-10-26T14:20:39.000Z",
+          "summary": "Wie een dier aanrijdt of een aangereden dier terugvindt, raakt het best niet aan, maar neemt een foto en meldt het voorval bij waarnemingen.be. Dat zegt Sanne Ruyts van…"
         }
       ]
     }
