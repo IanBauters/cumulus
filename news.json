@@ -1,17 +1,29 @@
 {
-  "generatedAt": "2026-10-26T01:34:31.392Z",
+  "generatedAt": "2026-10-26T07:34:06.732Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-26T01:34:31.392Z",
+      "fetchedAt": "2026-10-26T07:34:06.732Z",
       "error": null,
       "items": [
         {
+          "title": "Apple Display Veterans Step Back as New Leaders Take Over",
+          "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+          "time": "2026-10-26T04:14:12.000Z",
+          "summary": "Two executives who have spent roughly three decades each at Apple are handing over responsibility for its displays, as part of a broader series of engineering leadership…"
+        },
+        {
+          "title": "OLED MacBook Air and iMac Remain in Testing",
+          "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
+          "time": "2026-10-26T03:41:01.000Z",
+          "summary": "Apple is testing OLED displays for future MacBook Air and iMac models, though both upgrades remain some way off, according to Bloomberg 's Mark Gurman in his latest…"
+        },
+        {
           "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
           "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
-          "time": "2026-10-25T23:07:28.000Z",
+          "time": "2026-10-26T02:22:30.000Z",
           "summary": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority…"
         },
         {
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
           "time": "2026-10-25T22:00:02.000Z",
           "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets…"
-        },
-        {
-          "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
-          "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
-          "time": "2026-10-25T21:44:03.000Z",
-          "summary": "Teardown site iFixit took apart the iPhone Duo to see what's inside, how it holds up to dust, and how repairable it is. There's a video walking through the teardown, as…"
-        },
-        {
-          "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
-          "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
-          "time": "2026-10-25T15:18:04.000Z",
-          "summary": "Bloomberg 's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from…"
         }
       ]
     },
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-26T01:34:31.392Z",
+      "fetchedAt": "2026-10-26T07:34:06.732Z",
       "error": null,
       "items": [
+        {
+          "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+          "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+          "time": "2026-10-26T05:16:58.000Z",
+          "summary": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor…"
+        },
         {
           "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
           "url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
           "time": "2026-10-25T10:45:33.000Z",
           "summary": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on…"
-        },
-        {
-          "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
-          "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
-          "time": "2026-10-24T21:46:33.000Z",
-          "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-26T01:34:31.392Z",
+      "fetchedAt": "2026-10-26T07:34:06.732Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-26T01:34:31.392Z",
+      "fetchedAt": "2026-10-26T07:34:06.732Z",
       "error": null,
       "items": [
         {
-          "title": "Wie is comeback kid Lula, die voor de 4e keer president van Brazilië wordt?",
-          "url": "https://vrtnws.be/p.7nXLxRbbb",
-          "time": "2026-10-26T00:50:22.000Z",
-          "summary": "De sociaaldemocraat Luiz Inácio Lula da Silva (80) mag zich voor de 4e keer president van Brazilië noemen. Hij won de 2e ronde van de presidentsverkiezingen van zijn…"
+          "title": "Tijdelijke kinderopvang voor 28 kinderen in oude school van Pellenberg: \"Al jaren tekort aan plaatsen\"",
+          "url": "https://vrtnws.be/p.0YpnV0GYA",
+          "time": "2026-10-26T07:22:50.000Z",
+          "summary": "Begin januari start een tijdelijke opvang voor 28 kinderen in het voormalige schoolgebouw van Pellenberg in Lubbeek. De school verhuisde eerder naar kasteel de…"
         },
         {
-          "title": "Filipijnen bevestigen vondst van beelden van kindermisbruik in huis van vader Meghan Markle",
-          "url": "https://vrtnws.be/p.DYMv9x55X",
-          "time": "2026-10-25T20:18:08.000Z",
-          "summary": "De Filipijnse politie bevestigt dat ze een \"omvangrijke hoeveelheid beelden van kindermisbruik\" gevonden heeft in de voormalige woning van Thomas Markle, de vader van…"
+          "title": "Vijf mensen uit Ganshoren met CO-vergiftiging naar ziekenhuis, slachtoffer bewusteloos tijdens douchen",
+          "url": "https://vrtnws.be/p.bDo3b0M0L",
+          "time": "2026-10-26T07:21:48.000Z",
+          "summary": "In Ganshoren zijn 5 bewoners van een appartementsgebouw met een CO-vergiftiging naar het ziekenhuis gebracht. 1 van hen had tijdens het douchen het bewustzijn verloren…"
         },
         {
-          "title": "80 gewonden na busongeval bij natuurpark Montseny in Catalonië: bus stort 20 meter naar beneden",
-          "url": "https://vrtnws.be/p.M9m7OjRQq",
-          "time": "2026-10-25T19:19:31.000Z",
-          "summary": "Bij een busongeval in Fogars de Montclús, in de Spaanse provincie Barcelona, zijn 80 mensen gewond geraakt. 5 van hen zijn naar het ziekenhuis overgebracht. De bus…"
+          "title": "1 op de 10 private woonzorgcentra zit in slechte papieren: \"Dienstverlening dreigt in gedrang te komen\"",
+          "url": "https://vrtnws.be/p.43pnYLDxv",
+          "time": "2026-10-26T07:01:03.000Z",
+          "summary": "Zowat 1 op de 10 woonzorgcentra heeft zulke grote financiële problemen dat de dienstverlening eronder dreigt te lijden. Dat blijkt uit de allereerste financiële…"
         },
         {
-          "title": "Aftredend Servisch president Vucic erkent nederlaag bij vervroegde parlementsverkiezingen, \"historische overwinning voor Studentenlijst\"",
-          "url": "https://vrtnws.be/p.E1dqmAnnD",
-          "time": "2026-10-25T19:11:14.000Z",
-          "summary": "In Servië heeft aftredend president Aleksandar Vucic zijn nederlaag bij de vervroegde parlementsverkiezingen toegegeven. Volgens de eerste resultaten heeft de…"
+          "title": "Mechelse politie vat dronken autodief: \"Hij reed zwalpend rond zonder lichten\"",
+          "url": "https://vrtnws.be/p.ew40R78P9",
+          "time": "2026-10-26T06:54:48.000Z",
+          "summary": "De Mechelse politie heeft dit weekend een dronken man betrapt in een gestolen auto. De man reed zwalpend rond zonder lichten en trok zo de aandacht van de agenten. De…"
         },
         {
-          "title": "Dilbekenaar lanceert gratis maildienst na phishingmail aan zijn moeder: \"Vooral mensen met minder digitale kennis beschermen\"",
-          "url": "https://vrtnws.be/p.aDevY7Gqb",
-          "time": "2026-10-25T18:40:27.000Z",
-          "summary": "Een verdachte e-mail aan zijn moeder bracht Jany Ertveldt op een idee. De Dilbekenaar ontwikkelde een gratis dienst die verdachte e-mails binnen enkele minuten…"
+          "title": "Natuurpunt koopt Rode Geul in Assenede: een paradijs voor de bever en de grutto en met een drijvend bosje",
+          "url": "https://vrtnws.be/p.6KpEMeB53",
+          "time": "2026-10-26T06:47:15.000Z",
+          "summary": "Natuurvereniging Natuurpunt heeft de kreek Rode Geul en omliggende percelen in Assenede gekocht. In totaal gaat het om 22 hectare natuur met een waardevolle kreek,…"
         }
       ]
     }
