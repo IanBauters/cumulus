@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T23:28:01.021Z",
+  "generatedAt": "2026-10-26T01:34:31.392Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-25T23:28:01.021Z",
+      "fetchedAt": "2026-10-26T01:34:31.392Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-25T23:28:01.021Z",
+      "fetchedAt": "2026-10-26T01:34:31.392Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-25T23:28:01.021Z",
+      "fetchedAt": "2026-10-26T01:34:31.392Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-25T23:28:01.021Z",
+      "fetchedAt": "2026-10-26T01:34:31.392Z",
       "error": null,
       "items": [
+        {
+          "title": "Wie is comeback kid Lula, die voor de 4e keer president van Brazilië wordt?",
+          "url": "https://vrtnws.be/p.7nXLxRbbb",
+          "time": "2026-10-26T00:50:22.000Z",
+          "summary": "De sociaaldemocraat Luiz Inácio Lula da Silva (80) mag zich voor de 4e keer president van Brazilië noemen. Hij won de 2e ronde van de presidentsverkiezingen van zijn…"
+        },
         {
           "title": "Filipijnen bevestigen vondst van beelden van kindermisbruik in huis van vader Meghan Markle",
           "url": "https://vrtnws.be/p.DYMv9x55X",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.aDevY7Gqb",
           "time": "2026-10-25T18:40:27.000Z",
           "summary": "Een verdachte e-mail aan zijn moeder bracht Jany Ertveldt op een idee. De Dilbekenaar ontwikkelde een gratis dienst die verdachte e-mails binnen enkele minuten…"
-        },
-        {
-          "title": "Isabella (9) wint eerste Junior Smaakmaker wedstrijd met pompoentaart in Roeselare",
-          "url": "https://vrtnws.be/p.11plKKYaG",
-          "time": "2026-10-25T18:30:29.000Z",
-          "summary": "Isabella Macias-Declercq (9) is zondagmiddag de eerste Junior Smaakmaker van Roeselare geworden. Ze won de kookwedstrijd in het Ondernemerscentrum langs de Spanjestraat…"
         }
       ]
     }
