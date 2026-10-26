@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-26T14:58:17.246Z",
+  "generatedAt": "2026-10-26T20:25:06.733Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-26T14:58:17.246Z",
+      "fetchedAt": "2026-10-26T20:25:06.733Z",
       "error": null,
       "items": [
         {
-          "title": "New iPad Mini Gains Adaptive True Tone Flash",
-          "url": "https://www.macrumors.com/2026/10/26/ipad-mini-adaptive-true-tone-flash/",
-          "time": "2026-10-26T14:57:46.000Z",
-          "summary": "Apple's new iPad mini features an Adaptive True Tone flash, bringing an iPad Pro feature to Apple's smallest tablet for the first time. Unlike the iPad Air , the…"
+          "title": "iOS 27.2 Lets You Watch Four Live Sports Streams on iPhone",
+          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-multiview-support/",
+          "time": "2026-10-26T20:03:24.000Z",
+          "summary": "iOS 27.2 expands Multiview to the iPhone, so users can watch up to four live sports streams simultaneously. Multiview works for sports events included in an Apple TV…"
         },
         {
-          "title": "Quickly Silence iPhone Duo Without a Ring/Mute Switch",
-          "url": "https://www.macrumors.com/how-to/quickly-silence-iphone-duo-without-mute-switch/",
-          "time": "2026-10-26T14:36:49.000Z",
-          "summary": "The new iPhone Duo drops both the classic Ring/Silent switch as well as the newer Action button, so there is no physical mute control on the device, and no way to assign…"
+          "title": "iOS 27.2 Expands Dual Capture to Group FaceTime",
+          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-dual-capture-facetime/",
+          "time": "2026-10-26T19:59:44.000Z",
+          "summary": "The iOS 27.2 update Apple released today allows the FaceTime Dual Capture feature to be used in Group &zwnj;FaceTime&zwnj; calls. Dual Capture is a feature that lets you…"
         },
         {
-          "title": "OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately",
-          "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-fast-charge-35w-adapter/",
-          "time": "2026-10-26T14:14:41.000Z",
-          "summary": "Apple's new iPad mini is fast-charge capable, but not with the adapter in the box. Apple's specifications say the device can reach up to a 50% charge in around 30…"
+          "title": "Apple Teases 'Exciting Week' Ahead After Announcing New iPad Mini",
+          "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/",
+          "time": "2026-10-26T19:51:48.000Z",
+          "summary": "Just minutes after Apple announced a new iPad mini with an OLED display, A20 Pro chip, and more, Apple's marketing chief Greg Joswiak teased an \"exciting week\" ahead.…"
         },
         {
-          "title": "Apple Brings TechWoven to iPad With All-New $79 iPad Mini Smart Folio",
-          "url": "https://www.macrumors.com/2026/10/26/techwoven-ipad-mini-smart-folio/",
-          "time": "2026-10-26T14:07:43.000Z",
-          "summary": "Apple today announced a TechWoven Smart Folio for the new iPad mini bringing its woven fabric to an iPad cover for the first time and replacing the previous,…"
+          "title": "Apple Releases visionOS 27.2",
+          "url": "https://www.macrumors.com/2026/10/26/apple-releases-visionos-27-2/",
+          "time": "2026-10-26T19:48:31.000Z",
+          "summary": "Apple today released visionOS 27.2, the first big update for the visionOS 27 operating system that runs on the Apple Vision Pro . visionOS 27.2 can be downloaded by…"
         },
         {
-          "title": "All Current iPads Now Feature a Landscape Front Camera",
-          "url": "https://www.macrumors.com/2026/10/26/all-ipads-now-feature-landscape-front-camera/",
-          "time": "2026-10-26T14:02:00.000Z",
-          "summary": "With the introduction of the new iPad mini , every model in Apple's current iPad lineup now features a landscape front-facing camera. The transition began with the…"
+          "title": "Apple Says Siri AI Will Support Even More Languages Later This Year",
+          "url": "https://www.macrumors.com/2026/10/26/siri-ai-even-more-languages-later-this-year/",
+          "time": "2026-10-26T19:44:48.000Z",
+          "summary": "Apple today announced that Siri AI will gain support for Chinese (Traditional), Norwegian, Turkish, and Vietnamese later this year. The feature initially supported…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-26T14:58:17.246Z",
+      "fetchedAt": "2026-10-26T20:25:06.733Z",
       "error": null,
       "items": [
         {
-          "title": "New iPad mini vs previous model: Here’s everything new",
-          "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-vs-previous-model-heres-everything-new/",
-          "time": "2026-10-26T14:33:11.000Z",
-          "summary": "Apple unveiled a new iPad mini today, and it’s a big upgrade over the previous model. Here’s everything new. more…"
+          "title": "Apple raises trade-in values for iPads and Macs, with increases of up to $365",
+          "url": "https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365/",
+          "time": "2026-10-26T19:32:18.000Z",
+          "summary": "Apple today updated its trade-in values for iPads and Macs, marking the second time in two months that the company has increased payouts for both product categories.…"
         },
         {
-          "title": "Apple teases an ‘exciting week’ of new products ahead",
-          "url": "https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead/",
-          "time": "2026-10-26T13:36:02.000Z",
-          "summary": "Today Apple introduced a big update to the iPad mini, but it’s only the start of what the company has planned, as Greg Joswiak just teased an exciting week ahead. more…"
+          "title": "Apple announces Siri AI will expand to these new languages soon",
+          "url": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/",
+          "time": "2026-10-26T19:30:57.000Z",
+          "summary": "Today in iOS 27.2, Siri AI added several new features and expanded to five new languages . And alongside the launch, Apple announced four more Siri AI languages coming…"
         },
         {
-          "title": "New iPad mini has big limitation on all but one model",
-          "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-has-big-limitation-on-all-but-one-model/",
-          "time": "2026-10-26T13:19:05.000Z",
-          "summary": "Today Apple unveiled its biggest update to the iPad mini yet, but if you’re looking to buy one, there’s a key limitation of the A20 Pro chip in every configuration but…"
+          "title": "iPhone Duo just got two new features in iOS 27.2",
+          "url": "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
+          "time": "2026-10-26T19:18:19.000Z",
+          "summary": "iOS 27.2 is officially here , with additions that include upgraded Siri AI powers and new features for Messages , Apple TV , and more . And if you’re an iPhone Duo…"
         },
         {
-          "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
-          "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
-          "time": "2026-10-26T13:04:24.000Z",
-          "summary": "Apple has officially unveiled a new iPad mini. The company calls it the “biggest update ever” for the iPad mini, adding an OLED display and a thinner, lighter design.…"
+          "title": "Apple releases iOS 26.7.2 for iPhone, here’s what’s new",
+          "url": "https://9to5mac.com/2026/10/26/apple-releases-ios-26-7-2-for-iphone-heres-whats-new/",
+          "time": "2026-10-26T18:36:56.000Z",
+          "summary": "Today alongside iOS 27.2 , Apple has also released iOS 26.7.2, a security-focused update for iPhones still running iOS 26. more…"
         },
         {
-          "title": "Some seven years later, the iTunes Store is making an unlikely come-back",
-          "url": "https://9to5mac.com/2026/10/26/some-27-years-later-the-itunes-store-is-making-an-unlikely-come-back/",
-          "time": "2026-10-26T12:43:55.000Z",
-          "summary": "Please accept my apologies if the headline made you feel old, but yes, Apple retired the iTunes desktop app way back in 2019 . However, a new report says that the iTunes…"
+          "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
+          "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+          "time": "2026-10-26T18:36:02.000Z",
+          "summary": "Apple is rolling out its 27.2 software updates today, and among a variety of new features , they introduce several improvements for Siri AI. Here’s what’s new. more…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-26T14:58:17.246Z",
+      "fetchedAt": "2026-10-26T20:25:06.733Z",
       "error": null,
       "items": [
+        {
+          "title": "Today on AppStories: iPhone Duo First Impressions and Apps",
+          "url": "https://www.macstories.net/linked/today-on-appstories-iphone-duo-first-impressions-and-apps/",
+          "time": "2026-10-26T18:28:20.000Z",
+          "summary": "Today on AppStories, Federico and I share our first impressions of the iPhone Duo and share our experiences in New York and London, where we learned more about the Duo…"
+        },
         {
           "title": "The New iPad mini Adds OLED with a Larger 8.5-Inch Display",
           "url": "https://www.macstories.net/news/the-new-ipad-mini-adds-oled-with-a-larger-8-5-inch-display/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/stories/building-for-iphone-duo-in-app-developers-own-words/",
           "time": "2026-10-22T16:32:11.000Z",
           "summary": "I spent yesterday in New York City interviewing developers about their iPhone Duo apps and the experience of building for such a new and different device. The depth and…"
-        },
-        {
-          "title": "iPhone Duo Review Roundup: Great Hinge, Messy Apps, and Everybody Misses Face ID",
-          "url": "https://www.macstories.net/roundups/iphone-duo-review-roundup-great-hinge-messy-apps-and-everybody-misses-face-id/",
-          "time": "2026-10-21T15:07:32.000Z",
-          "summary": "iPhone Duo reviews are out today, and while I was hoping that this year I’d get to review this hybrid device under embargo, it hasn’t happened (I hope it will,…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-26T14:58:17.246Z",
+      "fetchedAt": "2026-10-26T20:25:06.733Z",
       "error": null,
       "items": [
         {
-          "title": "Verenigd Koninkrijk zal niet terugkeren naar EU-regels zonder referendum, zegt premier Burnham",
-          "url": "https://vrtnws.be/p.QAbvoNx9P",
-          "time": "2026-10-26T14:50:43.000Z",
-          "summary": "Het Verenigd Koninkrijk zal niet zonder referendum terugkeren naar de EU-regels rond vrij verkeer. Dat heeft eerste minister Andy Burnham benadrukt. Het is volgens hem…"
+          "title": "Panteraanval Beekse Bergen komt hard aan bij collega-dierenverzorgers: \"Onze gemeenschap is een kleine wereld\"",
+          "url": "https://vrtnws.be/p.mRJDlZDvE",
+          "time": "2026-10-26T20:04:17.000Z",
+          "summary": "Het nieuws over de panteraanval in Safaripark Beekse Bergen komt hard aan bij collega-dierenverzorgers. Dat vertelt Pieter Vercruysse, hoofd dierenverzorger bij…"
         },
         {
-          "title": "Mechelen helpt appartementen energiezuiniger maken met renovatieplan: \"Met 10 eigenaars beslissen is niet simpel\"",
-          "url": "https://vrtnws.be/p.3BwkeWL7e",
-          "time": "2026-10-26T14:45:18.000Z",
-          "summary": "In Mechelen kunnen mede-eigenaars van middelgrote appartementsgebouwen voortaan bij de stad een renovatieplan laten opmaken, om hun gebouwen energiezuiniger te maken.…"
+          "title": "Sint-Salvatorskathedraal in Brugge beter én slimmer verlicht: \"Minder lichtvervuiling en lagere energiefactuur\"",
+          "url": "https://vrtnws.be/p.RaJQ8KGj0",
+          "time": "2026-10-26T19:48:12.000Z",
+          "summary": "De Sint-Salvatorskathedraal in Brugge heeft nieuwe verlichting die het monument 's nachts beter tot zijn recht doet komen. De stad Brugge plaatste het systeem samen met…"
         },
         {
-          "title": "Dieven stelen kluis met geld uit jeugdhuis de Kaaf in Moorsel",
-          "url": "https://vrtnws.be/p.Yb5jDBRMn",
-          "time": "2026-10-26T14:35:34.000Z",
-          "summary": "In Moorsel, een deelgemeente van Tervuren, is afgelopen weekend ingebroken in jeugdhuis de Kaaf. Volgens de politie braken de dieven een raam open en namen ze een…"
+          "title": "Gent stemt oorspronkelijk burgerinitiatief over meer tramhaltes weg, oppositie: \"Inspraak is monddood gemaakt\"",
+          "url": "https://vrtnws.be/p.w70Z4G49Z",
+          "time": "2026-10-26T19:46:17.000Z",
+          "summary": "In Gent komt er kritiek omdat de meerderheid opnieuw een voorstel van burgers wegstemt. De tekst werd in aangepaste versie goedgekeurd, maar die verschilde sterk van het…"
         },
         {
-          "title": "Dan toch nog 2 miljoen euro subsidies voor ZOO Antwerpen en Planckendael",
-          "url": "https://vrtnws.be/p.VLNEDPADE",
-          "time": "2026-10-26T14:22:51.000Z",
-          "summary": "ZOO Antwerpen en Planckendael krijgen dan toch nog 2 miljoen euro van de Vlaamse regering. Binnen het budget voor Mobiliteit is dat bedrag verschoven naar Toerisme. Zo…"
+          "title": "Expo in kasteel Bouchout Meise herdenkt prinses Charlotte, de vergeten keizerin van Mexico",
+          "url": "https://vrtnws.be/p.7nXRELL9p",
+          "time": "2026-10-26T19:42:38.000Z",
+          "summary": "Op 1 november opent in het kasteel van Bouchout in Plantentuin Meise de tentoonstelling 'Adiós Mamá Carlota – Een vergeten keizerin'. Daarmee start het officiële…"
         },
         {
-          "title": "Wat doe je als een dier hebt aangereden? \"Raak het zeker niet aan\"",
-          "url": "https://vrtnws.be/p.PqObAbLpa",
-          "time": "2026-10-26T14:20:39.000Z",
-          "summary": "Wie een dier aanrijdt of een aangereden dier terugvindt, raakt het best niet aan, maar neemt een foto en meldt het voorval bij waarnemingen.be. Dat zegt Sanne Ruyts van…"
+          "title": "Acteur Walter Koenig (90) overleden, bekend als Pavel Chekov in 'Star Trek'",
+          "url": "https://vrtnws.be/p.JN4L1Y7G8",
+          "time": "2026-10-26T19:17:04.000Z",
+          "summary": "De Amerikaanse acteur Walter Koenig, bekend van zijn rol in de tv-serie 'Star Trek', is overleden. Hij was 90 jaar oud. Koenig vertolkte de rol van commandant Pavel…"
         }
       ]
     }
