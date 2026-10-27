@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-26T20:25:06.733Z",
+  "generatedAt": "2026-10-27T00:00:37.469Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-26T20:25:06.733Z",
+      "fetchedAt": "2026-10-27T00:00:37.469Z",
       "error": null,
       "items": [
+        {
+          "title": "iOS 27.2 Features: Everything New in iOS 27.2",
+          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
+          "time": "2026-10-26T22:56:08.000Z",
+          "summary": "Apple released iOS 27.2, uniting the iPhone Duo and other iPhone models on the same version of iOS. iOS 27.2 is the first major iOS 27 update, and it adds several useful…"
+        },
+        {
+          "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
+          "url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
+          "time": "2026-10-26T22:49:02.000Z",
+          "summary": "FaceTime's Eye Contact setting is missing on the iPhone Duo, MacRumors can confirm. The setting was first flagged as absent by MacRumors forum member TwoBytes , who…"
+        },
+        {
+          "title": "iOS 27.2 Fixes Over 160 Security Vulnerabilities",
+          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
+          "time": "2026-10-26T21:55:32.000Z",
+          "summary": "Apple's iOS 27.2 and iPadOS 27.2 updates fix more than 160 security vulnerabilities, which means it's a good idea to install the software as soon as you can. An Apple…"
+        },
+        {
+          "title": "iPhone AI Images and Edits Now Have a Hidden Watermark",
+          "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
+          "time": "2026-10-26T21:15:14.000Z",
+          "summary": "Images generated with Image Playground and some photos edited with Apple Intelligence will now include a SynthID watermark. Apple announced plans to add SynthID support…"
+        },
         {
           "title": "iOS 27.2 Lets You Watch Four Live Sports Streams on iPhone",
           "url": "https://www.macrumors.com/2026/10/26/ios-27-2-multiview-support/",
           "time": "2026-10-26T20:03:24.000Z",
           "summary": "iOS 27.2 expands Multiview to the iPhone, so users can watch up to four live sports streams simultaneously. Multiview works for sports events included in an Apple TV…"
-        },
-        {
-          "title": "iOS 27.2 Expands Dual Capture to Group FaceTime",
-          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-dual-capture-facetime/",
-          "time": "2026-10-26T19:59:44.000Z",
-          "summary": "The iOS 27.2 update Apple released today allows the FaceTime Dual Capture feature to be used in Group &zwnj;FaceTime&zwnj; calls. Dual Capture is a feature that lets you…"
-        },
-        {
-          "title": "Apple Teases 'Exciting Week' Ahead After Announcing New iPad Mini",
-          "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/",
-          "time": "2026-10-26T19:51:48.000Z",
-          "summary": "Just minutes after Apple announced a new iPad mini with an OLED display, A20 Pro chip, and more, Apple's marketing chief Greg Joswiak teased an \"exciting week\" ahead.…"
-        },
-        {
-          "title": "Apple Releases visionOS 27.2",
-          "url": "https://www.macrumors.com/2026/10/26/apple-releases-visionos-27-2/",
-          "time": "2026-10-26T19:48:31.000Z",
-          "summary": "Apple today released visionOS 27.2, the first big update for the visionOS 27 operating system that runs on the Apple Vision Pro . visionOS 27.2 can be downloaded by…"
-        },
-        {
-          "title": "Apple Says Siri AI Will Support Even More Languages Later This Year",
-          "url": "https://www.macrumors.com/2026/10/26/siri-ai-even-more-languages-later-this-year/",
-          "time": "2026-10-26T19:44:48.000Z",
-          "summary": "Apple today announced that Siri AI will gain support for Chinese (Traditional), Norwegian, Turkish, and Vietnamese later this year. The feature initially supported…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-26T20:25:06.733Z",
+      "fetchedAt": "2026-10-27T00:00:37.469Z",
       "error": null,
       "items": [
         {
-          "title": "Apple raises trade-in values for iPads and Macs, with increases of up to $365",
-          "url": "https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365/",
-          "time": "2026-10-26T19:32:18.000Z",
-          "summary": "Apple today updated its trade-in values for iPads and Macs, marking the second time in two months that the company has increased payouts for both product categories.…"
+          "title": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
+          "url": "https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/",
+          "time": "2026-10-26T23:51:19.000Z",
+          "summary": "T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV, Netflix, and YouTube Premium, and switch between them several times a year without…"
         },
         {
-          "title": "Apple announces Siri AI will expand to these new languages soon",
-          "url": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/",
-          "time": "2026-10-26T19:30:57.000Z",
-          "summary": "Today in iOS 27.2, Siri AI added several new features and expanded to five new languages . And alongside the launch, Apple announced four more Siri AI languages coming…"
+          "title": "Ollama for Mac gains support for local text-to-speech models",
+          "url": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
+          "time": "2026-10-26T22:49:25.000Z",
+          "summary": "Ollama, the popular app for running AI models locally, announced that its Mac app now supports text-to-speech generation, with Windows and Linux support coming soon.…"
         },
         {
-          "title": "iPhone Duo just got two new features in iOS 27.2",
-          "url": "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
-          "time": "2026-10-26T19:18:19.000Z",
-          "summary": "iOS 27.2 is officially here , with additions that include upgraded Siri AI powers and new features for Messages , Apple TV , and more . And if you’re an iPhone Duo…"
+          "title": "Instagram takes on YouTube with new 90-minute horizontal video format",
+          "url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
+          "time": "2026-10-26T22:06:38.000Z",
+          "summary": "According to The Hollywood Reporter , Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…"
         },
         {
-          "title": "Apple releases iOS 26.7.2 for iPhone, here’s what’s new",
-          "url": "https://9to5mac.com/2026/10/26/apple-releases-ios-26-7-2-for-iphone-heres-whats-new/",
-          "time": "2026-10-26T18:36:56.000Z",
-          "summary": "Today alongside iOS 27.2 , Apple has also released iOS 26.7.2, a security-focused update for iPhones still running iOS 26. more…"
+          "title": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
+          "url": "https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates/",
+          "time": "2026-10-26T20:56:15.000Z",
+          "summary": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS , iPadOS , macOS , watchOS , tvOS , visionOS, and…"
         },
         {
-          "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
-          "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-          "time": "2026-10-26T18:36:02.000Z",
-          "summary": "Apple is rolling out its 27.2 software updates today, and among a variety of new features , they introduce several improvements for Siri AI. Here’s what’s new. more…"
+          "title": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
+          "url": "https://9to5mac.com/2026/10/26/from-iphone-duo-to-mac-craft-shows-what-a-native-productivity-app-can-do/",
+          "time": "2026-10-26T20:26:07.000Z",
+          "summary": "It’s been a busy fall for Apple. iOS and macOS 27 arrived in September, iPhone Duo went on sale just a few days ago, and more Mac announcements are expected later this…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-26T20:25:06.733Z",
+      "fetchedAt": "2026-10-27T00:00:37.469Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Releases iOS and iPadOS 27.2 with Apple Pencil Support for iPhone Duo and Smarter Siri",
+          "url": "https://www.macstories.net/news/apple-releases-ios-and-ipados-27-2-with-apple-pencil-support-for-iphone-duo-and-smarter-siri/",
+          "time": "2026-10-26T21:22:25.000Z",
+          "summary": "The iPhone Duo now supports the Apple Pencil (USB-C). It’s been just six weeks since iOS and iPadOS 27 were released, but Apple just introduced version 27.2, which packs…"
+        },
         {
           "title": "Today on AppStories: iPhone Duo First Impressions and Apps",
           "url": "https://www.macstories.net/linked/today-on-appstories-iphone-duo-first-impressions-and-apps/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/stories/a-day-with-the-iphone-duo-first-impressions/",
           "time": "2026-10-23T12:15:18.000Z",
           "summary": "I spent Wednesday in New York, interviewing developers about their iPhone Duo apps. It was like a little slice of WWDC dropped among Manhattan’s skyscrapers, which was…"
-        },
-        {
-          "title": "Building for iPhone Duo, in App Developers’ Own Words",
-          "url": "https://www.macstories.net/stories/building-for-iphone-duo-in-app-developers-own-words/",
-          "time": "2026-10-22T16:32:11.000Z",
-          "summary": "I spent yesterday in New York City interviewing developers about their iPhone Duo apps and the experience of building for such a new and different device. The depth and…"
         }
       ]
     },
@@ -122,9 +122,27 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-26T20:25:06.733Z",
+      "fetchedAt": "2026-10-27T00:00:37.469Z",
       "error": null,
       "items": [
+        {
+          "title": "Acht doden bij Jordaanse vergeldingsaanvallen in Syrië",
+          "url": "https://vrtnws.be/p.mRJDG35O8",
+          "time": "2026-10-26T22:57:59.000Z",
+          "summary": "Het Jordaanse leger heeft vergeldingsaanvallen uitgevoerd in het zuiden van Syrië. Daarbij zouden volgens de lokale gezondheidsautoriteiten 8 doden zijn gevallen, onder…"
+        },
+        {
+          "title": "Tijdelijke evacuatie van rusthuisbewoners door 2 brandende scootmobielen",
+          "url": "https://vrtnws.be/p.mRJDGwBkE",
+          "time": "2026-10-26T22:12:38.000Z",
+          "summary": "De brandweer van de hulpverleningszone Oost-Limburg kreeg rond 21 uur een oproep voor een brand aan het woonzorgcentrum Vinkenhof in de Lunstraat in…"
+        },
+        {
+          "title": "Auteur Herman Koch heeft ziekte van Parkinson",
+          "url": "https://vrtnws.be/p.oLqEJ3V46",
+          "time": "2026-10-26T20:41:47.000Z",
+          "summary": "De Nederlandse schrijver Herman Koch (73), bekend van de bestseller 'Het diner', heeft de ziekte van Parkinson. Dat heeft hij verteld in de Nederlandse talkshow 'Eva' op…"
+        },
         {
           "title": "Panteraanval Beekse Bergen komt hard aan bij collega-dierenverzorgers: \"Onze gemeenschap is een kleine wereld\"",
           "url": "https://vrtnws.be/p.mRJDlZDvE",
@@ -136,24 +154,6 @@
           "url": "https://vrtnws.be/p.RaJQ8KGj0",
           "time": "2026-10-26T19:48:12.000Z",
           "summary": "De Sint-Salvatorskathedraal in Brugge heeft nieuwe verlichting die het monument 's nachts beter tot zijn recht doet komen. De stad Brugge plaatste het systeem samen met…"
-        },
-        {
-          "title": "Gent stemt oorspronkelijk burgerinitiatief over meer tramhaltes weg, oppositie: \"Inspraak is monddood gemaakt\"",
-          "url": "https://vrtnws.be/p.w70Z4G49Z",
-          "time": "2026-10-26T19:46:17.000Z",
-          "summary": "In Gent komt er kritiek omdat de meerderheid opnieuw een voorstel van burgers wegstemt. De tekst werd in aangepaste versie goedgekeurd, maar die verschilde sterk van het…"
-        },
-        {
-          "title": "Expo in kasteel Bouchout Meise herdenkt prinses Charlotte, de vergeten keizerin van Mexico",
-          "url": "https://vrtnws.be/p.7nXRELL9p",
-          "time": "2026-10-26T19:42:38.000Z",
-          "summary": "Op 1 november opent in het kasteel van Bouchout in Plantentuin Meise de tentoonstelling 'Adiós Mamá Carlota – Een vergeten keizerin'. Daarmee start het officiële…"
-        },
-        {
-          "title": "Acteur Walter Koenig (90) overleden, bekend als Pavel Chekov in 'Star Trek'",
-          "url": "https://vrtnws.be/p.JN4L1Y7G8",
-          "time": "2026-10-26T19:17:04.000Z",
-          "summary": "De Amerikaanse acteur Walter Koenig, bekend van zijn rol in de tv-serie 'Star Trek', is overleden. Hij was 90 jaar oud. Koenig vertolkte de rol van commandant Pavel…"
         }
       ]
     }
