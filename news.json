@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-27T05:25:21.808Z",
+  "generatedAt": "2026-10-27T10:49:18.567Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-27T05:25:21.808Z",
+      "fetchedAt": "2026-10-27T10:49:18.567Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple's MacBook Pro Touch Bar Was Announced 10 Years Ago Today",
+          "url": "https://www.macrumors.com/2026/10/27/macbook-pro-touch-bar-announced-10-years-ago/",
+          "time": "2026-10-27T10:45:41.000Z",
+          "summary": "Apple introduced the Touch Bar 10 years ago today. At its \"Hello again\" event on October 27, 2016, Apple pitched the Retina Multi-Touch strip as \"revolutionary.\" It…"
+        },
+        {
+          "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
+          "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
+          "time": "2026-10-27T10:41:44.000Z",
+          "summary": "Apple's upcoming iPhone 18e model will retain a 60Hz display but could gain an upgraded front-facing camera, according to the leaker known as \"Digital Chat Station.\" In…"
+        },
         {
           "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow",
           "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
           "time": "2026-10-27T00:13:30.000Z",
           "summary": "With iOS 27.2 and tvOS 27.2, second- and third-generation Siri Remotes can be tracked using the Find My app. There has been an option to locate a lost &zwnj;Siri&zwnj;…"
-        },
-        {
-          "title": "iOS 27.2 Features: Everything New in iOS 27.2",
-          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
-          "time": "2026-10-26T22:56:08.000Z",
-          "summary": "Apple released iOS 27.2, uniting the iPhone Duo and other iPhone models on the same version of iOS. iOS 27.2 is the first major iOS 27 update, and it adds several useful…"
-        },
-        {
-          "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
-          "url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
-          "time": "2026-10-26T22:49:02.000Z",
-          "summary": "FaceTime's Eye Contact setting is missing on the iPhone Duo, MacRumors can confirm. The setting was first flagged as absent by MacRumors forum member TwoBytes , who…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-27T05:25:21.808Z",
+      "fetchedAt": "2026-10-27T10:49:18.567Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-27T05:25:21.808Z",
+      "fetchedAt": "2026-10-27T10:49:18.567Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-27T05:25:21.808Z",
+      "fetchedAt": "2026-10-27T10:49:18.567Z",
       "error": null,
       "items": [
         {
-          "title": "Eerste parlementsverkiezingen in Israël sinds terreuraanslag op 7 oktober 2023: stembureaus gaan open",
-          "url": "https://vrtnws.be/p.GvoaGG9Xd",
-          "time": "2026-10-27T05:16:58.000Z",
-          "summary": ""
+          "title": "Studente Dorien raakt maar niet verlost van bedwantsen op kot in Brussel, maar \"geen sprake van plaag\" volgens VUB",
+          "url": "https://vrtnws.be/p.7nXRY6Wm3",
+          "time": "2026-10-27T10:45:04.000Z",
+          "summary": "Dorien Ober (25), studente aan de VUB in Brussel, heeft al enkele maanden last van bedwantsen op haar kot. Dat zijn kleine insecten, die felle jeuk kunnen veroorzaken…"
         },
         {
-          "title": "Antwerpse politie pakt 336 gekende overlastplegers op sinds verstrengde aanpak rond \"claimers\"",
-          "url": "https://vrtnws.be/p.dLRlwLa1P",
-          "time": "2026-10-27T05:03:59.000Z",
-          "summary": "Sinds het begin van de maand heeft de Antwerpse politie 336 mensen, die al gekend waren voor overlast, één of meerdere keren opgepakt. Dat komt door een omstreden…"
+          "title": "Opnieuw minder woonkredieten afgesloten, vaste rente blijft populairst",
+          "url": "https://vrtnws.be/p.11pmkemvW",
+          "time": "2026-10-27T10:43:10.000Z",
+          "summary": "Ook in het 3e kwartaal zijn er minder hypothecaire kredieten afgesloten in België dan een jaar eerder. De daling bedroeg net als in de eerste 2 kwartalen van het jaar…"
         },
         {
-          "title": "Boekensector trekt met campagne aan de alarmbel: AI-bedrijven gebruiken boeken zonder toestemming",
-          "url": "https://vrtnws.be/p.lObWB7LyE",
-          "time": "2026-10-27T05:02:17.000Z",
-          "summary": "De Vlaamse boekensector protesteert tegen techbedrijven die hun AI-modellen zonder toestemming trainen op boeken. Verschillende uitgeversorganisaties lanceren daarom de…"
+          "title": "Moeder (61) uit Hooglede veroordeeld nadat drugs in haar luiers worden ontdekt bij gevangenisbezoek in Hasselt",
+          "url": "https://vrtnws.be/p.dLRl3dQRY",
+          "time": "2026-10-27T10:40:23.000Z",
+          "summary": "De rechtbank in Hasselt heeft een vrouw van 61 uit West-Vlaanderen veroordeeld tot 14 maanden cel, omdat ze drugs wilde binnensmokkelen in de gevangenis van Hasselt. Ze…"
         },
         {
-          "title": "Burenpremie voor buren die samen hun woning isoleren in Rumst: \"Kan oplopen tot 2.500 euro\"",
-          "url": "https://vrtnws.be/p.E1deMj9ep",
-          "time": "2026-10-27T05:00:00.000Z",
-          "summary": "Vanaf 1 januari 2027 kunnen inwoners van Rumst, Terhagen en Reet een Burenpremie krijgen als ze samen met minstens 1 buur hun woning isoleren. Hoe meer buren aan…"
+          "title": "Controverse in China: Kylian Mbappé is kop van Jut na opmerking over Mao Zedong, zelfs uitzendingen Real Madrid geschrapt",
+          "url": "https://vrtnws.be/p.oLqERGVBq",
+          "time": "2026-10-27T10:35:04.000Z",
+          "summary": "Zondag nog de grote held in de Clasico, nu woedt er een storm rond Kylian Mbappé. De Franse ster ligt in de clinch met China na een antwoord in een schijnbaar onschuldig…"
         },
         {
-          "title": "Na 25 jaar kunnen werkzaamheden aan Gewestelijk Express Net in Linkebeek dan toch starten",
-          "url": "https://vrtnws.be/p.qEN4ewk5y",
-          "time": "2026-10-27T04:54:01.000Z",
-          "summary": "Infrabel wil in Linkebeek 2 extra sporen aanleggen voor de uitbreiding van het Gewestelijk Express Net (GEN). Daarvoor heeft Infrabel een vergunning aangevraagd. Het…"
+          "title": "Benedict Cumberbatchs nieuwe natuurdocu is lang niet perfect, maar toch wil ik je hem aanraden. Dit is waarom",
+          "url": "https://vrtnws.be/p.mRJy7myJR",
+          "time": "2026-10-27T10:29:21.000Z",
+          "summary": "Sherlock-acteur Benedict Cumberbatch stelt in zijn nieuwe YouTube-documentaire vast dat de mens de aarde opwarmt, grondstoffen uitput en wilde dieren massaal het hoekje…"
         }
       ]
     }
