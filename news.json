@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-27T16:16:25.219Z",
+  "generatedAt": "2026-10-27T20:51:18.232Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-27T16:16:25.219Z",
+      "fetchedAt": "2026-10-27T20:51:18.232Z",
       "error": null,
       "items": [
+        {
+          "title": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
+          "url": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
+          "time": "2026-10-27T20:36:33.000Z",
+          "summary": "The new M6 iMac models come in the same color options as the 2024 model, despite reports suggesting we could see new shades. You can buy the M6 iMac in green, yellow,…"
+        },
+        {
+          "title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
+          "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
+          "time": "2026-10-27T19:51:25.000Z",
+          "summary": "OpenAI today said it added iCloud Mail and Calendar plugins to ChatGPT. With the &zwnj;iCloud&zwnj; Calendar integration, ChatGPT can read, schedule, and update events…"
+        },
+        {
+          "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
+          "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
+          "time": "2026-10-27T17:32:56.000Z",
+          "summary": "Bloomberg 's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in the first half of 2027. He previously mentioned that the new model…"
+        },
+        {
+          "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
+          "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
+          "time": "2026-10-27T17:16:26.000Z",
+          "summary": "The new iMac with the M6 chip can be configured with a 2.5 Gigabit Ethernet port, which is built into the power adapter rather than the computer. The port is a $30…"
+        },
         {
           "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow",
           "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
           "time": "2026-10-27T15:57:14.000Z",
           "summary": "Apple on Wednesday will announce 14-inch and 16-inch MacBook Pro models featuring touch-enabled OLED displays with thinner bezels, a Dynamic Island instead of a notch,…"
-        },
-        {
-          "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
-          "url": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/",
-          "time": "2026-10-27T15:42:54.000Z",
-          "summary": "Apple today replaced the entry-level 14-inch MacBook Pro with a new M6 model, bringing more CPU and GPU cores, upgraded wireless connectivity, and more. How much has…"
-        },
-        {
-          "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
-          "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
-          "time": "2026-10-27T15:34:55.000Z",
-          "summary": "The new iMac with the M6 chip can be configured with a 2.5 Gigabit Ethernet port, which is built into the power adapter rather than the computer. The port is a $30…"
-        },
-        {
-          "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-          "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
-          "time": "2026-10-27T15:30:15.000Z",
-          "summary": "Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since…"
-        },
-        {
-          "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
-          "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
-          "time": "2026-10-27T13:55:55.000Z",
-          "summary": "The just-announced 14-inch MacBook Pro with M6 chip features memory bandwidth of up to 170GB/s, up from 153GB/s in the M5 model, but notably the performance increase…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-27T16:16:25.219Z",
+      "fetchedAt": "2026-10-27T20:51:18.232Z",
       "error": null,
       "items": [
         {
-          "title": "iOS 27.2 introduces new age verification feature using selfie",
-          "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
-          "time": "2026-10-27T15:21:41.000Z",
-          "summary": "iOS 27.2 is here , and it introduces a new feature for age verification using a selfie. Here are the details. more…"
+          "title": "iOS 27.2 now available: Here’s everything new for iPhone",
+          "url": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date/",
+          "time": "2026-10-27T20:45:46.000Z",
+          "summary": "iOS 27.2 is now available to everyone after six weeks of beta testing. The update was released on Monday , bringing multiple new iPhone features. Here’s everything you…"
         },
         {
-          "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
-          "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/",
-          "time": "2026-10-27T14:55:29.000Z",
-          "summary": "iOS 27.2 launched this week with many new features for iPhone users, including a Messages addition that was previously announced for iOS 27 but later got pushed back:…"
+          "title": "Apple TV releases trailer for upcoming original film starring Chris Pratt",
+          "url": "https://9to5mac.com/2026/10/27/apple-tv-releases-trailer-for-upcoming-original-film-starring-chris-pratt/",
+          "time": "2026-10-27T20:30:12.000Z",
+          "summary": "Apple TV today released the trailer for “ Way of the Warrior Kid ,” which premieres globally on the platform on November 25. Here are the details. more…"
         },
         {
-          "title": "HomePod 27.2 hands-on: default wireless speaker for Mac, Sound Glow and more [Video]",
-          "url": "https://9to5mac.com/2026/10/27/homepod-27-2-hands-on-default-wireless-speaker-for-mac-sound-glow-and-more-video/",
-          "time": "2026-10-27T14:50:40.000Z",
-          "summary": "iOS 27.2 and its corresponding updates for the HomePod lineup bring several key new features to Apple’s smart speakers. The most exciting update? The ability to finally…"
+          "title": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
+          "url": "https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/",
+          "time": "2026-10-27T19:44:07.000Z",
+          "summary": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details. more…"
         },
         {
-          "title": "New MacBook Pro redesign details revealed ahead of launch",
-          "url": "https://9to5mac.com/2026/10/27/new-macbook-pro-redesign-details-revealed-ahead-of-launch/",
-          "time": "2026-10-27T14:31:03.000Z",
-          "summary": "Apple debuted a new M6 MacBook Pro today, but a high-end MacBook Pro redesign is coming tomorrow, and Mark Gurman has shared some new details to expect. more…"
+          "title": "Apple’s low-cost iPhone 18 details revealed by leaker",
+          "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
+          "time": "2026-10-27T19:28:53.000Z",
+          "summary": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2. Here are the details on what to expect from iPhone 18e, per a…"
         },
         {
-          "title": "M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?",
-          "url": "https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed/",
-          "time": "2026-10-27T13:43:02.000Z",
-          "summary": "Today Apple unveiled a new 14-inch MacBook Pro with M6 chip. It has the same design as before and many of the same features, so what’s actually changed? Here’s what’s…"
+          "title": "Copilot Money gets even better with new AI-powered Money Assistant",
+          "url": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
+          "time": "2026-10-27T19:00:35.000Z",
+          "summary": "Copilot Money, the award-winning personal finance app, is getting even better this week with the launch of Money Assistant: an AI financial agent built into every part…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-27T16:16:25.219Z",
+      "fetchedAt": "2026-10-27T20:51:18.232Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-27T16:16:25.219Z",
+      "fetchedAt": "2026-10-27T20:51:18.232Z",
       "error": null,
       "items": [
         {
-          "title": "Hoe 'microgreens' vanuit Vossem het hele land moeten veroveren: \"De kotbaas dacht eerst dat we iets anders aan het kweken waren\"",
-          "url": "https://vrtnws.be/p.Ovkq8ZxYZ",
-          "time": "2026-10-27T16:07:27.000Z",
-          "summary": "Ooit leidden hun kweeksels tot een misverstand met hun kotbaas, nu proberen studenten Yuri Elens (22) en Milan Berlemont (23) vanuit hun atelier in Vossem het hele land…"
+          "title": "Nieuwe parkeerregeling op komst voor zwembad Kapermolen in Hasselt: \"Studenten en bezoekers van de binnenstad maken misbruik van de parking\"",
+          "url": "https://vrtnws.be/p.APQ7wy6pw",
+          "time": "2026-10-27T20:02:00.000Z",
+          "summary": "Op de gemeenteraad van Hasselt heeft Vlaams Belang-raadslid Toon Vranken schepen van Mobiliteit Kevin Schouterden (Vooruit) ondervraagd over de parkeerdruk bij zwembad…"
         },
         {
-          "title": "Go Church mag voorlopig blijven samenkomen in wijkcentrum Xaverianen in Brugge",
-          "url": "https://vrtnws.be/p.qEN4J4EQl",
-          "time": "2026-10-27T15:52:07.000Z",
-          "summary": "In Brugge blijven de leden van de omstreden jongerenkerk Go Church voorlopig welkom in het wijkcentrum Xaverianen. De organisatie houdt daar regelmatig bijeenkomsten.…"
+          "title": "\"Ook dieven nemen het openbaar vervoer\": Politiezone Herent-Kortenberg doet controles op bussen tegen woninginbraken",
+          "url": "https://vrtnws.be/p.BlYL6JvQx",
+          "time": "2026-10-27T19:51:44.000Z",
+          "summary": "De Politiezone Herent-Kortenberg (HerKo) gaat de komende maanden extra patrouilleren, controleren en sensibiliseren om woninginbraken te voorkomen. Want als het vroeger…"
         },
         {
-          "title": "Verenigd Koninkrijk maakt vanaf 1 januari opnieuw deel uit van Erasmus+",
-          "url": "https://vrtnws.be/p.5waknMeDA",
-          "time": "2026-10-27T15:50:22.000Z",
-          "summary": "Het Verenigd Koninkrijk sluit zich vanaf 1 januari 2027 opnieuw aan bij Erasmus+, het uitwisselingsprogramma voor studenten van de Europese Unie. Dat heeft de regering…"
+          "title": "Johan Verminnen geeft afscheidsconcert in Brielpoort in Deinze: \"De cirkel is rond\"",
+          "url": "https://vrtnws.be/p.Nv3qYR90w",
+          "time": "2026-10-27T18:56:19.000Z",
+          "summary": "Zanger Johan Verminnen zal zijn allerlaatste concert spelen in de Brielpoort in Deinze. De zaal viert volgend jaar ook haar 50e verjaardag. Voor die verjaardag wordt een…"
         },
         {
-          "title": "Temse schaft terrasbelasting af in de winter: \"Lokale horeca extra ondersteunen\"",
-          "url": "https://vrtnws.be/p.43pn6OdB6",
-          "time": "2026-10-27T15:24:22.000Z",
-          "summary": "In Temse moeten horecazaken voortaan geen belasting meer betalen als ze hun terras ook in de winter willen uitzetten. De gemeente schaft de belasting af, om…"
+          "title": "Na 20 jaar juridisch getouwtrek: eerste voorbereidende werken voor nieuwe stadion van Club Brugge zijn gestart",
+          "url": "https://vrtnws.be/p.DYMx9a8dX",
+          "time": "2026-10-27T18:55:36.000Z",
+          "summary": "Op de Olympiasite in het Brugse Sint-Andries zijn vandaag de eerste voorbereidende werken voor het nieuwe voetbalstadion van Club Brugge gestart. Er zal onder andere…"
         },
         {
-          "title": "Wie neemt Nerocafé in handen? Hoeilaart zoekt opnieuw naar uitbater",
-          "url": "https://vrtnws.be/p.nwvJ8K4oX",
-          "time": "2026-10-27T15:23:25.000Z",
-          "summary": "Hoeilaart heeft nog steeds geen uitbater gevonden voor het Nerocafé en lanceert een nieuwe oproep. Het iconische café, vernoemd naar stripfiguur Nero van Marc Sleen,…"
+          "title": "Hoe telefoontje van Finland en Noorwegen met Poetin verdeeldheid in Europa (andermaal) blootlegt",
+          "url": "https://vrtnws.be/p.RaJQK6ZoX",
+          "time": "2026-10-27T18:50:37.000Z",
+          "summary": "De uiteenlopende reacties op het telefoongesprek tussen de leiders van Finland en Noorwegen en Vladimir Poetin tonen aan dat in Europa nog altijd geen overeenstemming is…"
         }
       ]
     }
