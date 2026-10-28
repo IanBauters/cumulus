@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-28T00:19:18.682Z",
+  "generatedAt": "2026-10-28T06:05:51.968Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-28T00:19:18.682Z",
+      "fetchedAt": "2026-10-28T06:05:51.968Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
+          "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
+          "time": "2026-10-28T01:40:09.000Z",
+          "summary": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app.…"
+        },
         {
           "title": "Apple Shares New Apple Watch Survival Stories",
           "url": "https://www.macrumors.com/2026/10/27/apple-watch-survival-stories/",
           "time": "2026-10-27T23:20:22.000Z",
           "summary": "Apple today continued with its \"True Apple Watch Story\" series, featuring two more people who credit the Apple Watch with saving their lives. In the first video, Morgan…"
-        },
-        {
-          "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
-          "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
-          "time": "2026-10-27T23:16:30.000Z",
-          "summary": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app.…"
         },
         {
           "title": "OLED Touchscreen MacBook Pro Could Start at $2,899",
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-28T00:19:18.682Z",
+      "fetchedAt": "2026-10-28T06:05:51.968Z",
       "error": null,
       "items": [
+        {
+          "title": "New M6 Macs buck Apple’s second wave of price hikes",
+          "url": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
+          "time": "2026-10-28T02:09:46.000Z",
+          "summary": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the…"
+        },
+        {
+          "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+          "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+          "time": "2026-10-28T00:54:43.000Z",
+          "summary": "Apple has scored another win in its trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products. Here are the details. more…"
+        },
         {
           "title": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
           "url": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
           "time": "2026-10-27T21:43:14.000Z",
           "summary": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…"
-        },
-        {
-          "title": "Apple’s European government affairs chief to speak at Web Summit 2026",
-          "url": "https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026/",
-          "time": "2026-10-27T21:03:16.000Z",
-          "summary": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the…"
-        },
-        {
-          "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
-          "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
-          "time": "2026-10-27T20:57:05.000Z",
-          "summary": "iOS 27.2 launched this week , and the update includes a new app icon for Apple Music alongside other small design changes in the Music app. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-28T00:19:18.682Z",
+      "fetchedAt": "2026-10-28T06:05:51.968Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-28T00:19:18.682Z",
+      "fetchedAt": "2026-10-28T06:05:51.968Z",
       "error": null,
       "items": [
         {
-          "title": "Val van broers-Alexander: ooit bekende miljoenenmakelaars, nu elk 30 jaar cel voor verkrachting en mensenhandel",
-          "url": "https://vrtnws.be/p.ZWyWMOVjW",
-          "time": "2026-10-27T20:48:34.000Z",
-          "summary": "Ooit verkochten ze miljoenenstulpjes aan the rich and famous in de VS, nu wacht hen een leven in de cel: de 3 broers-Alexander - Alon (38), Oren (38) en Tal (39) - zijn…"
+          "title": "Blok van premier Netanyahu stevent af op winst bij verkiezingen in Israël, maar telling blijft spannend",
+          "url": "https://vrtnws.be/p.ew4wADpXj",
+          "time": "2026-10-28T05:51:51.000Z",
+          "summary": "Het blok rond huidig premier Benjamin Netanyahu lijkt bij de verkiezingen in Israël op een overwinning af te stevenen. Dat blijkt uit de voorlopige resultaten van de…"
         },
         {
-          "title": "Nieuwe parkeerregeling op komst voor zwembad Kapermolen in Hasselt: \"Studenten en bezoekers van de binnenstad maken misbruik van de parking\"",
-          "url": "https://vrtnws.be/p.APQ7wy6pw",
-          "time": "2026-10-27T20:02:00.000Z",
-          "summary": "Op de gemeenteraad van Hasselt heeft Vlaams Belang-raadslid Toon Vranken schepen van Mobiliteit Kevin Schouterden (Vooruit) ondervraagd over de parkeerdruk bij zwembad…"
+          "title": "Maaseik geeft jeugdverenigingen subsidies voor veiliger nachtleven",
+          "url": "https://vrtnws.be/p.Nv3qZp3pX",
+          "time": "2026-10-28T05:48:05.000Z",
+          "summary": "De stad Maaseik gaat subsidies geven aan jeugdverenigingen om het uitgaan veiliger te maken. De verenigingen kunnen het geld gebruiken voor het betalen van professionele…"
         },
         {
-          "title": "\"Ook dieven nemen het openbaar vervoer\": Politiezone Herent-Kortenberg doet controles op bussen tegen woninginbraken",
-          "url": "https://vrtnws.be/p.BlYL6JvQx",
-          "time": "2026-10-27T19:51:44.000Z",
-          "summary": "De Politiezone Herent-Kortenberg (HerKo) gaat de komende maanden extra patrouilleren, controleren en sensibiliseren om woninginbraken te voorkomen. Want als het vroeger…"
+          "title": "Waarom het vaak lang duurt voor Israël daadwerkelijk een nieuwe premier en regering heeft",
+          "url": "https://vrtnws.be/p.QAbvmd3dG",
+          "time": "2026-10-28T05:26:46.000Z",
+          "summary": "Op volledige resultaten uit Israël is het nog even wachten, maar dat er niet snel een nieuwe premier zal zijn, lijkt nu al duidelijk. Vóór een nieuwe regering op de been…"
         },
         {
-          "title": "Johan Verminnen geeft afscheidsconcert in Brielpoort in Deinze: \"De cirkel is rond\"",
-          "url": "https://vrtnws.be/p.Nv3qYR90w",
-          "time": "2026-10-27T18:56:19.000Z",
-          "summary": "Zanger Johan Verminnen zal zijn allerlaatste concert spelen in de Brielpoort in Deinze. De zaal viert volgend jaar ook haar 50e verjaardag. Voor die verjaardag wordt een…"
+          "title": "Gijbels Group koopt site van failliete Veldeman Bedding in Oudsbergen en maakt er bedrijventerrein van",
+          "url": "https://vrtnws.be/p.dLRlxYnRN",
+          "time": "2026-10-28T05:12:37.000Z",
+          "summary": "De voormalige site van Veldeman Bedding in Oudsbergen krijgt een nieuwe bestemming. Bouwbedrijf Gijbels Group heeft de terreinen gekocht en wil er nu een nieuw…"
         },
         {
-          "title": "Na 20 jaar juridisch getouwtrek: eerste voorbereidende werken voor nieuwe stadion van Club Brugge zijn gestart",
-          "url": "https://vrtnws.be/p.DYMx9a8dX",
-          "time": "2026-10-27T18:55:36.000Z",
-          "summary": "Op de Olympiasite in het Brugse Sint-Andries zijn vandaag de eerste voorbereidende werken voor het nieuwe voetbalstadion van Club Brugge gestart. Er zal onder andere…"
+          "title": "Erpe-Mere krijgt 13 historische zakboekjes van veldwachter uit begin 20e eeuw: \"Horen thuis in het gemeentearchief\"",
+          "url": "https://vrtnws.be/p.aDePn5b9l",
+          "time": "2026-10-28T05:07:48.000Z",
+          "summary": "De gemeente Erpe-Mere heeft 13 historische veldwachterszakboekjes ontvangen voor het gemeentearchief. Ze behoorden toe aan Frans Beirens, veldwachter van Mere, en…"
         }
       ]
     }
