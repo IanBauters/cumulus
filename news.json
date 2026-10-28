@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-28T13:23:37.337Z",
+  "generatedAt": "2026-10-28T19:00:18.273Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-28T13:23:37.337Z",
+      "fetchedAt": "2026-10-28T19:00:18.273Z",
       "error": null,
       "items": [
         {
-          "title": "Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors",
-          "url": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/",
-          "time": "2026-10-28T13:21:53.000Z",
-          "summary": "In a post on X today , Apple CEO John Ternus shared a short video that shows an Apple logo being projected onto a dark wall against a nighttime city skyline. This teaser…"
+          "title": "Adding Touch Didn't Cost the MacBook Pro Any Battery Life",
+          "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life/",
+          "time": "2026-10-28T18:55:00.000Z",
+          "summary": "The PROLED MacBook Pro models continue to offer up to 24 hours of battery life despite the switch to a new OLED display and touch capabilities. Both the PROLED and the…"
         },
         {
-          "title": "Touchscreen MacBook Pro's New Hinge Linked to iPhone Duo 2",
-          "url": "https://www.macrumors.com/2026/10/28/macbook-pro-hinge-iphone-duo-2/",
-          "time": "2026-10-28T12:19:09.000Z",
-          "summary": "Apple's upcoming touchscreen MacBook Pro will feature hinge improvements related to changes planned for future iPhone Duo models, according to a last-minute claim ahead…"
+          "title": "Apple Releases Redesigned Mac Chargers and 'World Travel Adapter Kit'",
+          "url": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
+          "time": "2026-10-28T18:29:51.000Z",
+          "summary": "Apple today began selling updated versions of its 70W Power Adapter , 140W Power Adapter , and Power Adapter Extension Cable , all with a new \"AC Connector 2.\" The…"
         },
         {
-          "title": "MacPaw Launches 'Eney' AI Assistant for Mac and iPhone",
-          "url": "https://www.macrumors.com/2026/10/28/macpaw-launches-eney-ai-assistant-mac/",
-          "time": "2026-10-28T11:52:18.000Z",
-          "summary": "MacPaw has launched Eney , a proactive AI assistant for Mac and iPhone that the company says understands what is happening across a user's apps, files, and system,…"
+          "title": "Apple Executives Explain Why the MacBook Pro Finally Has a Touch Screen",
+          "url": "https://www.macrumors.com/2026/10/28/apple-executives-touch-screen-explanation/",
+          "time": "2026-10-28T18:25:22.000Z",
+          "summary": "Apple CEO John Ternus explained Apple's thinking on the MacBook Pro 's new touch capabilities in an interview with Wired . Despite the addition of a touch display, Apple…"
         },
         {
-          "title": "macOS 27 Assets Hint at Dynamic Island for MacBook Pro",
-          "url": "https://www.macrumors.com/2026/10/28/pill-shaped-macos-27-dynamic-island-macbook-pro/",
-          "time": "2026-10-28T11:28:41.000Z",
-          "summary": "Ahead of Apple's expected debut of new touchscreen MacBook Pro models, five system assets have been discovered in macOS 27 that bear a strong resemblance to information…"
+          "title": "New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio",
+          "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-improved-audio/",
+          "time": "2026-10-28T18:03:42.000Z",
+          "summary": "Apple's new 14-inch and 16-inch MacBook Pro models feature an upgraded six-speaker sound system, with redesigned woofers and tweeters, along with dedicated audio tuning…"
         },
         {
-          "title": "Touchscreen MacBook Pro to Debut Today With These 5 Features",
-          "url": "https://www.macrumors.com/2026/10/28/touchscreen-macbook-pro-debut-these-5-features/",
-          "time": "2026-10-28T10:17:55.000Z",
-          "summary": "Some reports have suggested the new high-end MacBook Pro models that Apple is expected to announce today might not be called ‌MacBook Pro‌s at all. They could in fact be…"
+          "title": "New MacBook Pro Offers Up to 16TB of Storage, Double Previous Limit",
+          "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
+          "time": "2026-10-28T17:52:44.000Z",
+          "summary": "Apple's new touchscreen MacBook Pro models offer up to 16TB of internal storage, doubling the previous generation's 8TB maximum. The extra capacity comes at a…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-28T13:23:37.337Z",
+      "fetchedAt": "2026-10-28T19:00:18.273Z",
       "error": null,
       "items": [
         {
-          "title": "John Ternus posts teaser video ahead of MacBook Pro redesign unveiling",
-          "url": "https://9to5mac.com/2026/10/28/john-ternus-posts-teaser-video-ahead-of-macbook-pro-redesign-unveiling/",
-          "time": "2026-10-28T13:03:42.000Z",
-          "summary": "Today at 10:00 a.m. PT, Apple is expected to unveil its long-awaited MacBook Pro redesign with a touchscreen, OLED, and more. Ahead of the reveal, CEO John Ternus just…"
+          "title": "Download the new MacBook Pro with PROLED XDR Display wallpaper",
+          "url": "https://9to5mac.com/2026/10/28/download-the-new-macbook-pro-with-proled-xdr-display-wallpaper/",
+          "time": "2026-10-28T18:56:34.000Z",
+          "summary": "If you’re a fan of the default wallpaper for the new MacBook Pro with PROLED XDR Display , Basic Apple Guy has got your back. more…"
         },
         {
-          "title": "Amazon announced five new Alexa devices, including 16-inch Echo Show",
-          "url": "https://9to5mac.com/2026/10/28/amazon-announced-five-new-alexa-devices-including-16-inch-echo-show/",
-          "time": "2026-10-28T12:48:35.000Z",
-          "summary": "Apple recently launched new HomePod mini speakers and its HomeView smart display , and today it’s Amazon’s turn with five new Alexa devices. This includes a new Echo…"
+          "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS",
+          "url": "https://9to5mac.com/2026/10/28/openai-expanding-chatgpt-dot-access-to-imessage-and-rcs/",
+          "time": "2026-10-28T18:15:27.000Z",
+          "summary": "Well this is pretty cool. OpenAI is expanding ChatGPT dot access to iMessage and RCS. more…"
         },
         {
-          "title": "On the day of the touchscreen Mac launch, Dynamic Island elements found in macOS 27",
-          "url": "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27/",
-          "time": "2026-10-28T12:03:53.000Z",
-          "summary": "We’re just hours away now from Apple unveiling the latest MacBook Pro with OLED and touchscreen. We’re expecting the display to replace the notch with a Dynamic Island,…"
+          "title": "Apple updates Design Resources portal with assets for the new touchscreen MacBook Pro",
+          "url": "https://9to5mac.com/2026/10/28/apple-updates-design-resources-portal-with-assets-for-the-new-touchscreen-macbook-pro/",
+          "time": "2026-10-28T18:14:45.000Z",
+          "summary": "If you’re a designer who relies on Apple’s official design resources, the company has already added the new MacBook Pro with PROLED XDR Display to its collection of…"
         },
         {
-          "title": "Kickstarter project offers touchscreen mouse instead of a touchscreen Mac",
-          "url": "https://9to5mac.com/2026/10/28/kickstarter-project-offers-touchscreen-mouse-instead-of-a-touchscreen-mac/",
-          "time": "2026-10-28T11:24:54.000Z",
-          "summary": "On the day Apple is set to unveil its first ever touchscreen Mac , a startup is trying to persuade us that we instead need a touchscreen mouse, compatible with both Mac…"
+          "title": "MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference",
+          "url": "https://9to5mac.com/2026/10/28/macbook-pro-with-proled-xdr-vs-macbook-pro-heres-every-difference/",
+          "time": "2026-10-28T18:06:03.000Z",
+          "summary": "Apple just unveiled its new MacBook Pro with PROLED XDR Display, which joins the lineup alongside the existing MacBook Pro using the same M5 Pro and Max chips. Here’s an…"
         },
         {
-          "title": "Apple memory supplier expects price increases through at least 2030",
-          "url": "https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
-          "time": "2026-10-28T10:57:20.000Z",
-          "summary": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is…"
+          "title": "Apple reveals pricing for Mac Studio with 512GB of RAM",
+          "url": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
+          "time": "2026-10-28T17:40:07.000Z",
+          "summary": "When Apple announced the new M5 Max and M5 Ultra configurations of the Mac Studio in August, it said a configuration with 512GB of RAM would be available in October.…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-28T13:23:37.337Z",
+      "fetchedAt": "2026-10-28T19:00:18.273Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple Brings Touch to the Mac with New OLED MacBook Pros",
+          "url": "https://www.macstories.net/news/apple-brings-touch-to-the-mac-with-new-oled-macbook-pros/",
+          "time": "2026-10-28T18:16:00.000Z",
+          "summary": "Source: Apple. Apple today introduced newly redesigned 14- and 16-inch MacBook Pros featuring tandem OLED displays that support Touch. The new MacBook Pros, which are…"
+        },
         {
           "title": "Apple Creator Studio to Add MotionVFX, AI Assistants, and MCP Support in November",
           "url": "https://www.macstories.net/news/apple-creator-studio-to-add-motionvfx-ai-assistants-and-mcp-support-in-november/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/apple-releases-ios-and-ipados-27-2-with-apple-pencil-support-for-iphone-duo-and-smarter-siri/",
           "time": "2026-10-26T21:22:25.000Z",
           "summary": "The iPhone Duo now supports the Apple Pencil (USB-C). It’s been just six weeks since iOS and iPadOS 27 were released, but Apple just introduced version 27.2, which packs…"
-        },
-        {
-          "title": "Today on AppStories: iPhone Duo First Impressions and Apps",
-          "url": "https://www.macstories.net/linked/today-on-appstories-iphone-duo-first-impressions-and-apps/",
-          "time": "2026-10-26T18:28:20.000Z",
-          "summary": "Today on AppStories, Federico and I share our first impressions of the iPhone Duo and share our experiences in New York and London, where we learned more about the Duo…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-28T13:23:37.337Z",
+      "fetchedAt": "2026-10-28T19:00:18.273Z",
       "error": null,
       "items": [
         {
-          "title": "Opnieuw vallen plafondtegels naar beneden in Rijksadministratief Centrum in Hasselt: \"Personeel werkt thuis\"",
-          "url": "https://vrtnws.be/p.oLqLQlG76",
-          "time": "2026-10-28T13:18:22.000Z",
-          "summary": "Op de 4e verdieping van blok C van het Rijksadministratief Centrum in Hasselt zijn opnieuw plafondtegels naar beneden gevallen. De verdieping is afgesloten en zo'n 40 à…"
+          "title": "Uitslaande brand vernielt woning in Zandhoven",
+          "url": "https://vrtnws.be/p.XEVE5NdVO",
+          "time": "2026-10-28T18:44:59.000Z",
+          "summary": "Aan Nederviersel in Zandhoven is woensdagavond een woning volledig uitgebrand. De bewoner kon zich tijdig uit de voeten maken. De oorzaak is voorlopig onbekend."
         },
         {
-          "title": "Herentals creëert 175 extra sociale huurwoningen tegen 2042, meer dan opgelegd door Vlaanderen",
-          "url": "https://vrtnws.be/p.KK8KnOO0L",
-          "time": "2026-10-28T13:13:47.000Z",
-          "summary": "In Herentals komen er 175 extra sociale huurwoningen bij tegen 2042. Dat is meer dan de 160 die de Vlaamse overheid van de stad vraagt. Het stadsbestuur bouwt samen met…"
+          "title": "Antwerpse ziekenhuisgroep ZAS waarschuwt voor valse vacatures: \"Geef geen bankgegevens\"",
+          "url": "https://vrtnws.be/p.Wkjk3dd4Z",
+          "time": "2026-10-28T18:27:34.000Z",
+          "summary": "Ziekenhuis aan de Stroom (ZAS) in Antwerpen waarschuwt voor valse vacatures op jobsites zoals Indeed en op andere kanalen, waaronder LinkedIn. Het gaat om vacatures voor…"
         },
         {
-          "title": "Man moet 's nachts weggesleept worden van wegdek van A12 vlak bij Carré in Willebroek",
-          "url": "https://vrtnws.be/p.vLlLklOQB",
-          "time": "2026-10-28T13:05:28.000Z",
-          "summary": "Op de A12 in Willebroek is zaterdagnacht een man onder invloed te voet aangetroffen op de rijbaan ter hoogte van discotheek Carré. De beelden duiken vandaag op sociale…"
+          "title": "Genk investeert 500.000 euro in nieuwe ontmoetingsplek voor Kolderbos",
+          "url": "https://vrtnws.be/p.QAbA4A70p",
+          "time": "2026-10-28T18:14:07.000Z",
+          "summary": "De Genkse wijk Kolderbos krijgt een nieuwe ontmoetingsplek. De stad investeert 500.000 euro in het project, dat buurtbewoners meer ruimte moet geven om elkaar te…"
         },
         {
-          "title": "Afleidingsmanoeuvres en bestelwagens op een tarmac aan de grens: zo is Flávio Bolsonaro uit Brazilië gevlucht",
-          "url": "https://vrtnws.be/p.PqOqLXQEy",
-          "time": "2026-10-28T12:45:40.000Z",
-          "summary": "Twee bestelwagens rijden ’s avonds onder politiebegeleiding een Argentijnse luchthaven op. Tegelijk duiken berichten op dat Flávio Bolsonaro Brazilië is ontvlucht en…"
+          "title": "Rock Werchter voert nieuw tweedagenticket in: 259 euro voor 2 festivaldagen",
+          "url": "https://vrtnws.be/p.11p1NOXbq",
+          "time": "2026-10-28T18:11:29.000Z",
+          "summary": "Rock Werchter voert voor de editie van 2027 een nieuw tweedagenticket in. Dat kost 259 euro en is daarmee goedkoper dan 2 losse dagtickets, die samen 286 euro kosten.…"
         },
         {
-          "title": "Hoe moet je energiecontracten vergelijken? 5 vragen en 5 antwoorden",
-          "url": "https://vrtnws.be/p.aDePBD8XA",
-          "time": "2026-10-28T12:41:05.000Z",
-          "summary": "Nu de gasprijzen recordhoogtes bereiken, is het een goed idee om je energiecontract te bekijken en te vergelijken met andere contracten. Uit cijfers van energieregulator…"
+          "title": "Kan een treinramp zoals in Spanje ook bij ons gebeuren? \"Wij werken al met nieuwste Europese veiligheidssysteem\"",
+          "url": "https://vrtnws.be/p.6KpKYdvpK",
+          "time": "2026-10-28T18:10:09.000Z",
+          "summary": "\"België is koploper op het vlak van veiligheidssystemen als het gaat over ons treinnetwerk.\" Dat zegt transporteconoom Jochen Maes (UGent) na de dodelijke treinramp in…"
         }
       ]
     }
