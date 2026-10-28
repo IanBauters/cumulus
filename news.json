@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-10-27T20:51:18.232Z",
+  "generatedAt": "2026-10-28T00:19:18.682Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-27T20:51:18.232Z",
+      "fetchedAt": "2026-10-28T00:19:18.682Z",
       "error": null,
       "items": [
         {
+          "title": "Apple Shares New Apple Watch Survival Stories",
+          "url": "https://www.macrumors.com/2026/10/27/apple-watch-survival-stories/",
+          "time": "2026-10-27T23:20:22.000Z",
+          "summary": "Apple today continued with its \"True Apple Watch Story\" series, featuring two more people who credit the Apple Watch with saving their lives. In the first video, Morgan…"
+        },
+        {
+          "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
+          "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
+          "time": "2026-10-27T23:16:30.000Z",
+          "summary": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app.…"
+        },
+        {
+          "title": "OLED Touchscreen MacBook Pro Could Start at $2,899",
+          "url": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
+          "time": "2026-10-27T22:29:50.000Z",
+          "summary": "Apple's 14-inch OLED MacBook Pro with an M5 Pro chip could be $400 more expensive than the current model, reports Bloomberg . Apple has \"discussed\" charging $2,899 for…"
+        },
+        {
           "title": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
           "url": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
-          "time": "2026-10-27T20:36:33.000Z",
+          "time": "2026-10-27T21:07:38.000Z",
           "summary": "The new M6 iMac models come in the same color options as the 2024 model, despite reports suggesting we could see new shades. You can buy the M6 iMac in green, yellow,…"
         },
         {
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
           "time": "2026-10-27T19:51:25.000Z",
           "summary": "OpenAI today said it added iCloud Mail and Calendar plugins to ChatGPT. With the &zwnj;iCloud&zwnj; Calendar integration, ChatGPT can read, schedule, and update events…"
-        },
-        {
-          "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
-          "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
-          "time": "2026-10-27T17:32:56.000Z",
-          "summary": "Bloomberg 's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in the first half of 2027. He previously mentioned that the new model…"
-        },
-        {
-          "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
-          "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
-          "time": "2026-10-27T17:16:26.000Z",
-          "summary": "The new iMac with the M6 chip can be configured with a 2.5 Gigabit Ethernet port, which is built into the power adapter rather than the computer. The port is a $30…"
-        },
-        {
-          "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow",
-          "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
-          "time": "2026-10-27T15:57:14.000Z",
-          "summary": "Apple on Wednesday will announce 14-inch and 16-inch MacBook Pro models featuring touch-enabled OLED displays with thinner bezels, a Dynamic Island instead of a notch,…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-27T20:51:18.232Z",
+      "fetchedAt": "2026-10-28T00:19:18.682Z",
       "error": null,
       "items": [
         {
-          "title": "iOS 27.2 now available: Here’s everything new for iPhone",
-          "url": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date/",
-          "time": "2026-10-27T20:45:46.000Z",
-          "summary": "iOS 27.2 is now available to everyone after six weeks of beta testing. The update was released on Monday , bringing multiple new iPhone features. Here’s everything you…"
+          "title": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
+          "url": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert/",
+          "time": "2026-10-28T00:10:09.000Z",
+          "summary": "Apple’s YouTube channel shared two new videos today from its “True Apple Watch Story” series, highlighting how the device helped save one woman’s life and transform…"
         },
         {
-          "title": "Apple TV releases trailer for upcoming original film starring Chris Pratt",
-          "url": "https://9to5mac.com/2026/10/27/apple-tv-releases-trailer-for-upcoming-original-film-starring-chris-pratt/",
-          "time": "2026-10-27T20:30:12.000Z",
-          "summary": "Apple TV today released the trailer for “ Way of the Warrior Kid ,” which premieres globally on the platform on November 25. Here are the details. more…"
+          "title": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
+          "url": "https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more/",
+          "time": "2026-10-27T22:50:54.000Z",
+          "summary": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models.…"
         },
         {
-          "title": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
-          "url": "https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/",
-          "time": "2026-10-27T19:44:07.000Z",
-          "summary": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details. more…"
+          "title": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
+          "url": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
+          "time": "2026-10-27T21:43:14.000Z",
+          "summary": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…"
         },
         {
-          "title": "Apple’s low-cost iPhone 18 details revealed by leaker",
-          "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
-          "time": "2026-10-27T19:28:53.000Z",
-          "summary": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2. Here are the details on what to expect from iPhone 18e, per a…"
+          "title": "Apple’s European government affairs chief to speak at Web Summit 2026",
+          "url": "https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026/",
+          "time": "2026-10-27T21:03:16.000Z",
+          "summary": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the…"
         },
         {
-          "title": "Copilot Money gets even better with new AI-powered Money Assistant",
-          "url": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
-          "time": "2026-10-27T19:00:35.000Z",
-          "summary": "Copilot Money, the award-winning personal finance app, is getting even better this week with the launch of Money Assistant: an AI financial agent built into every part…"
+          "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
+          "url": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+          "time": "2026-10-27T20:57:05.000Z",
+          "summary": "iOS 27.2 launched this week , and the update includes a new app icon for Apple Music alongside other small design changes in the Music app. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-27T20:51:18.232Z",
+      "fetchedAt": "2026-10-28T00:19:18.682Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-27T20:51:18.232Z",
+      "fetchedAt": "2026-10-28T00:19:18.682Z",
       "error": null,
       "items": [
+        {
+          "title": "Val van broers-Alexander: ooit bekende miljoenenmakelaars, nu elk 30 jaar cel voor verkrachting en mensenhandel",
+          "url": "https://vrtnws.be/p.ZWyWMOVjW",
+          "time": "2026-10-27T20:48:34.000Z",
+          "summary": "Ooit verkochten ze miljoenenstulpjes aan the rich and famous in de VS, nu wacht hen een leven in de cel: de 3 broers-Alexander - Alon (38), Oren (38) en Tal (39) - zijn…"
+        },
         {
           "title": "Nieuwe parkeerregeling op komst voor zwembad Kapermolen in Hasselt: \"Studenten en bezoekers van de binnenstad maken misbruik van de parking\"",
           "url": "https://vrtnws.be/p.APQ7wy6pw",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.DYMx9a8dX",
           "time": "2026-10-27T18:55:36.000Z",
           "summary": "Op de Olympiasite in het Brugse Sint-Andries zijn vandaag de eerste voorbereidende werken voor het nieuwe voetbalstadion van Club Brugge gestart. Er zal onder andere…"
-        },
-        {
-          "title": "Hoe telefoontje van Finland en Noorwegen met Poetin verdeeldheid in Europa (andermaal) blootlegt",
-          "url": "https://vrtnws.be/p.RaJQK6ZoX",
-          "time": "2026-10-27T18:50:37.000Z",
-          "summary": "De uiteenlopende reacties op het telefoongesprek tussen de leiders van Finland en Noorwegen en Vladimir Poetin tonen aan dat in Europa nog altijd geen overeenstemming is…"
         }
       ]
     }
