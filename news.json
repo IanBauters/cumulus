@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T02:42:20.531Z",
+  "generatedAt": "2026-10-29T09:37:57.274Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-29T02:42:20.531Z",
+      "fetchedAt": "2026-10-29T09:37:57.274Z",
       "error": null,
       "items": [
         {
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-29T02:42:20.531Z",
+      "fetchedAt": "2026-10-29T09:37:57.274Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-29T02:42:20.531Z",
+      "fetchedAt": "2026-10-29T09:37:57.274Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-29T02:42:20.531Z",
+      "fetchedAt": "2026-10-29T09:37:57.274Z",
       "error": null,
       "items": [
         {
-          "title": "Geluidsfragmenten wijzen op menselijke fout in controlecentrum als oorzaak voor treinramp in Spanje",
-          "url": "https://vrtnws.be/p.OvkvB99jB",
-          "time": "2026-10-28T22:47:45.000Z",
-          "summary": "3 geluidsfragmenten tussen het controlecentrum en de betrokken treinbestuurders leggen grote menselijke fouten bloot in de minuten voor de treinramp. Dat meldt de…"
+          "title": "Diest sluit nachtwinkels vroeger en stuurt jeugdwerkers straat op na aanhoudende overlast: \"Geweld en vandalisme\"",
+          "url": "https://vrtnws.be/p.KK8KoyWNL",
+          "time": "2026-10-29T09:30:20.000Z",
+          "summary": "Diest sluit voortaan alle nachtwinkels om 21 uur en stuurt meer jeugdwerkers de straat op om het onveiligheidsgevoel in stad aan te pakken. Uit een recent verslag van de…"
         },
         {
-          "title": "Vrouw levenloos aangetroffen in woning in Oudergem: één verdachte aangehouden",
-          "url": "https://vrtnws.be/p.5waw9jYA8",
-          "time": "2026-10-28T21:33:05.000Z",
-          "summary": "Het parket van Brussel voert een onderzoek naar het verdachte overlijden van een vrouw in Oudergem, die afgelopen weekend om het leven zou zijn gebracht in haar woning.…"
+          "title": "Advocate enkele dagen arbeidsongeschikt nadat man stoel tegen haar hoofd gooit in rechtbank Gent",
+          "url": "https://vrtnws.be/p.jGkGMmVka",
+          "time": "2026-10-29T09:23:21.000Z",
+          "summary": "In het gerechtsgebouw in Gent heeft een man een stoel tegen het hoofd van een advocate gegooid. De advocate is enkele dagen arbeidsongeschikt. Het parket is een…"
         },
         {
-          "title": "Huisartsen in Halle pleiten voor vaccinatie tegen pneumokokken: \"Maakt elk jaar te veel slachtoffers\"",
-          "url": "https://vrtnws.be/p.DYMYmEBZy",
-          "time": "2026-10-28T20:42:48.000Z",
-          "summary": "De Artsenkring Zennevallei vraagt dit najaar extra aandacht voor de vaccinatie tegen pneumokokken. Voorzitter Gerlinde Beerens roept alle 65-plussers en mensen met een…"
+          "title": "Knokke-Heist trekt alle 25 strandconcessies in na schorsing Raad van State",
+          "url": "https://vrtnws.be/p.6KpK0GMYQ",
+          "time": "2026-10-29T08:21:11.000Z",
+          "summary": "Het gemeentebestuur van Knokke-Heist trekt de toewijzing van alle 25 strandbarconcessies in, een week nadat de Raad van State die toewijzing schorste. Minder dan 5…"
         },
         {
-          "title": "Amerikaanse burgerrechtenactiviste Dolores Huerta overleden op 96-jarige leeftijd",
-          "url": "https://vrtnws.be/p.ew4w84LjP",
-          "time": "2026-10-28T20:22:56.000Z",
-          "summary": "De Amerikaanse vakbondsleidster en feministe Dolores Huerta (96) is overleden. Ze was medeoprichtster van de vakbond United Farm Workers, die opkwam voor de rechten van…"
+          "title": "Angèle steekt oceaan over en treedt op in 'The tonight show' met Jimmy Fallon",
+          "url": "https://vrtnws.be/p.APQPWbbN4",
+          "time": "2026-10-29T07:59:56.000Z",
+          "summary": "Angèle heeft haar nieuwe single 'Love triangle' live gebracht in 'The tonight show' met Jimmy Fallon. Het is meteen het tv-debuut van de Brusselse zangeres in de…"
         },
         {
-          "title": "Merelbeke-Melle en Destelbergen waarschuwen voor oplichters na datalek bij leverancier: \"Wees voorzichtig\"",
-          "url": "https://vrtnws.be/p.JN4N5jxek",
-          "time": "2026-10-28T20:01:02.000Z",
-          "summary": "Merelbeke-Melle en Destelbergen waarschuwen hun inwoners na een datalek bij externe leverancier Vanden Broele. Het bedrijf biedt onder meer services aan om documenten…"
+          "title": "Verstopte dakgoot zet oefenlokaal in Meise onder water en doet bijna dak instorten: \"Kleine ramp vermeden\"",
+          "url": "https://vrtnws.be/p.QAbAVbjJx",
+          "time": "2026-10-29T07:58:15.000Z",
+          "summary": "De leden van zanggroep De Meisekes uit Meise hebben een ramp vermeden. Door een verstopte dakgoot bleef regenwater op het platte dak staan, waardoor water door het…"
         }
       ]
     }
