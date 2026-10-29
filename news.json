@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-29T09:37:57.274Z",
+  "generatedAt": "2026-10-29T16:44:51.436Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-29T09:37:57.274Z",
+      "fetchedAt": "2026-10-29T16:44:51.436Z",
       "error": null,
       "items": [
         {
-          "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
-          "url": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
-          "time": "2026-10-28T23:04:16.000Z",
-          "summary": "Similar to the iPad mini 8 and M6 MacBook Pro, the just-announced MacBook Pro models with PROLED XDR displays have become available for pre-order at Best Buy with a…"
+          "title": "MacBook Pro Mini-LED vs. OLED Buyer's Guide: Every Difference",
+          "url": "https://www.macrumors.com/guide/macbook-pro-mini-led-vs-oled/",
+          "time": "2026-10-29T15:59:05.000Z",
+          "summary": "Apple's new MacBook Pro with PROLED XDR Display features tandem OLED technology, touchscreen input, the Dynamic Island , and a thinner, lighter design. It joins the…"
         },
         {
-          "title": "Here's Everything Apple Announced This Week",
-          "url": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
-          "time": "2026-10-28T22:45:11.000Z",
-          "summary": "It's been a busy October for Apple, and just this week, we got a new OLED iPad mini , an &zwnj;OLED&zwnj; MacBook Pro with a touch display, a new M6 &zwnj;MacBook…"
+          "title": "Where to Pre-Order Apple's New MacBooks, iPad Mini, and iMac",
+          "url": "https://www.macrumors.com/2026/10/29/pre-order-apples-new-macbooks/",
+          "time": "2026-10-29T14:35:15.000Z",
+          "summary": "Apple announced an array of new products this week, including the iPad mini 8, M6 iMac, M6 14-inch MacBook Pro, and PROLED XDR MacBook Pro. With new product…"
         },
         {
-          "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
-          "url": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
-          "time": "2026-10-28T22:24:25.000Z",
-          "summary": "Surprise! The new 14-inch and 16-inch MacBook Pro models with OLED displays have a glowing Apple logo , a beloved feature that was phased out a decade ago. In a hands-on…"
+          "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
+          "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
+          "time": "2026-10-29T14:32:28.000Z",
+          "summary": "Following more than two weeks of pre-orders , the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30. Siri AI will be one of…"
         },
         {
-          "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
-          "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
-          "time": "2026-10-28T22:04:52.000Z",
-          "summary": "Rumors about Apple's work on a touchscreen OLED MacBook Pro started in 2023, when Bloomberg 's Mark Gurman said there would be a MacBook Pro with an &zwnj;OLED&zwnj;…"
+          "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro",
+          "url": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
+          "time": "2026-10-29T12:33:47.000Z",
+          "summary": "Apple announced a new MacBook Pro with PROLED XDR Display on Wednesday. It's Apple's first Mac with a screen that supports touch, and demonstrations Apple gave to the…"
         },
         {
-          "title": "Apple Has 8 New Products Available for Pre-Order",
-          "url": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
-          "time": "2026-10-28T21:51:19.000Z",
-          "summary": "Apple at 10:10 a.m. Pacific Time today started accepting pre-orders for five new products that will all be released on Friday, November 6. Here are the pre-order pages:…"
+          "title": "Just Got an iPhone Duo? Try These Features First",
+          "url": "https://www.macrumors.com/guide/iphone-duo-new-features-to-try-first/",
+          "time": "2026-10-29T10:53:27.000Z",
+          "summary": "Apple's iPhone Duo launched on Friday, October 23 in markets around the world. Keep reading if you're the lucky owner of Apple's first foldable iPhone. Whether you're…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-29T09:37:57.274Z",
+      "fetchedAt": "2026-10-29T16:44:51.436Z",
       "error": null,
       "items": [
         {
-          "title": "Russia now requires Apple to store user communications and hand them over if requested",
-          "url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
-          "time": "2026-10-29T01:24:17.000Z",
-          "summary": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security…"
+          "title": "Apple TV’s new crime thriller hailed as ‘impossible to stop watching’",
+          "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-hailed-as-impossible-to-stop-watching/",
+          "time": "2026-10-29T15:19:00.000Z",
+          "summary": "Apple TV has a new crime thriller premiering tonight— Nocturne —and early reviews indicate it could be another hit series for the streamer. more…"
         },
         {
-          "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
-          "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
-          "time": "2026-10-29T00:17:48.000Z",
-          "summary": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products,…"
+          "title": "iOS 27.2 gives Shortcuts app these new and improved features",
+          "url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
+          "time": "2026-10-29T14:16:33.000Z",
+          "summary": "iOS 27.2 launched this week with a variety of new features for Siri AI , FaceTime , Messages , and more, plus a handful of improvements for the Shortcuts app. Here’s…"
         },
         {
-          "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
-          "url": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
-          "time": "2026-10-28T22:40:45.000Z",
-          "summary": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable…"
+          "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
+          "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+          "time": "2026-10-29T13:44:21.000Z",
+          "summary": "Apple released iOS 27.2 this week with new features for Messages , Siri AI , and Photos , plus an Apple Music rebrand and more. But work on iOS 27.3 is already well…"
         },
         {
-          "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
-          "url": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
-          "time": "2026-10-28T22:12:39.000Z",
-          "summary": "Apple this week unveiled a range of new products, including a new iPad mini, M6 updates for the iMac and MacBook Pro, and the first-ever MacBook Pro with a touchscreen.…"
+          "title": "Reddit now lets you choose between For You and Following feeds",
+          "url": "https://9to5mac.com/2026/10/29/reddit-now-lets-you-choose-between-for-you-and-following-feeds/",
+          "time": "2026-10-29T12:33:06.000Z",
+          "summary": "Reddit has announced the introduction of a new For You feed, an algorithmic-driven one that tries to find new communities and threads to match your interests.…"
         },
         {
-          "title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
-          "url": "https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/",
-          "time": "2026-10-28T21:44:56.000Z",
-          "summary": "Apple and Google were fined today in South Korea over their app payment practices, with regulators also ordering both companies to change several policies. Here are the…"
+          "title": "The education price of the MacBook Neo just jumped again",
+          "url": "https://9to5mac.com/2026/10/29/the-education-price-of-the-macbook-neo-just-jumped-again/",
+          "time": "2026-10-29T12:14:11.000Z",
+          "summary": "The MacBook Neo was already a bargain by Mac standards when it launched with a starting price of $599, but for students an education price of $499 made it a steal.…"
         }
       ]
     },
@@ -83,9 +83,15 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-29T09:37:57.274Z",
+      "fetchedAt": "2026-10-29T16:44:51.436Z",
       "error": null,
       "items": [
+        {
+          "title": "OpenAI Adds iCloud Calendar and Mail Plugins and Dot Texting",
+          "url": "https://www.macstories.net/linked/openai-adds-icloud-calendar-and-mail-plugins-and-dot-texting/",
+          "time": "2026-10-29T13:49:50.000Z",
+          "summary": "OpenAI continues to add features to its ChatGPT app on a regular basis, but there are a couple of recent Apple-specific updates worth mentioning. First, OpenAI created…"
+        },
         {
           "title": "MacBook Pro with Touch: A Mac for the iPad Generation",
           "url": "https://www.macstories.net/stories/macbook-pro-with-touch-a-mac-for-the-ipad-generation/",
@@ -109,12 +115,6 @@
           "url": "https://www.macstories.net/news/apple-creator-studio-to-add-motionvfx-ai-assistants-and-mcp-support-in-november/",
           "time": "2026-10-27T15:23:39.000Z",
           "summary": "Source: Apple. In November, Apple Creator Studio will get its biggest update since its release in January. There’s a lot here, so let’s break it down by app. Final Cut…"
-        },
-        {
-          "title": "Apple Updates the Entry-Level 14-Inch MacBook Pro with the M6",
-          "url": "https://www.macstories.net/news/apple-updates-the-entry-level-14-inch-macbook-pro-with-the-m6/",
-          "time": "2026-10-27T14:16:24.000Z",
-          "summary": "Source: Apple. Apple also introduced a new 14-inch MacBook Pro today featuring the M6 chipset. This entry-level MacBook Pro retains the design of the current M5 MacBook…"
         }
       ]
     },
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-29T09:37:57.274Z",
+      "fetchedAt": "2026-10-29T16:44:51.436Z",
       "error": null,
       "items": [
         {
-          "title": "Diest sluit nachtwinkels vroeger en stuurt jeugdwerkers straat op na aanhoudende overlast: \"Geweld en vandalisme\"",
-          "url": "https://vrtnws.be/p.KK8KoyWNL",
-          "time": "2026-10-29T09:30:20.000Z",
-          "summary": "Diest sluit voortaan alle nachtwinkels om 21 uur en stuurt meer jeugdwerkers de straat op om het onveiligheidsgevoel in stad aan te pakken. Uit een recent verslag van de…"
+          "title": "Nieuw slachthuis in Kortenaken voor kleinschalige landbouwbedrijven: \"We mikken op de korte keten\"",
+          "url": "https://vrtnws.be/p.Wkjk8EWKx",
+          "time": "2026-10-29T16:09:56.000Z",
+          "summary": "In Kortenaken is een nieuw slachthuis opengegaan. Het slachthuis heet Kortvlees, en richt zich vooral op schapen- en geitenhouders en varkensboeren. De 2 uitbaters…"
         },
         {
-          "title": "Advocate enkele dagen arbeidsongeschikt nadat man stoel tegen haar hoofd gooit in rechtbank Gent",
-          "url": "https://vrtnws.be/p.jGkGMmVka",
-          "time": "2026-10-29T09:23:21.000Z",
-          "summary": "In het gerechtsgebouw in Gent heeft een man een stoel tegen het hoofd van een advocate gegooid. De advocate is enkele dagen arbeidsongeschikt. Het parket is een…"
+          "title": "Drie mannen opgepakt na inbraak met geweld bij bejaard koppel in Aarschot",
+          "url": "https://vrtnws.be/p.dLRLVBqb4",
+          "time": "2026-10-29T16:06:14.000Z",
+          "summary": "In Herent zijn 3 mannen opgepakt na een inbraak met geweld in de Paolalaan in Aarschot. Twee van hen hadden dinsdagochtend aangebeld en zich voorgedaan als medewerkers…"
         },
         {
-          "title": "Knokke-Heist trekt alle 25 strandconcessies in na schorsing Raad van State",
-          "url": "https://vrtnws.be/p.6KpK0GMYQ",
-          "time": "2026-10-29T08:21:11.000Z",
-          "summary": "Het gemeentebestuur van Knokke-Heist trekt de toewijzing van alle 25 strandbarconcessies in, een week nadat de Raad van State die toewijzing schorste. Minder dan 5…"
+          "title": "Wie is ontwerpster Ebru Sari (32), die bekend Vlaanderen van galajurken en kleding voorziet?",
+          "url": "https://vrtnws.be/p.XEVE7B5Je",
+          "time": "2026-10-29T16:05:26.000Z",
+          "summary": "In 10 jaar tijd is Ebru Sari (32) uitgegroeid tot een van de populairste ontwerpsters van bekend Vlaanderen. Onder meer Natalia, Camille, prinses Delphine, Sarah…"
         },
         {
-          "title": "Angèle steekt oceaan over en treedt op in 'The tonight show' met Jimmy Fallon",
-          "url": "https://vrtnws.be/p.APQPWbbN4",
-          "time": "2026-10-29T07:59:56.000Z",
-          "summary": "Angèle heeft haar nieuwe single 'Love triangle' live gebracht in 'The tonight show' met Jimmy Fallon. Het is meteen het tv-debuut van de Brusselse zangeres in de…"
+          "title": "Sint-Niklaas opent tijdelijke huisartsennoodpost voor inwoners zonder huisarts",
+          "url": "https://vrtnws.be/p.jGkG8dL0k",
+          "time": "2026-10-29T15:54:24.000Z",
+          "summary": "In Sint-Niklaas heeft de stad samen met dokters een tijdelijke huisartsennoodpost geopend. De komende 3 jaar dreigen bijna 11.000 Sint-Niklazenaren zonder huisarts te…"
         },
         {
-          "title": "Verstopte dakgoot zet oefenlokaal in Meise onder water en doet bijna dak instorten: \"Kleine ramp vermeden\"",
-          "url": "https://vrtnws.be/p.QAbAVbjJx",
-          "time": "2026-10-29T07:58:15.000Z",
-          "summary": "De leden van zanggroep De Meisekes uit Meise hebben een ramp vermeden. Door een verstopte dakgoot bleef regenwater op het platte dak staan, waardoor water door het…"
+          "title": "\"500 miljoen reizigers, maar geen geld voor onderhoud\": zijn spoorwegen in Spanje slachtoffer van eigen succes?",
+          "url": "https://vrtnws.be/p.ew4wVqKL6",
+          "time": "2026-10-29T15:46:47.000Z",
+          "summary": "De spoorwegen in Spanje zijn lang gezien als het schoolvoorbeeld voor treinen in Europa, maar na 2 dodelijke ongevallen in nog geen jaar ligt die reputatie in duigen.…"
         }
       ]
     }
