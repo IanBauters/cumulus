@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-29T16:44:51.436Z",
+  "generatedAt": "2026-10-29T21:39:38.813Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-29T16:44:51.436Z",
+      "fetchedAt": "2026-10-29T21:39:38.813Z",
       "error": null,
       "items": [
         {
-          "title": "MacBook Pro Mini-LED vs. OLED Buyer's Guide: Every Difference",
-          "url": "https://www.macrumors.com/guide/macbook-pro-mini-led-vs-oled/",
-          "time": "2026-10-29T15:59:05.000Z",
-          "summary": "Apple's new MacBook Pro with PROLED XDR Display features tandem OLED technology, touchscreen input, the Dynamic Island , and a thinner, lighter design. It joins the…"
+          "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
+          "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
+          "time": "2026-10-29T21:14:19.000Z",
+          "summary": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz. ProMotion…"
         },
         {
-          "title": "Where to Pre-Order Apple's New MacBooks, iPad Mini, and iMac",
-          "url": "https://www.macrumors.com/2026/10/29/pre-order-apples-new-macbooks/",
-          "time": "2026-10-29T14:35:15.000Z",
-          "summary": "Apple announced an array of new products this week, including the iPad mini 8, M6 iMac, M6 14-inch MacBook Pro, and PROLED XDR MacBook Pro. With new product…"
+          "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
+          "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+          "time": "2026-10-29T20:53:59.000Z",
+          "summary": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South Korea. The new iPad mini…"
         },
         {
-          "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
-          "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
-          "time": "2026-10-29T14:32:28.000Z",
-          "summary": "Following more than two weeks of pre-orders , the HomePod mini 2 will begin arriving to customers and launch in stores this Friday, October 30. Siri AI will be one of…"
+          "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
+          "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
+          "time": "2026-10-29T20:04:54.000Z",
+          "summary": "The HomePod mini 2 is launching tomorrow (or in a few hours in Australia and New Zealand) and a new hands-on video from Craig's Tech Talk gives a clear look at the…"
         },
         {
-          "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro",
-          "url": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
-          "time": "2026-10-29T12:33:47.000Z",
-          "summary": "Apple announced a new MacBook Pro with PROLED XDR Display on Wednesday. It's Apple's first Mac with a screen that supports touch, and demonstrations Apple gave to the…"
+          "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
+          "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
+          "time": "2026-10-29T19:06:08.000Z",
+          "summary": "Apple is lowering the commission that it collects in Taiwan to 26 percent, down from 30 percent. Apple plans to drop the rate for in-app purchase and paid app…"
         },
         {
-          "title": "Just Got an iPhone Duo? Try These Features First",
-          "url": "https://www.macrumors.com/guide/iphone-duo-new-features-to-try-first/",
-          "time": "2026-10-29T10:53:27.000Z",
-          "summary": "Apple's iPhone Duo launched on Friday, October 23 in markets around the world. Keep reading if you're the lucky owner of Apple's first foldable iPhone. Whether you're…"
+          "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
+          "url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+          "time": "2026-10-29T17:47:11.000Z",
+          "summary": "The new MacBook Pro models with OLED displays have an accessibility setting that allows you to turn off touch input entirely, according to MacStories editor-in-chief…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-29T16:44:51.436Z",
+      "fetchedAt": "2026-10-29T21:39:38.813Z",
       "error": null,
       "items": [
         {
-          "title": "Apple TV’s new crime thriller hailed as ‘impossible to stop watching’",
-          "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-hailed-as-impossible-to-stop-watching/",
-          "time": "2026-10-29T15:19:00.000Z",
-          "summary": "Apple TV has a new crime thriller premiering tonight— Nocturne —and early reviews indicate it could be another hit series for the streamer. more…"
+          "title": "Strava adds Google Gemini integration with personalized workout insights",
+          "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+          "time": "2026-10-29T21:06:35.000Z",
+          "summary": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details.…"
         },
         {
-          "title": "iOS 27.2 gives Shortcuts app these new and improved features",
-          "url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
-          "time": "2026-10-29T14:16:33.000Z",
-          "summary": "iOS 27.2 launched this week with a variety of new features for Siri AI , FaceTime , Messages , and more, plus a handful of improvements for the Shortcuts app. Here’s…"
+          "title": "Reddit will soon require an account for most content",
+          "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content/",
+          "time": "2026-10-29T20:49:53.000Z",
+          "summary": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to…"
         },
         {
-          "title": "iOS 27.3 release date: Here’s when to expect new iPhone features",
-          "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-          "time": "2026-10-29T13:44:21.000Z",
-          "summary": "Apple released iOS 27.2 this week with new features for Messages , Siri AI , and Photos , plus an Apple Music rebrand and more. But work on iOS 27.3 is already well…"
+          "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+          "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions/",
+          "time": "2026-10-29T20:24:17.000Z",
+          "summary": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the…"
         },
         {
-          "title": "Reddit now lets you choose between For You and Following feeds",
-          "url": "https://9to5mac.com/2026/10/29/reddit-now-lets-you-choose-between-for-you-and-following-feeds/",
-          "time": "2026-10-29T12:33:06.000Z",
-          "summary": "Reddit has announced the introduction of a new For You feed, an algorithmic-driven one that tries to find new communities and threads to match your interests.…"
+          "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more",
+          "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+          "time": "2026-10-29T19:49:38.000Z",
+          "summary": "Apple unveiled its “biggest update ever” for the iPad mini this week, introducing a thinner, lighter design and an OLED display. In a pair of interviews, Dave Pakula,…"
         },
         {
-          "title": "The education price of the MacBook Neo just jumped again",
-          "url": "https://9to5mac.com/2026/10/29/the-education-price-of-the-macbook-neo-just-jumped-again/",
-          "time": "2026-10-29T12:14:11.000Z",
-          "summary": "The MacBook Neo was already a bargain by Mac standards when it launched with a starting price of $599, but for students an education price of $499 made it a steal.…"
+          "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo",
+          "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+          "time": "2026-10-29T18:00:43.000Z",
+          "summary": "iOS 27.2 launched this week with many new features , including an upgrade for the Apple TV app that’s especially perfect for iPhone Duo: Multiview. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-29T16:44:51.436Z",
+      "fetchedAt": "2026-10-29T21:39:38.813Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-29T16:44:51.436Z",
+      "fetchedAt": "2026-10-29T21:39:38.813Z",
       "error": null,
       "items": [
         {
-          "title": "Nieuw slachthuis in Kortenaken voor kleinschalige landbouwbedrijven: \"We mikken op de korte keten\"",
-          "url": "https://vrtnws.be/p.Wkjk8EWKx",
-          "time": "2026-10-29T16:09:56.000Z",
-          "summary": "In Kortenaken is een nieuw slachthuis opengegaan. Het slachthuis heet Kortvlees, en richt zich vooral op schapen- en geitenhouders en varkensboeren. De 2 uitbaters…"
+          "title": "Acteur Mathias Sercu na verlies van zoon Tore: \"We zouden meer moeten praten over de dood\"",
+          "url": "https://vrtnws.be/p.xZYb6DvWN",
+          "time": "2026-10-29T21:00:20.000Z",
+          "summary": "\"We hebben niet echt de gewoonte om te spreken over rouw, de dood of verlies. Maar eigenlijk zouden we dat meer moeten doen.\" Dat zegt acteur Mathias Sercu in De…"
         },
         {
-          "title": "Drie mannen opgepakt na inbraak met geweld bij bejaard koppel in Aarschot",
-          "url": "https://vrtnws.be/p.dLRLVBqb4",
-          "time": "2026-10-29T16:06:14.000Z",
-          "summary": "In Herent zijn 3 mannen opgepakt na een inbraak met geweld in de Paolalaan in Aarschot. Twee van hen hadden dinsdagochtend aangebeld en zich voorgedaan als medewerkers…"
+          "title": "Gevangene (28) die 1,5 jaar geleden uit gevangenis van Hoogstraten ontsnapte, opgepakt op bus in Wommelgem",
+          "url": "https://vrtnws.be/p.bDoDVVbwm",
+          "time": "2026-10-29T19:55:44.000Z",
+          "summary": "Een gevangene die vorig jaar in mei uit de gevangenis van Hoogstraten ontsnapte, zit weer in de cel. Dat meldt de Antwerpse lokale politie. Hij werd opgemerkt op een bus…"
         },
         {
-          "title": "Wie is ontwerpster Ebru Sari (32), die bekend Vlaanderen van galajurken en kleding voorziet?",
-          "url": "https://vrtnws.be/p.XEVE7B5Je",
-          "time": "2026-10-29T16:05:26.000Z",
-          "summary": "In 10 jaar tijd is Ebru Sari (32) uitgegroeid tot een van de populairste ontwerpsters van bekend Vlaanderen. Onder meer Natalia, Camille, prinses Delphine, Sarah…"
+          "title": "De Shakespeare-vedette die sciencefictionlegende werd: acteur Patrick Stewart (86) overleden",
+          "url": "https://vrtnws.be/p.RaJOMjbR0",
+          "time": "2026-10-29T19:55:10.000Z",
+          "summary": "De Britse acteur Sir Patrick Stewart (86) is overleden. Dat meldt zijn publicist. Hoewel hij oorspronkelijk vooral een klassieke theateracteur was, is hij bij het grote…"
         },
         {
-          "title": "Sint-Niklaas opent tijdelijke huisartsennoodpost voor inwoners zonder huisarts",
-          "url": "https://vrtnws.be/p.jGkG8dL0k",
-          "time": "2026-10-29T15:54:24.000Z",
-          "summary": "In Sint-Niklaas heeft de stad samen met dokters een tijdelijke huisartsennoodpost geopend. De komende 3 jaar dreigen bijna 11.000 Sint-Niklazenaren zonder huisarts te…"
+          "title": "Sint-Lievens-Houtem geeft negatief advies over magazijn van 47 meter hoog bij Inex: \"Te groot en te hoog\"",
+          "url": "https://vrtnws.be/p.Nv3kK41Bw",
+          "time": "2026-10-29T19:45:36.000Z",
+          "summary": "Sint-Lievens-Houtem wil niet dat zuivelbedrijf Inex een nieuw magazijn van bijna 50 meter hoog bouwt. Dat staat in het advies dat het gemeentebestuur overmaakt aan de…"
         },
         {
-          "title": "\"500 miljoen reizigers, maar geen geld voor onderhoud\": zijn spoorwegen in Spanje slachtoffer van eigen succes?",
-          "url": "https://vrtnws.be/p.ew4wVqKL6",
-          "time": "2026-10-29T15:46:47.000Z",
-          "summary": "De spoorwegen in Spanje zijn lang gezien als het schoolvoorbeeld voor treinen in Europa, maar na 2 dodelijke ongevallen in nog geen jaar ligt die reputatie in duigen.…"
+          "title": "Politiezone Rivierenland gaat live op Instagram om vragen te beantwoorden: \"Dichter bij de burger en vooral jongeren\"",
+          "url": "https://vrtnws.be/p.aDed9XP5w",
+          "time": "2026-10-29T19:41:58.000Z",
+          "summary": "De lokale politie van de zone Rivierenland is voor het eerst live gegaan op Instagram. Ze beantwoordden vragen van mensen over verkeer, politiewerk in het algemeen en…"
         }
       ]
     }
