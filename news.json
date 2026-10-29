@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T23:25:14.647Z",
+  "generatedAt": "2026-10-29T02:42:20.531Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-28T23:25:14.647Z",
+      "fetchedAt": "2026-10-29T02:42:20.531Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,21 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-28T23:25:14.647Z",
+      "fetchedAt": "2026-10-29T02:42:20.531Z",
       "error": null,
       "items": [
+        {
+          "title": "Russia now requires Apple to store user communications and hand them over if requested",
+          "url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+          "time": "2026-10-29T01:24:17.000Z",
+          "summary": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security…"
+        },
+        {
+          "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+          "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+          "time": "2026-10-29T00:17:48.000Z",
+          "summary": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products,…"
+        },
         {
           "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
           "url": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
@@ -64,18 +76,6 @@
           "url": "https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/",
           "time": "2026-10-28T21:44:56.000Z",
           "summary": "Apple and Google were fined today in South Korea over their app payment practices, with regulators also ordering both companies to change several policies. Here are the…"
-        },
-        {
-          "title": "The new MacBook Pro has everything I wanted, minus one thing",
-          "url": "https://9to5mac.com/2026/10/28/the-new-macbook-pro-has-everything-i-wanted-minus-one-thing/",
-          "time": "2026-10-28T20:59:42.000Z",
-          "summary": "Apple’s new MacBook Pro with PROLED XDR is an exciting upgrade that delivers nearly every feature I was hoping for, with just one exception. more…"
-        },
-        {
-          "title": "Ternus addresses Apple breaking touchscreen Mac taboo: ‘Who knew?’",
-          "url": "https://9to5mac.com/2026/10/28/ternus-addresses-apple-breaking-touchscreen-mac-taboo-who-knew/",
-          "time": "2026-10-28T20:33:05.000Z",
-          "summary": "In an interview with WIRED , Apple executives including CEO John Ternus, hardware chief Johny Srouji, and marketing chief Greg “Joz” Joswiak discussed the company’s…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-28T23:25:14.647Z",
+      "fetchedAt": "2026-10-29T02:42:20.531Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-28T23:25:14.647Z",
+      "fetchedAt": "2026-10-29T02:42:20.531Z",
       "error": null,
       "items": [
         {
