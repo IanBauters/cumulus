@@ -1,13 +1,19 @@
 {
-  "generatedAt": "2026-10-29T21:39:38.813Z",
+  "generatedAt": "2026-10-30T01:43:25.708Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-29T21:39:38.813Z",
+      "fetchedAt": "2026-10-30T01:43:25.708Z",
       "error": null,
       "items": [
+        {
+          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+          "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
+          "time": "2026-10-30T00:50:44.000Z",
+          "summary": "Apple today released Xcode 27.2, and it reveals how much RAM is in the new fourth-generation Apple TV 4K and the new iPad mini with an OLED display . As expected, the…"
+        },
         {
           "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
           "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
@@ -31,12 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
           "time": "2026-10-29T19:06:08.000Z",
           "summary": "Apple is lowering the commission that it collects in Taiwan to 26 percent, down from 30 percent. Apple plans to drop the rate for in-app purchase and paid app…"
-        },
-        {
-          "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
-          "url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
-          "time": "2026-10-29T17:47:11.000Z",
-          "summary": "The new MacBook Pro models with OLED displays have an accessibility setting that allows you to turn off touch input entirely, according to MacStories editor-in-chief…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-29T21:39:38.813Z",
+      "fetchedAt": "2026-10-30T01:43:25.708Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
+          "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
+          "time": "2026-10-30T01:01:35.000Z",
+          "summary": "The first two episodes for Apple TV’s latest crime thriller, “ Nocturne ,” are now available to stream. Watch the trailer below. more…"
+        },
+        {
+          "title": "Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027",
+          "url": "https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027/",
+          "time": "2026-10-29T22:37:53.000Z",
+          "summary": "A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own…"
+        },
+        {
+          "title": "Touchscreen MacBook Pro with OLED, new iPad mini, and more",
+          "url": "https://9to5mac.com/2026/10/29/happy-hour-614/",
+          "time": "2026-10-29T21:55:40.000Z",
+          "summary": "Benjamin and Chance break down all the announcements from Apple’s ‘Pro and tell’ event, featuring the new OLED MacBook Pro with touchscreen, M6 iMac, and the updated…"
+        },
         {
           "title": "Strava adds Google Gemini integration with personalized workout insights",
           "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content/",
           "time": "2026-10-29T20:49:53.000Z",
           "summary": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to…"
-        },
-        {
-          "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
-          "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions/",
-          "time": "2026-10-29T20:24:17.000Z",
-          "summary": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the…"
-        },
-        {
-          "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more",
-          "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
-          "time": "2026-10-29T19:49:38.000Z",
-          "summary": "Apple unveiled its “biggest update ever” for the iPad mini this week, introducing a thinner, lighter design and an OLED display. In a pair of interviews, Dave Pakula,…"
-        },
-        {
-          "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo",
-          "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
-          "time": "2026-10-29T18:00:43.000Z",
-          "summary": "iOS 27.2 launched this week with many new features , including an upgrade for the Apple TV app that’s especially perfect for iPhone Duo: Multiview. more…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-29T21:39:38.813Z",
+      "fetchedAt": "2026-10-30T01:43:25.708Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,21 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-29T21:39:38.813Z",
+      "fetchedAt": "2026-10-30T01:43:25.708Z",
       "error": null,
       "items": [
+        {
+          "title": "Van Ian McKellen en Hugh Jackman tot William Shatner: collega's rouwen na overlijden van Patrick Stewart",
+          "url": "https://vrtnws.be/p.XEV9jvE3M",
+          "time": "2026-10-29T22:43:59.000Z",
+          "summary": "Het overlijden van acteur Patrick Stewart maakt heel wat los bij collega-acteurs. \"Sir Patrick Stewart was een vriend, een collega en een uitzonderlijk goede acteur\",…"
+        },
+        {
+          "title": "Mogelijke ontvoering van kind in Anderlecht: getuigen zagen hoe 2 gemaskerde personen kind in witte bestelwagen dwongen",
+          "url": "https://vrtnws.be/p.dLRkvAdXL",
+          "time": "2026-10-29T22:08:43.000Z",
+          "summary": "De politie is een onderzoek gestart naar een mogelijke ontvoering van een kind in Anderlecht. Getuigen hebben 2 gemaskerde personen gezien die een kind van ongeveer 12…"
+        },
         {
           "title": "Acteur Mathias Sercu na verlies van zoon Tore: \"We zouden meer moeten praten over de dood\"",
           "url": "https://vrtnws.be/p.xZYb6DvWN",
@@ -142,18 +154,6 @@
           "url": "https://vrtnws.be/p.RaJOMjbR0",
           "time": "2026-10-29T19:55:10.000Z",
           "summary": "De Britse acteur Sir Patrick Stewart (86) is overleden. Dat meldt zijn publicist. Hoewel hij oorspronkelijk vooral een klassieke theateracteur was, is hij bij het grote…"
-        },
-        {
-          "title": "Sint-Lievens-Houtem geeft negatief advies over magazijn van 47 meter hoog bij Inex: \"Te groot en te hoog\"",
-          "url": "https://vrtnws.be/p.Nv3kK41Bw",
-          "time": "2026-10-29T19:45:36.000Z",
-          "summary": "Sint-Lievens-Houtem wil niet dat zuivelbedrijf Inex een nieuw magazijn van bijna 50 meter hoog bouwt. Dat staat in het advies dat het gemeentebestuur overmaakt aan de…"
-        },
-        {
-          "title": "Politiezone Rivierenland gaat live op Instagram om vragen te beantwoorden: \"Dichter bij de burger en vooral jongeren\"",
-          "url": "https://vrtnws.be/p.aDed9XP5w",
-          "time": "2026-10-29T19:41:58.000Z",
-          "summary": "De lokale politie van de zone Rivierenland is voor het eerst live gegaan op Instagram. Ze beantwoordden vragen van mensen over verkeer, politiewerk in het algemeen en…"
         }
       ]
     }
