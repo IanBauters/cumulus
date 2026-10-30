@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-30T20:00:29.811Z",
+  "generatedAt": "2026-10-30T23:57:47.146Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-30T20:00:29.811Z",
+      "fetchedAt": "2026-10-30T23:57:47.146Z",
       "error": null,
       "items": [
         {
-          "title": "14 New Things Your iPhone Can Do in iOS 27.2",
-          "url": "https://www.macrumors.com/2026/10/30/new-things-iphone-can-do-ios-27-2/",
-          "time": "2026-10-30T19:42:54.000Z",
-          "summary": "Apple released iOS 27.2 on October 26, bringing enhancements to Siri AI, adding Suggestions in Messages, and sneaking in a string of smaller additions across Photos,…"
+          "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
+          "url": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
+          "time": "2026-10-30T23:15:55.000Z",
+          "summary": "Apple today released HomeView Software 27.2, which is the software that runs on the upcoming HomeView device set to launch on November 13. The HomeView was announced…"
         },
         {
-          "title": "iPhone Duo Review: One Week Later",
-          "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
-          "time": "2026-10-30T19:06:12.000Z",
-          "summary": "It's been a week since the iPhone Duo was released, and MacRumors videographer Dan Barbera wanted to revisit his review since he's been able to use the Duo for a longer…"
+          "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+          "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+          "time": "2026-10-30T22:20:10.000Z",
+          "summary": "In a memo shared with Apple Stores and Apple Authorized Service Providers this week, and later obtained by MacRumors , Apple provided technicians with guidance on how to…"
         },
         {
-          "title": "MacBook Pro With Touch Display: 15 More Details Revealed",
-          "url": "https://www.macrumors.com/2026/10/30/macbook-pro-proled-xdr-details/",
-          "time": "2026-10-30T18:59:18.000Z",
-          "summary": "Apple on Wednesday unveiled new 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays , and more details about them continue to be shared by tech…"
+          "title": "iOS 27.3 Will Enable These Apple Intelligence Features in China",
+          "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china/",
+          "time": "2026-10-30T21:46:00.000Z",
+          "summary": "Apple's website in China says iOS 27.3 will enable some Apple Intelligence features in China, such as Writing Tools, Genmoji, Clean Up, Notification Summaries, Priority…"
         },
         {
-          "title": "Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign",
-          "url": "https://www.macrumors.com/2026/10/30/samsung-iphone-duo-display-campaign/",
-          "time": "2026-10-30T17:20:31.000Z",
-          "summary": "Samsung this week launched an advertising campaign mocking the display issues some people have had with the iPhone Duo . In an Instagram post on its Canadian account,…"
+          "title": "Apple Says iOS 27.3 Beta Coming Next Week",
+          "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
+          "time": "2026-10-30T21:45:09.000Z",
+          "summary": "Apple today announced that the first iOS 27.3 developer beta will be released next week and enable some Apple Intelligence features in China . In a press release shared…"
         },
         {
-          "title": "Russia Places Apple on State Surveillance Registry",
-          "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
-          "time": "2026-10-30T14:58:16.000Z",
-          "summary": "Apple faces Russian data retention and disclosure requirements after being added to the country's state surveillance registry, Bloomberg reports. Russia's communications…"
+          "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+          "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
+          "time": "2026-10-30T21:18:56.000Z",
+          "summary": "The Wall Street Journal 's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-30T20:00:29.811Z",
+      "fetchedAt": "2026-10-30T23:57:47.146Z",
       "error": null,
       "items": [
+        {
+          "title": "WhatsApp announces four new features to make group chats easier to manage",
+          "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
+          "time": "2026-10-30T23:36:34.000Z",
+          "summary": "In a blog post this week, WhatsApp confirmed that it is rolling out four new features designed to make it easier to manage group chats and keep track of what’s going on…"
+        },
+        {
+          "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
+          "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
+          "time": "2026-10-30T22:37:36.000Z",
+          "summary": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple…"
+        },
+        {
+          "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
+          "url": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
+          "time": "2026-10-30T21:44:44.000Z",
+          "summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October…"
+        },
+        {
+          "title": "‘Knives Out’ director launches iPhone camera app that shoots like his movies",
+          "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/",
+          "time": "2026-10-30T20:44:08.000Z",
+          "summary": "Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘…"
+        },
         {
           "title": "Security Bite: This iOS 27.2 camera bug still isn’t enough to make me buy a camera cover",
           "url": "https://9to5mac.com/2026/10/30/security-bite-this-ios-27-2-camera-bug-still-isnt-enough-to-make-me-buy-a-camera-cover/",
           "time": "2026-10-30T19:01:14.000Z",
           "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our…"
-        },
-        {
-          "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
-          "url": "https://9to5mac.com/2026/10/30/switchbot-k11-pro/",
-          "time": "2026-10-30T18:00:00.000Z",
-          "summary": "The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny…"
-        },
-        {
-          "title": "Apple TV has three shows with finales next week, here’s what’s ending",
-          "url": "https://9to5mac.com/2026/10/30/apple-tv-has-three-shows-with-finales-next-week-heres-whats-ending/",
-          "time": "2026-10-30T17:43:03.000Z",
-          "summary": "Apple TV just premiered Nocturne , a new crime thriller that’s earning a lot of praise . But the streamer also has three series all scheduled to wrap up next week.…"
-        },
-        {
-          "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
-          "url": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
-          "time": "2026-10-30T17:27:24.000Z",
-          "summary": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…"
-        },
-        {
-          "title": "Hands-on time with the iPhone Duo still leaves me wowed",
-          "url": "https://9to5mac.com/2026/10/30/hands-on-time-with-the-iphone-duo-still-leaves-me-wowed/",
-          "time": "2026-10-30T16:00:00.000Z",
-          "summary": "There are devices you need in your life, others for which you can put together a convincing justification – and then there are gadgets you quite simply want . I said…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-30T20:00:29.811Z",
+      "fetchedAt": "2026-10-30T23:57:47.146Z",
       "error": null,
       "items": [
         {
@@ -122,9 +122,15 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-30T20:00:29.811Z",
+      "fetchedAt": "2026-10-30T23:57:47.146Z",
       "error": null,
       "items": [
+        {
+          "title": "Constitutionele crisis in Polen: voorzitter Grondwettelijk Hof geschorst, politie massaal aanwezig in Warschau",
+          "url": "https://vrtnws.be/p.APQoBmoEw",
+          "time": "2026-10-30T20:46:39.000Z",
+          "summary": "De politieke crisis in Polen rond het Grondwettelijk Hof blijft verder escaleren. President Karol Nawrocki heeft vrijdag zijn officiële reis naar Senegal onderbroken en…"
+        },
         {
           "title": "Europese Unie en Canada lanceren \"alliantie voor de toekomst\"",
           "url": "https://vrtnws.be/p.6KpMwPWG4",
@@ -148,12 +154,6 @@
           "url": "https://vrtnws.be/p.11pAOM9Na",
           "time": "2026-10-30T17:57:13.000Z",
           "summary": "De Franse autoriteiten hebben de invoer en verkoop van ultradunne condooms van het Maleisische bedrijf Richter Rubber Technology opgeschort. Er worden in totaal ook 7…"
-        },
-        {
-          "title": "Schotse politie onderzoekt verblijf van ex-prins Andrew en Jeffrey Epstein op kasteel Balmoral",
-          "url": "https://vrtnws.be/p.ew4KLemvK",
-          "time": "2026-10-30T17:20:23.000Z",
-          "summary": "De Schotse politie is een onderzoek gestart naar het verblijf van de voormalige Britse prins Andrew met de veroordeelde zedendelinquent Jeffrey Epstein en diens…"
         }
       ]
     }
