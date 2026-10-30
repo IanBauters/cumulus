@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-30T15:12:54.718Z",
+  "generatedAt": "2026-10-30T20:00:29.811Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-30T15:12:54.718Z",
+      "fetchedAt": "2026-10-30T20:00:29.811Z",
       "error": null,
       "items": [
+        {
+          "title": "14 New Things Your iPhone Can Do in iOS 27.2",
+          "url": "https://www.macrumors.com/2026/10/30/new-things-iphone-can-do-ios-27-2/",
+          "time": "2026-10-30T19:42:54.000Z",
+          "summary": "Apple released iOS 27.2 on October 26, bringing enhancements to Siri AI, adding Suggestions in Messages, and sneaking in a string of smaller additions across Photos,…"
+        },
+        {
+          "title": "iPhone Duo Review: One Week Later",
+          "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
+          "time": "2026-10-30T19:06:12.000Z",
+          "summary": "It's been a week since the iPhone Duo was released, and MacRumors videographer Dan Barbera wanted to revisit his review since he's been able to use the Duo for a longer…"
+        },
+        {
+          "title": "MacBook Pro With Touch Display: 15 More Details Revealed",
+          "url": "https://www.macrumors.com/2026/10/30/macbook-pro-proled-xdr-details/",
+          "time": "2026-10-30T18:59:18.000Z",
+          "summary": "Apple on Wednesday unveiled new 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays , and more details about them continue to be shared by tech…"
+        },
+        {
+          "title": "Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign",
+          "url": "https://www.macrumors.com/2026/10/30/samsung-iphone-duo-display-campaign/",
+          "time": "2026-10-30T17:20:31.000Z",
+          "summary": "Samsung this week launched an advertising campaign mocking the display issues some people have had with the iPhone Duo . In an Instagram post on its Canadian account,…"
+        },
         {
           "title": "Russia Places Apple on State Surveillance Registry",
           "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
           "time": "2026-10-30T14:58:16.000Z",
           "summary": "Apple faces Russian data retention and disclosure requirements after being added to the country's state surveillance registry, Bloomberg reports. Russia's communications…"
-        },
-        {
-          "title": "Apple Has Released More Than 25 New Products in the Past Two Months",
-          "url": "https://www.macrumors.com/2026/10/30/25-new-apple-products/",
-          "time": "2026-10-30T14:57:44.000Z",
-          "summary": "Since late August, Apple has been on an absolute spree, releasing more than 25 new devices and accessories. Quite the start to the John Ternus era . Below, we have…"
-        },
-        {
-          "title": "Apple Acquires Ascend.io",
-          "url": "https://www.macrumors.com/2026/10/30/apple-acquires-ascend-io/",
-          "time": "2026-10-30T14:53:42.000Z",
-          "summary": "Apple this year acquired Ascend.io , a California-based company that developed technology to help businesses automate the collection and analysis of data, and more…"
-        },
-        {
-          "title": "Local Code Launches as Free, Private AI Assistant Tool for Mac",
-          "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
-          "time": "2026-10-30T13:38:25.000Z",
-          "summary": "The developers of Draw Things have launched Local Code , an open-source AI assistant that lets Mac users download models and put them to work on their own computers.…"
-        },
-        {
-          "title": "HomePod Mini 2 Launches Today: All the New Features",
-          "url": "https://www.macrumors.com/2026/10/30/homepod-mini-2-new-features/",
-          "time": "2026-10-30T13:05:17.000Z",
-          "summary": "Today is HomePod mini 2 launch day, with the first pre-orders beginning to arrive to customers and the speaker now available to purchase at most Apple Store locations…"
         }
       ]
     },
@@ -44,38 +44,38 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-30T15:12:54.718Z",
+      "fetchedAt": "2026-10-30T20:00:29.811Z",
       "error": null,
       "items": [
         {
-          "title": "iPhone Duo: Here are two tips for improving Safari web browsing",
-          "url": "https://9to5mac.com/2026/10/30/iphone-duo-here-are-two-tips-for-improving-safari-web-browsing/",
-          "time": "2026-10-30T14:56:04.000Z",
-          "summary": "iPhone Duo has a lot of software features that are widely praised, but one area commonly seen as an issue is Safari web browsing. Here are two tips for improving the…"
+          "title": "Security Bite: This iOS 27.2 camera bug still isn’t enough to make me buy a camera cover",
+          "url": "https://9to5mac.com/2026/10/30/security-bite-this-ios-27-2-camera-bug-still-isnt-enough-to-make-me-buy-a-camera-cover/",
+          "time": "2026-10-30T19:01:14.000Z",
+          "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our…"
         },
         {
-          "title": "iOS 27.2 adds new Find My feature at just the right time",
-          "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time/",
-          "time": "2026-10-30T14:20:48.000Z",
-          "summary": "iOS 27.2 is here, and alongside new features for Apple Photos , Messages , and Siri AI , the update also has a welcome addition for Find My: support for Apple TV 4K…"
+          "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
+          "url": "https://9to5mac.com/2026/10/30/switchbot-k11-pro/",
+          "time": "2026-10-30T18:00:00.000Z",
+          "summary": "The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny…"
         },
         {
-          "title": "iPadOS 27.2: Two new features just upgraded your iPad",
-          "url": "https://9to5mac.com/2026/10/30/ipados-27-2-two-new-features-just-upgraded-your-ipad/",
-          "time": "2026-10-30T13:21:36.000Z",
-          "summary": "iPadOS 27.2 arrived this week as the latest noteworthy iPad software update, here are two new features it includes. more…"
+          "title": "Apple TV has three shows with finales next week, here’s what’s ending",
+          "url": "https://9to5mac.com/2026/10/30/apple-tv-has-three-shows-with-finales-next-week-heres-whats-ending/",
+          "time": "2026-10-30T17:43:03.000Z",
+          "summary": "Apple TV just premiered Nocturne , a new crime thriller that’s earning a lot of praise . But the streamer also has three series all scheduled to wrap up next week.…"
         },
         {
-          "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
-          "url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
-          "time": "2026-10-30T02:06:23.000Z",
-          "summary": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change.…"
+          "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
+          "url": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
+          "time": "2026-10-30T17:27:24.000Z",
+          "summary": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…"
         },
         {
-          "title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
-          "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
-          "time": "2026-10-30T01:01:35.000Z",
-          "summary": "The first two episodes for Apple TV’s latest crime thriller, “ Nocturne ,” are now available to stream. Watch the trailer below. more…"
+          "title": "Hands-on time with the iPhone Duo still leaves me wowed",
+          "url": "https://9to5mac.com/2026/10/30/hands-on-time-with-the-iphone-duo-still-leaves-me-wowed/",
+          "time": "2026-10-30T16:00:00.000Z",
+          "summary": "There are devices you need in your life, others for which you can put together a convincing justification – and then there are gadgets you quite simply want . I said…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-30T15:12:54.718Z",
+      "fetchedAt": "2026-10-30T20:00:29.811Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-30T15:12:54.718Z",
+      "fetchedAt": "2026-10-30T20:00:29.811Z",
       "error": null,
       "items": [
         {
-          "title": "\"Sinds die nacht nog geen moment zonder pijn\": Christa Pike reageert voor het eerst op mislukte executie",
-          "url": "https://vrtnws.be/p.M9mJey67Z",
-          "time": "2026-10-30T15:07:28.000Z",
-          "summary": "Pijn in heel haar lichaam, haar geest en haar ziel: dat voelt Christa Pike sinds haar mislukte executie in Tennessee. Dat zegt ze in een eerste verklaring sinds ze die…"
+          "title": "Europese Unie en Canada lanceren \"alliantie voor de toekomst\"",
+          "url": "https://vrtnws.be/p.6KpMwPWG4",
+          "time": "2026-10-30T19:41:06.000Z",
+          "summary": "De Europese Unie en Canada willen hun samenwerking op het vlak van handel, technologie, grondstoffen en defensie fors versterken. Tijdens een tweedaagse top in het…"
         },
         {
-          "title": "Proces gestart tegen Liberty in Geraardsbergen: 191 mensen opgelicht met valse verzekeringen",
-          "url": "https://vrtnws.be/p.3Bw05XZdP",
-          "time": "2026-10-30T14:42:08.000Z",
-          "summary": "Vandaag is de rechtszaak gestart rond het zakenkantoor Liberty uit Geraardsbergen dat 191 mensen heeft opgelicht. Het kantoor bood verzekeringen aan, maar sloot ze nooit…"
+          "title": "Franse politie vindt 11 van 13 gestolen apen terug, verschillende verdachten opgepakt",
+          "url": "https://vrtnws.be/p.8epnaVLkY",
+          "time": "2026-10-30T18:58:34.000Z",
+          "summary": "11 apen van de 13 die zijn gestolen uit een Frans dierenpark zijn teruggevonden. De ordediensten hebben verschillende mensen opgepakt. Dat meldt een bron bij het…"
         },
         {
-          "title": "Bestuurder (29) dodelijk ongeval in Kallo vrij onder voorwaarden",
-          "url": "https://vrtnws.be/p.GvoQR0DqP",
-          "time": "2026-10-30T14:38:13.000Z",
-          "summary": "De bestuurder die vorig weekend betrokken was bij een dodelijk ongeval op de E34 in Kallo, is vrijgelaten onder voorwaarden. Bij het ongeval kwam een 69-jarige Duitse…"
+          "title": "Grootste Europese archief voor vertrouwelijke overheidsdocumenten ligt in Genk: \"800 kilometer aan documenten\"",
+          "url": "https://vrtnws.be/p.5wa1dGK9w",
+          "time": "2026-10-30T18:55:07.000Z",
+          "summary": "Met een investering van 15 miljoen euro verdubbelt het bedrijf Youston haar archiefcapaciteit. Met ruim 800 lopende kilometer is het het grootste archief voor…"
         },
         {
-          "title": "Onderzoekers KU Leuven vinden honderden virussen in 1 staal rioolwater met nieuwe methode: \"Vroeger opsporen is infecties voorkomen\"",
-          "url": "https://vrtnws.be/p.oLq0Q76oo",
-          "time": "2026-10-30T14:28:19.000Z",
-          "summary": "Onderzoekers van KU Leuven hebben een methode ontwikkeld die meerdere honderden virussen kan opsporen in eenzelfde staal rioolwater. Voordien kon bij…"
+          "title": "Frankrijk waarschuwt voor defecte condooms op Europese markt",
+          "url": "https://vrtnws.be/p.11pAOM9Na",
+          "time": "2026-10-30T17:57:13.000Z",
+          "summary": "De Franse autoriteiten hebben de invoer en verkoop van ultradunne condooms van het Maleisische bedrijf Richter Rubber Technology opgeschort. Er worden in totaal ook 7…"
         },
         {
-          "title": "21.000 euro voor dienstreizen van Annelies Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over?",
-          "url": "https://vrtnws.be/p.kQOoVnpKO",
-          "time": "2026-10-30T14:26:37.000Z",
-          "summary": "21.000 euro: zoveel hebben enkele dienstreizen van Annelies Verlinden (CD&V) gekost die de minister samen met een medewerker naar New York, Abu Dhabi en terug maakte.…"
+          "title": "Schotse politie onderzoekt verblijf van ex-prins Andrew en Jeffrey Epstein op kasteel Balmoral",
+          "url": "https://vrtnws.be/p.ew4KLemvK",
+          "time": "2026-10-30T17:20:23.000Z",
+          "summary": "De Schotse politie is een onderzoek gestart naar het verblijf van de voormalige Britse prins Andrew met de veroordeelde zedendelinquent Jeffrey Epstein en diens…"
         }
       ]
     }
