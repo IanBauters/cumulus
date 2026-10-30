@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-30T08:19:17.519Z",
+  "generatedAt": "2026-10-30T15:12:54.718Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-30T08:19:17.519Z",
+      "fetchedAt": "2026-10-30T15:12:54.718Z",
       "error": null,
       "items": [
         {
-          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
-          "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
-          "time": "2026-10-30T00:50:44.000Z",
-          "summary": "Apple today released Xcode 27.2, and it reveals how much RAM is in the new fourth-generation Apple TV 4K and the new iPad mini with an OLED display . As expected, the…"
+          "title": "Russia Places Apple on State Surveillance Registry",
+          "url": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/",
+          "time": "2026-10-30T14:58:16.000Z",
+          "summary": "Apple faces Russian data retention and disclosure requirements after being added to the country's state surveillance registry, Bloomberg reports. Russia's communications…"
         },
         {
-          "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
-          "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
-          "time": "2026-10-29T21:14:19.000Z",
-          "summary": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz. ProMotion…"
+          "title": "Apple Has Released More Than 25 New Products in the Past Two Months",
+          "url": "https://www.macrumors.com/2026/10/30/25-new-apple-products/",
+          "time": "2026-10-30T14:57:44.000Z",
+          "summary": "Since late August, Apple has been on an absolute spree, releasing more than 25 new devices and accessories. Quite the start to the John Ternus era . Below, we have…"
         },
         {
-          "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
-          "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
-          "time": "2026-10-29T20:53:59.000Z",
-          "summary": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South Korea. The new iPad mini…"
+          "title": "Apple Acquires Ascend.io",
+          "url": "https://www.macrumors.com/2026/10/30/apple-acquires-ascend-io/",
+          "time": "2026-10-30T14:53:42.000Z",
+          "summary": "Apple this year acquired Ascend.io , a California-based company that developed technology to help businesses automate the collection and analysis of data, and more…"
         },
         {
-          "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
-          "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
-          "time": "2026-10-29T20:04:54.000Z",
-          "summary": "The HomePod mini 2 is launching tomorrow (or in a few hours in Australia and New Zealand) and a new hands-on video from Craig's Tech Talk gives a clear look at the…"
+          "title": "Local Code Launches as Free, Private AI Assistant Tool for Mac",
+          "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
+          "time": "2026-10-30T13:38:25.000Z",
+          "summary": "The developers of Draw Things have launched Local Code , an open-source AI assistant that lets Mac users download models and put them to work on their own computers.…"
         },
         {
-          "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
-          "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
-          "time": "2026-10-29T19:06:08.000Z",
-          "summary": "Apple is lowering the commission that it collects in Taiwan to 26 percent, down from 30 percent. Apple plans to drop the rate for in-app purchase and paid app…"
+          "title": "HomePod Mini 2 Launches Today: All the New Features",
+          "url": "https://www.macrumors.com/2026/10/30/homepod-mini-2-new-features/",
+          "time": "2026-10-30T13:05:17.000Z",
+          "summary": "Today is HomePod mini 2 launch day, with the first pre-orders beginning to arrive to customers and the speaker now available to purchase at most Apple Store locations…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-30T08:19:17.519Z",
+      "fetchedAt": "2026-10-30T15:12:54.718Z",
       "error": null,
       "items": [
+        {
+          "title": "iPhone Duo: Here are two tips for improving Safari web browsing",
+          "url": "https://9to5mac.com/2026/10/30/iphone-duo-here-are-two-tips-for-improving-safari-web-browsing/",
+          "time": "2026-10-30T14:56:04.000Z",
+          "summary": "iPhone Duo has a lot of software features that are widely praised, but one area commonly seen as an issue is Safari web browsing. Here are two tips for improving the…"
+        },
+        {
+          "title": "iOS 27.2 adds new Find My feature at just the right time",
+          "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time/",
+          "time": "2026-10-30T14:20:48.000Z",
+          "summary": "iOS 27.2 is here, and alongside new features for Apple Photos , Messages , and Siri AI , the update also has a welcome addition for Find My: support for Apple TV 4K…"
+        },
+        {
+          "title": "iPadOS 27.2: Two new features just upgraded your iPad",
+          "url": "https://9to5mac.com/2026/10/30/ipados-27-2-two-new-features-just-upgraded-your-ipad/",
+          "time": "2026-10-30T13:21:36.000Z",
+          "summary": "iPadOS 27.2 arrived this week as the latest noteworthy iPad software update, here are two new features it includes. more…"
+        },
         {
           "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
           "url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
           "time": "2026-10-30T01:01:35.000Z",
           "summary": "The first two episodes for Apple TV’s latest crime thriller, “ Nocturne ,” are now available to stream. Watch the trailer below. more…"
-        },
-        {
-          "title": "Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027",
-          "url": "https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027/",
-          "time": "2026-10-29T22:37:53.000Z",
-          "summary": "A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own…"
-        },
-        {
-          "title": "Touchscreen MacBook Pro with OLED, new iPad mini, and more",
-          "url": "https://9to5mac.com/2026/10/29/happy-hour-614/",
-          "time": "2026-10-29T21:55:40.000Z",
-          "summary": "Benjamin and Chance break down all the announcements from Apple’s ‘Pro and tell’ event, featuring the new OLED MacBook Pro with touchscreen, M6 iMac, and the updated…"
-        },
-        {
-          "title": "Strava adds Google Gemini integration with personalized workout insights",
-          "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
-          "time": "2026-10-29T21:06:35.000Z",
-          "summary": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details.…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-30T08:19:17.519Z",
+      "fetchedAt": "2026-10-30T15:12:54.718Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-30T08:19:17.519Z",
+      "fetchedAt": "2026-10-30T15:12:54.718Z",
       "error": null,
       "items": [
         {
-          "title": "Oppositie Knokke-Heist wil huidige strandconcessies met een jaar verlengen: \"Geeft tijd om met degelijk plan af te komen\"",
-          "url": "https://vrtnws.be/p.93pL1oNY3",
-          "time": "2026-10-30T08:13:42.000Z",
-          "summary": "In Knokke-Heist stelt de oppositiepartij Gemeentebelangen voor om de huidige vergunningen voor stranduitbaters met een jaar te verlengen. Dat geeft het gemeentebestuur…"
+          "title": "\"Sinds die nacht nog geen moment zonder pijn\": Christa Pike reageert voor het eerst op mislukte executie",
+          "url": "https://vrtnws.be/p.M9mJey67Z",
+          "time": "2026-10-30T15:07:28.000Z",
+          "summary": "Pijn in heel haar lichaam, haar geest en haar ziel: dat voelt Christa Pike sinds haar mislukte executie in Tennessee. Dat zegt ze in een eerste verklaring sinds ze die…"
         },
         {
-          "title": "\"We zijn te laks geweest\": Minister Van Bossuyt vraagt aan OCMW's om strenger op te treden tegen leefloners die job of opleiding zouden weigeren",
-          "url": "https://vrtnws.be/p.8epnEvo1l",
-          "time": "2026-10-30T08:13:15.000Z",
-          "summary": "OCMW's moeten strenger zijn voor leefloners die niet bereid zijn om te werken. Dat staat in een nieuwe omzendbrief van minister van Maatschappelijke Integratie Anneleen…"
+          "title": "Proces gestart tegen Liberty in Geraardsbergen: 191 mensen opgelicht met valse verzekeringen",
+          "url": "https://vrtnws.be/p.3Bw05XZdP",
+          "time": "2026-10-30T14:42:08.000Z",
+          "summary": "Vandaag is de rechtszaak gestart rond het zakenkantoor Liberty uit Geraardsbergen dat 191 mensen heeft opgelicht. Het kantoor bood verzekeringen aan, maar sloot ze nooit…"
         },
         {
-          "title": "Onbekenden zagen opnieuw bomen om langs fietspad in Beringen: \"Al vierde keer dat dit gebeurt\"",
-          "url": "https://vrtnws.be/p.RaJaeaPa7",
-          "time": "2026-10-30T08:02:54.000Z",
-          "summary": "Er zijn opnieuw 9 boompjes omgezaagd langs het toeristische fietspad tussen de Industriezone en het Albertkanaal in Tervant (Beringen). Het is al de 4e keer dat…"
+          "title": "Bestuurder (29) dodelijk ongeval in Kallo vrij onder voorwaarden",
+          "url": "https://vrtnws.be/p.GvoQR0DqP",
+          "time": "2026-10-30T14:38:13.000Z",
+          "summary": "De bestuurder die vorig weekend betrokken was bij een dodelijk ongeval op de E34 in Kallo, is vrijgelaten onder voorwaarden. Bij het ongeval kwam een 69-jarige Duitse…"
         },
         {
-          "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
-          "url": "https://vrtnws.be/p.DYMNLk4RX",
-          "time": "2026-10-30T08:01:39.000Z",
-          "summary": "De Raad van State is erg kritisch voor de plannen van de Vlaamse regering om voortaan enkel nog het startbedrag van het Groeipakket toe te kennen aan het eerstgeboren…"
+          "title": "Onderzoekers KU Leuven vinden honderden virussen in 1 staal rioolwater met nieuwe methode: \"Vroeger opsporen is infecties voorkomen\"",
+          "url": "https://vrtnws.be/p.oLq0Q76oo",
+          "time": "2026-10-30T14:28:19.000Z",
+          "summary": "Onderzoekers van KU Leuven hebben een methode ontwikkeld die meerdere honderden virussen kan opsporen in eenzelfde staal rioolwater. Voordien kon bij…"
         },
         {
-          "title": "Proces tegen Radja Nainggolan en 15 andere verdachten vandaag van start",
-          "url": "https://vrtnws.be/p.qEN15B80K",
-          "time": "2026-10-30T07:17:06.000Z",
-          "summary": "Voor de Brusselse correctionele rechtbank gaat vandaag het proces van start rond een internationale drugshandel. In totaal staan 16 personen terecht, onder wie…"
+          "title": "21.000 euro voor dienstreizen van Annelies Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over?",
+          "url": "https://vrtnws.be/p.kQOoVnpKO",
+          "time": "2026-10-30T14:26:37.000Z",
+          "summary": "21.000 euro: zoveel hebben enkele dienstreizen van Annelies Verlinden (CD&V) gekost die de minister samen met een medewerker naar New York, Abu Dhabi en terug maakte.…"
         }
       ]
     }
