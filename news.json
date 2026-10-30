@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T01:43:25.708Z",
+  "generatedAt": "2026-10-30T08:19:17.519Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-30T01:43:25.708Z",
+      "fetchedAt": "2026-10-30T08:19:17.519Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-30T01:43:25.708Z",
+      "fetchedAt": "2026-10-30T08:19:17.519Z",
       "error": null,
       "items": [
+        {
+          "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
+          "url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
+          "time": "2026-10-30T02:06:23.000Z",
+          "summary": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change.…"
+        },
         {
           "title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
           "url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
           "time": "2026-10-29T21:06:35.000Z",
           "summary": "Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details.…"
-        },
-        {
-          "title": "Reddit will soon require an account for most content",
-          "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content/",
-          "time": "2026-10-29T20:49:53.000Z",
-          "summary": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-30T01:43:25.708Z",
+      "fetchedAt": "2026-10-30T08:19:17.519Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-30T01:43:25.708Z",
+      "fetchedAt": "2026-10-30T08:19:17.519Z",
       "error": null,
       "items": [
         {
-          "title": "Van Ian McKellen en Hugh Jackman tot William Shatner: collega's rouwen na overlijden van Patrick Stewart",
-          "url": "https://vrtnws.be/p.XEV9jvE3M",
-          "time": "2026-10-29T22:43:59.000Z",
-          "summary": "Het overlijden van acteur Patrick Stewart maakt heel wat los bij collega-acteurs. \"Sir Patrick Stewart was een vriend, een collega en een uitzonderlijk goede acteur\",…"
+          "title": "Oppositie Knokke-Heist wil huidige strandconcessies met een jaar verlengen: \"Geeft tijd om met degelijk plan af te komen\"",
+          "url": "https://vrtnws.be/p.93pL1oNY3",
+          "time": "2026-10-30T08:13:42.000Z",
+          "summary": "In Knokke-Heist stelt de oppositiepartij Gemeentebelangen voor om de huidige vergunningen voor stranduitbaters met een jaar te verlengen. Dat geeft het gemeentebestuur…"
         },
         {
-          "title": "Mogelijke ontvoering van kind in Anderlecht: getuigen zagen hoe 2 gemaskerde personen kind in witte bestelwagen dwongen",
-          "url": "https://vrtnws.be/p.dLRkvAdXL",
-          "time": "2026-10-29T22:08:43.000Z",
-          "summary": "De politie is een onderzoek gestart naar een mogelijke ontvoering van een kind in Anderlecht. Getuigen hebben 2 gemaskerde personen gezien die een kind van ongeveer 12…"
+          "title": "\"We zijn te laks geweest\": Minister Van Bossuyt vraagt aan OCMW's om strenger op te treden tegen leefloners die job of opleiding zouden weigeren",
+          "url": "https://vrtnws.be/p.8epnEvo1l",
+          "time": "2026-10-30T08:13:15.000Z",
+          "summary": "OCMW's moeten strenger zijn voor leefloners die niet bereid zijn om te werken. Dat staat in een nieuwe omzendbrief van minister van Maatschappelijke Integratie Anneleen…"
         },
         {
-          "title": "Acteur Mathias Sercu na verlies van zoon Tore: \"We zouden meer moeten praten over de dood\"",
-          "url": "https://vrtnws.be/p.xZYb6DvWN",
-          "time": "2026-10-29T21:00:20.000Z",
-          "summary": "\"We hebben niet echt de gewoonte om te spreken over rouw, de dood of verlies. Maar eigenlijk zouden we dat meer moeten doen.\" Dat zegt acteur Mathias Sercu in De…"
+          "title": "Onbekenden zagen opnieuw bomen om langs fietspad in Beringen: \"Al vierde keer dat dit gebeurt\"",
+          "url": "https://vrtnws.be/p.RaJaeaPa7",
+          "time": "2026-10-30T08:02:54.000Z",
+          "summary": "Er zijn opnieuw 9 boompjes omgezaagd langs het toeristische fietspad tussen de Industriezone en het Albertkanaal in Tervant (Beringen). Het is al de 4e keer dat…"
         },
         {
-          "title": "Gevangene (28) die 1,5 jaar geleden uit gevangenis van Hoogstraten ontsnapte, opgepakt op bus in Wommelgem",
-          "url": "https://vrtnws.be/p.bDoDVVbwm",
-          "time": "2026-10-29T19:55:44.000Z",
-          "summary": "Een gevangene die vorig jaar in mei uit de gevangenis van Hoogstraten ontsnapte, zit weer in de cel. Dat meldt de Antwerpse lokale politie. Hij werd opgemerkt op een bus…"
+          "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
+          "url": "https://vrtnws.be/p.DYMNLk4RX",
+          "time": "2026-10-30T08:01:39.000Z",
+          "summary": "De Raad van State is erg kritisch voor de plannen van de Vlaamse regering om voortaan enkel nog het startbedrag van het Groeipakket toe te kennen aan het eerstgeboren…"
         },
         {
-          "title": "De Shakespeare-vedette die sciencefictionlegende werd: acteur Patrick Stewart (86) overleden",
-          "url": "https://vrtnws.be/p.RaJOMjbR0",
-          "time": "2026-10-29T19:55:10.000Z",
-          "summary": "De Britse acteur Sir Patrick Stewart (86) is overleden. Dat meldt zijn publicist. Hoewel hij oorspronkelijk vooral een klassieke theateracteur was, is hij bij het grote…"
+          "title": "Proces tegen Radja Nainggolan en 15 andere verdachten vandaag van start",
+          "url": "https://vrtnws.be/p.qEN15B80K",
+          "time": "2026-10-30T07:17:06.000Z",
+          "summary": "Voor de Brusselse correctionele rechtbank gaat vandaag het proces van start rond een internationale drugshandel. In totaal staan 16 personen terecht, onder wie…"
         }
       ]
     }
