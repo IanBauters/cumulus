@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T23:57:47.146Z",
+  "generatedAt": "2026-10-31T05:20:09.054Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-30T23:57:47.146Z",
+      "fetchedAt": "2026-10-31T05:20:09.054Z",
       "error": null,
       "items": [
         {
@@ -44,9 +44,15 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-30T23:57:47.146Z",
+      "fetchedAt": "2026-10-31T05:20:09.054Z",
       "error": null,
       "items": [
+        {
+          "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
+          "url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
+          "time": "2026-10-31T01:03:35.000Z",
+          "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each…"
+        },
         {
           "title": "WhatsApp announces four new features to make group chats easier to manage",
           "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
@@ -70,12 +76,6 @@
           "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/",
           "time": "2026-10-30T20:44:08.000Z",
           "summary": "Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘…"
-        },
-        {
-          "title": "Security Bite: This iOS 27.2 camera bug still isn’t enough to make me buy a camera cover",
-          "url": "https://9to5mac.com/2026/10/30/security-bite-this-ios-27-2-camera-bug-still-isnt-enough-to-make-me-buy-a-camera-cover/",
-          "time": "2026-10-30T19:01:14.000Z",
-          "summary": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-30T23:57:47.146Z",
+      "fetchedAt": "2026-10-31T05:20:09.054Z",
       "error": null,
       "items": [
         {
@@ -122,7 +122,7 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-30T23:57:47.146Z",
+      "fetchedAt": "2026-10-31T05:20:09.054Z",
       "error": null,
       "items": [
         {
