@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-10-31T11:04:48.226Z",
+  "generatedAt": "2026-10-31T16:14:21.006Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-31T11:04:48.226Z",
+      "fetchedAt": "2026-10-31T16:14:21.006Z",
       "error": null,
       "items": [
+        {
+          "title": "Here's a New Tour of Apple's HomeView Software",
+          "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
+          "time": "2026-10-31T15:47:40.000Z",
+          "summary": "Broadcasts app developer Steve Troughton-Smith has shared a Halloween treat for us today: a tour of the software on Apple's upcoming HomeView smart home hub. Apple has…"
+        },
+        {
+          "title": "Apple Reveals New iPad Mini's Battery Capacity",
+          "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+          "time": "2026-10-31T14:24:08.000Z",
+          "summary": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh…"
+        },
+        {
+          "title": "Top Stories: Apple's Big MacBook Pro, iPad mini and iMac Updates",
+          "url": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
+          "time": "2026-10-31T13:00:12.000Z",
+          "summary": "One busy week after another for Apple has left our heads spinning, with this week seeing several Mac updates as well as a revamped iPad mini. All of this week's…"
+        },
         {
           "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
           "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
@@ -19,24 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
           "time": "2026-10-31T05:55:35.000Z",
           "summary": "China is doing much of the heavy lifting for Apple's iPhone 18 Pro launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to…"
-        },
-        {
-          "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
-          "url": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
-          "time": "2026-10-30T23:15:55.000Z",
-          "summary": "Apple today released HomeView Software 27.2, which is the software that runs on the upcoming HomeView device set to launch on November 13. The HomeView was announced…"
-        },
-        {
-          "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
-          "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
-          "time": "2026-10-30T22:20:10.000Z",
-          "summary": "In a memo shared with Apple Stores and Apple Authorized Service Providers this week, and later obtained by MacRumors , Apple provided technicians with guidance on how to…"
-        },
-        {
-          "title": "iOS 27.3 Will Enable These Apple Intelligence Features in China",
-          "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china/",
-          "time": "2026-10-30T21:46:00.000Z",
-          "summary": "Apple's website in China says iOS 27.3 will enable some Apple Intelligence features in China, such as Writing Tools, Genmoji, Clean Up, Notification Summaries, Priority…"
         }
       ]
     },
@@ -44,9 +44,27 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-31T11:04:48.226Z",
+      "fetchedAt": "2026-10-31T16:14:21.006Z",
       "error": null,
       "items": [
+        {
+          "title": "MacBook Pro with PROLED XDR looks awesome, but I’m not rushing to upgrade",
+          "url": "https://9to5mac.com/2026/10/31/heres-why-im-not-rushing-to-buy-macbook-pro-oled/",
+          "time": "2026-10-31T15:42:26.000Z",
+          "summary": "After five years, Apple released its first major MacBook Pro overhaul since the M1 Pro/M1 Max models, and well… it was a little bit underwhelming from a design…"
+        },
+        {
+          "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
+          "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/",
+          "time": "2026-10-31T15:42:14.000Z",
+          "summary": "You’re not a real space or aviation nerd unless you’ve taken to a map service and zoomed on the historic NASA launch pads or your local Air Force Bases, just for fun,…"
+        },
+        {
+          "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
+          "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
+          "time": "2026-10-31T15:19:00.000Z",
+          "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade…"
+        },
         {
           "title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
           "url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
@@ -58,24 +76,6 @@
           "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
           "time": "2026-10-30T23:36:34.000Z",
           "summary": "In a blog post this week, WhatsApp confirmed that it is rolling out four new features designed to make it easier to manage group chats and keep track of what’s going on…"
-        },
-        {
-          "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
-          "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
-          "time": "2026-10-30T22:37:36.000Z",
-          "summary": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple…"
-        },
-        {
-          "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-          "url": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-          "time": "2026-10-30T21:44:44.000Z",
-          "summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October…"
-        },
-        {
-          "title": "‘Knives Out’ director launches iPhone camera app that shoots like his movies",
-          "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/",
-          "time": "2026-10-30T20:44:08.000Z",
-          "summary": "Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘…"
         }
       ]
     },
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-31T11:04:48.226Z",
+      "fetchedAt": "2026-10-31T16:14:21.006Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-31T11:04:48.226Z",
+      "fetchedAt": "2026-10-31T16:14:21.006Z",
       "error": null,
       "items": [
         {
-          "title": "Makers 'Call of Duty' halen nieuwsbeelden halloweendrama Seoel uit nieuwe videogame",
-          "url": "https://vrtnws.be/p.5wa1m3G7R",
-          "time": "2026-10-31T10:49:30.000Z",
-          "summary": "De makers van het videospel 'Call of Duty' gaan de beelden over het dodelijke halloweenfeest in Seoel uit het spel verwijderen. Nabestaanden van slachtoffers hadden heel…"
+          "title": "Amerikaanse ambassade waarschuwt voor aanslag in Moskou: \"Geloofwaardige dreiging van incident met veel slachtoffers\"",
+          "url": "https://vrtnws.be/p.JN4kvEX07",
+          "time": "2026-10-31T16:09:34.000Z",
+          "summary": "De Amerikaanse ambassade in Moskou waarschuwt voor een aanslag op een museum in de Russische hoofdstad. De ambassade zegt dat ze informatie heeft ontvangen over een…"
         },
         {
-          "title": "Bijna 300 buurtbewoners en landbouwers dienen bezwaar in tegen vernatting De Vennen in Balen: \"Schrik voor wateroverlast\"",
-          "url": "https://vrtnws.be/p.M9mJDAVwO",
-          "time": "2026-10-31T10:45:52.000Z",
-          "summary": "Bijna 300 mensen uit Balen en omgeving hebben een bezwaarschrift ondertekend tegen het nieuwe natuurbeheerplan voor De Vennen. Het plan van Natuurpunt wil de vallei van…"
+          "title": "Herdenkingsbank voor Katja (31) beschadigd bij werken langs Schelde in Hemiksem: \"Het voelt als grafschennis\"",
+          "url": "https://vrtnws.be/p.QAba9Dymx",
+          "time": "2026-10-31T16:08:23.000Z",
+          "summary": "Langs de Schelde tussen Hemiksem en Schelle is een herdenkingsbank ter nagedachtenis aan Katja Nuyts beschadigd tijdens werken in opdracht van de Vlaamse Waterweg. Katja…"
         },
         {
-          "title": "Johan uit Kruishoutem eert overleden dochter met gedichten op graf",
-          "url": "https://vrtnws.be/p.XEV98lO6M",
-          "time": "2026-10-31T10:41:28.000Z",
-          "summary": "Op het graf van Linde Vanderhaegen in Kruishoutem ligt sinds kort een metalen box met daarin 20 gedichten. Linde stierf bijna 20 jaar geleden aan de gevolgen van een…"
+          "title": "\"Wraak van een ex? Gewoon een grap voor Halloween\": BMW beklad met 'cheater' en 'bitch' steelt alle aandacht in Wielsbeke",
+          "url": "https://vrtnws.be/p.M9mJ58kKa",
+          "time": "2026-10-31T16:01:34.000Z",
+          "summary": "Wie in West-Vlaanderen de baan op gaat dit weekend, heeft hem misschien al zien passeren: een BMW beklad met 'bitch' en 'cheater'. Het lijkt het werk van een ex na een…"
         },
         {
-          "title": "Na vernielingen op kerkhof houdt politie tijdens Allerheiligenweekend extra toezicht op Oostendse begraafplaatsen: \"Ook bezoekers sensibiliseren\"",
-          "url": "https://vrtnws.be/p.0YpvL7eLx",
-          "time": "2026-10-31T10:39:55.000Z",
-          "summary": "De stad en de politie van Oostende vragen extra aandacht voor respect en veiligheid op de begraafplaatsen tijdens Allerheiligen en Allerzielen. De politie houdt er dit…"
+          "title": "Eric Goens over overlijden van zijn moeder bij busongeval in Peru: \"Ik zag de livebeelden zonder te weten dat zij erbij zat\"",
+          "url": "https://vrtnws.be/p.8epnv8qyY",
+          "time": "2026-10-31T15:21:26.000Z",
+          "summary": "\"Ik was livebeelden van het ongeval aan het bekijken, maar wist toen niet dat mijn moeder erbij zat.\" In de aanloop naar Allerzielen blikt tv-maker Eric Goens terug op…"
         },
         {
-          "title": "G20-leden willen niet poseren met Russisch minister Lavrov, dus geen 'familiefoto'",
-          "url": "https://vrtnws.be/p.bDo8akGRD",
-          "time": "2026-10-31T10:10:00.000Z",
-          "summary": "De traditionele 'familiefoto' bij het begin van de G20-vergadering in de Verenigde Staten is op het laatste moment geschrapt. Een aantal landen weigerde om naast de…"
+          "title": "Leegstaand stadsgebouw in Kortrijk zwaar beschadigd door nachtelijke brand",
+          "url": "https://vrtnws.be/p.93pLN1wbv",
+          "time": "2026-10-31T14:55:43.000Z",
+          "summary": "Een leegstaand gebouw in Kortrijk is vrijdagnacht zwaar beschadigd geraakt door een brand. Het gebouw is eigendom van de stad. Er vielen geen gewonden. Een…"
         }
       ]
     }
