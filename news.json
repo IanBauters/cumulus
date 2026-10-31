@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-10-31T05:20:09.054Z",
+  "generatedAt": "2026-10-31T11:04:48.226Z",
   "sources": [
     {
       "name": "MacRumors",
       "site": "https://www.macrumors.com/",
       "feed": "https://feeds.macrumors.com/MacRumors-All",
-      "fetchedAt": "2026-10-31T05:20:09.054Z",
+      "fetchedAt": "2026-10-31T11:04:48.226Z",
       "error": null,
       "items": [
+        {
+          "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
+          "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
+          "time": "2026-10-31T06:41:45.000Z",
+          "summary": "Filming for the second season of Apple TV 's \"Pluribus\" is expected to start today in Albuquerque, New Mexico, according to a report from Production List . The acclaimed…"
+        },
+        {
+          "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
+          "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+          "time": "2026-10-31T05:55:35.000Z",
+          "summary": "China is doing much of the heavy lifting for Apple's iPhone 18 Pro launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to…"
+        },
         {
           "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
           "url": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
@@ -25,18 +37,6 @@
           "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china/",
           "time": "2026-10-30T21:46:00.000Z",
           "summary": "Apple's website in China says iOS 27.3 will enable some Apple Intelligence features in China, such as Writing Tools, Genmoji, Clean Up, Notification Summaries, Priority…"
-        },
-        {
-          "title": "Apple Says iOS 27.3 Beta Coming Next Week",
-          "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
-          "time": "2026-10-30T21:45:09.000Z",
-          "summary": "Apple today announced that the first iOS 27.3 developer beta will be released next week and enable some Apple Intelligence features in China . In a press release shared…"
-        },
-        {
-          "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
-          "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
-          "time": "2026-10-30T21:18:56.000Z",
-          "summary": "The Wall Street Journal 's Rolfe Winkler this week reported that flash storage suppliers once \"bullied\" by Apple have been \"getting their revenge\" on the company over…"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "name": "9 to 5 Mac",
       "site": "https://9to5mac.com/",
       "feed": "https://9to5mac.com/feed/",
-      "fetchedAt": "2026-10-31T05:20:09.054Z",
+      "fetchedAt": "2026-10-31T11:04:48.226Z",
       "error": null,
       "items": [
         {
@@ -83,7 +83,7 @@
       "name": "MacStories",
       "site": "https://www.macstories.net/",
       "feed": "https://www.macstories.net/feed/",
-      "fetchedAt": "2026-10-31T05:20:09.054Z",
+      "fetchedAt": "2026-10-31T11:04:48.226Z",
       "error": null,
       "items": [
         {
@@ -122,38 +122,38 @@
       "name": "VRT NWS",
       "site": "https://www.vrt.be/vrtnws/nl/",
       "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml",
-      "fetchedAt": "2026-10-31T05:20:09.054Z",
+      "fetchedAt": "2026-10-31T11:04:48.226Z",
       "error": null,
       "items": [
         {
-          "title": "Constitutionele crisis in Polen: voorzitter Grondwettelijk Hof geschorst, politie massaal aanwezig in Warschau",
-          "url": "https://vrtnws.be/p.APQoBmoEw",
-          "time": "2026-10-30T20:46:39.000Z",
-          "summary": "De politieke crisis in Polen rond het Grondwettelijk Hof blijft verder escaleren. President Karol Nawrocki heeft vrijdag zijn officiële reis naar Senegal onderbroken en…"
+          "title": "Makers 'Call of Duty' halen nieuwsbeelden halloweendrama Seoel uit nieuwe videogame",
+          "url": "https://vrtnws.be/p.5wa1m3G7R",
+          "time": "2026-10-31T10:49:30.000Z",
+          "summary": "De makers van het videospel 'Call of Duty' gaan de beelden over het dodelijke halloweenfeest in Seoel uit het spel verwijderen. Nabestaanden van slachtoffers hadden heel…"
         },
         {
-          "title": "Europese Unie en Canada lanceren \"alliantie voor de toekomst\"",
-          "url": "https://vrtnws.be/p.6KpMwPWG4",
-          "time": "2026-10-30T19:41:06.000Z",
-          "summary": "De Europese Unie en Canada willen hun samenwerking op het vlak van handel, technologie, grondstoffen en defensie fors versterken. Tijdens een tweedaagse top in het…"
+          "title": "Bijna 300 buurtbewoners en landbouwers dienen bezwaar in tegen vernatting De Vennen in Balen: \"Schrik voor wateroverlast\"",
+          "url": "https://vrtnws.be/p.M9mJDAVwO",
+          "time": "2026-10-31T10:45:52.000Z",
+          "summary": "Bijna 300 mensen uit Balen en omgeving hebben een bezwaarschrift ondertekend tegen het nieuwe natuurbeheerplan voor De Vennen. Het plan van Natuurpunt wil de vallei van…"
         },
         {
-          "title": "Franse politie vindt 11 van 13 gestolen apen terug, verschillende verdachten opgepakt",
-          "url": "https://vrtnws.be/p.8epnaVLkY",
-          "time": "2026-10-30T18:58:34.000Z",
-          "summary": "11 apen van de 13 die zijn gestolen uit een Frans dierenpark zijn teruggevonden. De ordediensten hebben verschillende mensen opgepakt. Dat meldt een bron bij het…"
+          "title": "Johan uit Kruishoutem eert overleden dochter met gedichten op graf",
+          "url": "https://vrtnws.be/p.XEV98lO6M",
+          "time": "2026-10-31T10:41:28.000Z",
+          "summary": "Op het graf van Linde Vanderhaegen in Kruishoutem ligt sinds kort een metalen box met daarin 20 gedichten. Linde stierf bijna 20 jaar geleden aan de gevolgen van een…"
         },
         {
-          "title": "Grootste Europese archief voor vertrouwelijke overheidsdocumenten ligt in Genk: \"800 kilometer aan documenten\"",
-          "url": "https://vrtnws.be/p.5wa1dGK9w",
-          "time": "2026-10-30T18:55:07.000Z",
-          "summary": "Met een investering van 15 miljoen euro verdubbelt het bedrijf Youston haar archiefcapaciteit. Met ruim 800 lopende kilometer is het het grootste archief voor…"
+          "title": "Na vernielingen op kerkhof houdt politie tijdens Allerheiligenweekend extra toezicht op Oostendse begraafplaatsen: \"Ook bezoekers sensibiliseren\"",
+          "url": "https://vrtnws.be/p.0YpvL7eLx",
+          "time": "2026-10-31T10:39:55.000Z",
+          "summary": "De stad en de politie van Oostende vragen extra aandacht voor respect en veiligheid op de begraafplaatsen tijdens Allerheiligen en Allerzielen. De politie houdt er dit…"
         },
         {
-          "title": "Frankrijk waarschuwt voor defecte condooms op Europese markt",
-          "url": "https://vrtnws.be/p.11pAOM9Na",
-          "time": "2026-10-30T17:57:13.000Z",
-          "summary": "De Franse autoriteiten hebben de invoer en verkoop van ultradunne condooms van het Maleisische bedrijf Richter Rubber Technology opgeschort. Er worden in totaal ook 7…"
+          "title": "G20-leden willen niet poseren met Russisch minister Lavrov, dus geen 'familiefoto'",
+          "url": "https://vrtnws.be/p.bDo8akGRD",
+          "time": "2026-10-31T10:10:00.000Z",
+          "summary": "De traditionele 'familiefoto' bij het begin van de G20-vergadering in de Verenigde Staten is op het laatste moment geschrapt. Een aantal landen weigerde om naast de…"
         }
       ]
     }
